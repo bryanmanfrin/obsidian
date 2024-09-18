@@ -1,0 +1,56 @@
+
+Professeure: C. Stassart
+# Ressources
+![[WhatsApp Image 2024-09-16 at 16.02.29.jpeg]]
+# Plan du cours
+
+## [[Développement prénatal et naissance]]
+## [[Développement physique et moteur]]
+
+## [[Développement cognitif]]
+## [[Développement émotionnel]]
+## [[Développement social psycho-sexuel]]
+
+
+
+# Définition
+> L'étude scientifique des caractéristiques changeantes et immuables au cours de la vie.
+
+
+
+Observation d'évolutions positives ou négatives d'attributs tels que la:
+- propreté
+- régulation émotionnelle
+- l'attachement
+- ...
+
+### [[Domaines du développement]]
+Le développement d'un enfant peut se faire dans de nombreux domaines.
+
+
+**Exemple d'interactions:**
+Chez un adolescent, l'image qu'il se fait de son corps (cognitif) déteint sur son alimentation et son activité physique (biosocial), qui influence sa santé (biosocial) et ses relations amicales et amoureuses (psychosocial).
+
+### [[Influences sur le développement]]
+Le développement de l'enfant dépend de nombreux facteurs
+
+
+
+
+## Méthodes d'études
+### Observation
+A l'aide de grille d'observations, exemple, évaluer la propreté d'un enfant selon des critères.
+### Méthode clinique
+Entretiens individuels à travers des tests. Situer la personne dans une grande population avec l'étalonnage (score supérieur ou inférieur à la moyenne?). Tests psychométriques pour quantifier les critères d'évaluation.
+
+
+
+
+
+
+
+
+
+
+
+
