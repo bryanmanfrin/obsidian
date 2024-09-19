@@ -6,34 +6,84 @@
       {
         "id": "fb4b47adca702a23",
         "type": "tabs",
-        "dimension": 54.446308724832214,
+        "dimension": 55.3656220322887,
         "children": [
           {
-            "id": "8140a07efe1f113d",
+            "id": "09c9d67014491cc0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b6b93dc66935ade2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc18fbd65ef3961f",
+            "id": "fa73215799a4ff57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Définition de la sociologie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb0c33f0fd12a306",
+            "id": "3aa5160648a76916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db43fee1ddfaf63b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4db70ce8db68112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Définition de la sociologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d75fb502a20e349d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,47 +95,37 @@
             }
           },
           {
-            "id": "206ead53a48a0e9b",
+            "id": "bcda1556ffdb42eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approche biologique.md",
+                "file": "Définition de la sociologie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
-        "id": "093b9b11854444c6",
+        "id": "ad4d820e937ba426",
         "type": "tabs",
-        "dimension": 45.553691275167786,
+        "dimension": 44.6343779677113,
         "children": [
           {
-            "id": "b92b5b0e6f4a010f",
+            "id": "e516ab9f18ed6370",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Influences conjuguées de la nature et du contexte social.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
-          },
-          {
-            "id": "cd40ad2b6bf93096",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +191,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +207,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +228,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Introduction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,7 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,44 +254,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "fc18fbd65ef3961f",
+  "active": "e516ab9f18ed6370",
   "lastOpenFiles": [
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "Psycho/Psychologie de l'enfant/Matière d'examen.md",
+    "Psycho/Campus/Ressources ULG.md",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Psycho/Psychostatistiques/Lexique.md",
+    "Définition de la sociologie.md",
+    "Psycho/Elements de sociologie/Eléments de sociologie.md",
+    "Home.md",
+    "Pasted image 20240919142245.png",
     "Définition.md",
-    "Introduction.md",
-    "Approche biologique.md",
+    "Pasted image 20240919142111.png",
+    "Pasted image 20240919142046.png",
+    "Pasted image 20240919141957.png",
+    "Pasted image 20240919141054.png",
+    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
+    "Influence de la nature.md",
+    "Pasted image 20240919132201.png",
+    "Pasted image 20240919131940.png",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "Psycho/Elements de sociologie",
+    "Pasted image 20240919093353.png",
+    "Psycho/Psychostatistiques/Loi de 2016 sur la psychologie clinique.md",
+    "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes/Définition de la psychologie.md",
+    "Psycho/Psychostatistiques/Untitled.canvas",
+    "Examen aout 2022 G357.pdf",
+    "Méthode scientifique.md",
+    "Psycho/Psychostatistiques",
+    "Méthodes de recherches.md",
+    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
     "Psycho/Psychologie des émotions/Psychologie des émotions.md",
+    "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes/DEPI.md",
+    "Influences conjuguées de la nature et du contexte social.md",
+    "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes",
+    "Assets/PSYC5866 01-Introduction (1).pdf",
+    "Psycho/Fondements théoriques des sciences psychologiques",
+    "Introduction.md",
+    "github.pub",
+    "github",
+    "Approche biologique.md",
     "Assets/Biologie_générale-1.pdf",
     "Manipulation de l'oeuf et recombinaisons génétiques.md",
-    "Influences conjuguées de la nature et du contexte social.md",
     "Psycho/Eléments Biologie",
     "create a link.md",
     "Domaines du développement.md",
     "2024-09-17.md",
     "Untitled.canvas",
-    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
-    "Psycho/Psychologie de l'enfant/Matière d'examen.md",
     "Historique.md",
-    "Influences sur le développement.md",
-    "Psycho/Psychologie des émotions",
-    "Influence de la nature.md",
-    "Evènements non-normatifs.md",
-    "Multicontextualité.md",
-    "Multidirectionnalité.md",
-    "Assets",
-    "Welcome.md",
-    "Développement cognitif.md",
-    "Assets/WhatsApp Image 2024-09-16 at 16.02.29.jpeg",
-    "Développement social psycho-sexuel.md",
-    "Psycho/Campus/Ressources ULG.md",
-    "Psycho/Psychologie de l'enfant/Untitled",
-    "Psycho/Psychologie de l'enfant",
-    "Psycho/Campus",
-    "Psycho",
-    "Link test.md",
-    "Three laws of motion.md"
+    "Assets/WhatsApp Image 2024-09-16 at 16.02.29.jpeg"
   ]
 }

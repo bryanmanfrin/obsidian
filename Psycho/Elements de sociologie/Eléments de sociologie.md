@@ -1,0 +1,27 @@
+
+
+## Ressources:
+Hervé Maréchal - Initiations à la sociologie (15€) - **Seconde édition**
+	"Questions pour apprendre à devenir sociologue"
+![[Pasted image 20240919132201.png|200]]
+
+## Méthodologie du cours
+- Travailler un chapitre du livre par cours en utilisant les indications données (feux verts, oranges, rouges).
+-
+
+## Plan du cours
+[[Définition de la sociologie]]
+[[Famille]]
+[[Démographie]]
+[[Génération]]
+[[Mobilité sociale]]
+[[Culture]]
+[[Genre]]
+[[Identité]]
+[[Courants théoriques de sociologie]]
+
+
+
+
+
+
