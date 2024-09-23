@@ -35,6 +35,10 @@ Chez un adolescent, l'image qu'il se fait de son corps (cognitif) déteint sur s
 Le développement de l'enfant dépend de nombreux facteurs
 
 
+### [[Théories du développement]] (23/09/2024)
+1) Avant dernière réponse
+2) Inné (dernière réponse)
+3) Faché ok mais gère ta colère autrement
 
 
 ## Méthodes d'études

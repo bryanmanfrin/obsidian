@@ -1,5 +1,6 @@
 {
   "userIgnoreFilters": [
     "Home"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

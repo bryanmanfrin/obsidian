@@ -6,89 +6,14 @@
       {
         "id": "fb4b47adca702a23",
         "type": "tabs",
-        "dimension": 55.3656220322887,
         "children": [
           {
-            "id": "09c9d67014491cc0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b6b93dc66935ade2",
+            "id": "3cd3f378fcca3f11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa73215799a4ff57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Définition de la sociologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aa5160648a76916",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db43fee1ddfaf63b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4db70ce8db68112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Définition de la sociologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d75fb502a20e349d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Définition.md",
+                "file": "Développement prénatal et naissance.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,32 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Définition de la sociologie.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "ad4d820e937ba426",
-        "type": "tabs",
-        "dimension": 44.6343779677113,
-        "children": [
-          {
-            "id": "e516ab9f18ed6370",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -191,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -244,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 577.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,26 +169,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e516ab9f18ed6370",
+  "active": "bcda1556ffdb42eb",
   "lastOpenFiles": [
+    "Développement prénatal et naissance.md",
+    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
+    "3_0_Prenatal_naissance_2024_2025.pdf",
+    "Home.md",
+    "Théories du développement.md",
+    "L'approche des systèmes dynamiques.md",
+    "Approche épigénétique.md",
+    "2_Les grands_auteurs_2024_2025.pdf",
+    "épigénétique.md",
+    "Théorie cognitive.md",
+    "Humaniste.md",
+    "L'orientation psychodynamique.md",
+    "Théorie maturationniste.md",
+    "Comportementalisme.md",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "2a_ConstitChimVivant.pdf",
+    "Définition de la sociologie.md",
     "Psycho/Psychologie de l'enfant/Matière d'examen.md",
     "Psycho/Campus/Ressources ULG.md",
     "Psycho/Psychostatistiques/Psychostatistiques.md",
     "Psycho/Psychostatistiques/Lexique.md",
-    "Définition de la sociologie.md",
     "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "Home.md",
     "Pasted image 20240919142245.png",
     "Définition.md",
     "Pasted image 20240919142111.png",
     "Pasted image 20240919142046.png",
     "Pasted image 20240919141957.png",
     "Pasted image 20240919141054.png",
-    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
     "Influence de la nature.md",
     "Pasted image 20240919132201.png",
     "Pasted image 20240919131940.png",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
     "Psycho/Elements de sociologie",
     "Pasted image 20240919093353.png",
     "Psycho/Psychostatistiques/Loi de 2016 sur la psychologie clinique.md",
@@ -287,25 +211,11 @@
     "Méthode scientifique.md",
     "Psycho/Psychostatistiques",
     "Méthodes de recherches.md",
-    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
-    "Psycho/Psychologie des émotions/Psychologie des émotions.md",
-    "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes/DEPI.md",
-    "Influences conjuguées de la nature et du contexte social.md",
     "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes",
     "Assets/PSYC5866 01-Introduction (1).pdf",
     "Psycho/Fondements théoriques des sciences psychologiques",
-    "Introduction.md",
     "github.pub",
-    "github",
-    "Approche biologique.md",
-    "Assets/Biologie_générale-1.pdf",
-    "Manipulation de l'oeuf et recombinaisons génétiques.md",
-    "Psycho/Eléments Biologie",
-    "create a link.md",
-    "Domaines du développement.md",
-    "2024-09-17.md",
     "Untitled.canvas",
-    "Historique.md",
     "Assets/WhatsApp Image 2024-09-16 at 16.02.29.jpeg"
   ]
 }
