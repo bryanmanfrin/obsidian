@@ -1,0 +1,1 @@
+Impliquée dans les réactions de peur.

@@ -1,5 +1,11 @@
 [
   "obsidian-git",
   "homepage",
-  "heycalmdown-navigate-cursor-history"
+  "heycalmdown-navigate-cursor-history",
+  "no-dupe-leaves",
+  "calendar",
+  "obsidian-functionplot",
+  "obsidian-plotly",
+  "obsidian-tasks-plugin",
+  "obsidian-excalidraw-plugin"
 ]

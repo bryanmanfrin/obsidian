@@ -2,7 +2,7 @@
 
 # Ressources
 
-![[PSYC5866 01-Introduction (1).pdf#height=500]]
+![[PSYC5866 01-Introduction (1).pdf]]
 
 
 # Plan du cours

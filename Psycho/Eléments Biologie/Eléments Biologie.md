@@ -17,7 +17,7 @@
 [[Déstabilisation des cellules et cancérisation]]
 [[Immunologie]]
 [[Les régulations hormonale]]
-[[Manipulation de l'oeuf et recombinaisons génétiques]]
+[[Manipulation de l'œuf et recombinaisons génétiques]]
 
 
 # Planning du cours

@@ -9,3 +9,20 @@ Décrire, observer, comprendre, rendre compte et expliquer ce qui, dans les comp
 	- L'amour est-il une institution?
 - Sociétés politiquement organisées (Belgique, UE, Wallonie)
 - La société-monde ou monde globalisé
+
+
+![[socio_intro.pdf]]
+
+## Tuyaux
+
+>L'environnement influence le comportement des individus et le comportement des individus influence l'environnement.
+
+>L'objectif des sociologues est de créer des lois expliquant le comportement des Hommes, tel qu'on décrirait des phénomènes naturels.
+
+> On ne croit plus trop au principe de lois universelles mais plutôt que la sociologie relève d'une conjoncture historique donnée.
+
+Le comparatisme est une sorte de laboratoire qu'on peut utiliser pour mettre en évidence le poids de certains facteurs.
+
+
+
+

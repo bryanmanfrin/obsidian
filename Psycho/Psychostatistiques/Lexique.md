@@ -7,13 +7,7 @@
 **Statistiques inférentielles**
 	Evaluer la probabilité que des données tirées sur quelques personnes au hasard représente une population.
 
-
-
-
-
-
-
-
-
-
-
+```dataview 
+table file.tags from #tag1 or #tag2 or #tag3
+```
+``

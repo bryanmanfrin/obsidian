@@ -20,3 +20,7 @@ Cours à 6 crédits = 6x 30 = 180h de travail (=~22,5 jours complets de 8h)
 
 # Législation
 [[Loi de 2016 sur la psychologie clinique]]
+
+
+# Plan du cours
+## [[Chapitre 1 - Variables et niveaux de mesures]]

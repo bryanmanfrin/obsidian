@@ -10,17 +10,17 @@ Il observait le comportement émotionnel de ses 10 enfants.
 Il sort un ouvrage avec photos et illustrations pour prouver sa théorie. Darwin s'en inspira.
 
 # Théorie évolutionniste
-> L'expression de l'émotion a évolué pour permettre aux espèces de s'adapter à son environement.
+> L'expression de l'émotion a évolué pour permettre aux espèces de s'adapter à son environnement.
 
 ### Evolution phylogénétique
-### Evolution onthogénétique
+### Evolution ontogénétique
 > Evolution de l'enfance jusqu'au vieillissement.
 > Les expressions émotionnelles d'un adulte proviennent des émotions que l'on avait à la naissance.
 
 Une expression est d'abord innée puis est modulée par l'environnement.
 
 
-# Charles Darwin
+# [[Charles Darwin]]
 ## Méthode de Darwin
 - Prise de photos d'enfants, d'adultes, de personnes avec des problèmes psychologiques pour visualiser les expressions et la façon dont les émotions sont exprimées.
 

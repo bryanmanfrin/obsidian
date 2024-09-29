@@ -4,35 +4,157 @@
     "type": "split",
     "children": [
       {
-        "id": "fb4b47adca702a23",
+        "id": "ba011e0790002b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "3cd3f378fcca3f11",
+            "id": "cf04f8c55b39bab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Développement prénatal et naissance.md",
+                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bcda1556ffdb42eb",
+            "id": "af1c4dfe18312e2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "71fbe93733f41aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "754abaffef5fdb54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10986d7761ab8d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "113b13f1fbdb04af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8cec27d59485c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d020ab92b27bba72",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7daeac04066a1ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lexique - Constitution chimique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c31c197254d3a40",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/element.png"
+              }
+            }
+          },
+          {
+            "id": "53a2115e15b82811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arbre décisionnel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc427049f2a0f97a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Références Latex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a49ce02b240113ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -61,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "constitu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 223.5
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -98,7 +220,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +236,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +257,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,13 +267,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "73a7e30836c00c59",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 577.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,56 +292,60 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bcda1556ffdb42eb",
+  "active": "d020ab92b27bba72",
   "lastOpenFiles": [
-    "Développement prénatal et naissance.md",
-    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
-    "3_0_Prenatal_naissance_2024_2025.pdf",
-    "Home.md",
-    "Théories du développement.md",
-    "L'approche des systèmes dynamiques.md",
-    "Approche épigénétique.md",
-    "2_Les grands_auteurs_2024_2025.pdf",
-    "épigénétique.md",
-    "Théorie cognitive.md",
-    "Humaniste.md",
-    "L'orientation psychodynamique.md",
-    "Théorie maturationniste.md",
-    "Comportementalisme.md",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "2a_ConstitChimVivant.pdf",
-    "Définition de la sociologie.md",
-    "Psycho/Psychologie de l'enfant/Matière d'examen.md",
-    "Psycho/Campus/Ressources ULG.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Constitution chimique.md",
+    "Lexique - Constitution chimique.md",
     "Psycho/Psychostatistiques/Lexique.md",
-    "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "Pasted image 20240919142245.png",
-    "Définition.md",
-    "Pasted image 20240919142111.png",
-    "Pasted image 20240919142046.png",
-    "Pasted image 20240919141957.png",
-    "Pasted image 20240919141054.png",
-    "Influence de la nature.md",
-    "Pasted image 20240919132201.png",
-    "Pasted image 20240919131940.png",
-    "Psycho/Elements de sociologie",
-    "Pasted image 20240919093353.png",
-    "Psycho/Psychostatistiques/Loi de 2016 sur la psychologie clinique.md",
-    "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes/Définition de la psychologie.md",
-    "Psycho/Psychostatistiques/Untitled.canvas",
-    "Examen aout 2022 G357.pdf",
-    "Méthode scientifique.md",
-    "Psycho/Psychostatistiques",
-    "Méthodes de recherches.md",
-    "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes",
+    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+    "Lexique - Constitution chimique^.md",
+    "Assets/element.png",
     "Assets/PSYC5866 01-Introduction (1).pdf",
-    "Psycho/Fondements théoriques des sciences psychologiques",
-    "github.pub",
-    "Untitled.canvas",
-    "Assets/WhatsApp Image 2024-09-16 at 16.02.29.jpeg"
+    "Untitled Kanban.md",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "Excalidraw/Drawing 2024-09-27 18.09.01.excalidraw.md",
+    "Pasted Image 20240927181614_595.png",
+    "Assets/Excalidraw/Untitled.md",
+    "Excalidraw",
+    "Assets/Excalidraw",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Présentation du PISA.md",
+    "Chapitre 1 - Variables et niveaux de mesures.md",
+    "Psycho/Psychostatistiques/Loi de 2016 sur la psychologie clinique.md",
+    "Théorie cognitive.md",
+    "Références Latex.md",
+    "sciences_education_2.pdf",
+    "sciences_education_1.pdf",
+    "Famille.md",
+    "Psycho/Sciences de l'éducation",
+    "Psycho/Elements de sociologie/Eléments de sociologie.md",
+    "Assets/Pasted image 20240919093353.png",
+    "psychostat_1.pdf",
+    "Définition de la sociologie.md",
+    "Calendar/Tasks.md",
+    "socio_intro.pdf",
+    "socio_famille.pdf",
+    "Arbre décisionnel.md",
+    "Arbre decisionnel.png",
+    "Introduction.pptx",
+    "Home.md",
+    "Calendar/2024-09-29.md",
+    "Calendar/2024-10-03.md",
+    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
+    "Naissance de la psychologie.md",
+    "Assets/Pasted image 20240919142245.png",
+    "Assets/Pasted image 20240919142111.png",
+    "Assets/Pasted image 20240919142046.png",
+    "Assets/Pasted image 20240919141957.png",
+    "Assets/Pasted image 20240919141054.png",
+    "Assets/Pasted image 20240919132201.png",
+    "Psycho/Psychostatistiques/Untitled.canvas",
+    "Untitled.canvas"
   ]
 }

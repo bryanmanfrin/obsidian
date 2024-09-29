@@ -5,3 +5,8 @@
 ## [[Psychologie du développement de l'enfant]] ![[Pasted image 20240919142046.png|40]]
 
 ## [[Psychostatistiques]] ![[Pasted image 20240919142111.png|70]]
+
+## [[Introduction à la psychologie clinique]] 
+
+
+
