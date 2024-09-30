@@ -4,103 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ba011e0790002b9a",
+        "id": "fb4b47adca702a23",
         "type": "tabs",
         "children": [
           {
-            "id": "cf04f8c55b39bab1",
+            "id": "3cd3f378fcca3f11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "file": "Développement prénatal et naissance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af1c4dfe18312e2e",
+            "id": "bcda1556ffdb42eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71fbe93733f41aed",
+            "id": "6b0027150fbb8c3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "file": "Constitution chimique.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "754abaffef5fdb54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10986d7761ab8d92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "113b13f1fbdb04af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8cec27d59485c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d020ab92b27bba72",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7daeac04066a1ce3",
+            "id": "bc1479edd02c5ab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,49 +56,51 @@
             }
           },
           {
-            "id": "0c31c197254d3a40",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/element.png"
-              }
-            }
-          },
-          {
-            "id": "53a2115e15b82811",
+            "id": "586e2bb0c997bdb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arbre décisionnel.md",
+                "file": "Lexique - Constitution chimique.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc427049f2a0f97a",
+            "id": "69e42e7ab3e80a3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Références Latex.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Hexose.md"
               }
             }
           },
           {
-            "id": "a49ce02b240113ed",
+            "id": "8eec4e7f43b6825d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Hexose.md"
+              }
+            }
+          },
+          {
+            "id": "6e99d926ef57252e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lexique - Constitution chimique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "constitu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 274.50418853759766
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -220,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Constitution chimique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Constitution chimique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Constitution chimique.md"
+              }
             }
           },
           {
@@ -267,21 +217,13 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "73a7e30836c00c59",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,58 +235,56 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d020ab92b27bba72",
+  "active": "291ca3e021573c5f",
   "lastOpenFiles": [
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
     "Constitution chimique.md",
     "Lexique - Constitution chimique.md",
-    "Psycho/Psychostatistiques/Lexique.md",
-    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-    "Lexique - Constitution chimique^.md",
-    "Assets/element.png",
-    "Assets/PSYC5866 01-Introduction (1).pdf",
-    "Untitled Kanban.md",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "Excalidraw/Drawing 2024-09-27 18.09.01.excalidraw.md",
-    "Pasted Image 20240927181614_595.png",
-    "Assets/Excalidraw/Untitled.md",
-    "Excalidraw",
-    "Assets/Excalidraw",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "Présentation du PISA.md",
-    "Chapitre 1 - Variables et niveaux de mesures.md",
-    "Psycho/Psychostatistiques/Loi de 2016 sur la psychologie clinique.md",
-    "Théorie cognitive.md",
-    "Références Latex.md",
-    "sciences_education_2.pdf",
-    "sciences_education_1.pdf",
-    "Famille.md",
-    "Psycho/Sciences de l'éducation",
-    "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "Assets/Pasted image 20240919093353.png",
-    "psychostat_1.pdf",
-    "Définition de la sociologie.md",
-    "Calendar/Tasks.md",
+    "Pasted image 20240929200611.png",
+    "Pasted image 20240929194758.png",
+    "Pasted image 20240929194109.png",
+    "Pasted image 20240929193426.png",
+    "Pasted image 20240929193347.png",
+    "Pasted image 20240929192952.png",
+    "Pasted image 20240929192153.png",
+    "Pasted image 20240929191540.png",
+    "Excalidraw/Hexose.md",
+    "Pasted image 20240929183731.png",
+    "Pasted image 20240929174719.png",
     "socio_intro.pdf",
     "socio_famille.pdf",
-    "Arbre décisionnel.md",
-    "Arbre decisionnel.png",
-    "Introduction.pptx",
-    "Home.md",
-    "Calendar/2024-09-29.md",
-    "Calendar/2024-10-03.md",
-    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+    "sciences_education_2.pdf",
+    "sciences_education_1.pdf",
+    "psychostat_1.pdf",
+    "W.Hess.md",
+    "Untitled Kanban.md",
+    "Silvan Tomkins.md",
+    "Références Latex.md",
+    "Psychologie clinique.md",
+    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+    "Psycho/Sciences de l'éducation",
     "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
+    "Psycho/Psychologie clinique",
+    "Psycho/Eleves.md",
+    "Présentation du PISA.md",
+    "Platon.md",
+    "Phineas Gage.md",
     "Naissance de la psychologie.md",
-    "Assets/Pasted image 20240919142245.png",
-    "Assets/Pasted image 20240919142111.png",
-    "Assets/Pasted image 20240919142046.png",
-    "Assets/Pasted image 20240919141957.png",
-    "Assets/Pasted image 20240919141054.png",
-    "Assets/Pasted image 20240919132201.png",
+    "Magda Arnold.md",
+    "Lexique - Constitution chimique^.md",
+    "Les sensations corporelles.md",
+    "J.Harlow.md",
+    "Introduction.pptx",
+    "Famille.md",
+    "Excalidraw/Drawing 2024-09-27 18.09.01.excalidraw.md",
+    "Excalidraw",
+    "Descartes.md",
+    "Charles Darwin.md",
+    "Chapitre 1 - Variables et niveaux de mesures.md",
+    "Chap 1 Un coup d'oeil sur l'histoire 2024-25.pdf",
     "Psycho/Psychostatistiques/Untitled.canvas",
     "Untitled.canvas"
   ]
