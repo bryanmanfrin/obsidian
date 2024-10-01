@@ -6,7 +6,7 @@
       {
         "id": "ba011e0790002b9a",
         "type": "tabs",
-        "dimension": 65.33018867924528,
+        "dimension": 28.13852813852814,
         "children": [
           {
             "id": "af1c4dfe18312e2e",
@@ -278,17 +278,16 @@
       {
         "id": "cc3274dfbca2bae2",
         "type": "tabs",
-        "dimension": 34.66981132075472,
+        "dimension": 71.86147186147186,
         "children": [
           {
             "id": "8f72b2275f3bd236",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Lexique - Psychologie des émotions 📖.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -358,7 +357,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret professionnel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +373,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret professionnel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -397,9 +394,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Secret professionnel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -438,21 +433,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "291ca3e021573c5f",
+  "active": "8f72b2275f3bd236",
   "lastOpenFiles": [
+    "Lexique - Psychologie des émotions 📖.md",
+    "Secret professionnel.md",
     "Psychologie clinique.md",
     "Conflit de valeurs.md",
     "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
     "Home.md",
     "Références Latex.md",
-    "Secret professionnel.md",
     "Constitution chimique.md",
     "Lexique - Constitution chimique.md",
     "Wilhelm Wundt.md",
     "Sigmund Freud.md",
     "Introduction à la psychologie clinique - 1.pdf",
     "Psychologie des émotions - Chapitre 2.md",
-    "Lexique - Psychologie des émotions 📖.md",
     "Psycho/Psychologie des émotions/Psychologie des émotions.md",
     "Historique.md",
     "Psychologie des émotions - Chapitre 1.md",
