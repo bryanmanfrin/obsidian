@@ -4,10 +4,13 @@ Podcasts disponibles. Les PowerPoints seront disponibles sur ECampus **après** 
 
 ## Ressources
 
+A LIRE (en visuels)
+
 Livre: 
 - Psychologie clinique et psychopathologie en Visuels
 
 Certaines questions de l'examen pourront provenir des questions présentes dans les livres.
 
 [[Psychologie clinique]]
+
 

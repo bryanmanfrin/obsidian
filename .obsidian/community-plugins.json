@@ -2,7 +2,11 @@
   "obsidian-git",
   "homepage",
   "heycalmdown-navigate-cursor-history",
-  "obsidian-excalidraw-plugin",
+  "calendar",
+  "obsidian-functionplot",
+  "obsidian-plotly",
   "obsidian-tasks-plugin",
+  "obsidian-excalidraw-plugin",
+  "dataview",
   "no-dupe-leaves"
 ]

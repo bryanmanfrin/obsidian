@@ -4,23 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "fb4b47adca702a23",
+        "id": "ba011e0790002b9a",
         "type": "tabs",
+        "dimension": 65.33018867924528,
         "children": [
           {
-            "id": "3cd3f378fcca3f11",
+            "id": "af1c4dfe18312e2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Développement prénatal et naissance.md",
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bcda1556ffdb42eb",
+            "id": "754abaffef5fdb54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "113b13f1fbdb04af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de655bb1f02eaf5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement physique et moteur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0a78a16da86c92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement physique et moteur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a49ce02b240113ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +81,127 @@
             }
           },
           {
-            "id": "6b0027150fbb8c3a",
+            "id": "71a80c0c5c84b0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfc093c5e6b55217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie clinique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e96cd2b67483430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie clinique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "237923cb52f06433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secret professionnel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbd69248f1cd1acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychologie des émotions/Psychologie des émotions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c378685a0c8306e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie des émotions - Chapitre 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "864f8bc9727ea314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9c0af6cca55896e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie clinique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e18e872b828e5abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie clinique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3439b945aa4939b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie clinique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e62fcb4547b720b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,63 +213,86 @@
             }
           },
           {
-            "id": "bc1479edd02c5ab3",
+            "id": "51596f085d158060",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexique - Constitution chimique.md",
+                "file": "Psychologie clinique.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "586e2bb0c997bdb5",
+            "id": "24f44d021f0f9a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexique - Constitution chimique.md",
+                "file": "Secret professionnel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69e42e7ab3e80a3f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Hexose.md"
-              }
-            }
-          },
-          {
-            "id": "8eec4e7f43b6825d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Hexose.md"
-              }
-            }
-          },
-          {
-            "id": "6e99d926ef57252e",
+            "id": "8a218ee6e7890b6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexique - Constitution chimique.md",
+                "file": "Psychologie des émotions - Chapitre 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eee79e3d89e7780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie des émotions - Chapitre 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a7ac707679c313e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Isen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
+      },
+      {
+        "id": "cc3274dfbca2bae2",
+        "type": "tabs",
+        "dimension": 34.66981132075472,
+        "children": [
+          {
+            "id": "8f72b2275f3bd236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lexique - Psychologie des émotions 📖.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +321,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "$",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +342,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.50418853759766
+    "width": 200
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -166,7 +358,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Constitution chimique.md",
+                "file": "Secret professionnel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +375,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Constitution chimique.md",
+                "file": "Secret professionnel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +398,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Constitution chimique.md"
+                "file": "Secret professionnel.md"
               }
             }
           },
@@ -217,13 +409,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "73a7e30836c00c59",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,9 +440,36 @@
   },
   "active": "291ca3e021573c5f",
   "lastOpenFiles": [
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "Psychologie clinique.md",
+    "Conflit de valeurs.md",
+    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
+    "Home.md",
+    "Références Latex.md",
+    "Secret professionnel.md",
     "Constitution chimique.md",
     "Lexique - Constitution chimique.md",
+    "Wilhelm Wundt.md",
+    "Sigmund Freud.md",
+    "Introduction à la psychologie clinique - 1.pdf",
+    "Psychologie des émotions - Chapitre 2.md",
+    "Lexique - Psychologie des émotions 📖.md",
+    "Psycho/Psychologie des émotions/Psychologie des émotions.md",
+    "Historique.md",
+    "Psychologie des émotions - Chapitre 1.md",
+    "psycho_emotions_2.pdf",
+    "Bower.md",
+    "Aristote.md",
+    "Descartes.md",
+    "Platon.md",
+    "La psychologie positive.md",
+    "Isen.md",
+    "La méthode Velten.md",
+    "Phineas Gage.md",
+    "Développement physique et moteur.md",
+    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
+    "Assets/element.png",
+    "Arbre décisionnel.md",
+    "3_1_Dev physique et moteur_2024_2025.pdf",
     "Pasted image 20240929200611.png",
     "Pasted image 20240929194758.png",
     "Pasted image 20240929194109.png",
@@ -251,40 +478,14 @@
     "Pasted image 20240929192952.png",
     "Pasted image 20240929192153.png",
     "Pasted image 20240929191540.png",
-    "Excalidraw/Hexose.md",
     "Pasted image 20240929183731.png",
-    "Pasted image 20240929174719.png",
-    "socio_intro.pdf",
-    "socio_famille.pdf",
+    "Assets/PSYC5866 01-Introduction (1).pdf",
+    "Excalidraw",
+    "Assets/Excalidraw",
     "sciences_education_2.pdf",
     "sciences_education_1.pdf",
-    "psychostat_1.pdf",
-    "W.Hess.md",
-    "Untitled Kanban.md",
-    "Silvan Tomkins.md",
-    "Références Latex.md",
-    "Psychologie clinique.md",
-    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
     "Psycho/Sciences de l'éducation",
-    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
-    "Psycho/Psychologie clinique",
-    "Psycho/Eleves.md",
-    "Présentation du PISA.md",
-    "Platon.md",
-    "Phineas Gage.md",
-    "Naissance de la psychologie.md",
-    "Magda Arnold.md",
-    "Lexique - Constitution chimique^.md",
-    "Les sensations corporelles.md",
-    "J.Harlow.md",
-    "Introduction.pptx",
-    "Famille.md",
-    "Excalidraw/Drawing 2024-09-27 18.09.01.excalidraw.md",
-    "Excalidraw",
-    "Descartes.md",
-    "Charles Darwin.md",
-    "Chapitre 1 - Variables et niveaux de mesures.md",
-    "Chap 1 Un coup d'oeil sur l'histoire 2024-25.pdf",
+    "psychostat_1.pdf",
     "Psycho/Psychostatistiques/Untitled.canvas",
     "Untitled.canvas"
   ]

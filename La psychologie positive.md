@@ -1,0 +1,1 @@
+On essaye d'induire des affects positifs en incitant la personne à être bienveillante, en pensant à des choses positives etc, ce qui améliore son humeur et change sa capacité de prise de décision.
