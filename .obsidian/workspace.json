@@ -61,25 +61,109 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
+                "file": "Organisation structurelle du vivant.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc1479edd02c5ab3",
+            "id": "2011b2d21dc78692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation structurelle du vivant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6a3c3cee76da0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation structurelle du vivant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30ae4be5548cc9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation structurelle du vivant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb518b482332acb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation structurelle du vivant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "283a40aa3b0d27da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation structurelle du vivant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dfe1688175cad97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation structurelle du vivant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a98339bbeb732257",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": "Lexique - Organisation structurelle du vivant.md",
                 "staged": false
+              }
+            }
+          },
+          {
+            "id": "4e3f2c5f82369421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lexique - Organisation structurelle du vivant.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -108,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "phos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +209,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,8 +306,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc1479edd02c5ab3",
+  "active": "a98339bbeb732257",
   "lastOpenFiles": [
+    "Constitution chimique.md",
+    "Lexique - Organisation structurelle du vivant.md",
+    "Lexique - Constitution chimique.md",
+    "Organisation structurelle du vivant.md",
+    "Chapitre 1 - Variables et niveaux de mesures.md",
     "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
     "biologie_org_struct_vivant.pdf",
     "Psycho/Initiation à la recherche/Initiation à la recherche.md",
@@ -233,8 +323,6 @@
     "Pasted image 20241003091149.png",
     "Pasted image 20241002124310.png",
     "PSYC5866 01-Introduction (2).pdf",
-    "Organisation structurelle du vivant.md",
-    "Lexique - Organisation structurelle du vivant.md",
     "Les perspectives de la psychologie.md",
     "Le redoublement.md",
     "Isef 031024 PISA 22 suite et fin.pdf",
@@ -245,9 +333,6 @@
     "Psycho/Psychostatistiques/Lexique.md",
     "Psycho/Eléments Biologie/Eléments Biologie.md",
     "Home.md",
-    "Chapitre 1 - Variables et niveaux de mesures.md",
-    "Lexique - Constitution chimique.md",
-    "Constitution chimique.md",
     "Psycho/Psychostatistiques/Psychostatistiques.md",
     "psycho_emotions_2.pdf",
     "Wilhelm Wundt.md",

@@ -97,7 +97,7 @@ Si on souhaite lier 5 molécules de sucres entre elles, on retirera 4 molécules
 
 
 ### Les lipides
-Les lipides sont constitués de $C$, $H$, $O$.
+Les lipides sont constitués de $C$, $H$, $O$. Longues chaines carbonées porteuses d'un grand nombre d'hydrogène (énergie).
 
 Une graisse [[Lexique - Constitution chimique#^7a9edb|insaturée]] apportera moins d'énergie qu'une graisse [[Lexique - Constitution chimique#^f27293|saturée]].
 
