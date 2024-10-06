@@ -1,6 +1,25 @@
 ![[socio_famille.pdf]]
 
-Famille: ensemble de liens privilégiés entre des gens qui se reconnaissent des droits et devoir particuliers en raison de liens de filiation ou de mariage.
+**Famille** 
+	ensemble de liens privilégiés entre des gens qui se reconnaissent des **droits et devoirs** particuliers en raison de liens de filiation ou de mariage.
+
+**Capital culturel**
+	Titre que la société donne pour nous qualifier de qq'un qui possède une valeur culturelle. Etudes, niveau d'éducation (art, musique, cinéma, golf $\neq$ foot)
+
+**Capital économique**
+	La maison qu'on possède, les actions, l'argent
+
+**Capital social**
+	Relations qu'on possède. Importance et la nature des relations qu'on peut mobiliser autour de nous.
+
+**Polyandrie**
+	Avoir plusieurs **maris**, relation officielle et non officieuse. 
+
+**Levirat**
+	La femme est obligée de se remarier avec le frère du mari défunt.
+
+
+
 Préconceptions de la société actuelle:
 - On doit pouvoir situer correctement l'origine d'un enfant.
 - Les enfants quittent le foyer rapidement (certains vivent en famille avec les grands-parents).
@@ -8,4 +27,28 @@ Il faut considérer le contexte familial des personnes. Certains mœurs différe
 
 La famille nucléaire et récente et déjà sans doute dépassée malgré son universalisation => les femmes et les hommes séparés se remettent avec des partenaires rapidement pour reconstituer un nouveau noyau.
 
-De Gaulejac a écrit un des premiers (le premier?) livre mêlant sociologie et psychologie.
+De Gaulejac a écrit un des premiers (le premier?) livre mêlant sociologie et psychologie (sociologie clinique). "Névrose de classe" - Vincent De Gaulejac. 
+>"L'organisation du travail moderne rend les gens fous."
+
+### Invariants universels
+Toute société accorde un lien particulier avec les parents directs. D'une société à l'autre, le parent n'a pas toujours la même valeur (oncle $\gt$ père qqe part en Afrique).
+Le patriarcat est souvent présent partout.
+Inceste généralement non accepté.
+
+### Les variants
+- L'héritage
+- Les contrats de mariage, dots, douaires, cadeaux, ...
+- Maison, terres, bétails, tombeaux
+- relation aux étrangers
+- ...
+
+La biologie n'est pas l'affaire de la famille et l'amour non plus - l'amour romantique est une invention récente.
+
+### Relations
+- Hypogamie (lorsque l'union se fait avec une personne d'un statut social inférieur - mésalliance),
+- hypergamie (inverse d'hypogamie)
+- homogamie (on aime mieux les gens semblables - comme les personnes d'un même quartier).
+
+
+
+

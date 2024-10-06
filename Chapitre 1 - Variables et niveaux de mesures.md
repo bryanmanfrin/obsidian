@@ -145,6 +145,19 @@ médiane = 8+9 / 2 =  = 8,5
 	Somme des scores divisé par le nombre de scores
 
 
+## Calcul de variance
+### Division par $N$ ou pas $N-1$
+Quand on calcule la variance d'un échantillon il y a deux objectifs:
+- $N$: J'ai un ensemble de données pour toute la population et je veux vois la variabilité alors je divise par N. Si je suis face à toute la population, alors je peux juste diviser par N.
+- $N-1$: Diviser par N: Si j'ai un objectif de calcul de variance de la population. Est-ce que j'utilise un échantillon pour connaitre la variance de la population? Alors je divise par N-1. "Calculer dans l'objectif de calculer ce qu'il se passe dans la population à partir d'un échantillon => N-1."
+
+![[Pasted image 20241003091149.png]]
+Formule rapide:
+![[Pasted image 20241003091240.png]]
+La moyenne des écarts au carré est de 16,36. Ca ne représente pas grand chose pour nous. On doit alors faire la racine carrée pour revenir à une valeur plus simple et plus compréhensible. 
+$\sqrt{variance} = \text{écart type}$
+
+Ecart type: sorte d'écart typique autour de la moyenne. Les individus s'écartent de x points "typiquement" autour de la moyenne.
 
 
 

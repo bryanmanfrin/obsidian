@@ -14,12 +14,12 @@ Pour un même type de recherche, on peut avoir plusieurs méthodes à dispositio
 	On veut appliquer les résultats de recherche sur des personnes. L'objectif est l'application.
 **Recherche corrélationnelle**: 
 	Chercher une association possible entre la présence de pesticides et la présence de la maladie de Parkinson | association entre la présence d'édulcorants et l'existence de TDAH.
-	Dans la population, on va recruter des personnes atteintes de Parkinson ou  de TDAH. 
-	=> recherche non-interventionniste.
+	Dans la population, on va recruter des personnes atteintes de Parkinson ou de TDAH. 
+	=> recherche non-interventionniste - on ne manipule aucune variable.
 
 **Recherche expérimentale:** 
 	On imagine un mécanisme à travers lequel un facteur peut créer un phénomène psychologie.
-	On va manipuler un facteur (prise de médicament) et voir si ce changement réduit/augmente les symptômes. Nécessite beaucoup de patients (essai contrôlé randomisé).
+	On va manipuler un facteur (estime de soi) et voir si ce changement réduit/augmente les symptômes (ou résultats scolaires). Nécessite beaucoup de patients (essai contrôlé randomisé).
 	**Randomisation**: Répartition aléatoire des participants en deux groupes. L'un recevra le médicament à tester, l'autre recevra un placébo.
 	**Double aveugle**: ni le patient ni le chercheur ne sait qui reçoit le placebo.
 	Manipulation d'une variable indépendante (VI): Le groupe expériemental et le groupe placébo pourraient avoir une préiode de traitement différente.
@@ -29,7 +29,7 @@ Pour un même type de recherche, on peut avoir plusieurs méthodes à dispositio
 
 ## Méthodes
 **Etude de cas:** 
-	Elle peut se mener dans le cadre de la recherche et de l'intervention clinique. On essaie d'obtenir un certain nombre d'infos à l'égard d'un patient. On peut aussi tester des approches pour soigner, observer les symptomes à long terme; ça reste une étude de cas.
+	Elle peut se mener dans le cadre de la recherche et de l'intervention clinique. On essaie d'obtenir un certain nombre d'infos à l'égard d'un patient. On peut aussi tester des approches pour soigner, observer les symptômes à long terme; ça reste une étude de cas.
 **Observation naturelle:**
 	Observation participante: on observe les participants lorsqu'ils sont placés devant des problèmes à résoudre, en notant les réponses, posant des questions. L'observateur intervient.
 	Observation non participante: on observe les comportement de primates sans intervenir; l'observateur se fait oublier.

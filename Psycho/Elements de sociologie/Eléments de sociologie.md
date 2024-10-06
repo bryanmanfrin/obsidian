@@ -7,7 +7,9 @@ Hervé Maréchal - Initiations à la sociologie (15€) - **Seconde édition**
 
 ## Méthodologie du cours
 - Travailler un chapitre du livre par cours en utilisant les indications données (feux verts, oranges, rouges).
--
+## Recommandations
+"Névrose de classe" - Vincent De Gaulejac. 
+"La honte" - Annie Ernaux
 
 ## Plan du cours
 [[Définition de la sociologie]]
