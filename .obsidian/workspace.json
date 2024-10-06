@@ -4,96 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e1eeae2ced4ea25",
+        "id": "fb4b47adca702a23",
         "type": "tabs",
         "children": [
           {
-            "id": "e67efb1a9e1dd16f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93694afd20f8c4d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0c465697a9b7241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Le redoublement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdd922634ad2b49b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a9c4ca98edf5fa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Présentation du PISA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4618b17dd687006d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1831674fe92a80c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation structurelle du vivant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cea4fd37fee20c7c",
+            "id": "dee056b551810def",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -105,79 +20,19 @@
             }
           },
           {
-            "id": "c19eff3c77b49b31",
+            "id": "8fd0e5f00a6133b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "file": "Constitution chimique.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ece91f8fc7dfb545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30bc720abdca9c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b2fd49abac3f8f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Famille.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "841b1b3905e30712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4916d0d7f729f6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ddffb2f9f4513de",
+            "id": "35aa2d8e1be6f68a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,115 +44,42 @@
             }
           },
           {
-            "id": "be71096a21c03d98",
+            "id": "84971153f3fda78c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carl Rogers.md",
+                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f2dd69f242652429",
+            "id": "eb0070d54ee28a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humaniste.md",
+                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "57ef306c72b4f3f9",
+            "id": "bc1479edd02c5ab3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Comportementalisme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10cbb1a5bc4fa570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les perspectives de la psychologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3089aec44c9340c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'orientation psychodynamique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f70cdf621e227a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les perspectives de la psychologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1c205cdfa3bf843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sigmund Freud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2905005325bcd1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychanalyse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddba585eb7c79f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthodes de recherches.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -343,12 +125,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 274.50418853759766
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -364,14 +145,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le redoublement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -381,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le redoublement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Le redoublement.md"
-              }
+              "state": {}
             }
           },
           {
@@ -417,7 +194,7 @@
             }
           },
           {
-            "id": "73a7e30836c00c59",
+            "id": "6abb2eda06151314",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -429,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -444,46 +221,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "291ca3e021573c5f",
+  "active": "bc1479edd02c5ab3",
   "lastOpenFiles": [
-    "Isef 031024 Chapitre 1.pdf",
-    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-    "Le redoublement.md",
-    "Home.md",
-    "Présentation du PISA.md",
-    "Isef 031024 PISA 22 suite et fin.pdf",
-    "Culture.md",
-    "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "Famille.md",
-    "Courants théoriques de sociologie.md",
-    "Chapitre 3 - Statistiques descriptives bivariées.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "Psycho/Psychostatistiques/Lexique.md",
-    "Chapitre 1 - Variables et niveaux de mesures.md",
+    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+    "biologie_org_struct_vivant.pdf",
+    "Psycho/Initiation à la recherche/Initiation à la recherche.md",
+    "Psycho/Initiation à la recherche",
+    "Psychanalyse.md",
+    "Perspective psychodynamique.md",
     "Pasted image 20241003091240.png",
     "Pasted image 20241003091149.png",
-    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
-    "Psycho/Initiation à la recherche/Initiation à la recherche.md",
-    "Humaniste.md",
-    "Psycho/Initiation à la recherche",
-    "Carl Rogers.md",
-    "Les perspectives de la psychologie.md",
-    "Comportementalisme.md",
-    "L'orientation psychodynamique.md",
-    "Perspective psychodynamique.md",
-    "Psychanalyse.md",
-    "Sigmund Freud.md",
-    "PSYC5866 01-Introduction (2).pdf",
-    "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes/Définition de la psychologie.md",
-    "Méthodes de recherches.md",
-    "Naissance de la psychologie.md",
     "Pasted image 20241002124310.png",
-    "2a_ConstitChimVivant.pdf",
-    "biologie_org_struct_vivant.pdf",
-    "Assets/Biologie_générale-1.pdf",
-    "Introduction à la psychologie clinique - 1.pdf",
+    "PSYC5866 01-Introduction (2).pdf",
+    "Organisation structurelle du vivant.md",
+    "Lexique - Organisation structurelle du vivant.md",
+    "Les perspectives de la psychologie.md",
+    "Le redoublement.md",
+    "Isef 031024 PISA 22 suite et fin.pdf",
+    "Isef 031024 Chapitre 1.pdf",
+    "Culture.md",
+    "Courants théoriques de sociologie.md",
+    "Chapitre 3 - Statistiques descriptives bivariées.md",
+    "Psycho/Psychostatistiques/Lexique.md",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "Home.md",
+    "Chapitre 1 - Variables et niveaux de mesures.md",
+    "Lexique - Constitution chimique.md",
+    "Constitution chimique.md",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
     "psycho_emotions_2.pdf",
-    "Assets/element.png",
+    "Wilhelm Wundt.md",
+    "Sigmund Freud.md",
+    "Secret professionnel.md",
+    "Psychologie des émotions - Chapitre 2.md",
+    "Psychologie des émotions - Chapitre 1.md",
+    "Lexique - Psychologie des émotions 📖.md",
+    "La psychologie positive.md",
+    "Introduction à la psychologie clinique - 1.pdf",
     "3_1_Dev physique et moteur_2024_2025.pdf",
     "Pasted image 20240929200611.png",
     "Pasted image 20240929194758.png",
@@ -491,7 +265,9 @@
     "Pasted image 20240929193426.png",
     "Pasted image 20240929193347.png",
     "Pasted image 20240929192952.png",
-    "Assets/PSYC5866 01-Introduction (1).pdf",
+    "Pasted image 20240929192153.png",
+    "socio_intro.pdf",
+    "socio_famille.pdf",
     "Psycho/Psychostatistiques/Untitled.canvas",
     "Untitled.canvas"
   ]

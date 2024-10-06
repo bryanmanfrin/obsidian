@@ -7,13 +7,17 @@ La bonne identification du type de variable est nécessaire pour la résolution.
  **Unité d'observation**: 
 	 étudiants de 4, 5, 6ème année
  
- **Mesure d'observation**: 
+  **Mesure d'observation**: 
 	 niveau de harcèlement
 
- **Variables**: la timdité, l'âge, le QI, le genre, score de dépression etc. Habituellement dénomées par une majuscule - âge du troisème sujet (A3)
-	 Propriété de l'unité d'observation qui peut prendre plusieurs valeurs.
-	 Une variable affete à chaque unité d'observation une et une seule valeur.
-	 Exemple: on note toutes nos boissons préférées. On demandera plutot quelle est la boisson préférée plutot que de demander une liste. De cette façon on pourra associer une seule réponse à la question/variable
+### Résumé:
+Lors d'une étude, l'élément observé est l'[[Lexique - Psychostatistiques#^69228e|unité d'observation]] aussi appelé *sujet*. Les études incluent généralement plusieurs [[Lexique - Psychostatistiques#^69228e|unité d'observation]], sauf dans l'[[Lexique - Psychostatistiques#^bdfd27|étude de cas]].
+Il existe 3 types de variables. Les variables
+La statistique repose sur le concept de [[Lexique - Psychostatistiques#^372bde|variable]] qui fait référence à une propriété d'une unité d'observation.
+
+ Propriété de l'unité d'observation qui peut prendre plusieurs valeurs.
+ Une variable affecte à chaque unité d'observation une et une seule valeur.
+ Exemple: on note toutes nos boissons préférées. On demandera plutôt quelle est la boisson préférée plutôt que de demander une liste. De cette façon on pourra associer une seule réponse à la question/variable
 
 Exemple de variables:
 
@@ -88,7 +92,7 @@ Ordinale: égal supérieur ou inférieur
 Métrique: supérieur, inférieur de x unités 
 
 ### Avantages des différentes variables
-LA variable métrique est plus puissante que les autres variables, permet une grande sophistication des variables avec un meilleur niveau de mesure.
+La variable métrique est plus puissante que les autres variables, permet une grande sophistication des variables avec un meilleur niveau de mesure.
 
 Variable nominal > variable ordinale > variable métrique
 
