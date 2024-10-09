@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dee056b551810def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8fd0e5f00a6133b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Constitution chimique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35aa2d8e1be6f68a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,31 +32,7 @@
             }
           },
           {
-            "id": "eb0070d54ee28a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation structurelle du vivant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2011b2d21dc78692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation structurelle du vivant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6a3c3cee76da0c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,31 +56,7 @@
             }
           },
           {
-            "id": "eb518b482332acb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation structurelle du vivant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "283a40aa3b0d27da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation structurelle du vivant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dfe1688175cad97",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -151,19 +79,43 @@
             }
           },
           {
+            "id": "db1b05d747c23f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychologie des émotions/Psychologie des émotions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b51ccac3dd7dccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4e3f2c5f82369421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexique - Organisation structurelle du vivant.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -192,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,6 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -306,14 +262,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a98339bbeb732257",
+  "active": "4e3f2c5f82369421",
   "lastOpenFiles": [
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+    "Chapitre 3 - Statistiques descriptives bivariées.md",
+    "Psychologie des émotions - Textes à étudier.md",
+    "Lexique - Psychologie des émotions 📖.md",
+    "Texte 1. Les émotions.pdf",
+    "Texte 2. Identifications des émotions.pdf",
+    "Texte 3. Identification des émotions d'autrui.pdf",
+    "Questions Textes 2024-25.pdf",
+    "Psycho/Psychologie des émotions/Psychologie des émotions.md",
+    "Home.md",
     "Constitution chimique.md",
     "Lexique - Organisation structurelle du vivant.md",
     "Lexique - Constitution chimique.md",
     "Organisation structurelle du vivant.md",
     "Chapitre 1 - Variables et niveaux de mesures.md",
-    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
     "biologie_org_struct_vivant.pdf",
     "Psycho/Initiation à la recherche/Initiation à la recherche.md",
     "Psycho/Initiation à la recherche",
@@ -329,21 +295,14 @@
     "Isef 031024 Chapitre 1.pdf",
     "Culture.md",
     "Courants théoriques de sociologie.md",
-    "Chapitre 3 - Statistiques descriptives bivariées.md",
     "Psycho/Psychostatistiques/Lexique.md",
     "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "Home.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
     "psycho_emotions_2.pdf",
     "Wilhelm Wundt.md",
     "Sigmund Freud.md",
     "Secret professionnel.md",
     "Psychologie des émotions - Chapitre 2.md",
     "Psychologie des émotions - Chapitre 1.md",
-    "Lexique - Psychologie des émotions 📖.md",
-    "La psychologie positive.md",
-    "Introduction à la psychologie clinique - 1.pdf",
-    "3_1_Dev physique et moteur_2024_2025.pdf",
     "Pasted image 20240929200611.png",
     "Pasted image 20240929194758.png",
     "Pasted image 20240929194109.png",
@@ -351,8 +310,6 @@
     "Pasted image 20240929193347.png",
     "Pasted image 20240929192952.png",
     "Pasted image 20240929192153.png",
-    "socio_intro.pdf",
-    "socio_famille.pdf",
     "Psycho/Psychostatistiques/Untitled.canvas",
     "Untitled.canvas"
   ]
