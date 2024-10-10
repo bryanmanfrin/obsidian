@@ -176,6 +176,18 @@
             }
           },
           {
+            "id": "88f85999bdb6974b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "991c1df306f2d269",
             "type": "leaf",
             "state": {
@@ -224,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -291,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
+                "file": "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
+                "file": "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - Variables et niveaux de mesures.md"
+                "file": "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md"
               }
             }
           },
@@ -371,12 +383,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "291ca3e021573c5f",
+  "active": "88f85999bdb6974b",
   "lastOpenFiles": [
+    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+    "conflict-files-obsidian-git.md",
+    "Chapitre 1 - Variables et niveaux de mesures.md",
+    "Texte 3. Identification des émotions d'autrui.pdf",
+    "Texte 2. Identifications des émotions.pdf",
+    "Texte 1. Les émotions.pdf",
+    "Questions Textes 2024-25.pdf",
+    "Psychologie des émotions - Textes à étudier.md",
     "Psycho/Psychostatistiques/Psychostatistiques.md",
     "Home.md",
     "Chapitre 3 - Statistiques descriptives bivariées.md",
-    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
     "Chapitre 3.pdf",
     "L'orientation biologique.md",
     "Le système nerveux.md",
@@ -399,19 +418,12 @@
     "Oedipe.md",
     "L'orientation psychodynamique.md",
     "Psychologie clinique - Les différents courants.md",
-    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
-    "Psychologie clinique - Culture.md",
-    "Psychologie clinique - Historique.md",
     "Isef 031024 Chapitre 1.pdf",
     "Isef 031024 PISA 22 suite et fin.pdf",
     "Pasted image 20241003091240.png",
     "Pasted image 20241003091149.png",
     "Psycho/Initiation à la recherche",
-    "PSYC5866 01-Introduction (2).pdf",
     "Pasted image 20241002124310.png",
-    "2a_ConstitChimVivant.pdf",
-    "biologie_org_struct_vivant.pdf",
-    "Assets/Biologie_générale-1.pdf",
     "Assets/element.png",
     "Pasted image 20240929200611.png",
     "Pasted image 20240929194758.png",

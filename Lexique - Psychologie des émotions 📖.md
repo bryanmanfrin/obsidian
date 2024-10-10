@@ -38,7 +38,7 @@
 >Attraction ou rejet. Tendance à l'action - on va vers ou on va contre.
 
 #### Affect ^cf7fb1
->Pas de caractère de continuité - les affects sont plus diffus qu'une émotion.
+>Terme plus général qui reprend les émotions et les humeurs.
 >Ex: excitation joyeux, espoir exaltation, découragement, angoisse, morosité, dépit.
 
 #### IAPS ^aa447c

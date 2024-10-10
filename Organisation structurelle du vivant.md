@@ -23,7 +23,7 @@ La résistance aux électrons de la structure de l'objet bloque/laisse passer le
 Microscope électronique à balayage: on bombarde l'échantillon de l'électron depuis toutes les directions. Ca permet d'en connaitre la forme de la surface extérieure.
 
 
-Les cellules absorbent des nutriments (phagocytose) et de l'eau (pinocytose) et forment leur contenu, comme des bulles de savon qui se rejoignent. La membrane va créer des vagues dans sa membranes pour attraper les nutriments.
+Les cellules absorbent des nutriments ([[Lexique - Organisation structurelle du vivant#^569741|phagocytose]]) et de l'eau (pinocytose) et forment leur contenu (vacuoles) qui se rejoignent comme des bulles de savon.
 Lors de la digestion, la cellule va découper les protéines des nutriments et en récupérer les acides aminés, les sucres, les lipides (énergie) avec des enzymes. Certains éléments ne peuvent être digérés et vont être rejetés (exocytose). 
 
 
