@@ -16,7 +16,7 @@ Refaire les exercices chaque semaine
 Refaire les examens au blocus
 Cours à 6 crédits = 6x 30 = 180h de travail (=~22,5 jours complets de 8h)
 
-## [[Lexique]]
+## [[Lexique - Psychostatistiques]]
 
 # Législation
 [[Loi de 2016 sur la psychologie clinique]]

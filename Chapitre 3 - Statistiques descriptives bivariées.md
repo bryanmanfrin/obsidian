@@ -1,3 +1,4 @@
+![[Chapitre 3.pdf]]
 On décrit la relation entre deux variables dans un échantillon. Si on connait le score de la variable 1, on peut prédire le score de la variable 2. Si la mesure de relation est égale à 0, ça veut dire qu'il n'y a pas de relation entre deux variables.
 
 - Je vais vous présenter une différence de moyenne entre les étudiants de psycho et les étudiants de Logo. Est-ce qu'il y a une relation entre les deux variables? 
@@ -40,7 +41,7 @@ Risque attribuable:
 La différence de gens atteints de troubles psychotiques entre les fumeurs et les non-fumeurs est de 8,7%. Il y a donc un lien entre les deux variables. Etre fumeur ou non a un impact. 8,7% du risque est attribuable au fait de fumer du cannabis.
 
 **Risque relatif:**
-Rapport entre les risques absolus des deux groupes. Lorsqu'on est fumeur de canabis, il ya  deux fois plus de risque d'être atteint de risque psychotiques.
+Rapport entre les risques absolus des deux groupes. Lorsqu'on est fumeur de cannabis, il y a deux fois plus de risque d'être atteint de risque psychotiques.
 
 Les gens qui veulent faire peur utilisent souvent le risque relatif:
 > une maladie rare: chez les gens non-exposés, une personne sur un million d'habitants
@@ -54,8 +55,36 @@ Rapport entre les chances des deux groupes.
 ## Quelle mesure choisir?
 Rapport de chances > risque relatif
 Risque attribuable => lorsque je veux insister sur des faibles risques réels pour les maladies rares
-Risque relatif => 
+Risque relatif => lorsque je veux mettre en relation deux 
 
 
 
+## Calcul de la droite de régression
+>[!tip]- ppt
+>![[Chapitre 3.pdf#page=55]]
+
+On doit d'abord savoir ce qu'est une droite "bien ajustée". La droite la mieux ajustée est celle dont les points sont en moyenne le plus proches de la droite. 
+"La droite qui minimise les écarts/les résidus."
+La droite représente les valeurs qu'on utiliserait pour faire une prédiction. Si on a un point, la distance du point à la droite représente une "erreur de prédiction" (si on avait tenté de prédire).
+Etant donné qu'une droite bien ajustée est censée être parfaitement au milieu de l'ensemble des points, on peut considérer que si on faisait la moyenne des écarts des valeurs par rapport à la ligne ($Résidu (Y-\hat Y)$), on tomberait sur $0$.
+
+**Pour trouver le droite:**
+
+$b=\dfrac{COV_{XY}}{S^2_X}$
+	rapport de la covariance sur la variance de la variable X. Quand j'avance de 1 sur la variable X, je me déplace de $b$ points sur l'axe y. 
+$\text{}$
+$a=\bar Y - b\bar X$
+	où $\bar Y$ est la moyenne des Y et $\bar X est $ où $a$ est l'ordonnée à l'origine
+
+$a$ est le point de départ. Quand on a 0 sur X, à quelle hauteur on va débuter?
+
+Premier point de la droite (si a = 2 et b = 3.5):
+a = 2 => ${ x:0, y:2 }$
+Deuxième point de la droite:
+b = 3.5 => ${x: 1, y = 3.5}$ 
+
+
+
+>[!tip]- ppt
+>![[Chapitre 3.pdf#page=55]]
 

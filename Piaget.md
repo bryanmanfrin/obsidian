@@ -1,0 +1,1 @@
+A été mandaté pour créer un test d'intelligence. S'intéressait aux erreurs de raisonnement plutôt qu'aux réponses.

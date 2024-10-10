@@ -6,7 +6,7 @@ Une des premières étapes en psychologie clinique et lors d'une consultation es
 
 
 2 approches
-[[Approche biologique]]
+[[L'orientation biologique]]
 [[Approche cognitive]]
 [[Approche thérapeutique]]
 

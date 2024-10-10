@@ -3,8 +3,8 @@
 [[Théorie maturationniste]]
 [[L'orientation psychodynamique]]
 [[Comportementalisme]]
-[[Humaniste]]
-[[Théorie cognitive]]
+[[L'orientation Humaniste]]
+[[L'orientation cognitive]]
 
 Théories émergentes
 [[L'approche des systèmes dynamiques]]

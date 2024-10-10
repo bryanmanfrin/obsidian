@@ -12,7 +12,7 @@ Schéma S (stimuli) $->$ R (réponse)
 
 > Donnez-moi une douzaine de bébés, les premiers seront maçons, les autres ingénieurs, etc
 
-A un moment donné, le behaviorisme est devenu trop radical, en ne tenant compte que des facteurs observables et environnementaux. En poussant cette approche au maximum, les limites ont été trouvées.
+
 On peut utiliser des techniques qui viennent du conditionnement pour l'apprentissage, pour le désapprentissage.
 
 [[Ivan Pavlov]] a fait de nombreuses études sur les chiens pour étudier le conditionnement.
@@ -46,6 +46,18 @@ Un enfant associe le médecin à la douleur et le fait pleurer à la simple vue 
 - On omet les dimensions psychosociales et environnementales.
 
 Note: il est plus long de désapprendre que d'apprendre.
+
+# Les limites du cadre behavioriste
+A un moment donné, le behaviorisme est devenu trop radical, en ne tenant compte que des facteurs observables et environnementaux. En poussant cette approche au maximum, les limites ont été trouvées.
+S -> R ? 
+S -> O -> R (stimuli -> organisme -> réponse)
+Le déterminisme réciproque. La personalité résulte de l'interaction entre les aspects environnementaux
+
+
+
+
+
+
 
 
 

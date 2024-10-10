@@ -1,5 +1,5 @@
 Concept de soi - Comment je me perçois, mes qualités, mes défauts.
-Fait partie du courant [[Humaniste]].
+Fait partie du courant [[L'orientation Humaniste]].
 
 **Congruence**: Il y a un accord entre le concept de soi et les actions, le vécu de la personne.
 "Est-ce que ce que je vis est en accord avec mon concept de moi?"

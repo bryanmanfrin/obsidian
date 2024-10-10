@@ -2,8 +2,12 @@
 
 
 # [[L'orientation psychodynamique]]
-#[[Comportementalisme|L'orientation comportementaliste]]
+# [[Comportementalisme|L'orientation comportementaliste]]
 
+# [[L'orientation Humaniste]]
 
+# [[L'orientation cognitive]]
+
+# [[L'orientation biologique]]
 
 
