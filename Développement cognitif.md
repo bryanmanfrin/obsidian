@@ -115,12 +115,55 @@ la représentation symbolique
 **Imitation différée**: reproduire un comportement d'adulte en l'absence du modèle (faire semblant).
 **Jeu symbolique**: il reproduit (imitation différée) ET créé une histoire (jeu de la dinette). Fonction de régulation émotionnelle pour revivre des évènements et les ressentir à nouveau.
 **Dessin**: l'enfant essaye de représenter qq chose.
+**Classification**: Il est capable de regrouper des objets avec des catégories plus ou moins stables (par forme, par couleurs, ...). Vers 4 ans, il commence à pouvoir classifier des catégories abstraites (gentil, méchant).
+**Les chiffres et les nombres**: vers 5 ans, il commence à compter. Il comptera avec ses doigts. Il devra donc nécessairement commencer à 1. 
+**Les principes de numération:**
+- le principe d'ordre, 
+- de cardinalité (le dernier nombre représente l'intégralité des objets), 
+- le principe de la non pertinence de l'ordre de départ (de droite à gauche ou de gauche à droite, c'est pareil)
+- le principe d'abstraction (on peut **tout** compter).
+**La centration:** 
+On ne se base que sur un élément pour tirer une conclusions sans prendre en compte tout le reste du contexte (exemple: un verre petit semble plus rempli proportionnellement si la hauteur de l'eau est plus grande, indépendamment de la largeur du verre).
+"Un homme a des cheveux longs? C'est une fille."
 
+**La non-conservation**
+Le fait de pouvoir conclure que 2 quantité égales restent égales malgré leurs transformations si rien n'est enlevé ou ajouté.
+
+**Egocentrisme intellectuel**
+L'enfant a l'impression que les autres ont le même point de vue que lui.
+Il a du mal à comprendre pourquoi le père appelle la grand-mère "maman" => "mamie, c'est mamie!". 
+Quand l'enfant met les mains devant ses yeux, il pense que les autres ne le voient plus non plus.
+- L'animise: attribuer des caractéristiques humaines à des objets (j'ai fait mal à l'arbre).
+- artificialisme: tout est fabriqué par l'homme
+- La causalité morale. Les lois physiques sont égales aux lois morales. Les bateaux flottent car ils sont gentils
+- le finalisme: tout a un but. Les nuages bougent pour laisser la place au soleil
 ### La pensée magique
 Pensée qui amène à croire que tout est possible. Tentative pour l'enfant de trouver des explications pour les phénomènes auxquels il n'a pas encore d'explications (bisou magique, je cours plus vite avec des chaussures à lumière).
 
 Raisonnement transductif: Il lie deux choses entre elles souvent par le fait qu'ils arrivent l'un derrière l'autre. (le train passe et le chien aboie => le train passe parce que le chien a dit "vas-y").
 Niveau clinique: Je suis malade parce que je n'ai pas été gentil. Je vais chez le psy parce que j'ai été méchant.
+
+### La théorie de l'esprit (sonder)
+Evolution de la pensée chez l'enfant entre 3 et 5 ans. C'est une prise de conscience que les autres peuvent avoir des pensées et des idées différentes de soi. Ils commencent à être capables de réflexion, de capacités d'introspection. Ils se rendent compte que les autres réfléchissent aussi et différemment.
+Cette étape va avoir une influence considérable sur le développement social. On peut anticiper les réactions de l'autre (amélioration des relations).
+Le mensonge apparait à partir du moment où on réalise que l'autre va penser d'une certaine façon donc on va adapter son discours.
+
+Avant la théorie de l'esprit:
+- "Qu'est ce qu'il y a dans la boite de bonbons?" 
+- "des bonbons". Il voit des crayons. 
+- "Si on demande à Paul ce qu'il y a dans cette boite, il dira quoi?"
+- "Il dira des crayons"
+
+
+## Traitement de l'information
+Entre 2 et 6 ans, on voit apparaitre les mémoires à long terme (les premiers souvenirs de forment. Ils se souviennent surtout des épisodes qui ont créé de fortes réactions/émotions.
+
+Les mémoires 
+- Mémoire procédurale (lacer ses chaussures, s'habiller)
+- mémoire épisodique, 
+- mémoire auto-biographique (souvenirs d'enfance, ma maison d'enfance, notre histoire qui reste gravée).
+
+**L'amnésie infantile**: on oublie ce qui s'est passé dans les premières années (<2 à 4 ans).
 
 # 6-12
 # Adolescence

@@ -4,143 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1e1eeae2ced4ea25",
+        "id": "46982add7e581052",
         "type": "tabs",
         "children": [
           {
-            "id": "c4d8add7ee5d3bb3",
+            "id": "affb5ac1cf9ae8a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b473d284affcd143",
+            "id": "ab8af5979ca1bba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les perspectives de la psychologie.md",
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a670c01ecb75fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les perspectives de la psychologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56ab135c14bfd782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les perspectives de la psychologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39e60fa393627df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les perspectives de la psychologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40897bad055042e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les perspectives de la psychologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5de044776086680c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'orientation biologique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a72ce432dcc930e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'orientation biologique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed299716ee721732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychanalyse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0a40e8f2ae23c93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b230c8e2f32c5f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie clinique - Culture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6e5d82446fa8681",
+            "id": "b5c86f08e15ba0df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,91 +44,103 @@
             }
           },
           {
-            "id": "325c304d61a8b510",
+            "id": "ceabdb92e46cd0cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9ecf2b3dfdc64572",
+            "id": "53a7014914ee9a4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
+                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "88f85999bdb6974b",
+            "id": "f815cb93dc0322ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+                "file": "Maîtrise de l'information.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "991c1df306f2d269",
+            "id": "da8a66526db2d155",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "file": "Psycho/Psychologie des émotions/Psychologie des émotions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f1a363098f931791",
+            "id": "7fe3b0fbe5155519",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 3 - Statistiques descriptives bivariées.md",
+                "file": "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6830ac9777881c4c",
+            "id": "80af43bc0a3e201c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 3 - Statistiques descriptives bivariées.md",
+                "file": "Développement cognitif.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "37b4a1190128ba96",
+            "id": "1ede892ad2561010",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b8068897e4f0448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -265,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phineas",
+                "query": "lire chapitre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -303,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+                "file": "Développement cognitif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+                "file": "Développement cognitif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md"
+                "file": "Développement cognitif.md"
               }
             }
           },
@@ -383,46 +287,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88f85999bdb6974b",
+  "active": "291ca3e021573c5f",
   "lastOpenFiles": [
+    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
+    "Lexique - Constitution chimique.md",
+    "Lexique - Organisation structurelle du vivant.md",
+    "Maîtrise de l'information.md",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
+    "Home.md",
+    "Organisation structurelle du vivant.md",
+    "Psychologie des émotions - Textes à étudier.md",
+    "Psycho/Psychologie des émotions/Psychologie des émotions.md",
+    "Calendar/Tasks.md",
+    "Calendar/2024-10-03.md",
+    "4b_ReprodOrga2-Mitose_Alice.pdf",
+    "Le redoublement.md",
+    "Isef 10 10 24 Chapitre 1 fin.pdf",
+    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+    "Famille.md",
+    "Culture.md",
+    "Psycho/Elements de sociologie/Eléments de sociologie.md",
+    "Franz Boas.md",
+    "Margaret Mead.md",
+    "EDS Chapitre culture (2) ex-ante. oct. 24 .pdf",
     "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
-    "conflict-files-obsidian-git.md",
     "Chapitre 1 - Variables et niveaux de mesures.md",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Chapitre 3 - Statistiques descriptives bivariées.md",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2024-10-10 10.51.08.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Texte 3. Identification des émotions d'autrui.pdf",
     "Texte 2. Identifications des émotions.pdf",
     "Texte 1. Les émotions.pdf",
     "Questions Textes 2024-25.pdf",
-    "Psychologie des émotions - Textes à étudier.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "Home.md",
-    "Chapitre 3 - Statistiques descriptives bivariées.md",
     "Chapitre 3.pdf",
     "L'orientation biologique.md",
-    "Le système nerveux.md",
     "PSYC5866 02-Perspective biologique 2022-23(1).pdf",
-    "Les perspectives de la psychologie.md",
-    "Comportementalisme.md",
-    "L'orientation Humaniste.md",
-    "L'orientation cognitive.md",
-    "Phineas Gage.md",
-    "J.Harlow.md",
-    "Approche cognitive.md",
-    "Carl Rogers.md",
-    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
-    "2024-10-09.md",
-    "Maîtrise de l'information.md",
     "4a_MaitriseInfo1-SynthProt_Alice.pdf",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "Organisation structurelle du vivant.md",
-    "Psychanalyse.md",
-    "Oedipe.md",
-    "L'orientation psychodynamique.md",
-    "Psychologie clinique - Les différents courants.md",
-    "Isef 031024 Chapitre 1.pdf",
-    "Isef 031024 PISA 22 suite et fin.pdf",
     "Pasted image 20241003091240.png",
     "Pasted image 20241003091149.png",
-    "Psycho/Initiation à la recherche",
     "Pasted image 20241002124310.png",
     "Assets/element.png",
     "Pasted image 20240929200611.png",

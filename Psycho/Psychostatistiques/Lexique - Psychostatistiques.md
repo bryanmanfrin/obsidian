@@ -1,6 +1,8 @@
 
+# Chapitre 1
+
 **Unité d'observation**
-	Une unité d'observation est l'élément du réel sur lequel porte l'observation. Selon la discipline scientifique, l'unité peut être des sujets humains, des plantes, des évènements, des objets, des sociétés ou toute autre chose pouvant être observée.^098dc3 ^69228e
+	Une unité d'observation est l'élément du réel sur lequel porte l'observation. Selon la discipline scientifique, l'unité peut être des sujets humains, des plantes, des évènements, des objets, des sociétés ou toute autre chose pouvant être observée. ^69228e
 
 **Etude de cas**
 	Etude ne comportant qu'une seule unité d'observation. ^bdfd27
@@ -19,6 +21,32 @@
 	Un seul score ou modalité peut être associé à une variable. Ceci peut mener à redéfinir une question pour évite qu'elle n'accepte plusieurs valeurs: 
 	> "~Quel est votre métier?~"  => "Quel est votre métier principal?"
 	^372bde
+
+**Variables nominales**
+	Variable désignant des catégories. Ce sont des étiquettes que l'on assigne aux unités d'observations (ie. personnes) et que ne prennent pas de valeurs numériques (sauf si l'on a associé l'étiquette à une valeur par besoin de simplification, celà ne changeant pas que c'est une étiquette).
+	$\text{}$
+	Exemples:
+	- groupe contrôle, groupe expérimental
+	- genre
+	- diagnostic psychiatrique (schizophrène, ...) 
+	$\text{}$
+	**Attention** à ne pas confondre avec la variable ordinale qui présente une gradation entre les différentes valeurs de la variable.
+	Exemple: classe sociale inférieure, classe moyenne, classe supérieure
+	^c86465
+
+**Variables ordinales**
+	Les variables ordinales permettent de comparer deux valeurs entre elles et de les classer dans un ordre précis. Cependant, aucun information n'est donnée par ces étiquettes quant à une différence entre deux scores particuliers. "A quel point une valeur est plus grande, plus petite que la précédente/la suivante".
+	$\text{}$
+	Exemples: 
+	- classe sociale inférieure, classe moyenne, classe supérieure
+	- insatisfaisant, satisfaisant, distinction, grande distinction ^322114
+
+**Variables métriques**
+	Les variables métriques associent une mesure numérique à une unité d'observation. Elles permettent une gradation précise entre ces unités et donc de savoir précisément quel écart existe entre deux valeurs.
+	$\text{}$
+	Exemples:
+	- taille d'un individu
+	- temps de réalisation d'une tâche
 
 **Variabilité d'échantillonnage**
 	La moyenne variera d'un échantillon à l'autre.
@@ -47,7 +75,6 @@
 	$\sigma = \dfrac{\sum_{i=1}^N(X_i - \mu)^2}{N}$
 	$\text{ }$
 	$o^2 = \dfrac{\sum_{N}^{i=1}}{N}$
-	
 
 
 Mesure de tendance centrale +/- variabilité
@@ -91,3 +118,8 @@ Le temps moyen était de 590,90 +/- 11,5 (moyenne +/- écart-type)
 
 **Statistiques inférentielles**
 	Evaluer la probabilité que des données tirées sur quelques personnes au hasard représente une population.
+
+
+# Chapitre 2
+
+# Chapitre 3

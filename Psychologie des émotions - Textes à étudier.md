@@ -1,3 +1,4 @@
+- [ ] Lire les documents de psychologie des émotions
 # Les émotions
 ![[Texte 1. Les émotions.pdf]]
 Antonio Damasio considère que les émotions sont indispensables à la survie de l'Homme.
@@ -42,6 +43,7 @@ Les émotions apparaissent dans 2 situations:
 
 ## Fonctions de l'émotion
 Contrairement à ce que disent les stoïciens grecs, les émotions ont un rôle fonctionnel. Elles informent l'individu de la réalisation de ses objectifs et de la satisfaction de ses besoins.
+
 
 
 

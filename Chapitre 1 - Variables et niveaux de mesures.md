@@ -2,13 +2,6 @@ La bonne identification du type de variable est nécessaire pour la résolution.
 
 # Ressources
 ![[psychostat_1.pdf]]
- Il y a généralement plusieurs unités d'observation. Lrosqu'il n'y en a qu'une, ce sera un "cas unique". 
- 
- **Unité d'observation**: 
-	 étudiants de 4, 5, 6ème année
- 
-  **Mesure d'observation**: 
-	 niveau de harcèlement
 
 ### Résumé:
 Lors d'une étude, l'élément observé est l'[[Lexique - Psychostatistiques#^69228e|unité d'observation]] aussi appelé *sujet*. Les études incluent généralement plusieurs [[Lexique - Psychostatistiques#^69228e|unité d'observation]], sauf dans l'[[Lexique - Psychostatistiques#^bdfd27|étude de cas]].
@@ -28,12 +21,12 @@ Sujet | Genre
 
 # Les types de variables
 
-## Les variables nominales
+## Les [[Lexique - Psychostatistiques#^c86465|variables nominales]]
 On attribue à chaque sujet une étiquette.
 > Prénom et nom de famille (exemple du prénom préféré de l'année).
 
 Il n'y a pas de classement, pas de valeur chiffrée.
-Le code postal est un chiffre mais c'est avant tout une étiquette (4000 n'est pas 2x2000)
+
 Couleur des yeux, genre, profession, religion, état civil, préférence manuelle, diagnostic psychiatrique.
 
 ### Exceptions
@@ -48,13 +41,13 @@ Table de fréquence
 | Marié       | 10        |
 | Célibataire | 5         |
 | Total       | 15        |
-
+Note: dans ces représentations, on peut penser que la variable la fréquence (10, 5, ...) mais c'est l'état civil.
 
 Graphique circulaire (en camembert) - moins intuitif
 Diagramme en barre
 
-Note: variable (état civil) n'est pas la fréquence (10, 5, ...)
-## Les variables ordinales
+
+## Les [[Lexique - Psychostatistiques#^322114|variables ordinales]]
 
 On classe les sujets les uns par rapport aux autres. 
 Les valeurs sont ordonnées.
@@ -68,7 +61,7 @@ Notation de points aux tests:
 Classement:
 	1er, 2eme, 3eme à une course mais on ne connait pas le temps entre eux, juste leur ordre.
 
-## Variable métrique
+## Les [[Lexique - Psychostatistiques^]]
 Permet une estimation précise de la différence entre deux sujets.
 
 ### Exemple
