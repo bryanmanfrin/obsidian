@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "46982add7e581052",
+        "id": "fb4b47adca702a23",
         "type": "tabs",
         "children": [
           {
-            "id": "affb5ac1cf9ae8a5",
+            "id": "84971153f3fda78c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab8af5979ca1bba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5c86f08e15ba0df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceabdb92e46cd0cd",
+            "id": "30ae4be5548cc9a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,19 +32,7 @@
             }
           },
           {
-            "id": "53a7014914ee9a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f815cb93dc0322ae",
+            "id": "27c0aab918b8f4a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,67 +44,50 @@
             }
           },
           {
-            "id": "da8a66526db2d155",
+            "id": "17d833b061149850",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychologie des émotions/Psychologie des émotions.md",
+                "file": "Maîtrise de l'information.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7fe3b0fbe5155519",
+            "id": "c6cfc0cd546862d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
+                "file": "Lexique - Constitution chimique.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80af43bc0a3e201c",
+            "id": "a98339bbeb732257",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Développement cognitif.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           },
           {
-            "id": "1ede892ad2561010",
+            "id": "80bba6b657e096ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b8068897e4f0448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lire chapitre",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,12 +133,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 274.50418853759766
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -207,14 +153,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Développement cognitif.md",
+                "file": "Lexique - Constitution chimique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -224,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Développement cognitif.md",
+                "file": "Lexique - Constitution chimique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Développement cognitif.md"
+                "file": "Lexique - Constitution chimique.md"
               }
             }
           },
@@ -260,7 +206,7 @@
             }
           },
           {
-            "id": "73a7e30836c00c59",
+            "id": "6abb2eda06151314",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -272,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,53 +235,52 @@
   },
   "active": "291ca3e021573c5f",
   "lastOpenFiles": [
-    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
-    "Lexique - Constitution chimique.md",
-    "Lexique - Organisation structurelle du vivant.md",
     "Maîtrise de l'information.md",
+    "Pasted image 20241014231440.png",
+    "Pasted image 20241014224143.png",
+    "Lexique - Constitution chimique.md",
     "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
-    "Home.md",
     "Organisation structurelle du vivant.md",
-    "Psychologie des émotions - Textes à étudier.md",
-    "Psycho/Psychologie des émotions/Psychologie des émotions.md",
-    "Calendar/Tasks.md",
-    "Calendar/2024-10-03.md",
-    "4b_ReprodOrga2-Mitose_Alice.pdf",
-    "Le redoublement.md",
-    "Isef 10 10 24 Chapitre 1 fin.pdf",
-    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-    "Famille.md",
-    "Culture.md",
-    "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "Franz Boas.md",
-    "Margaret Mead.md",
-    "EDS Chapitre culture (2) ex-ante. oct. 24 .pdf",
-    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
     "Chapitre 1 - Variables et niveaux de mesures.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "Chapitre 3 - Statistiques descriptives bivariées.md",
     "Untitled 1.canvas",
-    "Excalidraw/Drawing 2024-10-10 10.51.08.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Texte 3. Identification des émotions d'autrui.pdf",
-    "Texte 2. Identifications des émotions.pdf",
-    "Texte 1. Les émotions.pdf",
-    "Questions Textes 2024-25.pdf",
-    "Chapitre 3.pdf",
-    "L'orientation biologique.md",
+    "Psychologie clinique - Les différents courants.md",
+    "Psychologie clinique - Historique.md",
+    "Psychologie clinique - Culture.md",
+    "Piaget.md",
     "PSYC5866 02-Perspective biologique 2022-23(1).pdf",
+    "Oedipe.md",
+    "Margaret Mead.md",
+    "Le système nerveux.md",
+    "L'orientation cognitive.md",
+    "L'orientation biologique.md",
+    "L'orientation Humaniste.md",
+    "Isef 10 10 24 Chapitre 1 fin.pdf",
+    "Franz Boas.md",
+    "EDS Chapitre culture (2) ex-ante. oct. 24 .pdf",
+    "Développement émotionnel.md",
+    "Chapitre 3.pdf",
+    "Approche cognitive.md",
+    "4b_ReprodOrga2-Mitose_Alice.pdf",
     "4a_MaitriseInfo1-SynthProt_Alice.pdf",
+    "2024-10-09.md",
+    "Home.md",
+    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+    "Chapitre 3 - Statistiques descriptives bivariées.md",
+    "Psychologie des émotions - Textes à étudier.md",
+    "Texte 1. Les émotions.pdf",
+    "Texte 2. Identifications des émotions.pdf",
+    "Texte 3. Identification des émotions d'autrui.pdf",
+    "Questions Textes 2024-25.pdf",
     "Pasted image 20241003091240.png",
     "Pasted image 20241003091149.png",
     "Pasted image 20241002124310.png",
-    "Assets/element.png",
     "Pasted image 20240929200611.png",
     "Pasted image 20240929194758.png",
     "Pasted image 20240929194109.png",
     "Pasted image 20240929193426.png",
     "Pasted image 20240929193347.png",
-    "Pasted image 20240929192952.png",
     "Psycho/Psychostatistiques/Untitled.canvas",
     "Untitled.canvas"
   ]
