@@ -27,6 +27,7 @@ Il y a parfois des classes de niveau. Les cours individualisés sont rares. Sép
 Modèle utilisé dans les pays anglo-saxons. Tronc commun long jusqu'en 3ème secondaire.
 Promotion automatique (passage d'une classe à l'autre - redoublement exceptionnel).
 Ils créent des groupes de niveau au sein des classes. 
+Produit plus d'équité que la séparation.
 Possibilité de cours individualisés pour les meilleurs élèves
 
 ### **Modèle de l'intégration individualisée**

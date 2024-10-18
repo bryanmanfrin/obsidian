@@ -8,4 +8,3 @@
 > Dans le contexte de la révolution sexuelle des années 1960, Mead s'exprime en faveur d'une ouverture des mœurs sexuelles au sein de la vie traditionnelle religieuse occidentale.
 >
 > [Wikipedia](https://fr.wikipedia.org/wiki/Margaret%20Mead)
-

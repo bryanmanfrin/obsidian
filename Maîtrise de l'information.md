@@ -66,7 +66,7 @@ Le brin matrice est recopié sur l'ARN messager
 fraction de la molécule d'ADN. Une séquence de bases azotées, de nucléotides. Cette portion sert de base pour fabriquer une protéine. Portion d'ADN dont j'ai besoin pour fabriquer une protéine. Un gène est un plan de montage d'une protéine donnée. ll dit au ribosome comment associer les acides aminés pour fabriquer cette protéine en particulier. #tuyau
 Chez les eucaryotes, les gènes sont dits en "mosaïque". 
 
-Chez les organismes [[Lexique - Organisation structurelle du vivant#^bc8a45|eucaryotes]], le gène inclus dans l'ARN messager comporte des exons et des introns car ils étaient également présents dans l'ADN. Seuls les exons sont gardés, les introns sont virés (par épissage) pour obtenir un gène utilisable. Le gène comportant les introns sont des ARN pré-messagers. Après épissage, on a l'ARN messager qui pourra être utilisé par les ribosomes. :check:
+Chez les organismes [[Lexique - Constitution chimique#^bc8a45|eucaryotes]], le gène inclus dans l'ARN messager comporte des exons et des introns car ils étaient également présents dans l'ADN. Seuls les exons sont gardés, les introns sont virés (par épissage) pour obtenir un gène utilisable. Le gène comportant les introns sont des ARN pré-messagers. Après épissage, on a l'ARN messager qui pourra être utilisé par les ribosomes. :check:
 Les gènes des eucaryotes permettent de créer davantage de diversité pour les protéines créées au final car l'épissage peut retirer plus ou moins d'exons (l'épissage ne garde pas nécessairement tous les exons).
 ## Traduction de l'ARN en protéines dans le cytoplasme
 ### Phase 1 - initiation

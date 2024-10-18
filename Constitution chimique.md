@@ -14,7 +14,7 @@ Le tableau est composé d'[[Lexique - Constitution chimique#^f895ef|éléments]]
 Un élément est composé de [[Lexique - Constitution chimique#^73d9d2|protons]], de [[Lexique - Constitution chimique#^c109a3|neutrons]] et d'[[Lexique - Constitution chimique#^ce4f4b|électrons]].
 Sa fiche indique la [[Lexique - Constitution chimique#^bae138|masse atomique]], le [[Lexique - Constitution chimique#^d68cca|numéro d'ordre atomique]], le nombre de neutrons est obtenu par un calcul.
 #### Calculer le nombre de neutrons:
-On soustrait de la [[Lexique - Constitution chimique#^bae138|masse atomique]] le [[Lexique - Constitution chimique#^d68cca|numéro d'ordre atomique]]. 
+On soustrait de la [[Lexique - Constitution chimique#^bae138|masse atomique]] le [[Lexique - Constitution chimique#^d68cca|numéro d'ordre atomique]].
 
 Exemple Silicium : 
 	![[element.png|inlL|200]]

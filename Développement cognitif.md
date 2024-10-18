@@ -116,7 +116,8 @@ la représentation symbolique
 **Jeu symbolique**: il reproduit (imitation différée) ET créé une histoire (jeu de la dinette). Fonction de régulation émotionnelle pour revivre des évènements et les ressentir à nouveau.
 **Dessin**: l'enfant essaye de représenter qq chose.
 **Classification**: Il est capable de regrouper des objets avec des catégories plus ou moins stables (par forme, par couleurs, ...). Vers 4 ans, il commence à pouvoir classifier des catégories abstraites (gentil, méchant).
-**Les chiffres et les nombres**: vers 5 ans, il commence à compter. Il comptera avec ses doigts. Il devra donc nécessairement commencer à 1. 
+**Les chiffres et les nombres**: vers 5 ans, il commence à compter. Il comptera avec ses doigts. Il devra donc nécessairement commencer à 1.
+
 **Les principes de numération:**
 - le principe d'ordre, 
 - de cardinalité (le dernier nombre représente l'intégralité des objets), 

@@ -88,3 +88,14 @@ b = 3.5 => ${x: 1, y = 3.5}$
 >[!tip]- ppt
 >![[Chapitre 3.pdf#page=55]]
 
+
+Quand on a l'équation d'une droite de prédiction, on peut prédire le score. Ne pas tenter de prédire des scores si ils ne sont pas représentés (on a calculé une droite entre 0,5 et 0,8, ne pas tenter de prédire un score de 0,1).
+
+Une corrélation ne signifie pas de lien de cause à effet. (p95)
+"Les gens obèses ont plus de machines à laver". Plus le pays est riche, plus les gens ont la capacité d'acheter une machine à laver mais aussi peuvent acheter plus à manger et devenir obèse.
+"Plus il y a de lieux de culte dans une ville, plus il y a de la criminalité". La taille de la ville détermine les deux: plus la ville est grande, plus il y a de lieux de cultes. Plus la ville est grande, plus il y a de criminalité.
+-> "Fausse corrélation" ou "corrélation absurde"
+
+Comment représenter des statistiques bivariées entre deux variables?
+- Texte (p98 - pdf)
+- On peut aussi représenter sous forme de matrices de corrélation. Chaque cellule de la matrice représente les corrélations entre deux variables.

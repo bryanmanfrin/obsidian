@@ -81,7 +81,6 @@ L'amibe créé de l'énergie pour son fonctionnement en brûlant ses nutriments 
 
 
 # Structure de l'information
-
 **Cellule**: 
 	Une cellule contient une membrane plasmique, du hyaloplasme (liquide visqueux de la cellule), réticulum endoplasmique, des vacuoles (de phagocytose), lysosome, appareil de Golgi, gouttes de glycogène, un noyau (nucléole, ports nucléoles), centriole, des organites, grains d'excrétion.
 
@@ -99,7 +98,7 @@ L'amibe créé de l'énergie pour son fonctionnement en brûlant ses nutriments 
 	base azotées, base en C5, groupement $H_3PO_4$
 
 **Transcription**
-	On copie un brin d'ADN (brin matrice) sur un brin d'ARN messager.
+On copie un brin d'ADN (brin matrice) sur un brin d'ARN messager.
 
 **Gène**
 	Fraction de molécule d'ADN qui comporte donc une séquence de base azotées responsables à la confection (plan de montage) d'une protéine.

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46982add7e581052",
+        "id": "f9f6dd8ca85b1b99",
         "type": "tabs",
         "children": [
           {
-            "id": "affb5ac1cf9ae8a5",
+            "id": "f9ef314aeed1eed6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "ab8af5979ca1bba6",
+            "id": "bc26ca369685cead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d891d748b981809a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +44,31 @@
             }
           },
           {
-            "id": "b5c86f08e15ba0df",
+            "id": "e8d681ea842ea94d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ceabdb92e46cd0cd",
+            "id": "7a25ea8be588b1fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cdbb1374e0730fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,91 +80,31 @@
             }
           },
           {
-            "id": "53a7014914ee9a4a",
+            "id": "8cdb14b2eab26742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
+                "file": "Structure et reproduction des virus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f815cb93dc0322ae",
+            "id": "8f7a1efcb48667b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maîtrise de l'information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8a66526db2d155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychologie des émotions/Psychologie des émotions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fe3b0fbe5155519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80af43bc0a3e201c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement cognitif.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ede892ad2561010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b8068897e4f0448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
+                "file": "Efficacité du redoublement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -188,10 +152,51 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "3dcfc89bd62fef84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29eb955fe8603875",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Structure et reproduction des virus.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 279.5
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -207,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Développement cognitif.md",
+                "file": "Structure et reproduction des virus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Développement cognitif.md",
+                "file": "Structure et reproduction des virus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Développement cognitif.md"
+                "file": "Structure et reproduction des virus.md"
               }
             }
           },
@@ -287,45 +292,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "291ca3e021573c5f",
+  "active": "8cdb14b2eab26742",
   "lastOpenFiles": [
-    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
-    "Lexique - Constitution chimique.md",
-    "Lexique - Organisation structurelle du vivant.md",
-    "Maîtrise de l'information.md",
+    "5_Virus_Alice.pdf",
     "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
-    "Home.md",
-    "Organisation structurelle du vivant.md",
-    "Psychologie des émotions - Textes à étudier.md",
-    "Psycho/Psychologie des émotions/Psychologie des émotions.md",
-    "Calendar/Tasks.md",
-    "Calendar/2024-10-03.md",
-    "4b_ReprodOrga2-Mitose_Alice.pdf",
+    "Structure et reproduction des virus.md",
     "Le redoublement.md",
-    "Isef 10 10 24 Chapitre 1 fin.pdf",
     "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-    "Famille.md",
-    "Culture.md",
+    "Efficacité du redoublement.md",
+    "ISEF - Chapitre 3 17 10 24 et 24 10 24.pdf",
+    "Calendar/Tasks.md",
+    "Mobilité sociale.md",
+    "mobilité-sociale.pdf",
     "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "Franz Boas.md",
-    "Margaret Mead.md",
-    "EDS Chapitre culture (2) ex-ante. oct. 24 .pdf",
-    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+    "Chapitre 4 - Préalables aux statistiques inférentielles.md",
     "Chapitre 1 - Variables et niveaux de mesures.md",
     "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Chapitre 4.pdf",
     "Chapitre 3 - Statistiques descriptives bivariées.md",
+    "Lexique - Cerveau.md",
+    "Le cerveau.md",
+    "Système nerveux.md",
+    "Le système limbique.md",
+    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+    "PSYC5866 02-Perspective biologique 2024-25.pdf",
+    "Naissance de la psychologie.md",
+    "Maîtrise de l'information.md",
+    "Home.md",
+    "Méthodo - Prise de notes.md",
+    "Psychologie clinique - intervention.md",
+    "Margaret Mead.md",
+    "L'orientation psychodynamique.md",
+    "Sigmund Freud.md",
+    "Introduction à la psychologie clinique - 1.pdf",
+    "4b_ReprodOrga2-Mitose_Alice.pdf",
+    "Isef 10 10 24 Chapitre 1 fin.pdf",
+    "EDS Chapitre culture (2) ex-ante. oct. 24 .pdf",
     "Untitled 1.canvas",
-    "Excalidraw/Drawing 2024-10-10 10.51.08.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Texte 3. Identification des émotions d'autrui.pdf",
     "Texte 2. Identifications des émotions.pdf",
-    "Texte 1. Les émotions.pdf",
-    "Questions Textes 2024-25.pdf",
-    "Chapitre 3.pdf",
-    "L'orientation biologique.md",
-    "PSYC5866 02-Perspective biologique 2022-23(1).pdf",
-    "4a_MaitriseInfo1-SynthProt_Alice.pdf",
     "Pasted image 20241003091240.png",
     "Pasted image 20241003091149.png",
     "Pasted image 20241002124310.png",

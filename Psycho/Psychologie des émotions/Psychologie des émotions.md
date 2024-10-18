@@ -10,5 +10,5 @@ Chapitre 3 & 4, 6 à faire par nous-même.
 Historique
 # [[Psychologie des émotions - Chapitre 2]]
 Les problèmes conceptuels et méthodologiques
-
-
+# [[Psychologie des émotions - Chapitre 3]]
+Qu'est ce qu'une émotion?
