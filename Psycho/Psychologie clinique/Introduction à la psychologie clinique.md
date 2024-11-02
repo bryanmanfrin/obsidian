@@ -16,6 +16,15 @@ Certaines questions de l'examen pourront provenir des questions présentes dans 
 [[Psychologie clinique - Les différents courants]]
 [[Psychologie clinique - intervention]]
 
+```mermaid
+pie showData 
+	title Key elements in Product X 
+	"Calcium" : 42.96
+	"Potassium" : 50.05
+	"Magnesium" : 10.01
+	"Iron" : 5
+```
+
  
 
 

@@ -28,3 +28,5 @@ Cours à 6 crédits = 6x 30 = 180h de travail (=~22,5 jours complets de 8h)
 ## [[Chapitre 3 - Statistiques descriptives bivariées]]
 
 ## [[Chapitre 4 - Préalables aux statistiques inférentielles]] 
+
+## [[Chapitre 5 - Concepts de base des probabilités]]

@@ -55,7 +55,9 @@
 	Une molécule portant de l'hydrogène va facilement perdre son hydrogène en présence d'un oxydant (un élément avide d'électrons). Il en résulte une création d'énergie et de l'eau.
 	Exemple: 
 	$RH_2 + O -> R + H_2O + E$ où R est n'importe quel élément.
-L'amibe créé de l'énergie pour son fonctionnement en brûlant ses nutriments contentant de l'hydrogène avec de l'oxygène. La respiration humaine est un autre exemple. ^62b54d
+L'amibe créé de l'énergie pour son fonctionnement en brûlant ses nutriments contentant de l'hydrogène avec de l'oxygène. La respiration humaine est un autre exemple.
+L'équation de la respiration:
+^62b54d
 
 **Oxydation:** $- H_2$
 	On retire deux atomes d'hydrogène. ^5f7638
@@ -96,6 +98,9 @@ L'amibe créé de l'énergie pour son fonctionnement en brûlant ses nutriments 
 
 **Nucléotide** 
 	base azotées, base en C5, groupement $H_3PO_4$
+
+**Réticulum endoplasmique**
+	Les petits points dessus sont les ribosomes. Contient les protéines synthétisées par les ribosomes qui va ensuite les acheminer plus loin
 
 **Transcription**
 On copie un brin d'ADN (brin matrice) sur un brin d'ARN messager.

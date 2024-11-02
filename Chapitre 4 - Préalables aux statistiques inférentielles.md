@@ -58,6 +58,8 @@ Si l'écart type est de 1 et la moyenne de 10, 5% se trouveront entre 8 et 12. (
 
 $Z = \dfrac{X - \mu}{\sigma}$
 
+
+
 Pour retrouver le score de l'individu à partir du Z:
 $X = \mu + Z\sigma$
 

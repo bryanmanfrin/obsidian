@@ -11,6 +11,8 @@
 2. [[Méthodes de recherches]]
 3. [[Les perspectives de la psychologie]]
 4. [[Naissance de la psychologie]]
-5. [[Système nerveux]]
+
+1. [[Chapitre 2 - Système nerveux]]
+2. [[Chapitre 3 - Sensation perception]]
 
 

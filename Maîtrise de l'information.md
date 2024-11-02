@@ -119,9 +119,10 @@ La mitose chez les [[Lexique - Organisation structurelle du vivant#^956297|proca
 
 
 ### Les histones
-Chez les eucaryotes, les molécules d'ADN s'enroulent autour des protéines appelées histones formant une fibre nucléosomique (nucléosome).
+Chez les eucaryotes, les molécules d'ADN s'enroulent autour des protéines (chromatines) appelées histones formant une fibre nucléosomique (nucléosome).
 
 Les chromosomes possèdent un axe squelettique fait de protéines. Molécule d4ADN entourée autour de protéines histones (fibre nucléosomique) qui viennent elles-mêmes s'enrouler autour du squelette formé de protéines qui structure la forme en X du chromosome.
+
 > [!info]- PDF
 > ![[4b_ReprodOrga2-Mitose_Alice.pdf#page=41]]
 
