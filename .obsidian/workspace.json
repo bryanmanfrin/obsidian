@@ -32,6 +32,17 @@
             }
           },
           {
+            "id": "941427c8400ad8cc",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Maîtrise de l'information.md",
+                "staged": false
+              }
+            }
+          },
+          {
             "id": "62b5d495d85e21f1",
             "type": "leaf",
             "state": {
@@ -56,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Structure et reproduction des virus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure et reproduction des virus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +196,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Structure et reproduction des virus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,7 +221,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure et reproduction des virus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,9 +265,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "568525e2faae4900",
+  "active": "941427c8400ad8cc",
   "lastOpenFiles": [
     "Maîtrise de l'information.md",
+    "conflict-files-obsidian-git.md",
+    "Structure et reproduction des virus.md",
+    "Pasted image 20241014231440.png",
+    "Pasted image 20241014224143.png",
     "La sexualité - diversification.md",
     "Psycho/Eléments Biologie/Eléments Biologie.md",
     "Lexique - Constitution chimique.md",
@@ -280,7 +290,6 @@
     "Pasted image 20241024155307.png",
     "Démographie.md",
     "Pasted image 20241024135633.png",
-    "Pasted image 20241024133623.png",
     "démographie ex ante octobre 24 - PDF.pdf",
     "démographie ex ante octobre 24 1.pptx",
     "démographie ex ante octobre 24.pptx",
@@ -289,7 +298,6 @@
     "Chapitre 4 - Préalables aux statistiques inférentielles.md",
     "psychostate - Chapitre 5.pdf",
     "Chapitre 3 - Sensation perception.md",
-    "Pasted image 20241023151902.png",
     "PSYC5866 03-Sensation-Perception 2024-25.pdf",
     "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
     "2024-10-09.md",
@@ -302,8 +310,6 @@
     "théorie générale des systèmes.md",
     "Orientation systémique.md",
     "Psychologie clinique - Les différents courants.md",
-    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
-    "théorie de l'information.md",
     "Chap 3 Qu'est ce qu'une émotion 2024-25.pdf",
     "Untitled 2.canvas",
     "4_dev_cognitif_2024_2025.pdf",

@@ -88,6 +88,9 @@ L'équation de la respiration:
 
 **Noyau**
 
+**Protéine**
+	La protéine est une longue chaine de plus de 50 polypeptides. ^b28186
+
 
 **Centrioles**
 
@@ -97,7 +100,7 @@ L'équation de la respiration:
 	2 chaines formées de nucléotides (base azotées, base en C5, groupement $H_3PO_4$)
 
 **Nucléotide** 
-	base azotées, base en C5, groupement $H_3PO_4$
+	Groupe contenant un base azotées, un base en C5, un groupement $H_3PO_4$
 
 **Réticulum endoplasmique**
 	Les petits points dessus sont les ribosomes. Contient les protéines synthétisées par les ribosomes qui va ensuite les acheminer plus loin
@@ -140,6 +143,9 @@ On copie un brin d'ADN (brin matrice) sur un brin d'ARN messager.
 
 **Vacuoles**
 	"Bulles" contenant les nutriments ingérés par la cellule par phagocytose.
+
+**Codons**
+	Séquence de 3 nucléotides successifs sur un ARNm ^c533c4
 
 **Lysosomes**
 	Vacuoles contenant autre chose que des aliments.
