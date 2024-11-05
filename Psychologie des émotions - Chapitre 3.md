@@ -119,6 +119,26 @@ Ces manifestations peuvent être différentes d'une culture à l'autre mais ont 
 - La peur c'est "je pars"
 
 
+- [ ] Séance question/réponse pour émotions. A préparer en lisant un diaporama.
+
+# Les réponses cognitives
+
+Lorsqu'on est habité d'une émotion d'une certaine nature, notre attention est focalisée sur les stimuli avec +/- les mêmes émotions. Notre émotion entache notre perception - biais cognitifs.
+
+Certains stimuli sont traités de manière préférentielle selon l'état d'esprit. Une personne anxieuse repérera un stimulus menaçant plus rapidement qu'une personne sereine (visage en colère).
+
+==L'engagement et désengagement rapide== peut mener à un maintient des troubles anxieux car la personne ne prend pas le temps de traiter les informations. Exemple: face à une foule, je distingue un visage menaçant mais je ne prends pas le temps de m'y adapter. 
+
+
+## Les biais de mémoire
+
+Mémoire congruente à l'humeur: Lorsque je me trouve dans un état émotionnel, je vais davantage encoder les informations congruentes à cet état émotionnel et négliger les autres. 
+Ex: Triste? Je me souviens de la pluie. 
+
+Mémoire dépendante de l'humeur: processus de rappels. Concerne la récupération.
+
+L'approche dominante dans la recherche sur les émotions est l'approche cognitive #tuyau 
+
 
 
 

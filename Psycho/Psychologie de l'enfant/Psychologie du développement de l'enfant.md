@@ -11,7 +11,7 @@ Professeure: C. Stassart
 ## [[Développement émotionnel]]
 ## [[Développement social psycho-sexuel]]
 
-
+## [[Développement affectif]]
 
 # Définition
 > L'étude scientifique des caractéristiques changeantes et immuables au cours de la vie.

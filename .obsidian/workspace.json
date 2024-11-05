@@ -8,50 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3792faa3457485d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "568525e2faae4900",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure et reproduction des virus.md",
+                "file": "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Psychologie du développement de l'enfant"
             }
           },
           {
-            "id": "941427c8400ad8cc",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Maîtrise de l'information.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "62b5d495d85e21f1",
+            "id": "d304a17287d3d76d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexique - Constitution chimique.md",
+                "file": "Psycho/Psychologie des émotions/Psychologie des émotions.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Psychologie des émotions"
+            }
+          },
+          {
+            "id": "f48f4d625520d443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie des émotions - Chapitre 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychologie des émotions - Chapitre 3"
             }
           },
           {
@@ -60,14 +55,170 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexique - Constitution chimique.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "9996a673ee6af7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie clinique - Les différents courants.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychologie clinique - Les différents courants"
+            }
+          },
+          {
+            "id": "6f29c338e648d96c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie clinique - Les différents courants.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychologie clinique - Les différents courants"
+            }
+          },
+          {
+            "id": "3bc2a0c824c4a5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychostatistiques"
+            }
+          },
+          {
+            "id": "e4f17dd54568f48b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychostatistiques"
+            }
+          },
+          {
+            "id": "f5ece12afdbb845c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitre 6 - Premier test d'hypothèse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapitre 6 - Premier test d'hypothèse"
+            }
+          },
+          {
+            "id": "8fbffd900db991c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitre 5 - Concepts de base des probabilités.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapitre 5 - Concepts de base des probabilités"
+            }
+          },
+          {
+            "id": "021c815c9c614c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L'intégration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L'intégration"
+            }
+          },
+          {
+            "id": "cb4dc55c4510151c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evidence Based Practice et ses 4 pilliers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evidence Based Practice et ses 4 pilliers"
+            }
+          },
+          {
+            "id": "583db2c1e4a72121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L'intégration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L'intégration"
+            }
+          },
+          {
+            "id": "714648e00a9c417c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orientation humaniste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orientation humaniste"
+            }
+          },
+          {
+            "id": "b4b84427c0f44b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evidence Based Practice et ses 4 pilliers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evidence Based Practice et ses 4 pilliers"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -87,7 +238,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -102,7 +255,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -110,11 +265,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3dcfc89bd62fef84",
@@ -126,6 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Chapitre 6 - Premier test d'hypothèse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,14 +308,16 @@
                   "scale": 1,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Chapitre 6 - Premier test d'hypothèse"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 200
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -167,7 +326,7 @@
       {
         "id": "cb10153b7d2ab192",
         "type": "tabs",
-        "dimension": 48.90173410404624,
+        "dimension": 48.90173410404625,
         "children": [
           {
             "id": "4b5904ac5530bea0",
@@ -175,9 +334,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapitre 6 - Premier test d'hypothèse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapitre 6 - Premier test d'hypothèse"
             }
           },
           {
@@ -188,7 +350,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -196,7 +360,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapitre 6 - Premier test d'hypothèse.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapitre 6 - Premier test d'hypothèse"
             }
           },
           {
@@ -204,7 +372,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -221,6 +391,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapitre 6 - Premier test d'hypothèse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +399,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapitre 6 - Premier test d'hypothèse"
             }
           }
         ]
@@ -243,7 +416,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -265,55 +440,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "941427c8400ad8cc",
+  "active": "291ca3e021573c5f",
   "lastOpenFiles": [
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "L'intégration.md",
+    "Chapitre 5 - Concepts de base des probabilités.md",
+    "Chapitre 6 - Premier test d'hypothèse.md",
+    "stat- Chapitre 6.pdf",
+    "Chapitre 1 - Variables et niveaux de mesures.md",
+    "Lexique - Psychostatistiques^.md",
+    "Psychologie clinique - Les différents courants.md",
+    "Evidence Based Practice et ses 4 pilliers.md",
+    "Orientation humaniste.md",
+    "Le courant cognitivo-comportemental (TCC) et ses 3 vagues.md",
+    "Home.md",
+    "Lexique - Constitution chimique.md",
+    "Psychologie des émotions - Chapitre 4.md",
+    "Chap 4 Emotion Cognition et activité périphérique - 2024-25.pdf",
+    "Psycho/Psychologie des émotions/Psychologie des émotions.md",
+    "Psychologie des émotions - Chapitre 3.md",
+    "Texte 1. Les émotions.pdf",
+    "Développement affectif.md",
+    "6_Dev socio-affectif_dev_emotionnel_partie1_2024_2025.pdf",
+    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
+    "Chapitre 2 - Statistiques descriptives univariées.md",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "Structure et reproduction des virus.md",
     "Maîtrise de l'information.md",
     "conflict-files-obsidian-git.md",
-    "Structure et reproduction des virus.md",
     "Pasted image 20241014231440.png",
     "Pasted image 20241014224143.png",
     "La sexualité - diversification.md",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "Lexique - Constitution chimique.md",
     "Maitrise de l'énergie.md",
     "Lexique - Organisation structurelle du vivant.md",
     "Organisation structurelle du vivant.md",
     "Pasted image 20241025144951.png",
     "Pasted image 20241025144525.png",
-    "Efficacité du redoublement.md",
     "Pasted image 20241024164734.png",
     "Pasted image 20241024164713.png",
     "Pasted image 20241024164703.png",
     "Pasted image 20241024161500.png",
-    "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "2024-10-25.md",
     "Pasted image 20241024155307.png",
-    "Démographie.md",
     "Pasted image 20241024135633.png",
     "démographie ex ante octobre 24 - PDF.pdf",
     "démographie ex ante octobre 24 1.pptx",
     "démographie ex ante octobre 24.pptx",
-    "Chapitre 5 - Concepts de base des probabilités.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "Chapitre 4 - Préalables aux statistiques inférentielles.md",
     "psychostate - Chapitre 5.pdf",
-    "Chapitre 3 - Sensation perception.md",
     "PSYC5866 03-Sensation-Perception 2024-25.pdf",
-    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
-    "2024-10-09.md",
-    "Calendar/2024-10-03.md",
-    "Chapitre 2 - Système nerveux.md",
-    "Home.md",
-    "Excalidraw/bio-cross-over.md",
     "6a_Sexualite1-Meiose_Alice 1.pdf",
-    "6a_Sexualite1-Meiose_Alice.pdf",
-    "théorie générale des systèmes.md",
-    "Orientation systémique.md",
-    "Psychologie clinique - Les différents courants.md",
-    "Chap 3 Qu'est ce qu'une émotion 2024-25.pdf",
     "Untitled 2.canvas",
-    "4_dev_cognitif_2024_2025.pdf",
-    "5_dev_cognitif_2024_2025.pdf",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",
     "Untitled.canvas"

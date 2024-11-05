@@ -12,3 +12,7 @@ Historique
 Les problèmes conceptuels et méthodologiques
 # [[Psychologie des émotions - Chapitre 3]]
 Qu'est ce qu'une émotion?
+# [[Psychologie des émotions - Chapitre 4]] 
+Emotions, cognition et activité périphérique - quel est le rôle de la biologie dans l'aspect émotionnel
+Comprendre la controverse James-Cannon
+Savoir comment les role de l'activation physiologique dans le déclenchement
