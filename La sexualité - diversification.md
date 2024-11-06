@@ -111,3 +111,68 @@ Mitose 2n = 6
 Ces deux chromosomes ne sont pas les mêmes. Il y a un grand et un petit.
 C'est une métaphase 2 d'une méiose. Les deux chromosomes sont différents car leur correspondant s'est retrouvé dans l'autre cellule durant la division.
 
+
+## La diversification
+(autre PDF)
+![[6b_Sexualité2-AccidentsMeiose_Alice.pdf]]
+Lors de la reproduction sexuée, 2 phénomènes assurent la diversification.
+Le crossing-over.
+L'alignement aléatoire de chromosomes paternels et maternels sur l'axe équatorial.
+
+
+# Vrais jumeaux
+La cellule femelle fécondée normalement va se diviser en 2 lors de la mitose avec le patrimoine génétique de la mère. Ces cellules, au lieu de rester accrochées l'une à l'autre vont se décrocher et les deux auront le même patrimoine génétique
+
+## Faux jumeaux
+2 noyaux dans l'ovule seront fécondés par 2 spermatozoïdes.
+Autre cas de faux jumeaux: sur-ovulation (plus d'un ovaire produit) fécondés.
+
+## Accidents lors de la méiose
+
+![[6b_Sexualité2-AccidentsMeiose_Alice.pdf#page=22]]
+Lors de la phase réductionnelle, il peut y avoir une migration trop tardive de chromosomes. Parfois, la division cellulaire peut être effectuée avant que le chromosome ait été correctement tiré du bon côté et donc les cellules auront un nombre incorrect de chromosomes.
+
+Cela peut aussi se produire durant l'anaphase 2. La différence c'est que ce sont les chromatides d'un même chromosome qui sont mal répartis entre les deux cellules finales.
+
+=> Certains gamètes ont trop de matériel génétique, d'autres n'en ont pas assez.
+
+
+Si une erreur se produit dans le chromosome 21, lors d'une fécondation, si on obtient 3 copies du chromosome 21 (situation anormale) et deux copies de tous les autres chromosomes (situation normale), on obtient une trisomie.
+La cellule oeuf avec 3 copies est dite léthale et va arrêter son développement. Ca peut mener à des fausses couches. Certaines trisomies sont viables et la cellule poursuivra son développement.
+La trisomie 18 ne permet à l'enfant de vivre que quelques années. 
+
+Certaines trisomies ont un impact sur les cellules sexuelles.
+
+![[6b_Sexualité2-AccidentsMeiose_Alice.pdf#page=30]]
+
+Les combinaisons normales après fécondation
+- XX
+- XY
+- YY
+- YX
+
+Les combinaisons possibles lors d'erreurs durant la phase réductionnelle de la méiose:
+
+Format: (ovaire)spermatozoïde
+
+- (XX)Y: trisomie - syndrome de Klinefelter - trisomie viable donnant naissance à un garçon. Plus grand que la normale, stérilité, QI faible
+- (XX)X: trisomie - 1 femme sur 1000 - QI faible, défauts de prononciation
+- (-)X: syndrome de Turner: donne naissance à une fille - chromosome unique X, n'a que 45 chromosomes et pas 46 - taille plus petite que la moyenne - ovaires atrophiés - malformations au niveau du cou
+- (-)Y: monosomie léthale, ne se développe pas - fausse couche
+
+Les combinaisons possibles lors d'erreurs durant la phase réductionnelle de la méiose:
+l'ovaire porteuse d'un X peut être fécondée par un spermatozoïde YY (devrait être un seul Y).
+Donne un (X)YY: viable, pas de problèmes de santé.
+
+# Chez les plantes
+Reproduction sexuée car le pollen peut féconder 
+
+# Hermaphrodite 
+Tous mâles au début de la saison. Entre mâles, ils s'échangent des spermatozoïdes. Quand la saison devient moins bonne, ils vont créer des ovaires qui vont féconder les ovaires des autres mâles. Ils ne peuvent pas être mâle et femelle en même temps - ils changent de sexe à un instant T.
+
+
+La saison peut influencer l'expérience des gènes: printemps je mange les feuilles, automne je mange les racines.
+
+## Abeilles
+La reine garde les spermatozoides des mâles. Face à une grande logette, elle va y déposer une gamète femelle (n). Face à une petite logette, elle va déposer une gamète et aussi un spermatozoïde.
+

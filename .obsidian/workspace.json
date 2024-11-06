@@ -4,221 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "21b44b1bfe24d9f6",
+        "id": "aa06301fad730665",
         "type": "tabs",
         "children": [
           {
-            "id": "568525e2faae4900",
+            "id": "3920ea6919dfbbaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
+                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychologie du développement de l'enfant"
+              "title": "Eléments Biologie"
             }
           },
           {
-            "id": "d304a17287d3d76d",
+            "id": "5ae89fb9283a3df5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychologie des émotions/Psychologie des émotions.md",
+                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychologie des émotions"
+              "title": "Eléments Biologie"
             }
           },
           {
-            "id": "f48f4d625520d443",
+            "id": "130ed106def4f75e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie des émotions - Chapitre 3.md",
+                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychologie des émotions - Chapitre 3"
+              "title": "Eléments Biologie"
             }
           },
           {
-            "id": "a2f883b0c7ffd9ae",
+            "id": "915573e4ed31c72d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Fondements théoriques des sciences psychologiques"
             }
           },
           {
-            "id": "9996a673ee6af7e7",
+            "id": "9e8d1202a6070092",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie clinique - Les différents courants.md",
+                "file": "Chapitre 4 - Etats de conscience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychologie clinique - Les différents courants"
-            }
-          },
-          {
-            "id": "6f29c338e648d96c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie clinique - Les différents courants.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychologie clinique - Les différents courants"
-            }
-          },
-          {
-            "id": "3bc2a0c824c4a5c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychostatistiques"
-            }
-          },
-          {
-            "id": "e4f17dd54568f48b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychostatistiques"
-            }
-          },
-          {
-            "id": "f5ece12afdbb845c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 6 - Premier test d'hypothèse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 6 - Premier test d'hypothèse"
-            }
-          },
-          {
-            "id": "8fbffd900db991c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 5 - Concepts de base des probabilités.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 5 - Concepts de base des probabilités"
-            }
-          },
-          {
-            "id": "021c815c9c614c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'intégration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L'intégration"
-            }
-          },
-          {
-            "id": "cb4dc55c4510151c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evidence Based Practice et ses 4 pilliers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evidence Based Practice et ses 4 pilliers"
-            }
-          },
-          {
-            "id": "583db2c1e4a72121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'intégration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L'intégration"
-            }
-          },
-          {
-            "id": "714648e00a9c417c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orientation humaniste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orientation humaniste"
-            }
-          },
-          {
-            "id": "b4b84427c0f44b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evidence Based Practice et ses 4 pilliers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evidence Based Practice et ses 4 pilliers"
+              "title": "Chapitre 4 - Etats de conscience"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -282,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 6 - Premier test d'hypothèse.md",
+                "file": "Chapitre 4 - Etats de conscience.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,7 +170,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Chapitre 6 - Premier test d'hypothèse"
+              "title": "Graph of Chapitre 4 - Etats de conscience"
             }
           }
         ]
@@ -334,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 6 - Premier test d'hypothèse.md",
+                "file": "Chapitre 4 - Etats de conscience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapitre 6 - Premier test d'hypothèse"
+              "title": "Outgoing links from Chapitre 4 - Etats de conscience"
             }
           },
           {
@@ -361,10 +221,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 6 - Premier test d'hypothèse.md"
+                "file": "Chapitre 4 - Etats de conscience.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapitre 6 - Premier test d'hypothèse"
+              "title": "Outline of Chapitre 4 - Etats de conscience"
             }
           },
           {
@@ -391,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 6 - Premier test d'hypothèse.md",
+                "file": "Chapitre 4 - Etats de conscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapitre 6 - Premier test d'hypothèse"
+              "title": "Backlinks for Chapitre 4 - Etats de conscience"
             }
           }
         ]
@@ -442,10 +302,19 @@
   },
   "active": "291ca3e021573c5f",
   "lastOpenFiles": [
+    "PSYC5866 04-États de conscience 2024-25.pdf",
+    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+    "Chapitre 4 - Etats de conscience.md",
+    "Le développement des organismes.md",
+    "8_DeveloppementEmbryo_Alice.pdf",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "La sexualité - diversification.md",
+    "Constitution chimique.md",
+    "6b_Sexualité2-AccidentsMeiose_Alice.pdf",
+    "Chapitre 6 - Premier test d'hypothèse.md",
     "Psycho/Psychostatistiques/Psychostatistiques.md",
     "L'intégration.md",
     "Chapitre 5 - Concepts de base des probabilités.md",
-    "Chapitre 6 - Premier test d'hypothèse.md",
     "stat- Chapitre 6.pdf",
     "Chapitre 1 - Variables et niveaux de mesures.md",
     "Lexique - Psychostatistiques^.md",
@@ -464,16 +333,9 @@
     "6_Dev socio-affectif_dev_emotionnel_partie1_2024_2025.pdf",
     "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
     "Chapitre 2 - Statistiques descriptives univariées.md",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
     "Structure et reproduction des virus.md",
-    "Maîtrise de l'information.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20241014231440.png",
     "Pasted image 20241014224143.png",
-    "La sexualité - diversification.md",
-    "Maitrise de l'énergie.md",
-    "Lexique - Organisation structurelle du vivant.md",
-    "Organisation structurelle du vivant.md",
     "Pasted image 20241025144951.png",
     "Pasted image 20241025144525.png",
     "Pasted image 20241024164734.png",
@@ -486,8 +348,6 @@
     "démographie ex ante octobre 24 1.pptx",
     "démographie ex ante octobre 24.pptx",
     "psychostate - Chapitre 5.pdf",
-    "PSYC5866 03-Sensation-Perception 2024-25.pdf",
-    "6a_Sexualite1-Meiose_Alice 1.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",
