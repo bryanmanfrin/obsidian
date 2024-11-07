@@ -32,9 +32,13 @@ Je ne rejette pas l'hypothèse nulle  alors qu'elle est fausse: faux négatif ("
 # Erreurs $\alpha$ et $\beta$ 
 $\alpha$: seuil de signification (5%)
 
-Si on essaye de situer une personne dans deux populations sans connaitre la moyenne d'une des populations (ie troubles neurologiques), on va indiquer que $\mu = ?$ pour cette population.
+Si on essaye de situer une personne dans deux populations sans connaitre la moyenne d'une des populations (i.e. troubles neurologiques), on va indiquer que $\mu = ?$ pour cette population.
 
 Les 5% de sujets avec les scores les plus faibles transposés dans la distribution normale des individus sains seront posés comme faux-positifs. On va donc se tromper sur les 5% d'individus en les classant comme personnes à troubles neurologiques.
+
+Erreur de 1ère espèce $\alpha$:
+Erreur de 2ème espèce $\beta$:
+
 
 ## Tests unilatéraux et bilatéraux
 
@@ -64,10 +68,16 @@ Je peux comparer le Z trouvé pour un score pour avec la valeur critique (1,645)
 
 
 # L'intervalle de confiance
-Formule qu'on va utiliser pour donner les valeurs de la population pour laquelle on ne rejette pas l'hypothèse nulle
+Formule qu'on va utiliser pour donner les valeurs de la population pour laquelle on ne rejette pas l'hypothèse nulle.
+
+Deux bornes entre lesquelles on est quasi sur (95%) de trouver le sujet. Autour de la moyenne:
+=> Moyenne $pm$ qq chose
+
+Calcule la limite inférieure et supérieure
+
 $18,2 < \mu < 97,2$
 
-$OC_{0,95} = X +- Z_{\alpha/2}\sigma$
+$OC_{0,95} = X \pm Z_{\alpha/2}\sigma$
 
 
 
