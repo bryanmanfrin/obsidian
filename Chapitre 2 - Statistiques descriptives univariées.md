@@ -10,7 +10,7 @@
 	**Population:** 
 	$\sigma^2 = \dfrac{\sum{X^2_i}-\dfrac{(\sum{X_i})^2}{N}}{N}$
 	$\text{}$
-	**Echantillon:** (inféré!!)
+	**Estimer depuis un échantillon:**
 	$S^2 = \dfrac{\sum{X^2_i}-\dfrac{(\sum{X_i})^2}{N}}{N-1}$
 	$\text{}$
 	**Exemple:**
