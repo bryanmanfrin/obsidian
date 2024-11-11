@@ -6,6 +6,7 @@
       {
         "id": "fb4b47adca702a23",
         "type": "tabs",
+        "dimension": 45.45454545454545,
         "children": [
           {
             "id": "30ae4be5548cc9a7",
@@ -77,34 +78,21 @@
             }
           },
           {
-            "id": "b80390f5e42c5d1f",
+            "id": "fb42e9dd468eee55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "file": "Chapitre 2 - Statistiques descriptives univariées.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychostatistiques"
+              "title": "Chapitre 2 - Statistiques descriptives univariées"
             }
           },
           {
-            "id": "aa802e501d391cad",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Chapitre 2 - Statistiques descriptives univariées.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Chapitre 2 - Statistiques descriptives univariées)"
-            }
-          },
-          {
-            "id": "7bfeea4fb8dc4ed0",
+            "id": "56be7e20a055edeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,33 +106,70 @@
             }
           },
           {
-            "id": "0732643a2578da12",
+            "id": "591e0c519bdb86f0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "stat-Chapitre 2.pdf",
-                "staged": false
+                "file": "Chapitre 2 - Statistiques descriptives univariées.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (stat-Chapitre 2.pdf)"
+              "icon": "lucide-file",
+              "title": "Chapitre 2 - Statistiques descriptives univariées"
             }
           },
           {
-            "id": "845987c4b6d1bb03",
+            "id": "7bfeea4fb8dc4ed0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": true
+                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (conflict-files-obsidian-git)"
+              "icon": "lucide-file",
+              "title": "Psychostatistiques"
+            }
+          },
+          {
+            "id": "b1169bf2fd8c05a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conseils Examen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conseils Examen"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
+      },
+      {
+        "id": "0506a0eaf6b2a532",
+        "type": "tabs",
+        "dimension": 54.54545454545454,
+        "children": [
+          {
+            "id": "ece116852db2fbed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conseils Examen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conseils Examen"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "covariance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,7 +221,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,6 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conseils Examen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Conseils Examen"
             }
           },
           {
@@ -234,11 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conseils Examen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Conseils Examen"
             }
           },
           {
@@ -259,9 +287,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Conseils Examen.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Conseils Examen"
             }
           },
           {
@@ -304,16 +334,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa802e501d391cad",
+  "active": "291ca3e021573c5f",
   "lastOpenFiles": [
-    "Chapitre 2 - Statistiques descriptives univariées.md",
     "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Chapitre 3 - Statistiques descriptives bivariées.md",
+    "Chapitre 2 - Statistiques descriptives univariées.md",
+    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+    "Conseils Examen.md",
+    "462553764_1231463131474786_7688113640270818824_n.jpg",
+    "462641842_557676866664318_3689968181899962546_n 1.jpg",
+    "462544321_3658981274432707_1297408267300811024_n 1.jpg",
+    "462546577_509571485238459_8747197142737270106_n 1.jpg",
+    "462558137_1220476082622832_3810979414735390004_n 1.jpg",
+    "462544291_570450518660000_2268473802902456002_n 1.jpg",
+    "462577569_540530568522784_9070010573457157622_n 1.jpg",
+    "462547960_581183161013760_6749134258138331621_n 1.jpg",
+    "462566020_427312977065836_295481842384961289_n 1.jpg",
+    "462549278_563474656236992_8603018799867739171_n 1.jpg",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
     "conflict-files-obsidian-git.md",
     "Redoublement et stéréotypes.md",
-    "Pasted image 20241106214827.png",
     "stat-Chapitre 2 1.pdf",
     "stat-Chapitre 2.pdf",
-    "Chapitre 3 - Statistiques descriptives bivariées.md",
     "stat- Chapitre 6.pdf",
     "Psychologie des émotions - Chapitre 4.md",
     "PSYC5866 04-États de conscience 2024-25.pdf",
@@ -331,7 +373,6 @@
     "6_Dev socio-affectif_dev_emotionnel_partie1_2024_2025.pdf",
     "Chapitre 1 - Variables et niveaux de mesures.md",
     "Maîtrise de l'information.md",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
     "théorie générale des systèmes.md",
     "théorie de l'information.md",
     "psychostate - Chapitre 5.pdf",
@@ -342,17 +383,6 @@
     "Structure et reproduction des virus.md",
     "Psychologie des émotions - Chapitre 3.md",
     "Psychologie clinique - intervention.md",
-    "Pasted image 20241025144951.png",
-    "Pasted image 20241025144525.png",
-    "Pasted image 20241024164734.png",
-    "Pasted image 20241024164713.png",
-    "Pasted image 20241024164703.png",
-    "Pasted image 20241024161500.png",
-    "Pasted image 20241024155307.png",
-    "Pasted image 20241024135633.png",
-    "Pasted image 20241024133623.png",
-    "Orientation systémique.md",
-    "Méthodo - Prise de notes.md",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",
     "Untitled.canvas"

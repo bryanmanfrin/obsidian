@@ -100,7 +100,7 @@ Le temps moyen était de 590,90 +/- 11,5 (moyenne +/- écart-type)
 	$\text{}$
 	Problème: interpréter la covariance est compliqué car on ne sait pas ce que représente la valeur. Pour mieux savoir ce que ça représente, on transforme la covariance en **coefficient de corrélation (de Pearson)**. 
 
-**La corrélation ($r$)**
+**Le coefficient de corrélation de Pearson ($r$)**
 	**Corrélation est tjrs entre -1 et +1**. Elle représente le degré de relation entre deux variables. Le signe de la corrélation indique le sens de la relation "corrélation positive/négative".
 	Plus on s'approche de 1 ou -1 plus on a une corrélation entre deux variables. 1 ou -1 représente une relation parfaite entre 2 variables. Une corrélation de 0 représente une absence de relation - elles ne sont pas liées. On ne peut donc pas faire de prédiction à partir d'une variable.
 	$\text{}$

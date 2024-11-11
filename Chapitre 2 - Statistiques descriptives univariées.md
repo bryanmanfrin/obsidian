@@ -43,7 +43,7 @@
 	$\dfrac{N+1}{2}$
 	Si la position calculée est en $.5$, on va prendre la moyenne entre les deux valeurs autour de cette position indiquée.
 	$\text{}$
-	Certaines variables ordinales
+	Certaines variables ordinales (Exemple, niveau socio-économique de 0 à 5)
 	Variables métriques avec fortes asymétries
 	$\text{}$
 	Insensible aux scores extrêmes.
