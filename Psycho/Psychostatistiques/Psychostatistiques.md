@@ -23,6 +23,7 @@ Cours à 6 crédits = 6x 30 = 180h de travail (=~22,5 jours complets de 8h)
 
 
 # Plan du cours
+## [[Conseils Examen]]
 ## [[Chapitre 1 - Variables et niveaux de mesures]]
 ## [[Chapitre 2 - Statistiques descriptives univariées]]
 ## [[Chapitre 3 - Statistiques descriptives bivariées]]
