@@ -58,7 +58,7 @@ Théorie de Cannon : la perception de qlq chose (un ours par ex) va activer le 
 
 Les 5 critiques de Cannon à l’égard de la théorie de James
 
-Les infos qui proviennent des viscères chez les animaux ne mènent pas à une émotion, les mm réactions viscérales son présente dans divers cptm émotifs ou non => pose problème car mm réaction.
+Les infos qui proviennent des viscères chez les animaux ne mènent pas à une émotion, les mm réactions viscérales sont présentes dans divers cptm émotifs ou non => pose problème car mm réaction.
 
 Les viscères sont insensibles, si on les stimule on ne provoque pas de réactions émotionnelles.
 
@@ -303,11 +303,11 @@ Comment se construisent ces représentations mentales ?
 
 Raisons pour lesquelles on trouve peu de correspondance entre l'expérience émotionnelle et les changements physiologiques ressentis:
 - L'attention est allouée vers l'extérieur, vers ce qui cause l'émotion et non vers l'intérieur.
-- Top-down: les représentations mentales sont activées lors de la colère et redirige l'attention vers les sensations auxquelles je m'attends de par mes représentations mentales -> je m'attends à avoir chaud, je vais ressentir la chaleur car je sais que c'est classique. Les représentations mentales se nourrissent de nos expériences et se renforcent (cf. représentations métaphoriques).
 
 Les application cliniques :
 
 -        Apprendre à l’individu à mieux percevoir, faire attention, prendre conscience des changements physio. La respiration est un bon indicateur de la manif émotionnelle.
+- Pleine conscience: l'individu observe ses émotions et les accepte telles qu'elles viennent.
 
 Ex : la prévention au stress est imp. Lors d’un stress, les pers ne se rendent mm plus compte de ces manif qui signifient que qlq chose ne va pas. En apprenant à les percevoir, on peut apprendre à mieux gérer son stress.
 
@@ -317,8 +317,7 @@ Ex : la prévention au stress est imp. Lors d’un stress, les pers ne se renden
 
 -        Questionnaire sur les sensations corporelles émotionnelles :
 
-![Une image contenant table
-Description générée automatiquement](file:///C:/Users/bryan/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)
+![[Pasted image 20241112111508.png]]
 
 Conclusion :
 
@@ -338,15 +337,19 @@ _Le transfert de l’activation physiologique (découvert par Zillmann) et l’e
 
 L’effet est basé sur deux principes :
 
-●        L’intensité subjective d’une émotion est fonction de l’intensité des changements physiologiques perçus (sensations corporelles) et attribués à l’émotion : l’intensité de la colère d’une pers dépend de l’intensité des changements physiologiques perçus qu’elle attribue donc à l’émotion.
+- L’intensité subjective d’une émotion est fonction de l’intensité des changements physiologiques perçus (sensations corporelles) et attribués à l’émotion : l’intensité de la colère d’une pers dépend de l’intensité des changements physiologiques perçus qu’elle attribue donc à l’émotion.
+	 Si l’émotion est active dans situation A, elle sera tjr présente dans une situation B.
 
-🡪 Si l’émotion est active dans situation A, elle sera tjr présente dans une situation B.
-
-●        L’intensité des changements physiologiques lors d’une émotion dépend
-
-o   de l’état physiologique de l’individu juste avant l’émotion
-
-o   de l’intensité des changements physiologiques induits par l’émotion
+- **L’intensité des changements physiologiques lors d’une émotion dépend**
+	- de l’état physiologique de l’individu juste avant l’émotion
+	- de l’intensité des changements physiologiques induits par l’émotion
+	
+	**Exemple 1:** 
+	Si je dors et que je suis réveillé par un chien qui aboie, l'intensité de ma peur sera uniquement attribuée au chient qui aboie. Par contre si je suis en train de courir et que le chien aboie, comme j'ai déjà une intensité physiologique fortement active, la peur viendra encore augmenter l'activation physiologique. 
+	Si j'attribue mes émotions liées à la peur du chien au moment que je suis au repos ou en train de courir, je vais attribuer une activation physiologique plus (course) ou moins (repos) grande à ma peur des chiens.
+	**Exemple 2:** 
+	Un homme stresse en réunions mais il va courir le matin pour "se détendre" puis prend un café. Il va avoir une activation physiologique intense au moment des réunions et va attribuer ces états à une peur sociale d'être en réunion. L'explication de ce phénomène au patient l'a déjà calmé. Arrêt du café et du jogging avant la réunion.
+	=> Lorsqu'on comprend d'où provient l'activation physiologique, l'effet s'éteint.
 
 Les études de Zillmann ont montrées que :
 
@@ -358,17 +361,17 @@ Les études de Zillmann ont montrées que :
 
 **2)**     **L’effet « Valins »**
 
-« L’effet Valins » : la seule croyance d ’être activé suffit à provoquer l ’apparition d’une émotion, même s’il n’y a pas de changements périphériques réels.
+« L’effet Valins » : la seule croyance d ’être activé suffit à provoquer l ’apparition d’une émotion, même s’il n’y a pas de changements physiologiques réels.
 
-En manipulant la perception de changements périphériques d’une personne, il serait ainsi possible de modifier son état émotionnel. Ça concerne donc l’intensité de l’émotion et non pas la nature de l’émotion !
+En manipulant la perception de changements physiologiques d’une personne, il serait ainsi possible de modifier son état émotionnel. Ça concerne donc l’intensité de l’émotion et non pas la nature de l’émotion !
 
 **L’expérience de Valins :**
 
--        Sujets masculins exposés à des photos de femmes nues (**situation**) : réactions physiologiques à des stimuli émotionnels.
+- Sujets masculins exposés à des photos de femmes nues (**situation**) : réactions physiologiques à des stimuli émotionnels.
 
--        Ils portent un casque sur les oreilles qui diffuse ce qu’ils croient être leur rythme cardiaque (**croyances des participants**). En réalité, les battements sont préenregistrés, le rythme n’est donc pas réel.
+- Ils portent un casque sur les oreilles qui diffuse ce qu’ils croient être leur rythme cardiaque (**croyances des participants**). En réalité, les battements sont préenregistrés, le rythme n’est donc pas réel.
 
--        **Intérêt** : étudier, mesurer les réactions physiologiques à des stimuli émotionnels.
+- **Intérêt** : étudier, mesurer les réactions physiologiques à des stimuli émotionnels.
 
 Constats :
 
@@ -392,13 +395,15 @@ Pour les groupes 1 et 2, le fait de changer de rythme cardiaque (+) a rendu les 
 
 attractives. Dès lors, ils croient à une activation physiologique, ce qui a un impact sur leur
 
-évaluation. Les photos les + attrayantes sont donc associées à la croyance du rythme
+**Evaluation**: C'est en fonction de ce que j'ai entendu par rapport à mon rythme cardiaque que je vais trouver les photos attrayantes + ou moins attrayantes. 
 
 cardiaque (+++ ou -----) varié entendu.
 
 Effet puissant : même après le débriefing, le choix se maintient.
 
 🡺    L'effet de Transfert et l'effet Valins ne concernent que l'intensité émotionnelle / perçue. Pas d'influence sur la nature de l'émotion.
+
+L'attaque de panique: on a l'impression que le coeur bat à tout rompre => peur de faire une crise cardiaque, mêne à une activation physiologique plus importante mais pas outre mesure. Cependant la perception de cette accélération cardiaque et la croyance que je fais une crise de panique va attiser le rythme cardiaque. 
 
 ## 1.4.        Schachter et l’interaction physiologique/cognition
 

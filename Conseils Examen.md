@@ -1,15 +1,21 @@
 
-- Chap 1: Si la question modifie le nombre de personne impliquées, ne pas oublier de modifier le "$n$".
+**Chapitre 1**: 
 	- $n$: 
 		- "Décrivez"
 	- $n - 1$: 
 		- "Inférez à partir de l'échantillon"
 		- "Estimez"
-
+- Si la question modifie le nombre de personne impliquées, ne pas oublier de modifier le "$n$".
 - Quand on doit cumuler des populations pour plusieurs critères et diviser par la nouvelle population de ces deux critères, faire tout ensemble et pas séparément...
 	=> Ne pas additionner individuellement les risques absolus de deux populations; d'abord les regrouper.
 
-- **Chap 4**: Si on demande l'effet d'un critère parmi plusieurs (ie. incitation financière parmi envoi de SMS et "Rien") comparé à l'absence de celle-ci, on comparera à "Rien" et pas à la somme de "Rien" et "SMS" car SMS va biaiser l'observation qui ne porte que sur l'incitation financière.
+**Chapitre 4**: 
+- Si on demande l'effet d'un critère parmi plusieurs (ie. incitation financière parmi envoi de SMS et "Rien") comparé à l'absence de celle-ci, on comparera à "Rien" et pas à la somme de "Rien" et "SMS" car SMS va biaiser l'observation qui ne porte que sur l'incitation financière.
+- Quel est le **pourcentage de variabilité** de Y qui est prédite par la variabilité de X?
+	=> Coefficient de détermination $r^2$
+- De **combien de points augmentent** les résultats de A (résultat cherché) pour chaque point supplémentaire sur B (prédicteur X). Diviser par l'écart-type de **X** ($\sqrt{variance}$).
+- 
+
 
 |       |     |     |     | $\text{Risque absolu}$ |
 | ----- | --- | --- | --- | ---------------------- |

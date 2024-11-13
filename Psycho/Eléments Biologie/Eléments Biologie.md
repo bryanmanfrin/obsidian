@@ -1,5 +1,5 @@
 # Ressources
-![[Biologie_générale-1.pdf#height=400]]
+![[Biologie_générale-1.pdf]]
 # Plan du cours
 [[Introduction]]
 [[Définition]]

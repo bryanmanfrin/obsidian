@@ -14,7 +14,7 @@ Certaines questions de l'examen pourront provenir des questions présentes dans 
 [[Psychologie clinique - Historique]]
 [[Psychologie clinique - Culture]]
 [[Psychologie clinique - Les différents courants]]
-[[Psychologie clinique - intervention]]
+[[Psychologie clinique - interventions]]
 
 ```mermaid
 pie showData 

@@ -16,3 +16,5 @@ Qu'est ce qu'une émotion?
 Emotions, cognition et activité périphérique - quel est le rôle de la biologie dans l'aspect émotionnel
 Comprendre la controverse James-Cannon
 Savoir comment les role de l'activation physiologique dans le déclenchement
+# [[Psychologie des émotions - Chapitre 5]]
+L'expression faciale des émotions
