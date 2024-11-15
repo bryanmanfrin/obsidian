@@ -137,6 +137,9 @@ Cela peut aussi se produire durant l'anaphase 2. La différence c'est que ce son
 => Certains gamètes ont trop de matériel génétique, d'autres n'en ont pas assez.
 
 
+**Trisomie**
+Je pars avec une cellule qui a deux pairs de chromosomes. Mais après méiose, au lieu de me retrouver avec 2 chromatides dans mes gamètes, je me retrouve avec les deux copies d'une pair d'ADN qui provient du chromosome 21 (3 chromatides dans la gamète finale). Ensuite ce gamète anormal pourra tenter de féconder un gamète produit par l'autre parent.
+
 Si une erreur se produit dans le chromosome 21, lors d'une fécondation, si on obtient 3 copies du chromosome 21 (situation anormale) et deux copies de tous les autres chromosomes (situation normale), on obtient une trisomie.
 La cellule oeuf avec 3 copies est dite léthale et va arrêter son développement. Ca peut mener à des fausses couches. Certaines trisomies sont viables et la cellule poursuivra son développement.
 La trisomie 18 ne permet à l'enfant de vivre que quelques années. 

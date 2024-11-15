@@ -1,3 +1,7 @@
+**Rapport de chances?**
+Combien de fois plus de risque que...
+=> Par défaut on utilise le rapport de chances sauf si l'énoncé précise qu'il attend le risque relatif.
+
 
 **Chapitre 1**: 
 	- $n$: 

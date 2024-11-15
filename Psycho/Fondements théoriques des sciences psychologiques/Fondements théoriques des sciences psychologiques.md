@@ -15,5 +15,6 @@
 1. [[Chapitre 2 - Système nerveux]]
 2. [[Chapitre 3 - Sensation perception]]
 3. [[Chapitre 4 - Etats de conscience]]
+4. [[Chapitre 5 - L'apprentissage]]
 
 

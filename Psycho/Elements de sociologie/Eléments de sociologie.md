@@ -14,7 +14,8 @@ Hervé Maréchal - Initiations à la sociologie (15€) - **Seconde édition**
 ## Plan du cours
 [[Définition de la sociologie]]
 [[Famille]]
-[[Démographie]]
+[[Sociologie - Démographie]]
+[[Sociologie - Sociabilité]]
 [[Génération]]
 [[Mobilité sociale]]
 [[Culture]]

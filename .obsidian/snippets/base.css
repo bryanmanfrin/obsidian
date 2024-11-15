@@ -1,5 +1,9 @@
 :root body {
-    --bold-color: #26A69A;
+    --bold-color: #009688;
     --italic-color: #CBBFDD;
     --bold-modifier: 300;
+  }
+
+  h1 {
+    color: blue;
   }

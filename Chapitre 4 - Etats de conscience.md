@@ -56,6 +56,47 @@ Pourquoi ces activités anormales? Le système nerveux s'active à des moments i
 Anomalies des mécanismes des états de veille et sommeil. Quantité et qualité du sommeil affecté.
 
 # Les psychotropes
+Drogues légales ou illégales, naturelles ou synthétiques.
 Altération de l'état de conscience, la confiance en soi, les sensations etc. Agissent sur les systèmes de neurotransmission.
+L'être humain peut chercher volontairement à altérer son état de conscience.
 
+3 types de consommation:
+- **récréatif**
+	pas de problèmes pour la personne ou pour l'entourage
+
+- **abusif**
+	Usage surpasse l'usage récréatif. Tant le comportement que les quantités ne sont plus maitrisées.
+	Conséquences négatives sur soi et l'entourage. 
+	L'observatoire français des drogues et des toxicomanies => sur 40.000 jeune, 8,4% consomment > 10 fois par mois (~1x/3jours). 44% ont eu une consommation abusive durant les 30 derniers jours. 
+
+- **dépendance**
+	**Dépendance psychologique:** L'esprit va être orienté vers le besoin d'obtention de drogue. Certains biais cognitifs sont étudiés comme la détection plus rapide d'éléments qui indiquent la présence de drogues.
+	La dépendance va placer le corps dans un état de conscience différent.
+	Ex: cocaïne
+	
+	**Dépendance physique:** le corps va s'adapter à la présence de l'organisme. "Quels sont les effets à long terme sur le système nerveux?"
+	Une tolérance s'installe et les doses doivent augmenter.
+	Ex: nicotine
+	**Tout tourne autour de la drogue**
+	Souffrance psychologique: perte d'estime de soi, culpabilité, isolement social.
+	**Facteurs de risque** -d'être entrainé vers la dépendance- biologiques (système de la récompense), psychologiques (traumatismes et problèmes chroniques) et contexte social.
+
+**Types de psychotropes (tableau à lire seul)**
+- Dépresseurs
+	Ralentit le fonctionnement du système nerveux central. Installation d'une détente. Calmants (barbiturique) et anxiolytiques  (Valium).
+	Alcool: 
+	faible dose - anxiolytique, euphorie, désinhibition. 
+	dose élevé - perte d'équilibre, impulsivité, conduites sexuelles à risque.
+- Stimulants
+	Exaltation, euphorie, augmentation de l'énergie physique et mentale, diminution de l'appétit, sentiment de puissance. 
+	Effets sur la vigilance. Caféine, nicotine (toxicité, dépendance). 
+	Cocaïne, sentiment de surpuissance, paranoïa et délires
+- Analgésiques (ou opiacés)
+	 soulagement, euphorie. Tolérance s'installe. Si l'environnement est inhabituel, les effets de la drogue peuvent exploser et mener à l'overdose.
+- Perturbateurs
+
+**Sensibilisation, éducation**
+Exposer les effets non-désirés
+
+Récemment, on a élargi la portée de la dépendance aux jeux vidéos, réseaux sociaux, informations etc.
 # La méditation et l'hypnose

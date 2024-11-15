@@ -4,7 +4,7 @@ Comment savoir quels gènes proviennent du père ou de ma mère? De quelle faço
 
 **Gène**
 Morceau de molécule d'ADN - succession de base azotées - plan de montage d'une protéine.
-Un gène détermine un caractère donné grâce à la protéine synthétisée.
+Un gène détermine un caractère donné (phénotype - pétale rouge/jaune) grâce à la protéine synthétisée.
 
 # Mendel
 Croisement des fleurs en posant le pollen d'une plante sur les pistils d'un autre.
@@ -16,7 +16,7 @@ Monohybridisme:
 Le génotype: information chromosomique reçue des parents.
 Le phénotype: expression du génotype (apparence) :check:
 Allèle: un des états des caractères possibles de ce gène (rouge (R), blanc (B))
-Quand les allèles reçus par les parents sont les mêmes (LL, rr, RR, BB), le génotype est dit **monozygote** (lignée pure). Si les allèles reçus sont différents (Lr, BR, RB, rL), le génotype est **hétérozygote**.
+Quand les allèles reçus par les parents sont les mêmes (LL, rr, RR, BB), le génotype est dit **monozygote** (lignée pure - ex: *LLrr* est un double monozygote. Si les allèles reçus sont différents (Lr, BR, RB, rL), le génotype est **hétérozygote**.
 
 ![[Mendel-croisements-excalidraw]]
 
@@ -36,20 +36,9 @@ Les phénotypes expriment la combinaison des allèles sans qu'un ait de prévale
 | ----- | --- |
 | r     | Lr  |
 Croiser ces gènes
-Loi de disjonction
-on: certains individus n'expriment plus le génotype parental (prennent des grands parents). 
 
-
-<table style="border-color: red;">
-<th>Col 1</th>
-<th>Col 2</th>
-<tr>
-<td>1</td>
-</tr>
-<tr>
-<td>2</td>
-</tr>
-</table>
+**Loi de disjonction**
+Certains individus n'expriment plus le phénotype parental (peut exprimer celui des grands parents). 
 
 | Lr/Lr | L   | r   |
 | ----- | --- | --- |
@@ -59,8 +48,14 @@ phénotypes résultant: LL (lisses), Lr (lisses), rr (ridées).
 => 75% des enfants seront lisses, 25% seront ridés.
 
 
-Avec les gènes dominants, des allèles ne sont pas exprimés et donc cachés. Il veut pourtant être capable de ne créer que des individus lisses. Croiser des Lr entre eux laisse pourtant la place à des "rr".
-Solution: le rétrocroisement.
+Avec les gènes dominants, des allèles ne sont pas exprimés et donc cachés. Il veut pourtant être capable de ne créer que des individus lisses. 
+Solution: 
+
+**Le rétrocroisement.**
+monohybridisme (gris/blanc).
+J'ai 25% des individus qui n'expriment pas le phénotype parental quand j'ai un récessif. Mais les 75% vont contenir des gènes récessifs invisibles visuellement.
+=> Il prend tous les individus et les rétrocroise avec des individus qui sont récessifs (rr)
+
 Il va croiser des individus avec des rr avec des LL
 
 | rr/LL | L   |
@@ -77,8 +72,11 @@ Il a croisé tous les lisses avec un récessif (Lr) avec des ridés (rr) pour mo
 
 
 ## Monohybridisme
+On étudie un seul caractère à la fois (i.e: couleur)
 
-Double homozygote 
+On croise deux parents homozygotes (1 rouge (RR) et un blanc (BB), 100% des descendants seront tous les mêmes - roses (RB - hétérozygotes))
+Par contre si je regarde le phénotype, il sera rose si les deux sont codominants. Si un des deux (R ou B) est dominant, les descendants seront rouges ou blanc. 
+
 Lisse et vert de lignée pure: LLvv (où vert est récessif)
 Jaune et ridé: rrJJ
 
@@ -111,6 +109,7 @@ phénotypes de l'aspect mais dominant de la couleur
 
 
 ## Dihybridisme
+**Je regarde deux aspects (gènes) héréditaires**
 Je suis jaune au milieu de la savane - je suis caché.
 La savane devient luxuriante et devient verte - je suis vite repéré.
 Je suis entouré par de nombreux spécimens hétérozygotes (i.e. LrJv), j'aurais produit des individus verts parmi d'autres qui étaient jaunes. Les individus verts vont alors mieux survivre.
@@ -138,3 +137,87 @@ o: o des deux parents car c'est un gène récessif (oo)
 
 Le sang qui n'est pas du même groupe sanguin sera attaqué car les protéines de surface du sang intru seront reconnues par les anticorps. Anticorps anti-A chez les B et o, anticorps anti-B chez les A et o, anticorps anti-o chez les A, B et AB.
 
+# Exercice 
+
+Fleur rouge lisse 
+Fleur blanche ridée
+
+**Génotype de parents de lignée pure?**
+- Parents de fleur rouge lisse (RRLL)
+- Parents de fleur blanche ridée (BBrr)
+
+**Phénotype et génotype des individus de première génération?**
+cf loi d'association: 100% des individus de première génération de lignée pure associent les allèles parentaux pour chaque caractère => double hétérozygote.
+
+Phénotype de 100% des descendants: Rose + lisse
+
+| RRLL/BBrr | RL   |
+| --------- | ---- |
+| Br        | RBLr |
+
+**Gamètes formés par F1?**
+Loi de disjonction des allèles: les allèles qui s'étaient associés vont se dissocier par l'alignement des allèles durant la métaphase 1 de la méiose (alignement sur l'axe équatorial).
+
+| RBLr/RBLr | RL       | Rr         | BL           | Br           |
+| --------- | -------- | ---------- | ------------ | ------------ |
+| RL        | *RRLL*   | *RRLr*     | **RBLL**     | **RBLr**     |
+| Rr        | *RRLr*   | ==RRrr==   | **RBLr**     | ***RBrr***   |
+| BL        | **RBLL** | **RBLr**   | **==BBLL==** | **==BBLr==** |
+| Br        | **RBLr** | ***RBrr*** | **==BBLr==** | BBrr         |
+RBLr (hétérozygote pour la couleur, hétérozygote pour l'aspect)
+BBrr (homozygote pour la couleur, hétérozygote récessif pour l'aspect)
+
+**Roses Lisses**: 6 (phénotype des parents)
+*Rouges Lisses*: 2
+==Rouges ridés==: 1
+**==Blancs Lisses==**: 3
+***Roses ridés***: 2
+Blancs ridés: 1
+
+
+**Deux lignées pures de souris produisent respectivement des descendants gris et blancs. Sachant que le caractère gris est dominant, quelles proportions de phénotypes observe-t-on lors d'un rétrocroisement d'une souris grise hétérozygote et d'une souris blanche homozygote issues toutes deux de deuxième génération (F2) ?**
+
+
+50% - 50%
+
+**Gb/bb**
+
+| Bb/bb | G   | b   |
+| ----- | --- | --- |
+| b     | Gb  | bb  |
+
+**Deux lignées pures de cobayes produisent respectivement des descendants noirs à poils courts et blancs à poils longs. Sachant que les caractères noir et court sont dominants, quelles proportions de phénotypes observe-t-on en deuxième génération (F2) comme descendants ?**
+
+Dihybridisme
+Vu qu'on a deux caractères dominants, on trouvera beaucoup de dominants. Les deux caractères en ont un qui domine l'autre (B>n, C > l)
+**9-3-3-1**
+
+|     | nC   | nl   | BC   | Bl   |
+| --- | ---- | ---- | ---- | ---- |
+| nC  | NNCC | NNCl | NBCC | NBCl |
+| nl  | NNCl | NNll | NBCl | NB   |
+| BC  |      |      |      |      |
+| BI  |      |      |      |      |
+
+**Deux lignées pures de pois produisent respectivement des descendants à fleurs jaunes et bleues. Sachant que vous observez 50% des descendants de première génération (F1) de génotype hétérozygote, que pouvez-vous dire des allèles du gène codant pour le caractère couleurs des fleurs ?**
+
+
+Une absurdité dans l'énoncé
+
+**Deux lignées pures de papillons produisent respectivement des descendants aux ailes rouges et jaunes. Sachant que vous observez 50% des descendants de première génération (F1) de phénotype orange, que pouvez-vous dire des allèles du gène codant pour le caractère couleurs des ailes ?**
+
+Une absurdité dans l'énoncé - 100% des descendants devraient être oranges
+
+**Deux lignées pures de coccinelles produisent respectivement des descendants aux ailes oranges et rouges. Sachant que vous observez 25% des descendants de deuxième génération (F2) qui n'expriment pas le phénotype parental rouge, que pouvez-vous dire des allèles du gène codant pour le caractère couleurs des ailes ?**
+
+Monohybridisme - 2ème génération. En Deuxième génération, j'ai 75% des individus qui expriment le phénotype dominant et 25% des individus qui expriment le phénotype récessif.
+
+L'allèle rouge est dominant
+
+**Deux lignées pures de rats produisent respectivement des descendants bruns à poils courts et noirs à poils longs. Sachant que vous observez les proportions de phénotypes suivantes en deuxième génération (F2) : 9/16 de bruns à poils longs; 3/16 de bruns à poils courts; 3/16 de noirs à poils longs; 1/16 de noirs à poils courts, que pouvez-vous dire des allèles des gènes codant respectivement pour la couleur et la longueur des poils ?**
+
+Brun et Longs sont dominantes
+
+
+**La loi d'association des allèles explique comment les allèles qui se sont dissociés en première génération de descendants s'associent en seconde génération de descendants ?**
+Faux. Cette question représente la loi de dissociation.
