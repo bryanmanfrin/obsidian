@@ -2,6 +2,11 @@
 Combien de fois plus de risque que...
 => Par défaut on utilise le rapport de chances sauf si l'énoncé précise qu'il attend le risque relatif.
 
+$\text{Ecart type } (S_x) = \sqrt{variance}$
+$\text{Ecart type}^2 \iff  (S_x)^2 = \text{variance}$
+
+**Last checks:** 
+- Ne pas répondre en pourcentage quand on demande la proportion
 
 **Chapitre 1**: 
 	- $n$: 
@@ -13,13 +18,32 @@ Combien de fois plus de risque que...
 - Quand on doit cumuler des populations pour plusieurs critères et diviser par la nouvelle population de ces deux critères, faire tout ensemble et pas séparément...
 	=> Ne pas additionner individuellement les risques absolus de deux populations; d'abord les regrouper.
 
-**Chapitre 4**: 
-- Si on demande l'effet d'un critère parmi plusieurs (ie. incitation financière parmi envoi de SMS et "Rien") comparé à l'absence de celle-ci, on comparera à "Rien" et pas à la somme de "Rien" et "SMS" car SMS va biaiser l'observation qui ne porte que sur l'incitation financière.
-- Quel est le **pourcentage de variabilité** de Y qui est prédite par la variabilité de X?
-	=> Coefficient de détermination $r^2$
-- De **combien de points augmentent** les résultats de A (résultat cherché) pour chaque point supplémentaire sur B (prédicteur X). Diviser par l'écart-type de **X** ($\sqrt{variance}$).
-- 
+**Chapitre 2:**
+- **Quelle est la variance de** "quelque chose" 
+	- "**dans cet échantillon**" => formule de la variance en $n$
+	- **sinon** = formule de la variance en $n-1$ **ou** mettre au carré le $S_x$ (la calculatrice utilise $n-1$)
+- Si tu veux trouver l'écart type des valeurs dans un échantillon, utilises N-1 pour que ce soit corrigé et transposable à la population (voir formule $S$).
+- Tu peux utiliser le $S$ de la calculatrice car il utilise la formule N-1 pour corriger et appliquer à une population.
 
+**Chapitre 3**: 
+- Si on demande l'effet d'un critère parmi plusieurs (ie. incitation financière parmi envoi de SMS et "Rien") comparé à l'absence de celle-ci, on comparera à "Rien" et pas à la somme de "Rien" et "SMS" car SMS va biaiser l'observation qui ne porte que sur l'incitation financière.
+
+- **Estimez l'importance de la relation**: coefficient de corrélation ($r$) (en proportion)
+  
+- Quel est le **pourcentage de variabilité** de Y qui **est prédite par** la variabilité de X?
+- Quel est le **taux**/part **de variabilité**/variance **entre** 2 variables
+	=> Coefficient de détermination $r^2$ (METTRE $r$ AU CARRÉ!!)
+	
+- De **combien de points augmentent** les résultats de V1 (résultat cherché) **pour chaque point supplémentaire sur** V2 (prédicteur X). Donner $b$.
+  
+- De **combien de fois augmente** le risque de ... chez les ... => rapport de chance
+  
+- **Autre formule de $r$**
+	$r = b * \dfrac{S_X}{S_Y}$
+- **Importance de l'erreur d'estimation:**
+	- erreur standard d'estimation: $S_{XY}$
+		$S_Y$ est l'écart-type de la variable dépendante (pas le prédicteur, l'autre)
+	- valeur résiduelle: $S_{XY}^2$
 
 |       |     |     |     | $\text{Risque absolu}$ |
 | ----- | --- | --- | --- | ---------------------- |

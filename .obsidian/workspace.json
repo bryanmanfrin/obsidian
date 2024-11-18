@@ -4,165 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae11aa47927f7b2",
+        "id": "fb4b47adca702a23",
         "type": "tabs",
         "children": [
           {
-            "id": "e69175487112c2bd",
+            "id": "0e250bc7f61ce420",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychostatistiques"
+              "title": "Chapitre 1 - Variables et niveaux de mesures"
             }
           },
           {
-            "id": "4fac5fd2d1b5740d",
+            "id": "890dfa07e788386f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
+                "file": "Chapitre 2 - Statistiques descriptives univariées.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eléments Biologie"
+              "title": "Chapitre 2 - Statistiques descriptives univariées"
             }
           },
           {
-            "id": "b6691f796056fcb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 5 - L'apprentissage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 5 - L'apprentissage"
-            }
-          },
-          {
-            "id": "ce2b80dbce3455e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 4 - Etats de conscience.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 4 - Etats de conscience"
-            }
-          },
-          {
-            "id": "b5222b58fa879c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychostatistiques"
-            }
-          },
-          {
-            "id": "53918b882a66a14f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eléments de sociologie"
-            }
-          },
-          {
-            "id": "a239b2ff98233f53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sociologie - Sociabilité.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sociologie - Sociabilité"
-            }
-          },
-          {
-            "id": "d4d681b6ff4274b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sociologie - Sociabilité.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sociologie - Sociabilité"
-            }
-          },
-          {
-            "id": "35ce6781dcfa26b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "cc50eda0ddccc7d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychostatistiques"
-            }
-          },
-          {
-            "id": "15d4ebf1e8ec03db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'hérédité.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L'hérédité"
-            }
-          },
-          {
-            "id": "3db630b0dbe5c5d3",
+            "id": "0b19d1d15cb393b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,49 +50,7 @@
             }
           },
           {
-            "id": "8d6ec161bcad0fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conseils Examen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conseils Examen"
-            }
-          },
-          {
-            "id": "6e9c1f606368f275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bourdieu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bourdieu"
-            }
-          },
-          {
-            "id": "b2039031ff29972e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bourdieu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bourdieu"
-            }
-          },
-          {
-            "id": "f86a015f9ea7100b",
+            "id": "a190e7a3fb245411",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -232,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trisomie",
+                "query": "risque relatif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -284,50 +116,6 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3dcfc89bd62fef84",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29eb955fe8603875",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "L'hérédité.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4212920205268498,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of L'hérédité"
-            }
-          }
         ]
       }
     ],
@@ -341,20 +129,38 @@
       {
         "id": "cb10153b7d2ab192",
         "type": "tabs",
-        "dimension": 38.61271676300578,
         "children": [
+          {
+            "id": "638e408a0fc9a855",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapitre 3 - Statistiques descriptives bivariées.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapitre 3 - Statistiques descriptives bivariées"
+            }
+          },
           {
             "id": "4b5904ac5530bea0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'hérédité.md",
+                "file": "Chapitre 3 - Statistiques descriptives bivariées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from L'hérédité"
+              "title": "Outgoing links from Chapitre 3 - Statistiques descriptives bivariées"
             }
           },
           {
@@ -376,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'hérédité.md"
+                "file": "Chapitre 3 - Statistiques descriptives bivariées.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of L'hérédité"
+              "title": "Outline of Chapitre 3 - Statistiques descriptives bivariées"
             }
           },
           {
@@ -391,43 +197,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "b823bd895026eaab",
-        "type": "tabs",
-        "dimension": 33.410404624277454,
-        "children": [
+          },
           {
-            "id": "638e408a0fc9a855",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "L'hérédité.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for L'hérédité"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dcb560491107237e",
-        "type": "tabs",
-        "dimension": 27.976878612716767,
-        "children": [
-          {
-            "id": "73a7e30836c00c59",
+            "id": "6abb2eda06151314",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -436,11 +208,13 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -455,54 +229,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "291ca3e021573c5f",
+  "active": "54bfcdff353fe298",
   "lastOpenFiles": [
-    "La sexualité - diversification.md",
-    "Lexique - Constitution chimique.md",
-    "L'hérédité.md",
-    "Chapitre 7 - Données catégorielles et khi-carré.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "Sociologie - Sociabilité.md",
     "Chapitre 3 - Statistiques descriptives bivariées.md",
-    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
     "Conseils Examen.md",
-    "Evaluation des élèves.md",
+    "Chapitre 2 - Statistiques descriptives univariées.md",
+    "Chapitre 7 - Données catégorielles et khi-carré.md",
+    "Chapitre 1 - Variables et niveaux de mesures.md",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Home.md",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "stat-Chapitre 7.pdf",
+    "info.md",
+    "Untitled 1.md",
+    "Sociologie - Sociabilité.md",
+    "Sociabilité 2024 nov - Tagged.pdf",
+    "Psychologie des émotions - Chapitre 5.md",
+    "Psychologie clinique - interventions.md",
     "Pasted image 20241114164117.png",
     "Pasted image 20241114161823.png",
-    "ISEF - Chapitre 6 14 11 2024.pdf",
-    "Bourdieu.md",
-    "Home.md",
-    "Sociabilité 2024 nov - Tagged.pdf",
-    "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "stat-Chapitre 7.pdf",
-    "Chapitre 4 - Etats de conscience.md",
-    "Chapitre 5 - L'apprentissage.md",
-    "John Broadus Watson.md",
-    "Behaviorisme.md",
-    "PSYC5866 05-Apprentissage 2024-25.pdf",
-    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
-    "Untitled 1.md",
-    "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes/DEPI.md",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "Chapitre 5 - Concepts de base des probabilités.md",
-    "Psychologie clinique - interventions.md",
     "Pasted image 20241112122955.png",
-    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
-    "Introduction à la psychologie clinique - 1.pdf",
-    "Psychologie des émotions - Chapitre 5.md",
     "Pasted image 20241112122939.png",
-    "info.md",
-    "Chap 5 Emotion et Expression non verbale 2024-25.pdf",
     "Pasted image 20241112121809.png",
     "Pasted image 20241112111508.png",
-    "stat-Chapitre 2.pdf",
-    "stat-Chapitre 2 1.pdf",
-    "Pasted image 20241106214827.png",
-    "462641842_557676866664318_3689968181899962546_n.jpg",
-    "462641842_557676866664318_3689968181899962546_n 1.jpg",
-    "462577569_540530568522784_9070010573457157622_n.jpg",
+    "PSYC5866 05-Apprentissage 2024-25.pdf",
+    "L'hérédité.md",
+    "John Broadus Watson.md",
+    "ISEF - Chapitre 6 14 11 2024.pdf",
+    "Excalidraw/Mendel-croisements-excalidraw.md",
+    "Evaluation des élèves.md",
+    "Chapitre 5 - L'apprentissage.md",
+    "Chap 5 Emotion et Expression non verbale 2024-25.pdf",
+    "Bourdieu.md",
     "9a_Heredite_Alice.pdf",
+    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+    "462553764_1231463131474786_7688113640270818824_n.jpg",
+    "462641842_557676866664318_3689968181899962546_n 1.jpg",
+    "462544321_3658981274432707_1297408267300811024_n 1.jpg",
+    "462546577_509571485238459_8747197142737270106_n 1.jpg",
+    "conflict-files-obsidian-git.md",
+    "Redoublement et stéréotypes.md",
+    "stat-Chapitre 2 1.pdf",
+    "stat-Chapitre 2.pdf",
+    "stat- Chapitre 6.pdf",
+    "Psychologie des émotions - Chapitre 4.md",
     "PSYC5866 04-États de conscience 2024-25.pdf",
+    "Orientation humaniste.md",
+    "Lexique - Psychostatistiques^.md",
+    "Le développement des organismes.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

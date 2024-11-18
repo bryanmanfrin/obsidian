@@ -42,7 +42,7 @@ Rapport de chances: valeur plus grande divisée par valeur plus petite: 0,499/0,
 **Prévalence**
 	Proportion d'individus atteints
 	Nombre de personnes avec des symptômes / nombre de personnes **totales** $(A+C)/T$
-	(165)/1580 = 0,1044% de personnes atteintes
+	(165)/1580 = 0,1044 - 10,44% de personnes atteintes
 
 **Risque absolu**
 	**Prévalence** de la maladie dans l'un des deux groupes. Atteints/non-atteints.
@@ -82,7 +82,7 @@ Rapport de chances: valeur plus grande divisée par valeur plus petite: 0,499/0,
 	VD en ordonnées (Y)
 	Prédiction = $\hat{Y}$
 
-**Covariance et Corrélation - coefficient de corrélation**
+**Covariance**
 	Est-ce que les variables varient ensemble ? Reflète le degré auquel deux variables varient ensemble.
 	Si on avait une relation, si on a un score élevé sur la première, on devrait s'attendre à trouver un score élevé sur la deuxième? Mais comment savoir ce qui est un score élevé? On compare à la moyenne.
 	Une covariance égale à 0 indique qu'il n'y a pas de tendance entre les deux variables
@@ -119,7 +119,7 @@ Rapport de chances: valeur plus grande divisée par valeur plus petite: 0,499/0,
 	Rapport de la covariance sur la variance de la variable X. Quand j'avance de 1 sur la variable X, je me déplace de $b$ points sur l'axe y.
 	
 	$b=\dfrac{COV_{XY}}{(S_X)^2}$
-		 Où $Sx$ est l'écart type des $X$ mis au carré
+		 Où $Sx$ est l'écart type des $X$, puis mis au carré
 		 b est la coordonnée en Y quand X = 1
 	$\text{}$
 	$a=\bar Y - b\bar X$
