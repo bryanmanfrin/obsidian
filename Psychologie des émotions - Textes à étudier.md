@@ -14,19 +14,18 @@ L'émotion a plusieurs facettes:
 ## Les 5 dimensions d'une émotion
 ### Pensées suscitées par la situation 
 (chien qui aboie, je n'ai rien pour me défendre)
-### Modifications biologiques
+
+1 - **Modifications biologiques**
 - modifications neuronales - activation de l'amygdale
 - modifications physiologiques - rythme cardiaque, pression sanguine
 - manifestations neuro-végétatives
-### Tendance à l'action 
-Envie de fuite, de combat, de prendre dans les bras
-### Modifications expressives et comportementales
-Lorsque l'émotion n'est pas réprimée, elle s'accompagne d'expressions faciales et de gestes correspondants à l'émotion.
-
-### Expérience subjective
+2 - **Tendance à l'action** 
+	Envie de fuite, de combat, de prendre dans les bras
+3 - **Modifications expressives et comportementales**
+	Lorsque l'émotion n'est pas réprimée, elle s'accompagne d'expressions faciales et de gestes correspondants à l'émotion.
+4 - **Expérience subjective**
 Une introspection suit l'émotion et permet à l'individu de se rendre compte de ce qu'il ressent.
-
-## Les répresseurs
+5 - **Les répresseurs**
 Les répresseurs dissocient les composantes physiologiques et subjectives - ils n'ont pas conscience de leur état émotionnel en dépit de l'activation importante de leur état physiologique. Ils sont plus vulnérables aux maladies psychosomatiques car ils ne savent pas réguler leur état physiologique.
 
 ## Les déclencheurs
@@ -43,6 +42,25 @@ Les émotions apparaissent dans 2 situations:
 
 ## Fonctions de l'émotion
 Contrairement à ce que disent les stoïciens grecs, les émotions ont un rôle fonctionnel. Elles informent l'individu de la réalisation de ses objectifs et de la satisfaction de ses besoins.
+
+**L'ultime fonction de l'émotion est de faciliter l'adaptation de l'individu à son environnement.**
+**L'émotion est TOUJOURS porteuse d'un message. Elle informe ET pousse à l'action.**
+
+Exemples:
+
+| Émotion de base (**7**) | Fonction adaptative | Stimulus déclencheur                      | Comportement                            | Corrélat biologique                                                                   |
+| ----------------------- | ------------------- | ----------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------- |
+| Peur                    | Protection          | Menace                                    | S'enfuir                                | Corps paralysé pour décider de la réaction appropriée. Sang redirigé vers les muscles |
+| Dégout                  | Rejet               | Objet/substance immonde/personne nuisible | Vomir, jeter au loin, rejeter du groupe | S'accompagne de nausées, tentative primitive de rejeter les substances toxiques.      |
+| Colère                  |                     |                                           |                                         |                                                                                       |
+| Tristesse               |                     |                                           |                                         |                                                                                       |
+| Surprise                |                     |                                           |                                         |                                                                                       |
+| Joie                    |                     |                                           |                                         |                                                                                       |
+| Amour, tendresse        |                     |                                           |                                         |                                                                                       |
+
+Les **tendances à l'action ne sont pas des prescriptions** à l'actions, contrairement à l'**instinct** qui **impose** un comportement => le jeu entre l'instinct et la modération de l'émotion créé les différences individuelles face aux réactions.
+
+
 
 
 
