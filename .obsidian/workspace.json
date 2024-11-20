@@ -4,53 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "fb4b47adca702a23",
+        "id": "8ae11aa47927f7b2",
         "type": "tabs",
         "children": [
           {
-            "id": "0e250bc7f61ce420",
+            "id": "4fac5fd2d1b5740d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 1 - Variables et niveaux de mesures.md",
+                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 1 - Variables et niveaux de mesures"
+              "title": "Eléments Biologie"
             }
           },
           {
-            "id": "890dfa07e788386f",
+            "id": "ce2b80dbce3455e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 2 - Statistiques descriptives univariées.md",
+                "file": "Chapitre 4 - Etats de conscience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 2 - Statistiques descriptives univariées"
+              "title": "Chapitre 4 - Etats de conscience"
             }
           },
           {
-            "id": "0b19d1d15cb393b7",
+            "id": "53918b882a66a14f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 3 - Statistiques descriptives bivariées.md",
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 3 - Statistiques descriptives bivariées"
+              "title": "Eléments de sociologie"
             }
           },
           {
-            "id": "a190e7a3fb245411",
+            "id": "d4d681b6ff4274b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociologie - Sociabilité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sociologie - Sociabilité"
+            }
+          },
+          {
+            "id": "cc50eda0ddccc7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychostatistiques"
+            }
+          },
+          {
+            "id": "b35a3f346fc4822a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement affectif.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Développement affectif"
+            }
+          },
+          {
+            "id": "8d6ec161bcad0fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fondements théoriques des sciences psychologiques"
+            }
+          },
+          {
+            "id": "38ce7c69b1477c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fondements théoriques des sciences psychologiques"
+            }
+          },
+          {
+            "id": "4edd1f6699be24af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitre 5 - L'apprentissage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapitre 5 - L'apprentissage"
+            }
+          },
+          {
+            "id": "14bcd00e844e69aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Méthodes de recherches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Méthodes de recherches"
+            }
+          },
+          {
+            "id": "4b05ecc672abd58a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,9 +160,37 @@
               "icon": "lucide-file",
               "title": "Conseils Examen"
             }
+          },
+          {
+            "id": "b2039031ff29972e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction à la psychologie clinique"
+            }
+          },
+          {
+            "id": "bc65b8df25a508fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitre 5 - Concepts de base des probabilités.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapitre 5 - Concepts de base des probabilités"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -76,6 +202,7 @@
       {
         "id": "0ffcc7c8597200f6",
         "type": "tabs",
+        "dimension": 77.87610619469027,
         "children": [
           {
             "id": "54bfcdff353fe298",
@@ -95,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "risque relatif",
+                "query": "théorie esprit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,6 +243,51 @@
               "title": "Bookmarks"
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3dcfc89bd62fef84",
+        "type": "tabs",
+        "dimension": 22.123893805309734,
+        "children": [
+          {
+            "id": "29eb955fe8603875",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Chapitre 5 - L'apprentissage.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4212920205268498,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Chapitre 5 - L'apprentissage"
+            }
+          }
         ]
       }
     ],
@@ -129,38 +301,20 @@
       {
         "id": "cb10153b7d2ab192",
         "type": "tabs",
+        "dimension": 38.61271676300578,
         "children": [
-          {
-            "id": "638e408a0fc9a855",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Chapitre 3 - Statistiques descriptives bivariées.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Chapitre 3 - Statistiques descriptives bivariées"
-            }
-          },
           {
             "id": "4b5904ac5530bea0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 3 - Statistiques descriptives bivariées.md",
+                "file": "Développement affectif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapitre 3 - Statistiques descriptives bivariées"
+              "title": "Outgoing links from Développement affectif"
             }
           },
           {
@@ -182,10 +336,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 3 - Statistiques descriptives bivariées.md"
+                "file": "Chapitre 5 - L'apprentissage.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapitre 3 - Statistiques descriptives bivariées"
+              "title": "Outline of Chapitre 5 - L'apprentissage"
             }
           },
           {
@@ -197,9 +351,43 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b823bd895026eaab",
+        "type": "tabs",
+        "dimension": 33.410404624277454,
+        "children": [
           {
-            "id": "6abb2eda06151314",
+            "id": "638e408a0fc9a855",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapitre 5 - L'apprentissage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapitre 5 - L'apprentissage"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dcb560491107237e",
+        "type": "tabs",
+        "dimension": 27.976878612716767,
+        "children": [
+          {
+            "id": "73a7e30836c00c59",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -208,13 +396,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,54 +415,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54bfcdff353fe298",
+  "active": "291ca3e021573c5f",
   "lastOpenFiles": [
-    "Chapitre 3 - Statistiques descriptives bivariées.md",
+    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
+    "Chapitre 5 - Concepts de base des probabilités.md",
     "Conseils Examen.md",
-    "Chapitre 2 - Statistiques descriptives univariées.md",
-    "Chapitre 7 - Données catégorielles et khi-carré.md",
+    "Chapitre 5 - L'apprentissage.md",
+    "Méthodes de recherches.md",
     "Chapitre 1 - Variables et niveaux de mesures.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "Home.md",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "stat-Chapitre 7.pdf",
-    "info.md",
-    "Untitled 1.md",
-    "Sociologie - Sociabilité.md",
-    "Sociabilité 2024 nov - Tagged.pdf",
-    "Psychologie des émotions - Chapitre 5.md",
     "Psychologie clinique - interventions.md",
+    "Bourdieu.md",
+    "Développement affectif.md",
+    "7_Dev socio-affectif_dev_emotionnel_partie2_2023_2024.pdf",
+    "Approches philosophiques sur les émotions.md",
+    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
+    "L'hérédité.md",
+    "La sexualité - diversification.md",
+    "Lexique - Constitution chimique.md",
+    "Chapitre 7 - Données catégorielles et khi-carré.md",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Sociologie - Sociabilité.md",
+    "Chapitre 3 - Statistiques descriptives bivariées.md",
+    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+    "Evaluation des élèves.md",
     "Pasted image 20241114164117.png",
     "Pasted image 20241114161823.png",
+    "ISEF - Chapitre 6 14 11 2024.pdf",
+    "Home.md",
+    "Sociabilité 2024 nov - Tagged.pdf",
+    "Psycho/Elements de sociologie/Eléments de sociologie.md",
+    "stat-Chapitre 7.pdf",
+    "Chapitre 4 - Etats de conscience.md",
+    "John Broadus Watson.md",
+    "Behaviorisme.md",
+    "PSYC5866 05-Apprentissage 2024-25.pdf",
     "Pasted image 20241112122955.png",
+    "Introduction à la psychologie clinique - 1.pdf",
     "Pasted image 20241112122939.png",
+    "Chap 5 Emotion et Expression non verbale 2024-25.pdf",
     "Pasted image 20241112121809.png",
     "Pasted image 20241112111508.png",
-    "PSYC5866 05-Apprentissage 2024-25.pdf",
-    "L'hérédité.md",
-    "John Broadus Watson.md",
-    "ISEF - Chapitre 6 14 11 2024.pdf",
-    "Excalidraw/Mendel-croisements-excalidraw.md",
-    "Evaluation des élèves.md",
-    "Chapitre 5 - L'apprentissage.md",
-    "Chap 5 Emotion et Expression non verbale 2024-25.pdf",
-    "Bourdieu.md",
-    "9a_Heredite_Alice.pdf",
-    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
-    "462553764_1231463131474786_7688113640270818824_n.jpg",
-    "462641842_557676866664318_3689968181899962546_n 1.jpg",
-    "462544321_3658981274432707_1297408267300811024_n 1.jpg",
-    "462546577_509571485238459_8747197142737270106_n 1.jpg",
-    "conflict-files-obsidian-git.md",
-    "Redoublement et stéréotypes.md",
-    "stat-Chapitre 2 1.pdf",
     "stat-Chapitre 2.pdf",
-    "stat- Chapitre 6.pdf",
-    "Psychologie des émotions - Chapitre 4.md",
-    "PSYC5866 04-États de conscience 2024-25.pdf",
-    "Orientation humaniste.md",
-    "Lexique - Psychostatistiques^.md",
-    "Le développement des organismes.md",
+    "stat-Chapitre 2 1.pdf",
+    "Pasted image 20241106214827.png",
+    "462641842_557676866664318_3689968181899962546_n.jpg",
+    "462641842_557676866664318_3689968181899962546_n 1.jpg",
+    "462577569_540530568522784_9070010573457157622_n.jpg",
+    "9a_Heredite_Alice.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",
