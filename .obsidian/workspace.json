@@ -134,6 +134,19 @@
             }
           },
           {
+            "id": "b9afe9573c2574b9",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Psychologie des émotions - Textes à étudier.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Psychologie des émotions - Textes à étudier)"
+            }
+          },
+          {
             "id": "14bcd00e844e69aa",
             "type": "leaf",
             "state": {
@@ -190,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -257,7 +270,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapitre 5 - L'apprentissage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,7 +297,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Chapitre 5 - L'apprentissage"
+              "title": "Graph view"
             }
           }
         ]
@@ -335,11 +347,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chapitre 5 - L'apprentissage.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Chapitre 5 - L'apprentissage"
+              "title": "Outline"
             }
           },
           {
@@ -366,7 +376,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 5 - L'apprentissage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -376,7 +385,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapitre 5 - L'apprentissage"
+              "title": "Backlinks"
             }
           }
         ]
@@ -415,13 +424,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "291ca3e021573c5f",
+  "active": "b9afe9573c2574b9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Chapitre 5 - L'apprentissage.md",
     "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
     "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
     "Chapitre 5 - Concepts de base des probabilités.md",
     "Conseils Examen.md",
-    "Chapitre 5 - L'apprentissage.md",
     "Méthodes de recherches.md",
     "Chapitre 1 - Variables et niveaux de mesures.md",
     "Psychologie clinique - interventions.md",
@@ -448,7 +458,6 @@
     "stat-Chapitre 7.pdf",
     "Chapitre 4 - Etats de conscience.md",
     "John Broadus Watson.md",
-    "Behaviorisme.md",
     "PSYC5866 05-Apprentissage 2024-25.pdf",
     "Pasted image 20241112122955.png",
     "Introduction à la psychologie clinique - 1.pdf",
