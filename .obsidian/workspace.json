@@ -204,6 +204,45 @@
             }
           },
           {
+            "id": "9cddee866faf324c",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
+            "id": "e6d36fbf8df7e353",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
+            "id": "003c481c53f5730c",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
             "id": "aa20e72e7b9f89d1",
             "type": "leaf",
             "state": {
@@ -302,7 +341,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -368,7 +407,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conseils Examen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -396,7 +434,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Conseils Examen"
+              "title": "Graph view"
             }
           }
         ]
@@ -446,11 +484,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conseils Examen.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Conseils Examen"
+              "title": "Outline"
             }
           },
           {
@@ -477,7 +513,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conseils Examen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -487,7 +522,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Conseils Examen"
+              "title": "Backlinks"
             }
           }
         ]
@@ -528,10 +563,12 @@
   },
   "active": "291ca3e021573c5f",
   "lastOpenFiles": [
+    "tatus",
+    "conflict-files-obsidian-git.md",
+    "Conseils Examen.md",
     "Evaluation des élèves.md",
     "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
     "Sociologie - Sociabilité.md",
-    "Conseils Examen.md",
     "Psycho/Elements de sociologie/Eléments de sociologie.md",
     "Home.md",
     "Psycho/Psychostatistiques/Psychostatistiques.md",
@@ -542,7 +579,6 @@
     "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
     "Chapitre 5 - L'apprentissage.md",
     "L'hérédité.md",
-    "conflict-files-obsidian-git.md",
     "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
     "Chapitre 5 - Concepts de base des probabilités.md",
     "Méthodes de recherches.md",
@@ -554,7 +590,6 @@
     "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
     "La sexualité - diversification.md",
     "Lexique - Constitution chimique.md",
-    "Chapitre 7 - Données catégorielles et khi-carré.md",
     "Pasted image 20241114164117.png",
     "Pasted image 20241114161823.png",
     "ISEF - Chapitre 6 14 11 2024.pdf",
