@@ -98,8 +98,109 @@ on fait des test
 
 ⭐ le timing entre les deux stimuli est très important (continuité temporelle)
 
-Le conditionnement palpébral
+# Le conditionnement palpébral
+En 2012 des chercheurs essaient d'utiliser le conditionnement palpébral pour savoir quel est l'impact de maladies neurodégénératives sur l'apprentissage pavlovien. Ils ont testé plusieurs types de conditionnement ("différé" et "de trace").
+Ils ont observé qu'il n'y avait pas de dégradation dans la qualité du conditionnement différé mais qu'il y en avait dans le conditionnement de trace.
+
+
+WOOCLAP:
+**Quel est le résultat le plus important de la recherche?**
+Il y a une altération importante de conditionnement dès l'âge de 6 mois.
+La variante du conditionnement de trace pourrait être un outil potentiel pour détecter les déficits cognitifs précoces dans le modèle de souris AD.
+**Quel est l'intérêt de la page 9?** 
+	Ca illustre que parfois, la recherche fondamentale (page 9) qui sera utilisée dans d'autres contextes (celui de l'étude sur les souris).
+**Quelles sont les VI**: l'âge, la maladie d'Alzheimer
+**Quelle est la VD**: la réponse conditionnelle
+C'est de la **recherche fondamentale** et non appliquée car ???
+**Quelle est la méthode de recherche employée?** Méthode expérimentale
+
+
+
+Cognitive enhancers - 
+Le transmetteur acétylcholine est trop peu présent chez les patients atteints d'Alzheimer. On a donc testé un médicament qui favorise l'action de l'acétylcholine (le médicament réduit l'effet de l'acétylcholinestérase - enzyme de dégradation de l'acétylcholine).
+On observe une amélioration très nette de l'apprentissage pavlovien chez les patients traités par ce médicament.
+
+# Le conditionnement d'ordre supérieur
+??
+
+
+# Apprentissage de la peur
+*Watson et Albert*
+On peut conditionner la peur. Apprentissage de la réponse conditionnelle de peur.
+Un enfant posé devant un rat blanc (SN) n'a pas peur. Mais chaque fois que le chercheur fait un bruit assourdissant (SI) faisant peur (RI) à l'enfant et pose le rat blanc près de l'enfant en même temps.
+Chaque fois que l'enfant voit le rat (SC), il aura une réponse de peur (RC).
+
+## Extinction?
+Peut-on utiliser l'extinction pour faire disparaitre la réponse conditionnelle? Oui
+Contre-conditionnement:
+apaisement d’une réponse émotionnelle indésirable par l’association du stimulus qui
+la provoque à un autre stimulus qui provoque une réponse incompatible avec la
+première
+→ donner un bonbon quand l’enfant s’approche de la souris dont il a peur
+
+
+# Loi de l'effet de Thorndike
+On étudie l'intelligence de l'animal (un chat) pour voir quels moyen il met en œuvre pour s'enfuir de la cage. Il est enfermé 40 fois et on mesure son temps d'évasion.
+
+On remarque l'apprentissage essai-erreur.
+
+**Loi de l'effet**: probabilité que le comportement se reproduise va augmenter progressivement au fil du temps à condition que le comportement soit suivi d'une récompense agréable (si il avait un choc, il resterait dans sa cage).
+
+L'animal comprend que la conséquence de l'action est quelque chose d'agréable et va le répéter (conditionnement par renforcement positif).
+
+# Les 4 formes d'apprentissage
+
+## Schéma d'analyse instrumental. 
+On choisit quel comportement on veut renforcer (la souris doit pousser sur un levier). On veut augmenter la probabilité qu'il appuie sur ce levier.
+Augmenter => Présence => appétitif => **Renforcement positif** et **apprentissage par récompense**
+
+Faire la vaisselle? Si tu la fais mtn, tu n'auras pas à en refaire une autre ce soir.
+On veut l'augmentation => absence de l'évènement de conséquence => on va éviter quelque chose qu'on n'aime pas (pas besoin de faire une autre corvée le soir)
+
+**Renforcement positif**
+**Renforcement négatif**
+**Punition positive**
+**Punition négative**
+
+
+# Le conditionnement opérant
+Apprentissage au cours duquel le niveau opérant d'un comportement est modifié via l'apparition ou le retrait d'une conséquence de façon contingente à ce comportement.
+=> Deux attentes: augmenter ou diminuer
+=> Deux types de conséquences: agréable, désagréable
+=> 4 type de contingences: les 4 combinaisons des éléments plus haut
+
+Les renforçateurs primaires
+
+**Les renforçateurs secondaires**
+Un chimpanzé aime tirer un levier si il en obtient un raisin. Mais si c'est un bout de bois (jeton), il sera moins intéressé. Si par contre on arrange les choses pour qu'il puisse utiliser le jeton pour obtenir du raisin, il tirera le levier.
+=> Il obtient le raisin par le biais du jeton.
+
+
+L'apprentissage latent
+Des apprentissages se font sans qu'on ait des indicateurs comportementaux mais lorsque c'est renforcé, on voit qu'en effet, le comportement a été appris même si ce n'était pas visible.
+
+
+
+
+Les comportements dont l’effet est désirable pour l’organisme ont tendance à
+réapparaitre, au contraire, ceux dont l’effet est désagréable ont tendance à disparaitre
+→ intelligence animale: on place un chat dans une puzzle box, le temps qu’il prend
+diminue mais en dent de scie
+→ la probabilité qu’un comportement se reproduise augmente si il est suivi d’une
+conséquence agréable et inversément
+Stimulus agréable: appétitif
+stimulus que recherche l’organisme
+Stimulus désagréable: aversif
+stimulus que l’organisme veut éviter
+Renforçateur primaire:
+stimulus qui satisfait un besoin biologique de l’organisme
+Renforçateur secondaire:
+
+
+
 C’est un conditionnement classique chez le lapin et chez l’homme
+
+
 Chez le lapin:
 
 Fondements: Chapitre 5: L’apprentissage 4
@@ -115,7 +216,7 @@ même situation mais de temps en temps on diffuse le son sans le souffle et
 parfois on diffuse un son différent pour voir si l’animal réagit
 Plus le stimuli est différent moins le sujet réagit
 
-La discrimination:
+# La discrimination:
 
 Fondements: Chapitre 5: L’apprentissage 5
 
@@ -138,20 +239,7 @@ Fondements: Chapitre 5: L’apprentissage 6
 
 Le conditionnement opérant
 Explique comment on apprend à agir sur l’environnement par des réponses volontaires
-La loi de l’effet de Thorndike:
-Les comportements dont l’effet est désirable pour l’organisme ont tendance à
-réapparaitre, au contraire, ceux dont l’effet est désagréable ont tendance à disparaitre
-→ intelligence animale: on place un chat dans une puzzle box, le temps qu’il prend
-diminue mais en dent de scie
-→ la probabilité qu’un comportement se reproduise augmente si il est suivi d’une
-conséquence agréable et inversément
-Stimulus agréable: appétitif
-stimulus que recherche l’organisme
-Stimulus désagréable: aversif
-stimulus que l’organisme veut éviter
-Renforçateur primaire:
-stimulus qui satisfait un besoin biologique de l’organisme
-Renforçateur secondaire:
+
 
 Fondements: Chapitre 5: L’apprentissage 7
 
@@ -182,7 +270,9 @@ comportement = on enlève le stimulus positif
 
 Fondements: Chapitre 5: L’apprentissage 8
 
-Extinction:
+# Extinction:
+Quand on essaye de faire disparaitre une réponse acquise par conditionnement pavlovien, on peut observer le recouvrement spontané (la réponse réapparait) durant un certain temps.
+
 Le fait que le SC ne soit plus suivi du SI, ce qui entraine la disparition du RC
 Recouvrement spontané:
 Quelque temps après l’extinction d’une réponse, celle-ci réapparait spontanément quand

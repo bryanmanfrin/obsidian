@@ -41,11 +41,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Psychologie des émotions - Textes à étudier.md",
-                "staged": false
+                "file": "7_Dev socio-affectif_dev_emotionnel_partie2_2023_2024.pdf",
+                "staged": true
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Psychologie des émotions - Textes à étudier)"
+              "title": "Diff View (7_Dev socio-affectif_dev_emotionnel_partie2_2023_2024.pdf)"
             }
           }
         ],
@@ -215,6 +215,8 @@
   },
   "active": "0b19d1d15cb393b7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "7_Dev socio-affectif_dev_emotionnel_partie2_2023_2024.pdf",
     "Conseils Examen.md",
     "Psychologie des émotions - Textes à étudier.md",
     "Chapitre 2 - Statistiques descriptives univariées.md",
@@ -253,14 +255,11 @@
     "462641842_557676866664318_3689968181899962546_n 1.jpg",
     "462544321_3658981274432707_1297408267300811024_n 1.jpg",
     "462546577_509571485238459_8747197142737270106_n 1.jpg",
-    "conflict-files-obsidian-git.md",
     "Redoublement et stéréotypes.md",
     "stat-Chapitre 2 1.pdf",
     "stat-Chapitre 2.pdf",
-    "stat- Chapitre 6.pdf",
     "Psychologie des émotions - Chapitre 4.md",
     "Orientation humaniste.md",
-    "Lexique - Psychostatistiques^.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

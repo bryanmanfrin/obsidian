@@ -92,5 +92,46 @@ Correspondance formelle entre deux systèmes. La même règle s'opère dans le s
 
 Si on veut se documenter sur des facteurs culturels pour en connaitre l'impact sur la thérapie, on va demander à la personne au lieu de faire les recherches. Plus facile et plus proche de la personne.
 
-La raisonnace
+**La résonnance**
 Dans quelle mesure les croyances du thérapeute va influencer la thérapie? Syndrome de l'imposteur. Rentrer dans une thématique peut devenir risquée même pour un thérapeute car sujet sensible. Le psychologue peut être supervisé. 
+
+
+
+# 19/11/2024 - Véronique Timmermans 
+## Approche centrée sur la personne et expérientielle
+
+S'est redirigé vers la psychothérapie après avoir travaillé en tant que journaliste.
+A été se former au Canada (2 approches humanistes).
+Formation en traumatic experiencing (dans la lignée de Peter Levin).
+A vu Eugène Gendlin et partagé ses livres. Il a travaillé avec Carl Rogers
+
+Carl Rogers ~années 40.
+Beaucoup de recherche. Il a enregistré et analysé des entretiens et utilisait beaucoup l'approche scientifique. L'approche était au départ non-directive (il ne dirige pas la personne mais part de ce qu'elle dit - approche centrée sur la personne et expérientielle). On essaye d'être dans le cadre de référence de la personne, dans son monde intérieur.
+
+"Psychothérapeute Rogerien"
+- **empathie**
+- **congruence**: être en concordance avec soi même lorsque le thérapeute s'adresse à la personne. Le thérapeute a eu un travail préalablement pour être dans les meilleurs conditions. Le thérapeute suit lui-même une thérapie durant la formation. 
+- **non-jugement**: regarde positif inconditionnel. 
+
+**La tendance actualisante**
+	La tendance actualisante est la conviction que la personne a tout pour pouvoir croitre.
+	L'image de la pomme de terre. Les pommes de terre étaient gardées en réserve pour l'hivers. Dans la cave, dans le noir, elles germaient. "Elles tendaient vers la lumière".
+	=> Même dans le noir, elles peuvent se former et lorsqu'on amène le terreau, ce qui sera déjà là (le germe) pourra germer.
+
+Carl Rogers (vidéo)
+Thérapeute: Vous vous sentez seul et vous aimeriez être accompagné.
+Client: C'est ce qui vient de se passer
+
+Les insights permettent de transformer jusqu'au système nerveux et devenir plus (+) soi-même - on retire des blocages.
+
+
+
+
+
+
+
+
+
+
+
+

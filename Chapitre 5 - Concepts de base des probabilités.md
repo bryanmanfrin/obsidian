@@ -89,7 +89,7 @@ On nous donne une table de correspondance
 La probabilité va varier en fonction de sigma et mu
 $\mu=100 \text{ et } \sigma=15$
 
-Problème des tables des probabilités dans la distribution normale=> chaque graph est différent en fonction du sigma et du mu donc la table sera différente
+Problème des tables des probabilités dans la distribution normale=> chaque graph est différent en fonction du sigma et du mu donc la table sera différente.
 Au lieu d'avoir un graph par variante de table, on va ajuster la donnée venant de la table de distribution normale en fonction.
 Le Z score donne une moyenne de 0 et un écart type de 1. Il peut être négatif.
 $Z = \dfrac{X - \mu}{\sigma}$

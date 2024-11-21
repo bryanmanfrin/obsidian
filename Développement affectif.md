@@ -101,7 +101,7 @@ Initiative/Culpabilité.
 Fierté d'essayer opposé à la culpabilité (envers soi) de ne pas avoir réussi. L'enfant va essayer de se définir à travers ce qu'il sait faire. Le compromis est d'accepter qu'il ne sait pas tout faire.
 "Je ne suis pas parfait".
 
-# Théorie de Wallon
+## Théorie de Wallon
 Le stade du **personnalisme**
 
 Période d'opposition (3 - 4 ans)
@@ -131,3 +131,202 @@ Enfants difficiles qui n'aiment pas les règles. Enfant qui se renferment, peu d
 Style désengagé
 Catégorie n'importe quoi, beaucoup d'ambivalence. Parfois oui, parfois non.
 Comportements antisociaux, mauvaise estime de soi.
+
+
+# Compétences parentales
+Représentation de soi en tant que parent et de sa capacité à influencer positivement le développement de ses enfants.
+
+Les compétences se développent avec l'expérience et sont donc à niveaux variables dans les domaines (école, hygiène, émotion, etc).
+
+4 sources : 
+- expériences passées et présentes
+- expériences vicariantes: modèles autour de soi
+- persuasion verbale: commentaires positifs et négatifs reçus
+- Etat émotionnels et physiologiques lors des interactions (stress de sortir un enfant colérique)
+
+Les compétences parentales vont influencer la gestion émotionnelle des enfants.
+
+## La régulation émotionnelle
+Capacité à régler quand et comment on exprime ses émotions
+
+Il est nécessaire que l'enfant développe son cortex préfrontal (4-5 ans) pour qu'il puisse commencer à réguler ses émotions (cf théorie de l'esprit - il commence à savoir ce qu'on peut dire et ne pas dire dans certaines circonstances).
+Il comprend aussi qu'il peut moduler le choix de ses mots pour influencer les personnes autour de lui ("j'ai peur" vs "j'ai pas envie.
+
+
+Vers 3-4 ans:
+- Supprimer l'input sensoriel (cache l'objet de sa peur)
+- Se parler à soi-même (maman revient bientôt)
+- Changer de but (dire qu'on n'a pas envie de jouer si on est exclu d'un groupe).
+
+### Mauvaises gestion et mauvaises stratégies de régulation émotionnelle
+Troubles internalisés - retournement contre soi: culpabilité, dévalorisation, craintes (**trop de contrôle**)
+Troubles externalisés - expression incontrôlée des émotions (excès de colère) - (**pas assez de contrôle**).
+
+
+### Emergence de l'empathie
+L'égocentrisme intellectuel diminue
+Faculté permettant de percevoir et de **comprendre les sentiments d'autrui**, de se mettre à sa place **tout en conservant une distance**. Prend place grâce à la mise en place de la théorie de l'esprit.
+
+**Comportements pro-sociaux**
+	Se préoccuper de son prochain et poser des actes pour l'aider.
+
+Liens entre tempérament et difficultés émotionnelles:
+- Tempérament **inhibé**: risques accrus de **problèmes émotionnels**
+- Tempérament **difficile**: risque accrus d'**agressivité** et de délinquance
+
+### Agressivité
+> [!PDF]- 6_Dev socio-affectif_dev_emotionnel_partie1_2024_2025.pdf]]
+> ![[6_Dev socio-affectif_dev_emotionnel_partie1_2024_2025.pdf#page=38]]
+
+
+
+
+Comportement intentionnel visant à blesser autrui ou abimer un objet.
+Diminue lorsqu'augmente sa capacité de régulation émotionnelle.
+
+**2 ans**, tous ont des comportements **agressifs**
+**3-4 ans**: 
+
+
+# De 6-12 ans
+
+4ème crise de'Erickson
+S'efforce à maitriser de nombreuses habilités. Plaisir dans l'achèvement du travail
+MAIS se rend compte qu'il ne sait pas tout faire, se voit comme incompétente et inférieur.
+
+Résolution du conflit: meilleure connaissance de soi-même, de ses compétences et de ses limites.
+
+
+## Théorie de Wallon: 
+### Stade catégoriel:
+*Ne pas confondre avec le **moi catégoriel** (l'enfant se rend compte qu'il a conscience de lui, se reconnait dans des photos).*
+L'enfant se tourne vers l'extérieur et aime faire connaissance avec ce qui l'entoure. Apprend plein de choses sur l'extérieur.
+
+## Le concept de soi
+Développement du moi psychologique: l'enfant comprend qu'il possède des traits psychologiques permanents (je suis un être humain, j'aime la natation, parfois je suis impatient).
+
+Les pairs ont beaucoup plus d'importance à cet âge là. On se compare beaucoup (je sais mieux nager que, …).
+
+Un enfant en dessous de 6 ans va laisser à la maman l'estimation de comment l'enfant se sent.
+$\gt$ 6 ans, il commence à affirmer qu'il sait mieux que les autres ce qu'il ressent.
+
+
+## Estime de soi
+Elle se construit à travers les expériences de réussite et d'échec
+C'est 4 choses:
+
+- Connaissance de soi
+- Réussites et compétences
+- Sentiment d'appartenance
+- Sentiment de sécurité
+
+## Auto-efficacité
+"Je me sens capable de", "je me sens incapable de"
+
+$\neq$ de l'estime de soi. Ce n'est pas parce que je ne me sens pas capable de quelque chose que j'ai une mauvaise estime de moi.
+
+
+**Stratégies centrées sur le problème**: évaluation de la situation comme étant modifiable, identification de la difficulté et prise de décision
+**Stratégie centrée sur l'émotion** qui est interne, privée et a pour but le plus souvent de contrôler la détresse.
+**Stratégie centrée sur le soutien social**: utiliser notre environnement social pour nous aider.
+
+
+## Le développement moral
+Est-ce bien ou non de penser telle ou telle chose?
+
+Composante **cognitive**: distinguer le bien du mal
+Composante **comportemental**: agir en fonction
+Composante **émotionnelle**: ressentir les émotions correspondantes
+
+
+Les émotions morales:
+Freud: les règles forment le surmoi
+Moi idéal = choses que font les bons enfants, sinon honte.
+
+Erickson:
+Apprend les règles morales de ses parents et peut avoir de la fierté d'avoir résisté.
+
+>9-10 ans, l'enfant se sentira coupable même si il n'a pas été vu.
+
+Piaget a testé les jugements moraux des enfants:
+5-9 ans: l'intention malfaisante est ignorée, seul le résultat compte (nombreuses tasses cassées - pas fait exprès -> jugé "méchant" quand même)
+10-11 ans: l'intention malfaisante devient le critère (une tasse cassée mais c'était voulu -> coupable)
+
+
+**Réalisme moral** #tuyau 
+< 8 ans
+Les règles sont fixes et ne changent pas
+**La justice immanente**: 
+	à chaque fois qu'on enfreint les règles, on s'attend à avoir une conséquence négative.
+	=> Un enfant vole une pomme puis tombe dans l'eau en s'échappant => l'enfant a été puni car il n'a pas été gentil.
+**La conséquence immédiate et apparente détermine le caractère positif ou négatif de l'action**
+	J'ai rangé ma chambre mais je suis puni
+	J'ai ennuyé ma sœur toute la journée mais j'ai été récompensé
+	Qui a mal agi? "Le premier car il a été puni".
+
+**Relativisme moral**
+$\gt$ 8 ans
+Les règles peuvent être modifiées.
+"Pas vu, pas pris"
+
+
+## Agressivité
+
+Moins d'agressivité physique
+
+# Adolescence
+
+
+
+![[7_Dev socio-affectif_dev_emotionnel_partie2_2023_2024.pdf]]
+
+De nombreux changements se produisent simultanément. Adaptation difficile.
+
+L'adolescent se retourne sur lui-même, moins sur l'extérieur. 
+
+L'identité renvoie à l'individualité ("je suis moi")
+Au **sentiment de singularité** "Je suis différent des autres de telles ou telles façons"
+Au **sentiment d'une continuité**
+
+## 5ème crise d'Erickson
+- Ils savent qu'ils vont avoir plus de responsabilités
+- **Remettent en question** ce qu'ils ont appris dans la vie et de leurs parents
+- **La confusion de rôles**: hésitations provisoires sur son identité (je suis plutôt comme ça? plutôt comme ça? Un peu des deux?)
+- Harmonisent leurs connaissances avec leurs croyances
+
+Faux soi: ensemble de comportements à la recherche d'une identité. Désir d'expérimenter, d'impressionner. Nait d'un sentiment de rejet perçu.
+
+## Les traits de personnalité (BIG FIVE)
+Extraversion
+Amabilité/caractère agréable
+Intégrité/consciencieux
+Instabilité émotionnelle/névrotisme
+Ouverte à l'expérience
+
+
+Développement moral
+Dilemme: "Laisser mourir sa femme ou voler un médicament pour la sauver"
+
+**Niveau 1: Moralité pré-conventionnelle (ou pré-moralité)**
+Stade 1: Orienté autour de l'évitement de la punition (on ne change pas les règles)
+Stade 2: intérêt personnel: On doit voler le médicament sinon on va être seul (toujours orienté autour de soi)
+
+**Niveau 2: adultes**
+Stade 3: On doit faire les bonnes choses en fonction de l'opinion politique des autres et rester accepté socialement.
+Stade 4: respect de la loi et des conventions (mariage) qui obligent la personne à voler
+
+**Niveau 3: Moralité postconventionnelle**
+**Stade 5**: Les règles qui ne favorisent pas le bien être général doivent être violées
+**Stade 6**: On se fonde sur la justice et l'étique. On est obligé de désobéir à des lois injustes.
+
+
+## Agressivité
+Augmentation des conflits dans le but de s'affirmer
+
+## Comportements à risque
+Scarification: peut créer un sentiment d'identité. 
+2/3 des enfants et adolescents déprimés ont des pensées suicidaires. Il peut suffire d'un conflit vécu comme une injustice, à délai court.
+
+Quand une tentative de suicide fonctionne, il y a de fortes chances que d'autres suivent.
+Hausse après la sortie de la série 13 reasons why.
+Un suicide à Verviers -> 6 tentatives ont suivi.

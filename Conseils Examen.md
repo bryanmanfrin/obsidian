@@ -45,6 +45,13 @@ $\text{Ecart type}^2 \iff  (S_x)^2 = \text{variance}$
 		$S_Y$ est l'écart-type de la variable dépendante (pas le prédicteur, l'autre)
 	- valeur résiduelle: $S_{XY}^2$
 
+Chapitre 5: 
+- Ne pas confondre 
+	- 10% (Z=1,28) 
+	- 1% (Z = 2,33)
+- Ne pas oublier le signe du Z score (en dessous ou au dessus de la moyenne)
+
+
 |       |     |     |     | $\text{Risque absolu}$ |
 | ----- | --- | --- | --- | ---------------------- |
 | bla   | 50  | x   | 120 | 0,41                   |
