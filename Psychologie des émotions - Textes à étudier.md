@@ -11,7 +11,7 @@ L'émotion a plusieurs facettes:
 - Modification de la posture
 - ...
 
-## Les 5 dimensions d'une émotion
+## Les 5 composantes d'une émotion
 ### Pensées suscitées par la situation 
 (chien qui aboie, je n'ai rien pour me défendre)
 
@@ -62,8 +62,27 @@ Les **tendances à l'action ne sont pas des prescriptions** à l'actions, contra
 
 
 
+# Questions Réponses 19/11
 
+Les questions présentes sur e-campus seront globalement celles posées à l'examens.
+On ne nous interrogera pas sur les noms des auteurs.
 
+Q7: Bellinghausen: Si la composante subjective est déficitaire (incapable d'interpréter l'émotion qu'on ressent), on peut faire référence aux pensées pour nous permettre d'identifier.
+
+Q8: FACS: guide permettant de catégoriser les émotions à partir des micro-expressions.
+
+T3Q3: didgital vs analogique
+Digital: ce qui se réfère aux mots. Chacun connait la relation sémantique mais le sens entre le mot et l'objet qu'il décrit est arbitraire. 
+Analogique: Renseigne davantage sur l'aspect relationnel de l'échange car on peut faire passer plus d'informations (expressions, gestuelle etc).
+
+Emotion primaire: émotion présente dans toutes les cultures
+Emotions secondaire: résultat de plusieurs émotions primaires - non-universel - Cultural display rule
+
+Il y a un caractère universel des expressions faciales mais l'expression est quand même légèrement différente selon la culture.
+
+Le cortisol convertiti les graisses en sucre dans le foie. Met un ensemble de systèmes au repos. A long terme, un niveau élevé de cortisol augmente la glycémie, troubles intestinaux, sensibilités accrues aux virus.
+Cortext sensoriel, rôle de modération. Si le cortex sensoriel 
+L'amygdale réagit aux stimulis négatifs
 
 ![[Texte 2. Identifications des émotions.pdf]]
 ![[Texte 3. Identification des émotions d'autrui.pdf]]
