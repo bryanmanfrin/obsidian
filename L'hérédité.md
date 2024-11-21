@@ -54,20 +54,21 @@ Solution:
 **Le rétrocroisement.**
 monohybridisme (gris/blanc).
 J'ai 25% des individus qui n'expriment pas le phénotype parental quand j'ai un récessif. Mais les 75% vont contenir des gènes récessifs invisibles visuellement.
-=> Il prend tous les individus et les rétrocroise avec des individus qui sont récessifs (rr)
+=> Il prend tous les individus et les rétrocroise avec des individus qui sont récessifs (rr). En faisant ça, il saura voir si les individus portaient un gène récessif car il sera exprimé à 50% parmi les enfants de ces porteurs d'allèles récessifs.
 
-Il va croiser des individus avec des rr avec des LL
+Si on croise des individus avec des rr avec des LL, on obtient 100% de phénotype lisse (dominant).
 
-| rr/LL | L   |
-| ----- | --- |
-| r     | Lr  |
-=> 100% phénotype lisse
-Il a croisé tous les lisses avec un récessif (Lr) avec des ridés (rr) pour montrer que certains individus étaient récessifs (malgré que le "r" était invisible).
+| rr/LL | L   | L   |
+| ----- | --- | --- |
+| r     | Lr  | Lr  |
+| r     | Lr  | Lr  |
+
+Si on croise des individus porteurs d'un gène récessif avec un double récessif, la descendance sera 50% de lisses, 50% ridés
 
 | rr/Lr | L   | r   |
 | ----- | --- | --- |
 | r     | Lr  | rr  |
-50% de lisses, 50% de ridés.
+
 
 
 
@@ -126,6 +127,8 @@ Morgan observe une section d'un des chromatides hérité d'un des deux parents. 
 Si le père apporte l'information lisse et que la mère apporte le ridé (crollé), Morgan comprend que des gènes sont dominants.
 
 ## Les systèmes poly-alléliques 
+Les gènes qu'amènent le père et la mère ne seront pas les mêmes (L/r, B/R, etc) et apporteront donc des allèles différents.
+
 Groupe sanguin déterminé par les protéines de surface qu'on trouve sur les globules rouges.
 Quand à la surface j'ai des protéines A, je suis A, quand j'ai les protéines AB, je suis groupe AB. Pareil pour B, O.
 
@@ -136,6 +139,18 @@ B: B des deux parents (BB ou Bo)
 o: o des deux parents car c'est un gène récessif (oo)
 
 Le sang qui n'est pas du même groupe sanguin sera attaqué car les protéines de surface du sang intru seront reconnues par les anticorps. Anticorps anti-A chez les B et o, anticorps anti-B chez les A et o, anticorps anti-o chez les A, B et AB.
+
+
+# L'opéron tryptophane
+Les gènes sont là mais ne s'expriment pas tout le temps.
+ 
+ Exemple chez les bactéries:
+ Les bactéries possèdent des **gènes de structure** (sur l'ADN). Les ARN messagers passent sur ces gènes de structure puis sont lus par des ribosomes pour fabriquer une protéine. Chaque protéine fabriquée sera une enzyme.
+ Les enzymes transforment un produit A en un produit B, puis C, puis D puis enfin, ça deviendra du tryptophane dont la bactérie a besoin.
+ Il faut donc produire des protéines puis les transformer plusieurs fois => coût important d'énergie.
+ 
+
+ Les bactéries doivent produire un acide aminé.
 
 # Exercice 
 

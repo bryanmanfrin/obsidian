@@ -120,30 +120,129 @@
             }
           },
           {
-            "id": "4edd1f6699be24af",
+            "id": "9a9c615ff298a036",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 5 - L'apprentissage.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 5 - L'apprentissage"
+              "title": "Home"
             }
           },
           {
-            "id": "b9afe9573c2574b9",
+            "id": "2c692fef8062e177",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Psychologie des émotions - Textes à étudier.md",
-                "staged": true
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Psychologie des émotions - Textes à étudier)"
+              "icon": "lucide-file",
+              "title": "Eléments de sociologie"
+            }
+          },
+          {
+            "id": "5b70dcd3313894e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eléments de sociologie"
+            }
+          },
+          {
+            "id": "c20e377b0e78df32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sciences de l'éducation"
+            }
+          },
+          {
+            "id": "075c9904a04e471d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sciences de l'éducation"
+            }
+          },
+          {
+            "id": "363831f2f3de6bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conseils Examen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conseils Examen"
+            }
+          },
+          {
+            "id": "aa20e72e7b9f89d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociologie - Sociabilité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sociologie - Sociabilité"
+            }
+          },
+          {
+            "id": "ba47836594223486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociologie - Sociabilité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sociologie - Sociabilité"
+            }
+          },
+          {
+            "id": "4f2a1cf7fe48f580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-07"
             }
           },
           {
@@ -203,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -235,7 +334,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "théorie esprit",
+                "query": "60eb22",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,8 +355,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3dcfc89bd62fef84",
@@ -270,6 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Conseils Examen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +396,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Conseils Examen"
             }
           }
         ]
@@ -313,7 +412,7 @@
       {
         "id": "cb10153b7d2ab192",
         "type": "tabs",
-        "dimension": 38.61271676300578,
+        "dimension": 34.335260115606935,
         "children": [
           {
             "id": "4b5904ac5530bea0",
@@ -347,9 +446,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Conseils Examen.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Conseils Examen"
             }
           },
           {
@@ -368,7 +469,7 @@
       {
         "id": "b823bd895026eaab",
         "type": "tabs",
-        "dimension": 33.410404624277454,
+        "dimension": 23.121387283236995,
         "children": [
           {
             "id": "638e408a0fc9a855",
@@ -376,6 +477,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conseils Examen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -385,7 +487,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Conseils Examen"
             }
           }
         ]
@@ -393,7 +495,7 @@
       {
         "id": "dcb560491107237e",
         "type": "tabs",
-        "dimension": 27.976878612716767,
+        "dimension": 42.54335260115607,
         "children": [
           {
             "id": "73a7e30836c00c59",
@@ -424,40 +526,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9afe9573c2574b9",
+  "active": "291ca3e021573c5f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Chapitre 5 - L'apprentissage.md",
+    "Evaluation des élèves.md",
+    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+    "Sociologie - Sociabilité.md",
+    "Conseils Examen.md",
+    "Psycho/Elements de sociologie/Eléments de sociologie.md",
+    "Home.md",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "2024-11-07.md",
+    "Bourdieu.md",
+    "Définition.md",
+    "Mobilité sociale.md",
     "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+    "Chapitre 5 - L'apprentissage.md",
+    "L'hérédité.md",
+    "conflict-files-obsidian-git.md",
     "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
     "Chapitre 5 - Concepts de base des probabilités.md",
-    "Conseils Examen.md",
     "Méthodes de recherches.md",
     "Chapitre 1 - Variables et niveaux de mesures.md",
     "Psychologie clinique - interventions.md",
-    "Bourdieu.md",
     "Développement affectif.md",
     "7_Dev socio-affectif_dev_emotionnel_partie2_2023_2024.pdf",
     "Approches philosophiques sur les émotions.md",
     "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
-    "L'hérédité.md",
     "La sexualité - diversification.md",
     "Lexique - Constitution chimique.md",
     "Chapitre 7 - Données catégorielles et khi-carré.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "Sociologie - Sociabilité.md",
-    "Chapitre 3 - Statistiques descriptives bivariées.md",
-    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-    "Evaluation des élèves.md",
     "Pasted image 20241114164117.png",
     "Pasted image 20241114161823.png",
     "ISEF - Chapitre 6 14 11 2024.pdf",
-    "Home.md",
     "Sociabilité 2024 nov - Tagged.pdf",
-    "Psycho/Elements de sociologie/Eléments de sociologie.md",
     "stat-Chapitre 7.pdf",
-    "Chapitre 4 - Etats de conscience.md",
-    "John Broadus Watson.md",
     "PSYC5866 05-Apprentissage 2024-25.pdf",
     "Pasted image 20241112122955.png",
     "Introduction à la psychologie clinique - 1.pdf",

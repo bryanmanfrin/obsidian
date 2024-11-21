@@ -1,7 +1,3 @@
-**Rapport de chances?**
-Combien de fois plus de risque que...
-=> Par défaut on utilise le rapport de chances sauf si l'énoncé précise qu'il attend le risque relatif.
-
 $\text{Ecart type } (S_x) = \sqrt{variance}$
 $\text{Ecart type}^2 \iff  (S_x)^2 = \text{variance}$
 
@@ -26,6 +22,8 @@ $\text{Ecart type}^2 \iff  (S_x)^2 = \text{variance}$
 - Tu peux utiliser le $S$ de la calculatrice car il utilise la formule N-1 pour corriger et appliquer à une population.
 
 **Chapitre 3**: 
+- Par défaut on utilise le rapport de chances sauf si l'énoncé précise qu'il attend le risque relatif.
+
 - Si on demande l'effet d'un critère parmi plusieurs (ie. incitation financière parmi envoi de SMS et "Rien") comparé à l'absence de celle-ci, on comparera à "Rien" et pas à la somme de "Rien" et "SMS" car SMS va biaiser l'observation qui ne porte que sur l'incitation financière.
 
 - **Estimez l'importance de la relation**: coefficient de corrélation ($r$) (en proportion)
@@ -42,24 +40,14 @@ $\text{Ecart type}^2 \iff  (S_x)^2 = \text{variance}$
 	$r = b * \dfrac{S_X}{S_Y}$
 - **Importance de l'erreur d'estimation:**
 	- erreur standard d'estimation: $S_{XY}$
-		$S_Y$ est l'écart-type de la variable dépendante (pas le prédicteur, l'autre)
+		$S_Y$ est l'écart-type de la variable dépendante (pas le prédicteur X, l'autre)
 	- valeur résiduelle: $S_{XY}^2$
 
-Chapitre 5: 
+**Chapitre 5:** 
 - Ne pas confondre 
-	- 10% (Z=1,28) 
-	- 1% (Z = 2,33)
+	- 10% (Z=1,28,  P=0,1) 
+	- 1% (Z = 2,33, P=0,01)
 - Ne pas oublier le signe du Z score (en dessous ou au dessus de la moyenne)
-
-
-|       |     |     |     | $\text{Risque absolu}$ |
-| ----- | --- | --- | --- | ---------------------- |
-| bla   | 50  | x   | 120 | 0,41                   |
-| bla2  | 36  | x   | 120 | 0,3                    |
-| bla 3 | x   | x   | x   |                        |
-
-Correct: (50+36) / (120 + 120) = 0,35
-Incorrect: (50/120) + (36/120) = 0,71
 
 
 # Synthèse Alice

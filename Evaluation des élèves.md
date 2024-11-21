@@ -68,3 +68,25 @@ Les compétences des élèves sont bien plus proches les unes des autres quand e
 Les amplifications des résultats peuvent faire doubler des élèves qui n'auraient pas doublé si testés autrement.
 
 
+**La recherche APER**
+Il y a une inéquité dans les décisions de redoublement car dans certaines classes/certain établissements, si les élèves sont en moyenne plus faibles, des élèves forts de cet établissement pourront avoir des résultats meilleurs que des élèves meilleurs mais venant d'établissements plus exigeants.
+
+
+Il y a plus de variabilité au regard des enseignants qu'il n'y en a au regard des tests externes.
+Les résultats sont donc plus hétérogènes que dans les tests externes.
+Un résultats équivalent à un test externe, en fonction de la classe, un élève va doubler ou réussir.
+Le jugement de l'enseignant est formé en fonction des camarades dont l'élève est entouré.
+
+
+**Effet Posthumus**
+L'enseignant tend à modifier son évaluation et la qualité de son enseignement de façon à maintenir des résultats formant une courbe de Gauss. On veut garder quelques faibles, quelques forts et beaucoup de moyens.
+
+=> Expose le caractère relatif des notes scolaires.
+
+
+**Expérience Gjorgjevski** 
+Après avoir testé de nombreux élèves et pris des élèves avec les mêmes résultats, on a donné ces copies à de nouveaux évaluateurs qui n'ont pas évalué les copies comme les premiers évaluateurs; ils ont à la place recréé une courbe de Gauss, i.e. extrait des mauvais et des meilleurs de cet échantillon qui était supposé contenir des résultats semblables.
+
+**Effet de stéréotypie**
+Est-ce que quand on nous connait, on a envie de nous évaluer de la même façon que d'habitude?
+=> Au plus on avance dans l'année au plus le lien est fort entre les notes du mois passé et celui d'après.
