@@ -90,3 +90,30 @@ Après avoir testé de nombreux élèves et pris des élèves avec les mêmes r�
 **Effet de stéréotypie**
 Est-ce que quand on nous connait, on a envie de nous évaluer de la même façon que d'habitude?
 => Au plus on avance dans l'année au plus le lien est fort entre les notes du mois passé et celui d'après.
+
+
+
+# Docimologie
+![[Isef chapitre 6 complément docimologie - Tagged.pdf]]
+Il y a des biais dans les évaluations: quand on se trompe et toujours dans la même direction.
+Je suis une fille et je conduis moins bien.
+
+Une évaluation contient sa dose de **biais** et sa dose de **bruit** qui l'éloigne de l'objectivité la plus stricte.
+
+Quand des théories sont bien établies sur certains sujets, on a tendance à lire les résultats à travers ces théories, en omettant qu'il peut y avoir différents points de vue.
+
+## Étude de Rangvid
+
+Fournit des copies d'étudiants dont les résultats ont tous eu une moyenne de 7 à un test standardisé. Quand mesuré par un enseignant, on observe des moyennes très variées selon 3 critères:
+- Genre
+- Statut économique
+- Migrant/natif
+
+![[Isef chapitre 6 complément docimologie - Tagged.pdf#page=6]]
+
+La copie moyenne forte et la bonne copie sont systématiquement mieux notées quand elles sont attribuées à un garçon, que quand elles le sont à une fille. 
+
+L’inverse est observé pour les copies plus faibles. Celles-ci sont notées de manière plus indulgente lorsqu’elles sont attribuées à une fille.
+
+Pus indulgents avec les filles faibles, moins indulgents avec les garçons faibles
+Plus sévères avec les filles performantes, plus sévères avec les garçons faibles

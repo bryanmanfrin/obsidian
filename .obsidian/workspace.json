@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae11aa47927f7b2",
+        "id": "cf47a9033bffa44d",
         "type": "tabs",
         "children": [
           {
-            "id": "4fac5fd2d1b5740d",
+            "id": "41806f039f621c4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Eléments Biologie/Eléments Biologie.md",
+                "file": "Développement social psycho-sexuel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eléments Biologie"
+              "title": "Développement social psycho-sexuel"
             }
           },
           {
-            "id": "ce2b80dbce3455e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 4 - Etats de conscience.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 4 - Etats de conscience"
-            }
-          },
-          {
-            "id": "53918b882a66a14f",
+            "id": "1c4f5a15c02a4415",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,21 +36,7 @@
             }
           },
           {
-            "id": "d4d681b6ff4274b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sociologie - Sociabilité.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sociologie - Sociabilité"
-            }
-          },
-          {
-            "id": "cc50eda0ddccc7d5",
+            "id": "33520c6662ec5801",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,21 +50,7 @@
             }
           },
           {
-            "id": "b35a3f346fc4822a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement affectif.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Développement affectif"
-            }
-          },
-          {
-            "id": "8d6ec161bcad0fbc",
+            "id": "f827cf42b78f4452",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,7 +64,49 @@
             }
           },
           {
-            "id": "38ce7c69b1477c1c",
+            "id": "95a8e509f28c6480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychostatistiques"
+            }
+          },
+          {
+            "id": "681fb6d14bc19463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitre 9 - Test d'hypothèse sur deux moyennes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapitre 9 - Test d'hypothèse sur deux moyennes"
+            }
+          },
+          {
+            "id": "35f7b18d559deec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eléments de sociologie"
+            }
+          },
+          {
+            "id": "3f515c6f036959f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,228 +120,21 @@
             }
           },
           {
-            "id": "9a9c615ff298a036",
+            "id": "9a1b3779bfc6b69f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Evidence Based Practice et ses 4 pilliers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "2c692fef8062e177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eléments de sociologie"
-            }
-          },
-          {
-            "id": "5b70dcd3313894e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Elements de sociologie/Eléments de sociologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eléments de sociologie"
-            }
-          },
-          {
-            "id": "c20e377b0e78df32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sciences de l'éducation"
-            }
-          },
-          {
-            "id": "075c9904a04e471d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sciences de l'éducation"
-            }
-          },
-          {
-            "id": "363831f2f3de6bc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conseils Examen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conseils Examen"
-            }
-          },
-          {
-            "id": "9cddee866faf324c",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "e6d36fbf8df7e353",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "003c481c53f5730c",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "aa20e72e7b9f89d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sociologie - Sociabilité.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sociologie - Sociabilité"
-            }
-          },
-          {
-            "id": "ba47836594223486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sociologie - Sociabilité.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sociologie - Sociabilité"
-            }
-          },
-          {
-            "id": "4f2a1cf7fe48f580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-11-07.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-07"
-            }
-          },
-          {
-            "id": "14bcd00e844e69aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthodes de recherches.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Méthodes de recherches"
-            }
-          },
-          {
-            "id": "4b05ecc672abd58a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conseils Examen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conseils Examen"
-            }
-          },
-          {
-            "id": "b2039031ff29972e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction à la psychologie clinique"
-            }
-          },
-          {
-            "id": "bc65b8df25a508fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 5 - Concepts de base des probabilités.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 5 - Concepts de base des probabilités"
+              "title": "Evidence Based Practice et ses 4 pilliers"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -373,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "60eb22",
+                "query": "tag:#poème  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -394,7 +187,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3dcfc89bd62fef84",
@@ -407,6 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Evidence Based Practice et ses 4 pilliers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -434,7 +229,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Evidence Based Practice et ses 4 pilliers"
             }
           }
         ]
@@ -484,9 +279,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Evidence Based Practice et ses 4 pilliers.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Evidence Based Practice et ses 4 pilliers"
             }
           },
           {
@@ -513,6 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Evidence Based Practice et ses 4 pilliers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -522,7 +320,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Evidence Based Practice et ses 4 pilliers"
             }
           }
         ]
@@ -563,52 +361,52 @@
   },
   "active": "291ca3e021573c5f",
   "lastOpenFiles": [
-    "tatus",
-    "conflict-files-obsidian-git.md",
     "Conseils Examen.md",
-    "Evaluation des élèves.md",
     "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-    "Sociologie - Sociabilité.md",
-    "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "Home.md",
     "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "2024-11-07.md",
-    "Bourdieu.md",
-    "Définition.md",
-    "Mobilité sociale.md",
+    "Réformes en FWB.md",
+    "Le courant cognitivo-comportemental (TCC) et ses 3 vagues.md",
+    "Isef 24 11 24.pdf",
+    "Chapitre 6 - La mémoire.md",
     "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
-    "Chapitre 5 - L'apprentissage.md",
-    "L'hérédité.md",
-    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
-    "Chapitre 5 - Concepts de base des probabilités.md",
-    "Méthodes de recherches.md",
-    "Chapitre 1 - Variables et niveaux de mesures.md",
-    "Psychologie clinique - interventions.md",
-    "Développement affectif.md",
-    "7_Dev socio-affectif_dev_emotionnel_partie2_2023_2024.pdf",
-    "Approches philosophiques sur les émotions.md",
+    "Génération.md",
+    "géneration nov.24 ex-ante. sent - Tagged.pdf",
+    "Psycho/Elements de sociologie/Eléments de sociologie.md",
+    "Chapitre 9 - Test d'hypothèse sur deux moyennes.md",
+    "Chapitre 9.pdf",
+    "PSYC5866 06-Mémoire 2022-23.pdf",
+    "Les régulations hormonale.md",
+    "12b_Hormones2-Diffsexuelle_Alice.pdf",
+    "Chapitre 3 - Statistiques descriptives bivariées.md",
+    "Chapitre 7 - Données catégorielles et khi-carré.md",
+    "Sociologie - Révisions.md",
+    "Pasted image 20241127095706.png",
+    "Définition de la sociologie.md",
+    "Pasted image 20241127085747.png",
+    "Pasted image 20241127085531.png",
+    "Sociologie - Sociabilité.md",
+    "Psychologie des émotions - Chapitre 5.md",
+    "tip.md",
+    "Psycho/Psychologie des émotions/Psychologie des émotions.md",
+    "L'attachement.md",
+    "Développement social psycho-sexuel.md",
+    "8_Dev socio-affectif_dev_social_2024_2025(1).pdf",
     "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
-    "La sexualité - diversification.md",
-    "Lexique - Constitution chimique.md",
+    "Développement affectif.md",
+    "Chapitre 4 - Etats de conscience.md",
+    "12a_Hormones1_Alice.pdf",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "Evaluation des élèves.md",
+    "Isef chapitre 6 complément docimologie - Tagged.pdf",
+    "Isef chapitre 6 complément docimologie.pptx",
+    "tatus",
     "Pasted image 20241114164117.png",
     "Pasted image 20241114161823.png",
-    "ISEF - Chapitre 6 14 11 2024.pdf",
-    "Sociabilité 2024 nov - Tagged.pdf",
-    "stat-Chapitre 7.pdf",
-    "PSYC5866 05-Apprentissage 2024-25.pdf",
     "Pasted image 20241112122955.png",
-    "Introduction à la psychologie clinique - 1.pdf",
     "Pasted image 20241112122939.png",
-    "Chap 5 Emotion et Expression non verbale 2024-25.pdf",
     "Pasted image 20241112121809.png",
     "Pasted image 20241112111508.png",
-    "stat-Chapitre 2.pdf",
-    "stat-Chapitre 2 1.pdf",
     "Pasted image 20241106214827.png",
-    "462641842_557676866664318_3689968181899962546_n.jpg",
-    "462641842_557676866664318_3689968181899962546_n 1.jpg",
-    "462577569_540530568522784_9070010573457157622_n.jpg",
-    "9a_Heredite_Alice.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

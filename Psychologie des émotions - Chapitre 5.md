@@ -40,7 +40,7 @@ Si le patron musculaire facial contribue causalement à l’exp subjective d’u
 
 La rétroaction faciale est un cptm moteur volontaire qui peut contribuer à la genèse de l’émotion manipuler l’expr faciale émotionnelle va permettre de créer une exp émotionnelle.
 
-> ![[tip]]// William James : sa théorie soutient la théorie de la rétroaction faciale.
+> [[!info]] // William James : sa théorie soutient la théorie de la rétroaction faciale.
 
 // Darwin : émet l’idée que le cptm moteur contribuerait à générer une émotion et particulièrement l’expr faciale émotionnelle. En contractant les muscles du visage, on va moduler/déclencher une réaction émotionnelle chez l’individu.
 
@@ -55,10 +55,10 @@ Lanzetta a décliné cette hypothèse de la rétroaction faciale en **3 hypothè
 - **Hypothèse de la suffisance : une expr faciale est suffisante pour produire une émotion.**
 	Il suffit de sourire pour être joyeux, froncer les sourcils pour être en colère, ... c’est suffisant de manipuler l’expression faciale pour ressentir émotion.
 
-**- Hypothèse de la continuité : une exp émotionnelle induite par des stimuli externes peut être modulée (augmentée ou diminuée) par une expression faciale émotionnelle**
+- **Hypothèse de la continuité : une exp émotionnelle induite par des stimuli externes peut être modulée (augmentée ou diminuée) par une expression faciale émotionnelle**
 	Si je regarde un film et que j’exagère mon expr spontanée, ça va augmenter mon sentiment subj. Hypothèse d’une relation continue et monotone entre l’intensité des contractions musculaires et l’intensité du sentiment subj. Cette hypothèse est assez soutenue par les résultats de recherches.
 
-**Étude de Laird**
+## **Étude de Laird**
 
 Il a fallu amener les sujets à contracter les muscles de leur visage sans qu’ils s’en rendent compte.
 
@@ -89,7 +89,9 @@ Il va induire des émotions en exposant les participants à des images. Les suje
 	$\text{}$
 	Ne confirme pas **l’hypothèse de la rétroaction faciale** (difficile de mesurer les effets de cette hypothèse).
 
-**Étude de Tourangeau et Ellsworth**
+<hr>
+
+## **Étude de Tourangeau et Ellsworth**
 
 🡺    Répond aux critiques formulées à l’égard de l’expérience de Laird.
 
@@ -106,10 +108,14 @@ Description générée automatiquement](file:///C:/Users/bryan/AppData/Local/Tem
 Groupe 2 : contractions musculaires propres à la tristesse regardent un film induisant de la tristesse.
 Groupe 3 : contractions musculaires (grimace) non pertinentes à l’émotion regardent un film émotionnellement neutre.](file:///C:/Users/bryan/AppData/Local/Temp/msohtmlclip1/01/clip_image009.gif)
 
+
+### **Tests effectués** #tuyau
+Quand on demande d'exprimer de la tristesse et qu'on expose à un film qui induit de la tristesse, **on teste la continuité**.
+Quand on demande d'exprimer de la tristesse et qu'on expose à un film qui induit de la peur: **on teste la nécessité**.
+
 Après le visionnement du film, on fait remplir un questionnaire sur l’état émotionnel des sujets durant le film.
 
-Résultats :
-
+### **Résultats** 
 Les expressions faciales n’ont aucun effet soit facilitateur ou inhibiteur sur les réactions émotionnelles associées aux films que visionnent les sujets.
 
 Cette étude a été dévastatrice pour **l’hypothèse de la rétroaction faciale** 🡪 on ne remarque aucun effet de l’expression faciale sur l’émotion (sujets qui font une tête de peur devant film de peur ne ressentent pas plus de peur).
@@ -141,65 +147,121 @@ Procédure :
 🡺    résultats en faveur de l’hypothèse de la continuité.
 
 ---
+## **Étude de Lanzetta, Cartwright-Smith et Kleck**
 
-**Étude de Ceschi et Scherer**
+**Procédure**
+	On a exposé les sujets à des chocs électriques légers et d'évaluer la douleur de 0 à 10. La **baseline** de l'intensité de la réponse est utilisée pour comparer avec la configuration suivante: on demande d'**exagérer** ou d'**inhiber** des expressions faciles. On enregistre aussi l'intensité de la réaction électrodermale.
 
-**(hypothèse de la continuité)**
+On devrait avoir une intensité variable des expressions et de la réaction électrodermale selon qu'on exagère ou inhibe l'expression de l'émotion.
 
-Procédure :
+**Résultat**
+	**En faveur de l'hypothèse de la continuité**. Lorsqu'on inhibe, on diminue l'intensité de la perception de la douleur et la réponse électrodermale et inversement lorsqu'on exagère.
 
-Étude avec des enfants âgés de 7-10 ans. Il regardent des sketches joués par des clowns.
+---
+## **Étude de Ceschi et Scherer**
 
-Certains enfants devaient se retenir de rire et les autres pouvaient rire (ils devraient avoir un état émotionnel de joie plus intense que les autres).
+**Procédure**
+	Étude avec des enfants âgés de 7-10 ans. On demande aux enfants de ne pas montrer de joie face à un clown. Les autres peuvent rire.
+
+On teste l'hypothèse de la continuité. On s'attend à ce que les enfants pouvant rire ressentent plus de joie.
+
+**Résultats**
+	Les enfants ayant inhibé les expressions faciales émotionnelles ont ressenti moins de joie fac au clown.
+
+**Critique**
+	Le degré d'intensité de l'émotion est propre à chacun. Tout le monde ne rigolera pas nécessairement face à un clown.
+
 
 VD : Leur expr faciale est codée avec le FACS (d’Ekman). Après ça, ils dont un rapport verbal pour savoir les sentiments et leur état émotionnel ressentis. Les enfants ont été filmés et les expérimentateurs ont regardé les films après.
 
-Résultats : en faveur de **l’hypothèse de la continuité**. Les enfants pouvant rire avaient bien
-
-une intensité plus forte de joie.
-
 ---
 
-**Étude de Hess, Kappas, Mc Hugo, Lanzetta et Kleck**
+## **Étude de Hess, Kappas, Mc Hugo, Lanzetta et Kleck**
 
 **(hypothèse de la suffisance, nécessité)**
 
 🡺    Il existerait des différences individuelles dans l’évaluation des stimuli inducteurs d’émotion.
 
 Procédure :
+On va utiliser la technique d'imagerie mentale en revivant des épisodes de leur vie où ils ont ressenti l'émotion-cible.
+
+Consigne 1: **Ressentir** uniquement l'émotion
+Consigne 2: **Exprimer** l'émotion en tentant de ne pas ~~ressentir~~ l'émotion
+Consigne 3: **Ressentir** l'émotion et l'**exprimer**
+
+**Résultat**
+	Quand on exprime facialement, on a un effet facilitateur au niveau de l'émotion qui sera ressentie plus rapidement. -> Soutient l'**hypothèse** de rétroaction, **de la continuité**
+	Il suffit que j’exprime et que je n’essaie pas de ressentir l’émotion pour quand mm avoir un sentiment subjectif. 🡪 En faveur de **l’hypothèse de la suffisance.**
 
 On a induit aux sujets un sentiment de joie, de tristesse, de colère ou de tranquillité grâce à l’imagerie mentale : ils ont du se souvenir d’un épisode de sa vie durant lequel ils ont éprouvé l’émotion demandée. Lorsque le sujet ressent l’état émotionnel demandé, il presse un bouton pour le signaler.
 
-Tâches :
 
-**Les sujets ont tous dû effectuer 3 tâches :**
+---
 
-⇨      ressentir uniquement l’émotion. Ils ne doivent pas l’exprimer, est-ce que les participants vont quand même la ressentir ? si ils ne ressentent pas, l’hypothèse de la nécessité est validée.
-
-⇨      exprimer l’émotion sans tenter de la ressentir en la simulant, en l’exagérant.
-
-**Hypothèse de la suffisance**
-
-⇨      exprimer clairement et ressentir l’émotion. **Hypothèse de la continuité.**
-
-VD : Enregistrement du temps de latence, rythme cardiaque, RED et self-report sous forme de questionnaire pour mesurer l’intensité ressentie des émotions.
-
-Résultats : Le temps de latence est plus rapide quand on dit aux sujets d’exprimer et ressentir
-
-l’émotion. RED : il suffit que j’exprime et que je n’essaie pas de ressentir l’émotion pour quand mm avoir un sentiment subjectif.
-
-🡪 En faveur de **l’hypothèse de la suffisance.**
-
-_Comment l’exp de l’émotion peut-elle être modulée par la rétroaction faciale ?_
-
-**Étude de Söderkvist, Ohlén et Dimberg**
+## **Étude de Söderkvist, Ohlén et Dimberg**
 
 **Utilisation de l’expression volontaire**
 
-Instructions :
+**Procédure**
+	Ils ont utilisé deux visages, un de joie, un de colère et ont demandé aux participants de mesurer le ressenti (agréable/désagréable).
+	En parallèle on leur demande de contracter les muscles du visage pour exprimer colère ou joie.
 
-Sourire ou froncer les sourcils : les participants ont évalyé leur exp face à l’image en utilisant les 2 échelles ‘agréable ‘ et ‘désagréable’ graduées de 0-100 (pas du tt ou bcp)
+**Résultats**
+	***Expérience 1: Est-ce que le processus de rétroaction fonctionne durant, est-ce qu'il peut durer, est-ce que ça s'étend sur plusieurs jours?***
+	Les effets de rétroaction faciale ne se manifestent que pendant l'action. On n'a pas d'effet de l'expression sur du plus long terme - les sentiments qui surviennent plus tard ne sont pas modulés par les expressions réalisées plus tôt.
+	***Expérience 2: Lorsqu'on module l'expression, l'effet est-il plus important si l'expression est congruente avec ce qu'on ressent?***
+	Lorsque l'expression est incongruente, l'émotion ressentie est modulée - changée par l'expression. Lorsqu'elle est congruente, on ne voit pas d'augmentation de l'émotion de base.
+	***Expérience 4: Est-ce que l'émotion positive ou négative est plus facile à moduler avec la rétroaction faciale ou est-ce que ces 2 émotions sont modulées de manière tout aussi efficace?***
+- [ ] TODO: compléter avec la synthèse
 
+---
+
+## **Méta-analyse sur l'hypothèse de la rétroaction faciale de Manstead et Mastumoto**
+
+Continuité: bon support pour l'hypothèse de la continuité
+11,76% de la variance de l'expérience émotionnelle rapportée peut être attribuée à l'expression faciale. Peut atténuer les états émotionnels en cours par l'induction d'émotions contraires.
+
+--- 
+## **Théorie de l'auto-perception de Bem**
+On va ressentir des émotions dans un contexte sociale, face à qq'un. On va déduire ce qu'on ressent sur base d'hypothèses qu'on a sur ce que l'autre pense qu'on ressent. 
+Exemple: je fais l'hypothèse que la personne pense que je suis stressé, je vais ressentir du stress. 
+
+--- 
+
+## **Étude de Strack, Martin et Stepper (1988)**
+
+**Procédure**
+	On demande aux participants d'évaluer leur ressenti durant le visionnage de dessins-animés. Visionner et évaluer le côté amusant de 4 dessins animés et évaluer leur propre état émotionnel subjectif.
+	Activer le sourire: On demande aux participants de tenir un bic entre les dents sans que les lèvres touchent ce bic pour activer les muscles.
+	Inhiber le sourire: On demande aux participants de tenir un crayon entre les lèvres sans que ça ne touche les dents.
+	=> On manipule l'expression faciale
+
+
+**Résultats**
+	On trouve que les sujets qui ont simulé un sourire (avec le bic) ont trouvé le dessin-animé plus amusant que ceux qui ont eu leur sourire inhibé.
+	🡪 soutient **l’hypothèse de la rétroaction faciale** et soutient **l’existence de processus** **physiologiques dans la rétroaction faciale**.
+
+
+Info donnée aux sujets : Il s’agit d’une étude destinée à recueillir de l’info sur les difficultés rencontrées par les personnes handicapées lorsqu’elles sont amenées à remplir un questionnaire.
+
+---
+
+## **Application clinique de la perspective théorique de Bem**
+
+**Procédure**
+	Exp de chercheurs japonais sur des femmes japonaises souffrant de dépression profonde (Philippot, 2007).
+	On va inciter une partie des patientes à exagérer la tristesse en maquillant bien noir autour de leurs yeux et à l’autre partie des femmes d’exagérer leur sourire. Elles se maquillent et se voient dans le miroir, après on va mesurer l’humeur qui a aussi été mesuré à l’atelier de maquillage.
+
+**Résultat**
+	🡪 On remarque que les **participantes ayant exagéré le sourire ont une humeur - négative** que celles qui ont maquillé leurs yeux en tristes.
+
+🡪 **Aucun phénomène physiologique** n’est intervenu puisque c’est juste leur manière de se voir et de comment les autres les perçoivent qui a changé leur humeur.
+
+Difficile de dire si ces phénomènes sont tout à fait physiologiques ou cognitifs. Ça s’explique sûrement par des processus biologiques et cognitifs. Ce qu’on renvoi à nous et aux autres.
+
+🡪 données en **faveur de la théorie cognitive de l’auto-perception**.
+
+---
 **1ère question :**
 
 Est-ce que les actions de la rétroaction faciale ne vous affectent que quand celles-ci sont réalisées ? Ou est-ce que l’effet se mesure aussi plus tard ?
@@ -244,41 +306,9 @@ Quels sont les mécanismes de la rétroaction faciale ? 2 explications :
 
 _Comment tester les mécanismes de la rétroaction faciale ?_
 
-**Étude de Strack, Martin et Stepper (1988)**
 
-Info donnée aux sujets : Il s’agit d’une étude destinée à recueillir de l’info sur les difficultés rencontrées par les personnes handicapées lorsqu’elles sont amenées à remplir un questionnaire.
 
-Tâche à réaliser : Visionner et évaluer le côté amusant de 4 dessins animés et évaluer leur propre état émotionnel subjectif.
-
-Procédure expérimentale :
-
-⇨      _simulation d’un sourire_ : tenir un crayon dans la bouche en le pinçant entre les dents et en évitant que les lèvres ne touchent le crayon.
-
-⇨      _inhibition du sourire_ : tenir un crayon dans la bouche entre les lèvres en évitant qu’il ne touche les dents.
-
-Résultats : Les sujets qui ont simulé un sourire évaluent les dessins animés comme plus plaisants que ceux dont le sourie est inhibé.
-
-🡪 soutient **l’hypothèse de la rétroaction faciale** et soutient **l’existence de processus** **physiologiques dans la rétroaction faciale**.
-
-_Quels sont les mécanismes de la rétroaction faciale ?_
-
-**Application clinique de la perspective théorique de Bem**
-
-Exp de chercheurs japonais sur des femmes japonaises souffrant de dépression profonde (Philippot, 2007).
-
-On va inciter une partie des patientes à exagérer la tristesse en maquillant bien noir autour de leurs yeux et à l’autre partie des femmes d’exagérer leur sourire. Elles se maquillent et se voient dans le miroir, après on va mesurer l’humeur qui a aussi été mesuré à l’atelier de maquillage.
-
-🡪 On remarque que les **participantes ayant exagéré le sourire ont une humeur - négative** que celles qui ont maquillé leurs yeux en tristes.
-
-🡪 **Aucun phénomène physiologique** n’est intervenu puisque c’est juste leur manière de
-
-se voir et de comment les autres les perçoivent qui a changé leur humeur.
-
-Difficile de dire si ces phénomènes sont tout à fait physiologiques ou cognitifs. Ça s’explique sûrement par des processus biologiques et cognitifs. Ce qu’on renvoi à nous et aux autres.
-
-🡪 données en **faveur de la théorie cognitive de l’auto-perception**.
-
-## 1.2.        Le rôle de l’expression faciale dans la communication des émotions
+# **1.2. Le rôle de l’expression faciale dans la communication des émotions**
 
 _Le rôle de l’expression faciale dans la communication_
 
@@ -286,13 +316,14 @@ _L’hypothèse de l’universalité de l’expression faciale émotionnelle_
 
 Le processus de communication non verbale :
 
-●        **Les manif émotionnelles**
+## **Les manifestations émotionnelles**
+Elles sont un reflet direct d’un état émotionnel (expr spontanée) et sont médiatisées par des règles de manif, des règles d’expressivité.
+L’expression peut être volontaire ou contrôlée.
+## **La perception des émotions**
 
-o   Ce sont un reflet direct d’un état émotionnel (expr spontanée) et sont médiatisées par des règles de manif, des règles d’expressivité.
+Perception directe: je ne connais pas l'histoire de la personne, son contexte mais je vois son expression faciale émotionnelle. La perception passe à travers un ensemble de filtres. On a besoin d'un contexte pour interpréter l'expression émotionnelle.
 
-o   L’expr peut être volontaire ou contrôlée
-
-●        **Les processus de décodage**
+**Les processus de décodage**
 
 o   Sont une appréhension directe de l’état émotionnel de l’autre.
 
@@ -300,12 +331,24 @@ o   Elle est médiatisée par des règles de décodage (connaissances du réce
 
 Il y a un émetteur, un décodeur et des règles d’expressions qui vont influencer le message.
 
-_Est-ce que les expr faciales émotionnelles sont les mm quelle que soit la culture ?_
 
-🡪 _Darwin (1872) “The expression of emotions in man and animals”._
+---
+## **Ekman et Friesen (1971)**
 
-Darwin a demandé à des missionnaires d’observer les expr faciales des autres cultures. Ils ont demandé, par ex, est-ce que la surprise se caractérise par l’écarquillement des yeux ? Il y avait des problèmes méthodologiques dans ses études : **la formulation des questions. Sa méthode était biaisée car la question induisait un peu la réponse.**
+*Est-ce que les expr faciales émotionnelles sont les mm quelle que soit la culture ?*
 
+**Procédure**
+	Darwin a demandé à des missionnaires d’observer les expr faciales des autres cultures. Ils ont demandé, par ex, est-ce que la surprise se caractérise par l’écarquillement des yeux ? 
+	⇨      **La méthode des composantes** (basée sur des vidéos). Elle permet l’étude des composantes des expr faciales émotionnelles, on analyse muscle par muscle l’expr faciale de la pers grâce au FACS de Ekman.
+	⇨      **La méthode des juges** (basée sur nos expériences) : Elle consiste à présenter des expr faciales émotionnelles à des personnes et demander quelle expr faciale la personne montre. Elle repose sur les exp antérieures des pers. Postulat selon lequel les individus peuvent idd une émotion à partir de l’expr faciale émotionnelle que cette émotion va induire. Proposer des termes émotionnels et possibilité d’évaluer l’intensité de l’émotion ressentie.
+
+**Critiques**
+	Il y avait des problèmes méthodologiques dans ses études : **la formulation des questions. Sa méthode était biaisée car la question induisait un peu la réponse.**
+
+**Résultats**
+	Résultat en faveur de l'universalité des expressions faciales émotionnelles
+
+---
 🡪 _Les recherches en sciences sociales entre 1920 et 1960_
 
 Les théories de l’apprentissage en psychologie : Certains cptm peuvent être appris et on s’est intéressé à cet apprentissage. l’expr émotionnelle est apprise, les enfants miment ce que les adultes font, ils ont donc appris à ressentir de la colère, ...
@@ -314,9 +357,7 @@ Les théories de l’apprentissage en psychologie : Certains cptm peuvent être 
 
 Les méthodes utilisées pour savoir quelle émotion est ressentie par une personne :
 
-⇨      **La méthode des composantes** (basée sur des vidéos). Elle permet l’étude des composantes des expr faciales émotionnelles, on analyse muscle par muscle l’expr faciale de la pers grâce au FACS de Ekman.
 
-⇨      **La méthode des juges** (basée sur nos expériences) : Elle consiste à présenter des expr faciales émotionnelles à des personnes et demander quelle expr faciale la personne montre. Elle repose sur les exp antérieures des pers. Postulat selon lequel les individus peuvent idd une émotion à partir de l’expr faciale émotionnelle que cette émotion va induire. Proposer des termes émotionnels et possibilité d’évaluer l’intensité de l’émotion ressentie.
 
 _Les résultats des études :_
 
@@ -334,50 +375,46 @@ _Matériel_ : 8 émotions (excitations, joie, surprise, angoisse, dégoût, col�
 
 (ex : sujets venant d’Afrique ont des scores d’exactitude un peu plus faibles car ils n’étaient pas interrogés dans leur langue maternelle).
 
-🡪 **Critique** : dans ttes ces cultures les personnes ont accès aux médias et pourraient apprendre à faires les mm expressions faciales émotionnelles qu’une autre culture.
+🡪 
 
 ---
 
-**Ekman et Friesen (1971)** : Est-ce que les individus vivant hors civilisation peuvent-ils analyser avec la même exactitude que les personnes vivant avec les médias ?
+## **Ekman et Friesen (1971)**
 
-Population : Habitant de Nouvelle-Guinée (n=189), aucun contact avec des missionnaires ou des commerçants, ne comprenant ni ne parlant anglais. Ce grp a été découvert il y a 14 ans.
+**Question**
+	Est-ce que les individus vivant hors civilisation peuvent-ils analyser avec la même exactitude que les personnes vivant avec les médias ?
 
-_Méthode_ : On leur présente des histoires simples dont le contenu exprime une émotion. On leur présente ensuite des photographies de visages avec une expression faciale émotionnelle.
+**Procédure**
+	On demande à une personne de Nouvelle-Guinée d'exprimer facialement ce qu'on pourrait ressentir en voyant une photo les mettant dans une situation (histoire).
+	« vous rencontrez un ami que vous aimez »
+	« vous tombez sur un cochon mort »
+	On va ensuite les photographier et donner les photos à des sujets américains.
+	Habitant de Nouvelle-Guinée (n=189), aucun contact avec des missionnaires ou des commerçants, ne comprenant ni ne parlant anglais. Ce grp a été découvert il y a 14 ans.
 
-![Une image contenant texte
-Description générée automatiquement](file:///C:/Users/bryan/AppData/Local/Temp/msohtmlclip1/01/clip_image011.gif)![Zone de Texte: Il y a 3 photographies pour chaque histoire :
-« vous rencontrez un ami que vous aimez » (gauche)
-« vous tombez sur un cochon mort » (droite)](file:///C:/Users/bryan/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif)
+**Résultats**
+	Lorsqu'un Guinéen exprime la peur ou la surprise, l'expression est mal identifiée. Elle est aussi à peu près exprimée de la même façon par les Guinéens. Pour le reste, les expressions faciales sont bien identifiées. => En faveur de l'universalité de l'expression faciale. 
 
-🡪 On les a ensuite filmés et pris en photo et on a montré à des américains pour voir si ils
 
-comprenaient les expressions faciales qu’ils ont fait.
+**Critiques**
+	Les individus posent pour exprimer une émotion, qu’en est-il de l’expr plus directe des émotions (comportements spontanés) ?
+	La nature des mécanismes assurant cette universalité apparente reste toutefois à préciser. Ce qui pourrait varier en fonction des cultures ce sont les règles d’expression selon le sexe, l’âge, le rôle social et le contexte social de l’individu.
 
-_Résultats_ : On ne remarque pas d’erreur dans les associations (histoire et expression), il y a une confusion entre la peur et la surprise (comme nous).
-
-🡪 **résultats en faveur de l’universalité des expressions faciales émotionnelles.**
-
-🡪 on aurait un patrimoine biologique qui nous amène à exprimer nos émotions de la mm manière.
-
-_Quelques remarques/critiques :_
-
-Les individus posent pour exprimer une émotion, qu’en est-il de l’expr plus directe des émotions (comportements spontanés) ?
-
-La nature des mécanismes assurant cette universalité apparente reste toutefois à
-
-préciser. Ce qui pourrait varier en fonction des cultures ce sont les règles d’expression selon le sexe, l’âge, le rôle social et le contexte social de l’individu.
-
-**Les critiques émises par Russell (1994)**
+## **Les critiques émises par Russell (1994)**
 
 L’universalité des expr faciales émotionnelles serait le résultat de biais méthodologiques.
 
-⇨     _La nature des stimuli_ : stimuli présélectionné avec des expr posées. Ils facilitent la reconnaissance/l’accord entre les juges.
+**La nature des stimuli** 
+	stimuli présélectionné avec des expr posées. Ils facilitent la reconnaissance/l’accord entre les juges.
 
-⇨     _La méthode de présentation_ : avoir vu une EFE puis une autre facilite le choix car on compare les similitudes et différences entre les photos. Il facilite la reconnaissance. Augmente les taux d’exactitude de la reconnaissance. Nos réponses sont influencées par les réponses que nous avons donné avant.
+**La méthode de présentation**
+	avoir vu une EFE puis une autre facilite le choix car on compare les similitudes et différences entre les photos. Il facilite la reconnaissance. Augmente les taux d’exactitude de la reconnaissance. Nos réponses sont influencées par les réponses que nous avons donné avant.
 
-⇨     _La méthode du choix forcé_ : on nous présente une liste de termes et on doit faire un choix parmi ça. Ce choix facilite aussi les taux de reconnaissance. Boucher & Carlson (1980) les participants décrivent les émotions avec leurs propres termes et obtiennent des scores d’exactitude de la reconnaissance moins élevés.
+**La méthode du choix forcé** 
+	on nous présente une liste de termes et on doit faire un choix parmi ça. Ce choix facilite aussi les taux de reconnaissance. Boucher & Carlson (1980) les participants décrivent les émotions avec leurs propres termes et obtiennent des scores d’exactitude de la reconnaissance moins élevés.
 
-Étude de Frank et Stennet
+--- 
+
+### **Étude de Frank et Stennet**
 
 🡪 1ère étude : choix forcé avec le terme correct inclus dans la liste + option « aucun terme ».
 

@@ -4,43 +4,7 @@
   --bold-modifier: 300;
 }
 
-body {
-  line-height: 1.85
-}
-
-@import url(http://fonts.googleapis.com/css?family=Merriweather:300italic,300);
-
-
-body {
-  color: #FFF;
-  font-family: Merriweather, Georgia, serif;
-  margin: 0;
-  max-width: 100%
-}
-
-li {
-  margin-left: 2rem
-}
-
-p {
-  color: #555;
-  height: auto;
-  line-height: 1.45
-}
-
-pre {
-  font-size: .8rem;
-  overflow-x: scroll;
-  color: #2e2e2e;
-}
-
-a,
-a:visited {
-  color: #3498db
-}
-
-a:active,
-a:focus,
-a:hover {
-  color: #2980b9
+.cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
+  color: blue;
+  background-color: none;
 }

@@ -330,3 +330,61 @@ Scarification: peut créer un sentiment d'identité.
 Quand une tentative de suicide fonctionne, il y a de fortes chances que d'autres suivent.
 Hausse après la sortie de la série 13 reasons why.
 Un suicide à Verviers -> 6 tentatives ont suivi.
+
+
+# Les peurs développementales #tuyau
+Il y aura une question sur ce sujet (vaste...)
+
+Théories:
+- évolutionniste: rôle de survie
+- cognitive: 
+- facteurs environnementaux. L'environnement créé les peurs
+
+En Asie, les personnes développent souvent des peurs pathologiques plus importantes car les attentes sociales sont plus importantes également.
+
+Les parents peuvent transférer leurs peurs/croyances sur les enfants et conditionner l'anxiété de leur enfant. Un parent qui ne sait pas considérer qu'un enfant est anxieux (i.e. le parent ne l'accepte pas) va augmenter l'anxiété de l'enfant. Bon de rappeler que les peurs ont un rôle développemental et qu'elles sont bonnes à avoir.
+
+## Nouveau-né
+- Peur des bruits soudains
+- Objets qui approchent rapidement
+## 6-12 mois
+Période la plus difficile pour les parents.
+
+Peur des personnes étrangères.
+Création d'un lien d'attachement important avec les parents qui créé une peur des personnes autres. En même temps, il n'a toujours pas la permanence de l'objet (parents ailleurs = inexistants).
+
+
+
+## 2-4 ans
+
+- Peur du noir
+- Peur de se retrouver seul (les enfants suivent les parents partout même aux toilettes). L'enfant "doit" être accompagné.
+- Augmentation de l'imaginaire (monstres, fantômes, etc).
+- Craintes des petits animaux. Certains auteurs voient dans la peur une valeur de survie pour limiter l'exploration et ne pas trop s'exposer.
+
+## 4-5 ans
+L'enfant va nourrir son imagination avec les livres, BDs, dessins-animés.
+
+- Peur du noir - idem
+- Peur de se retrouver seul - idem
+- Capable d'imaginer plus de choses - idem
+- **Peur des animaux sauvages**
+
+## 6-7 ans
+Développement cognitif plus important, beaucoup plus de liens, anticipe des conséquences à des situations, il sait déduire des choses
+- Craintes plus réalistes (vent, neige, orage, maladies, école, inquiétudes sociales (amis?))
+- Craintes liées à la mort, pose beaucoup de questions. Maturité cognitive suffisante pour conceptualiser la mort. Avant ça, il voit la mort comme un état de sommeil duquel on peut se réveiller (Belle au Bois Dormant). Un enfant de 4 ans ne va pas comprendre tandis que le frère de 7 ans comprendra mieux. On peut demander à l'enfant de 4 ans ce qu'il a compris pour savoir quelle est sa perception.
+	- Inévitable
+	- Universel
+	- Irréversible
+	- Cessation, non-fonctionnalité (corps cesse de fonctionner, la machine s'arrête).
+	- Causalité (plusieurs causes à cet arrêt)
+
+## 12 ans
+Inquiétudes sociales, peur du regard des autres, de l'embarras, inquiétude somaires.
+Craintes somatiques (peur de ressentir des sensations corporelles - coeur s'emballe, tête qui tourne). Origine d'une meilleure connaissance de l'anatomie. 
+Le développement hormonal et le stress augmentent les manifestations physiologiques dont l'adolescent aura parfois peur.
+Craintes plus importantes chez les filles, chez les personnes plus pauvres (plus confrontées à des stresseurs).
+
+
+

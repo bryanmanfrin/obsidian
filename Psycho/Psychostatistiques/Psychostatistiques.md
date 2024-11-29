@@ -36,5 +36,8 @@ Cours à 6 crédits = 6x 30 = 180h de travail (=~22,5 jours complets de 8h)
 
 ## [[Chapitre 7 - Données catégorielles et khi-carré]]
 
+[[Chapitre 9 - Test d'hypothèse sur deux moyennes]]
+
+# [[Chapitre 9 - Test d'hypothèse sur deux moyennes]]
 
 
