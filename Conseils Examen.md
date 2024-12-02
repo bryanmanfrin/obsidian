@@ -2,8 +2,8 @@
 Combien de fois plus de risque que...
 => Par défaut on utilise le rapport de chances sauf si l'énoncé précise qu'il attend le risque relatif.
 
-$\text{Ecart type } (S_x) = \sqrt{variance}$
-$\text{Ecart type}^2 \iff  (S_x)^2 = \text{variance}$
+$\text{Ecart type } (S_x\;|\;\sigma) = \sqrt{variance}$
+$\text{Ecart type}^2 \iff  (S_x)^2\;| \;\sigma^2 = \text{variance}$
 
 **Last checks:** 
 - Ne pas répondre en pourcentage quand on demande la proportion
@@ -45,11 +45,26 @@ $\text{Ecart type}^2 \iff  (S_x)^2 = \text{variance}$
 		$S_Y$ est l'écart-type de la variable dépendante (pas le prédicteur, l'autre)
 	- valeur résiduelle: $S_{XY}^2$
 
-Chapitre 5: 
+**Chapitre 5:** 
 - Ne pas confondre 
 	- 10% (Z=1,28) 
 	- 1% (Z = 2,33)
 - Ne pas oublier le signe du Z score (en dessous ou au dessus de la moyenne)
+
+**Chapitre 6:**
+	**Erreur de 1ère espèce:** 
+	"Je diagnostique une maladie mentale à un patient parce qu'il est dans les 5% (erreur). En réalité, c'était un sujet sain"
+	**Erreur de 2ème espèce:**
+	"Je ne diagnostique pas une maladie mentale à un patient alors qu'il est malade"
+	($\alpha$ *trop petit? - peut-être que je l'aurais inclus dans les malades si j'avais été plus large et utilisé 0.05 au lieu de 0.01*)."
+- Calculez la **probabilité de commettre une erreur de seconde espèce**
+	1) Calculer d'abord la limite de rejet (trouver le X limite qui représente le 0.05) dans la population saine. Exemple: dans une population saine, le QI limite pour arriver dans les 5% est de 75 (valeur fictive).
+	2) Utiliser ce X dans la population alternative (atteints d'une maladie) et chercher la probabilité que X > 75 (passer par le Z).
+- **Estimez avec une certitude de 95%**
+	- Intervalle de confiance (unilatéral ou bilatéral)
+
+
+
 
 
 |       |     |     |     | $\text{Risque absolu}$ |
