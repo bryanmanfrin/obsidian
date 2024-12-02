@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evidence Based Practice et ses 4 pilliers.md",
+                "file": "Manipulation de l'œuf et recombinaisons génétiques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evidence Based Practice et ses 4 pilliers"
+              "title": "Manipulation de l'œuf et recombinaisons génétiques"
             }
           }
         ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Evidence Based Practice et ses 4 pilliers.md",
+                "file": "Manipulation de l'œuf et recombinaisons génétiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +229,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Evidence Based Practice et ses 4 pilliers"
+              "title": "Graph of Manipulation de l'œuf et recombinaisons génétiques"
             }
           }
         ]
@@ -280,10 +280,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evidence Based Practice et ses 4 pilliers.md"
+                "file": "Manipulation de l'œuf et recombinaisons génétiques.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Evidence Based Practice et ses 4 pilliers"
+              "title": "Outline of Manipulation de l'œuf et recombinaisons génétiques"
             }
           },
           {
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evidence Based Practice et ses 4 pilliers.md",
+                "file": "Manipulation de l'œuf et recombinaisons génétiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +320,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Evidence Based Practice et ses 4 pilliers"
+              "title": "Backlinks for Manipulation de l'œuf et recombinaisons génétiques"
             }
           }
         ]
@@ -359,8 +359,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "291ca3e021573c5f",
+  "active": "9a1b3779bfc6b69f",
   "lastOpenFiles": [
+    "13a_Manip1-genet_Alice.pdf",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "Manipulation de l'œuf et recombinaisons génétiques.md",
+    "Evidence Based Practice et ses 4 pilliers.md",
     "Conseils Examen.md",
     "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
     "Psycho/Psychostatistiques/Psychostatistiques.md",
@@ -392,11 +396,7 @@
     "Développement social psycho-sexuel.md",
     "8_Dev socio-affectif_dev_social_2024_2025(1).pdf",
     "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
-    "Développement affectif.md",
-    "Chapitre 4 - Etats de conscience.md",
     "12a_Hormones1_Alice.pdf",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "Evaluation des élèves.md",
     "Isef chapitre 6 complément docimologie - Tagged.pdf",
     "Isef chapitre 6 complément docimologie.pptx",
     "tatus",
