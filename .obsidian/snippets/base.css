@@ -1,9 +1,10 @@
 :root body {
-    --bold-color: #009688;
-    --italic-color: #CBBFDD;
-    --bold-modifier: 300;
-  }
+  --bold-color: #009688;
+  --italic-color: #CBBFDD;
+  --bold-modifier: 300;
+}
 
-  h1 {
-    color: blue;
-  }
+.cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
+  color: blue;
+  background-color: none;
+}

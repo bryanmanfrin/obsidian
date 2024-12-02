@@ -1,0 +1,208 @@
+[33mcommit e4832d23ff05374eea782993b4185e40590120e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Thu Nov 21 16:06:44 2024 +0100
+
+    21/11
+
+[33mcommit 78bac32ec508aac57cbf9d236472b62395e1765e[m
+Merge: 12e6cb4 050dfd9
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Wed Nov 20 22:16:11 2024 +0100
+
+    20/11
+
+[33mcommit 12e6cb46522b58771e7ead888eb65a1c84627ce4[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Wed Nov 20 22:14:07 2024 +0100
+
+    20/11
+
+[33mcommit 050dfd9fec8091e7b95ad4a84c7d38bf86a284dc[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Tue Nov 19 10:23:59 2024 +0100
+
+    19/11
+
+[33mcommit ba8c1df15ec7074a9a1cdb4f4ea7296bfd936684[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Mon Nov 18 12:49:13 2024 +0100
+
+    18/11
+
+[33mcommit 51c764d013d894318c59d0ac8fbf9d6c429e773c[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Fri Nov 15 19:37:54 2024 +0100
+
+    15/11
+
+[33mcommit c3f96c84a4ee28fd9d001382e5067708a59cf922[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Wed Nov 13 13:15:16 2024 +0100
+
+    13/11
+
+[33mcommit a41bc845b644c518f079c9de2b46794df169db49[m
+Merge: 30b9835 3e0cb55
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Tue Nov 12 11:12:53 2024 +0100
+
+    Workspace conflicts
+
+[33mcommit 30b9835d945d3629b0776a993831425f6b1a0dc7[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Tue Nov 12 11:10:56 2024 +0100
+
+    12/11
+
+[33mcommit 3e0cb554e4dd6c8e7e8a4afcc1cb5ff3bd950c2c[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Tue Nov 12 00:00:11 2024 +0100
+
+    11/11
+
+[33mcommit 979c45b7784316cc029e89b4390cb75b0e38ee0f[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Sun Nov 10 19:50:46 2024 +0100
+
+    10/11: inférence
+
+[33mcommit 7d6d3c8869754d3bfbaeb678b370705fd335dec2[m
+Merge: edd72da 2b86fa9
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Sun Nov 10 19:19:32 2024 +0100
+
+    10/11: stat
+
+[33mcommit edd72da7787a24e1f603fb7cb98218d0ca310688[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Sun Nov 10 19:18:16 2024 +0100
+
+    10/11: stat
+
+[33mcommit 2b86fa9682ef8d4865d7a775ed1cb7d38291ce13[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Thu Nov 7 19:43:48 2024 +0100
+
+    07-11
+
+[33mcommit 296b7e2c948b88b2a91531fbf100baede583bd38[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Wed Nov 6 21:03:49 2024 +0100
+
+    06-11
+
+[33mcommit 7a7d2ba6632ba6569cc7b6982b265428777d22ca[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Tue Nov 5 22:42:54 2024 +0100
+
+    05-11
+
+[33mcommit 38f3897084db323ff17706ca1c348bae7a65190f[m
+Merge: 69e45ce af89d02
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Sat Nov 2 13:03:21 2024 +0100
+
+    conflicts bio
+
+[33mcommit 69e45ce30765f9d3f775a31eefedcad41f5b16c6[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Sat Nov 2 12:57:24 2024 +0100
+
+    02-11
+
+[33mcommit 7977d6cd0fbabd74281517af4fcb0479d0684e21[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Fri Oct 18 15:12:17 2024 +0200
+
+    18/10
+
+[33mcommit af89d0279a0c534aca7bd9ed9004bf8de0ac2aad[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Wed Oct 16 23:17:58 2024 +0200
+
+    bio synthèse
+
+[33mcommit 5e6c63ec7868465971b043bb22dd61f326bc13d4[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Mon Oct 14 21:39:42 2024 +0200
+
+    14/10
+
+[33mcommit 5084cc29eb767a732e0840551dca3468ee9ffaa5[m
+Merge: f754fc7 8d6ef4a
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Thu Oct 10 10:33:15 2024 +0200
+
+    Merge psychostat
+
+[33mcommit f754fc7bfb751192aa1bf0fbd7b3ce2877545c71[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Thu Oct 10 10:30:20 2024 +0200
+
+    10/10
+
+[33mcommit 8d6ef4ab75332975ef375ea1b2340ef87a7504b0[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Wed Oct 9 23:30:10 2024 +0200
+
+    wip psychostat & emotions
+
+[33mcommit 6dd06f5087d68ef15ee11a46be2e39ae4a5be0e7[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Mon Oct 7 00:34:42 2024 +0200
+
+    07/10 biologie
+
+[33mcommit 3f79548c8ac82d67af08a9f08e9a340e5133c5b4[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Sun Oct 6 17:07:16 2024 +0200
+
+    06-10 wip psychostat
+
+[33mcommit 617017c0d949b187a693697b3da4eacd54e7c90e[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Sun Oct 6 17:01:27 2024 +0200
+
+    06/10
+
+[33mcommit a5352faab63cb0dc9e02d87f736adf1bca5ce024[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Tue Oct 1 16:37:42 2024 +0200
+
+    workspace
+
+[33mcommit 73dab0e15392e28f4e2c9af9a9bc844e80e0c3b2[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Tue Oct 1 16:36:37 2024 +0200
+
+    01/10
+
+[33mcommit 9c6ab53cb8f9a3f2d0f5bd7137587f5dc432a96d[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Mon Sep 30 12:47:18 2024 +0200
+
+    Chap II biologie
+
+[33mcommit 692e761d6d35741b1d4713290fdce42e92e5f483[m
+Author: Bryan Manfrin <bryan.manfrin@hotmail.com>
+Date:   Sun Sep 29 16:55:46 2024 +0200
+
+    29/09
+
+[33mcommit 641e239d0f46538347a418dd61c5f09b88d7604c[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Mon Sep 23 22:53:54 2024 +0200
+
+    23/09
+
+[33mcommit 5e0632897c02dfc9895c8108b30e7c09c769d47f[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Thu Sep 19 14:46:04 2024 +0200
+
+    Psychostatistiques & Socio
+
+[33mcommit f661a1152646d2e5e7d37e72fa8d4555959e9f0b[m
+Author: BryanManfrinC5 <bryan@cetrez.com>
+Date:   Wed Sep 18 13:33:57 2024 +0200
+
+    Initial commit

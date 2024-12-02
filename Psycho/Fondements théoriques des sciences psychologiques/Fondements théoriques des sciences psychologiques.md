@@ -16,5 +16,6 @@
 2. [[Chapitre 3 - Sensation perception]]
 3. [[Chapitre 4 - Etats de conscience]]
 4. [[Chapitre 5 - L'apprentissage]]
+5. [[Chapitre 6 - La mémoire]]
 
 

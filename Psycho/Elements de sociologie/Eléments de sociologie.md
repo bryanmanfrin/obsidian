@@ -12,6 +12,7 @@ Hervé Maréchal - Initiations à la sociologie (15€) - **Seconde édition**
 "La honte" - Annie Ernaux
 
 ## Plan du cours
+[[Sociologie - Révisions]]
 [[Définition de la sociologie]]
 [[Famille]]
 [[Sociologie - Démographie]]

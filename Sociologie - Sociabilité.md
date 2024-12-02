@@ -1,5 +1,5 @@
 
-![[Sociabilité 2024 nov - Tagged.pdf]]
+![[Sociabilité 2024 nov - Tagged.pdf#page=1]]
 
 **Il y a deux sens pour aborder la sociologie:** #tuyau 
 **Déterminisme**: comment les grands concepts déterminent les comportements humains. 
@@ -10,7 +10,9 @@
 
 Correction Dia: Comment le social (les niveaux ~~2-6~~ => 1-2).
 
-Les déterminisme sociaux - ce qui conditionne l'environnement social (genre, classe sociale, origine ethnique, âge). #tuyau
+Dans les années 70-80, les sociologues ont commencé à étudier la sociabilité (bas niveau de sociologie) car on ne peut pas expliquer les relations de la vie de tous les jours à travers les concepts de haut niveau (institutions, culture, etc).
+
+**Les déterminisme sociaux** - ce qui conditionne l'environnement social (genre, classe sociale, origine ethnique, âge). #tuyau
 
 Le temps - enfance adolescence, profession, ...
 L'espace: Le lieu de vie
@@ -35,12 +37,20 @@ Pour lui, la solidarité est déterminée par le cadre social - il voit de haut 
 [[Bourdieu]] - position sociale - habitus.
 ![[Bourdieu#^65720b]]
 
-![[Bourdieu#^60eb22]]
+![[Bourdieu#^bd29d1]]
 
-Homolalie: le jargon qu'on emploie est le seul qu'on connait
+Homolalie: le jargon qu'on emploie est le seul qu'on connait.
 
+**Intersectionnalité**
+On croise l'âge, le genre, et d'autres attributs d'un individu pour observer comment ça influence la trajectoire de cet individu et donc sa sociabilité (groupe social correspondant).
 
+**Endogamie** #tuyau 
+- Pratique de se marier à l'intérieur d'un groupe social restreint
+- Critères stricts : même clan, tribu, religion, caste
 
+**Homogamie** #tuyau
+- Tendance à choisir un partenaire similaire
+- Critères plus larges : classe sociale, niveau d'éducation, âge, origine culturelle
 
-
+Les groupes sociaux aménagent la sociabilité pour baliser l'homogamie des jeunes; les rallies de l'aristocratie et de la haute bourgeoisie en France et en Belgique. #tuyau 
 

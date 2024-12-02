@@ -28,7 +28,6 @@ On a de plus en plus de mobilité intergénérationnelle descendante.
 Les crises étant de plus en plus présentes créent une peur de la pauvreté et alimente les discours haineux envers les pauvres (montée de l'extrême droite - lien fait par la prof).
 
 La mobilité sociale est devenu un enjeu politique car dans la démocratie, on affirme le besoin d'égalité. 
-
 On veut faire croire à la mobilité sociale car "on est dans une démocratie donc on est libre d'entreprendre ce qu'on veut".
 Il y a une vraie volonté de valoriser l'ascenseur social et la méritocratie. "Tout le monde peut y arriver".
 
@@ -50,6 +49,8 @@ Les capitaux n'évoluent pas tous en même temps de façon proportionnelle (éco
 > Les capitaux sont inscrits dans une dynamique relationnelle. Une personne peut dominer un autre de la même classe par une meilleure connaissance culturelle. Il ne sera cependant objectivement pas pertinent de situer une personne au dessus d'une autre sur base du seul capital culturel. 
 > => On se situe par rapport à l'autre selon la situation dans laquelle un capital sert le plus.
 
+Infirmières montent de rang social quand elles proviennent d'une catégorie sociale faible.
+Les infirmiers descendent socialement car il y a l'idée que c'est un médecin qui a échoué.
 
 ## L'école
 Le programme définit ce que sont les "bons savoirs importants à apprendre". Certains savoir sont exclus, d'autres seront moins facilement accessibles à certains élèves que d'autres (cours de droit).
