@@ -1,10 +1,59 @@
 :root body {
-  --bold-color: #009688;
-  --italic-color: #CBBFDD;
+  --bold-color: #6c8195;
+  --italic-color: #6c8195;
   --bold-modifier: 300;
 }
 
 .cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
   color: blue;
-  background-color: none;
+  background: none;
+}
+
+.timeline.body-2 .title:not(:hover) {
+  border-radius: 1.5rem !important;
+}
+
+/** Headers **/
+.cm-header {
+  color: #6c8195 !important;
+}
+
+/** Hide-show **/
+.timeline .description {
+  height: 0;
+  overflow: hidden;
+  padding: 0 !important;
+}
+
+.timeline .description:hover, 
+.timeline .title:hover + .description {
+  padding: 1.5rem !important;
+}
+
+.timeline .title:hover + .description, 
+.timeline .description:hover {
+  height: auto;
+  padding: 1.5rem !important;
+}
+/** End - Hide-show **/
+
+
+.timeline .description .internal-embed {
+  padding-left: 0;
+  border-left: none;
+}
+
+
+.timeline .time>*,
+.timeline .title>* {
+    font-size: 1em;
+    font-weight: bold
+}
+
+@media print {
+
+  .cm-header {
+    color: #36db33 !important;
+  }
+
 }

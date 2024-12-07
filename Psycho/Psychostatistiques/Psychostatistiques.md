@@ -41,3 +41,4 @@ Cours à 6 crédits = 6x 30 = 180h de travail (=~22,5 jours complets de 8h)
 # [[Chapitre 9 - Test d'hypothèse sur deux moyennes]]
 
 
+# [[Chapitre 10 - Alternatives non paramétriques aux tests statistiques sur deux moyennes]]

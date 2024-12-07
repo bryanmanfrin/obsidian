@@ -127,11 +127,33 @@ Les insights permettent de transformer jusqu'au système nerveux et devenir plus
 
 
 
+# Logopédie clinique - Anne-Lise Leclercq
+Evidence-Based-Practice
 
+Récent dans la prise en charge. On cherche à implémenter l'EBP dans la formation et la formation continue des thérapeutes.
+Il n'y a pas que le pilier recherche malgré ce que l'on pense souvent.
 
+Il y a aussi les préférences du patient avec son individualité. 
+Les expériences du clinicien sont incluses dans ce qu'on considère comme être une "evidence".
 
+La prise en charge n'a pas d'âge minimum. On accompagne les parents en leur donnant des outils de communication augmentés permettant de communiquer avec l'enfant d'une autre façon ou de corriger la communication. Plus tôt est l'intervention, plus elle est bénéfique.
 
+## Conflit entre [[Evidence Based Practice et ses 4 pilliers|EBP]] et préférence de la personne
+Note: trouble neuropsychologique. Système moteur de la parole moins stable créant des spasmes.
+L'**acceptation du bégaiement** (diminuer la pression sur la parole, les exigences des parents) peut réduire la tension musculaire. Au contraire, la tension va augmenter le bégaiement.
+**Une maman** semblait d'accord mais ne mettait pas ça en place les principes d'acceptation et de diminution d'exigences. Elle **avait l'impression qu'en faisant ça, on diminuait les capacités de l'enfant** en ne le forçant pas à avancer alors qu'elle voulait le meilleur.
+**Il a fallu aller vers un autre programme de prise en charge.** 
 
+## Tensions liées au context
+Choix politiques par rapport aux soins de santé pour ne pas dépasser le budget. Chaque année, il y a des conventions discutées entre l'INAMI, les assurances et les professionnels de santé. On choisi quels pathologies sont remboursées. 
+Les traitements de soin pour l'autisme n'est pas remboursé. 
+Un QI < 85 ne peut pas être pris en charge par une logopède. 
+Tout cela n'a rien à voir avec la littérature.
+De plus, les programmes sont construits pour pouvoir être complétés en ~45mins. D'autres activités doivent prendre 60 minutes.
+Sauf que actuellement, les remboursements interdisent les périodes de 60 minutes, autorisant seulement des séances de 30 minutes avec l'idée que l'enfant ne sait pas tenir son attention plus de 30 minutes.
+=> **On ne sait pas appliquer le programme à cause de restrictions budgétaires.**
+
+La personnalité du clinicien va influencer l'utilisation d'un type de thérapie. 
 
 
 

@@ -10,11 +10,11 @@ $\text{Ecart type}^2 \; (S_x)^2\;| \;\sigma^2 = \text{variance}$
 - Ne pas répondre en pourcentage quand on demande la proportion
 
 **Chapitre 1**: 
-	- $n$: 
-		- "Décrivez"
-	- $n - 1$: 
-		- "Inférez à partir de l'échantillon"
-		- "Estimez"
+- $n$: 
+	-  "Décrivez"
+- $n - 1$: 
+	- "Inférez à partir de l'échantillon"
+	- "Estimez"
 - Si la question modifie le nombre de personne impliquées, ne pas oublier de modifier le "$n$".
 - Quand on doit cumuler des populations pour plusieurs critères et diviser par la nouvelle population de ces deux critères, faire tout ensemble et pas séparément...
 	=> Ne pas additionner individuellement les risques absolus de deux populations; d'abord les regrouper.
@@ -65,6 +65,24 @@ $\text{Ecart type}^2 \; (S_x)^2\;| \;\sigma^2 = \text{variance}$
 	2) Utiliser ce X dans la population alternative (atteints d'une maladie) et chercher la probabilité que X > 75 (passer par le Z).
 - **Estimez avec une certitude de 95%**
 	- Intervalle de confiance (unilatéral ou bilatéral)
+
+
+**Chapitre 7:**
+	**Poser son hypothèse:** 
+	- $H_0:$ La maladie est indépendante du comportement (i.e.: alimentation)
+	- $H_A$: La maladie est dépendante du comportement
+	  $\text{}$
+	**Est-ce qu'il y a un lien entre le comportement et la maladie**?
+	Voir les degrés d'association
+	**Calculer les valeurs attendues**: voir la table plus bas.
+	
+
+|                    | **Cancer**                                   | **Pas de cancer**                               |         |
+| ------------------ | -------------------------------------------- | ----------------------------------------------- | ------- |
+| **Rapide**         | **55** \| ($\dfrac{125}{500} * 125) = 31,25$ | **70** \|  ($\dfrac{125}{500} * 375) = 93,75$   | **125** |
+| **Végé**           | **5**  \| ($\dfrac{50}{500} * 125) = 12,5$   | **45** \| ($\dfrac{50}{500} * 375) = 37,5$      | **50**  |
+| **Traditionnelle** | **65** \| ($\dfrac{325}{500} * 125) = 81,25$ | **260**  \| ($\dfrac{325}{500} * 375) = 243,75$ | **325** |
+|                    | **125**                                      | **375**                                         | **500** |
 
 
 

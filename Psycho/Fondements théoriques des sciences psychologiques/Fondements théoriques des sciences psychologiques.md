@@ -17,5 +17,6 @@
 3. [[Chapitre 4 - Etats de conscience]]
 4. [[Chapitre 5 - L'apprentissage]]
 5. [[Chapitre 6 - La mémoire]]
+6. [[Chapitre 7 - Intelligence et pensée]]
 
 

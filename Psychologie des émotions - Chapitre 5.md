@@ -1,5 +1,5 @@
+![[Chap 5 Emotion et Expression non verbale 2024-25 (1).pdf]]
 
-![[Chap 5 Emotion et Expression non verbale 2024-25.pdf]]
 - [ ] 19/11 - Psycho-émotions: Questions-réponses Les textes, l'expérience de Shachter et Singer et revoir le chapitre 6 sur le partage social des émotions.
 
 L’émotion est avant tout caractérisée par les changements physiologiques qu’elle suscite. Les émotions mobilisent toutes les facettes de l’individu, y compris la logistique neurophysio. Cependant, l’état physiologique d’une pers en situation émotionnelle est fonction de multiples facteurs, et l’état émotionnel en tant que tel n’en n’est peut-être pas le déterminant principal.
@@ -40,7 +40,7 @@ Si le patron musculaire facial contribue causalement à l’exp subjective d’u
 
 La rétroaction faciale est un cptm moteur volontaire qui peut contribuer à la genèse de l’émotion manipuler l’expr faciale émotionnelle va permettre de créer une exp émotionnelle.
 
-> [[!info]] // William James : sa théorie soutient la théorie de la rétroaction faciale.
+> [!info] // William James : sa théorie soutient la théorie de la rétroaction faciale.
 
 // Darwin : émet l’idée que le cptm moteur contribuerait à générer une émotion et particulièrement l’expr faciale émotionnelle. En contractant les muscles du visage, on va moduler/déclencher une réaction émotionnelle chez l’individu.
 
@@ -414,12 +414,17 @@ L’universalité des expr faciales émotionnelles serait le résultat de biais 
 
 --- 
 
+# Les règles culturelles et les normes
+La perception d'une émotion sera orientée en fonction de facteurs tels que la culture de la personne et son contexte.
+ => Une même émotion sera perçue différemment par deux personnes.
+
+Les membres de la culture collectiviste ont tendance à réagir davantage aux éléments externes et socialement partageables. L'interprétation est modulée p
+
+
 ### **Étude de Frank et Stennet**
 
 🡪 1ère étude : choix forcé avec le terme correct inclus dans la liste + option « aucun terme ».
-
 🡪 2ème étude : choix forcé avec le terme correct exclus de la liste + option « aucun terme ».
-
 🡪 3ème étude : choix forcé avec le terme correct inclus dans la liste + 4 autres termes plausibles.
 
 ⇨      _La reconnaissance par chance_ : Quand le terme correct est donné, c’est souvent la réponse que les personnes choisissent.
@@ -433,32 +438,26 @@ _Devons-nous conclure que toutes les expressions faciales émotionnelles sont in
 Les **taux d’exactitude**, même s’ils sont supérieurs à la chance, **varient avec la culture**.
 
 Les **données d’Ekman** (1973) :
-
 -        Les cultures occidentales : 78-95%
-
 -        Les cultures non-occidentales : 63-95%
-
 -        Les cultures isolées : 30-95%
 
-Le biais « avantage in-group »
-
+## Le biais « avantage in-group »
 Les taux d’exactitude de reconnaissance sont plus élevés quand les observateurs jugent les membres de la mm culture.
 
-Display rules (règles d’expression)
-
-Les normes sociales et culturelles apprises ont une influence sur quand et cmt l’émotion peut être exprimée.
+## Les normes imposées - Display rules (règles d’expression)
+Les normes sociales et culturelles apprises ont une influence sur quand et cmt l’émotion peut être exprimée. On module notre expression en fonction du contexte (enterrement - on ne sourit pas).
 
 Est-ce qu’on exprime toujours nos expressions de manière spontanée ?
-
-🡪 Non, on peut inhiber ou contrôler nos expr faciales émotionnelles. On peut moduler l’intensité de l’expression qui va être ressentie. Cette modulation va dépendre du facteur du sexe, par ex, on ne s’attend pas à voir un homme exprimer une tristesse de manière intense. On ne s’attend pas à ce qu’une femme exprime sa colère de manière intense.
+🡪 Non, on peut inhiber ou contrôler nos expr. faciales émotionnelles. On peut moduler l’intensité de l’expression qui va être ressentie. **Cette modulation va dépendre du facteur du sexe**, par ex, on ne s’attend pas à voir un homme exprimer une tristesse de manière intense. On ne s’attend pas à ce qu’une femme exprime sa colère de manière intense.
 
 🡪 On peut montrer une émotion sans avoir le sentiment subjectif (ex : je reçois un cadeau qui ne me plaît pas, je montre de la joie alors que je ne l’aime pas). On peut aussi montrer autre chose en plus d’inhiber (ex : inhiber ma colère et faire un grand sourire).
 
-L’universalité VS le relativisme culturel
+# L’universalité VS le relativisme culturel
 
 **Les pdv sont intégrés dans une perspective interactionniste** : les déterminants biologiques et sociaux/culturels sont pris en compte.
 
-🡺    **Théorie neuroculturelle d’Ekman** (1972, 1994) : on accorde une place imp aux dimensions culturelles. Sa position n’est pas l’universalisme extrême.
+🡺    **Théorie neuro-culturelle d’Ekman** (1972, 1994) : Ekman est revenu sur la formulation de sa théorie pour y intégrer les dimensions culturelles. Sa position n’est pas l’universalisme extrême.
 
 Quelles sont les info véhiculées par les expressions faciales émotionnelles ?
 
@@ -474,49 +473,56 @@ L**e pdv « émotion – expression » (Ekman) :** Défend une position selon la
 
 faciales). Le visage ne communiquerait pas toujours une info fiable. L’expr faciale serait un signal de l’émetteur et c’est l’info qu’il a l’intention de faire passer. Il ne fait pas la diff entre le « soi authentique » et le « soi social ».
 
-**Le pdv « écologie comportementale » (Fridlund) :**
+## **Le pdv « écologie comportementale » (Fridlund) :**
+Les motivations, intentions conditionnent l'expression de l'émotion.
+Le sourire est un comportement purement social qui invite à l'interaction. 
+La tristesse invite les autres à venir m'aider.
+Il n'y a pas d'autre fonction.
+
+Tester cette théorie: l'expression est plus intense lorsque l'individu est dans un contexte social.
 
 **🡪 Importance de la fonction sociale des expr faciales émotionnelles.**
-
 **🡪 Importance du contexte social dans lequel l’émotion est exprimée.**
 
-**Étude de Fridlund (1991) :**
+### **Étude de Fridlund (1991)**
 
 Méthode : Les sujets regardent une bande vidéo plaisante dans des conditions qui varient en fonction du contexte social (4 situations).
 
-⇨      _Condition 1_ : **solitary participation** : verra le film seul mais vient avec un autre participant. Autre participant sera dans une pièce à côté en train de faire une tâche qui n’a rien à voir => tâche non pertinente.
-
-⇨      _Condition 2_ : **implicit irrelevant task** : fait une tâche non pertinente.
-
-⇨      _Condition 3_ **: implicit coviewing** : 2 pers voient la mm vidéo mais dans 2 pièces diff.
-
-⇨      _Condition 4_ : **explicit coviewing** : 2 pers regardent la vidéo ensemble, ils peuvent regarder la tv mais pas se regarder.
+**Procédure**
+	_Condition 1_ : **solitary participation** : verra le film seul mais vient avec un autre participant. Autre participant sera dans une pièce à côté en train de faire une tâche qui n’a rien à voir => tâche non pertinente.
+	_Condition 2_ : **implicit irrelevant task** : fait une tâche non pertinente.
+	_Condition 3_ **: implicit coviewing** : 2 pers voient la mm vidéo mais dans 2 pièces diff.
+	_Condition 4_ : **explicit coviewing** : 2 pers regardent la vidéo ensemble, ils peuvent regarder la tv mais pas se regarder.
 
 VD : l’intensité du sourire : on va mesurer l’activation des muscles du visage (zygomatiques).
 
-Résultats : Lorsqu’on compare les situations où les personnes voient le mm film, on voit que les expr faciales sont + élevées que quand la pers voit le film seul. Quand il y a quelqu’un d’autre avec nous, on a une expr faciale émotionnelle plus intense que lorsqu’on est seuls. La présence physique de quelqu’un n’est pas nécessaire pour une contraction + imp. **Le contexte social va influencer l’expr émotionnelle**. Il a mesuré le sentiment subj rapporté par les participants les participants ressentent le même niveau d’intensité de joie en regardant le film plaisant. Cette exp montre que la condition dans laquelle les personnes ont été placées influencent l’expr émotionnelle => **les recherches suggèrent que les expressions faciales ont des causes autant sociales qu’émotionnelles**
+**Résultats**
+	- Quand il y a quelqu’un d’autre avec nous, on a une expr faciale émotionnelle plus intense que lorsqu’on est seuls. 
+	- Tant qu'on sait que quelqu'un d'autre partage la même expérience que moi (alors que je ne le sais pas - la personne n'est pas physiquement à proximité), on va avoir une intensité d'expression de l'émotion plus intense.
+
+**Le contexte social va influencer l’expr émotionnelle**. Il a mesuré le sentiment subj rapporté par les participants les participants ressentent le même niveau d’intensité de joie en regardant le film plaisant. Cette exp montre que la condition dans laquelle les personnes ont été placées influencent l’expr émotionnelle => **les recherches suggèrent que les expressions faciales ont des causes autant sociales qu’émotionnelles**
+
+---
 
 La présence d’une autre pers facilite l’émergence d’expr faciale. L’impact spécifique du contexte social sur l’intensité de l’expr faciale émotionnelle **peut varier en fonction** :
 
 -        _du degré de familiarité entre celui qui exprime et le public._
-
 -        _de la valence de la situation émotionnelle._
 
-_Quels sont les facteurs qui influencent le décodage des émotions ?_
+## _Quels sont les facteurs qui influencent le décodage des émotions ?_
 
 Le contexte de l’émetteur
 
-**1)**     **Paradigme « personne-scénario » :**
-
+### Paradigme « personne-scénario »
+Les individus attribuent davantage d'importance aux émotions qu'au contexte.
 🡺    On constate que les expr faciales émotionnelles influencent le décodage des émotions, on ne tient pas bcp compte de la situation.
 
-**2)**     **Paradigme « images candides »**
+### Paradigme « images candides »
 
 🡺    On va chercher des situations de la vie quotidienne, on va les reprendre et donner des infos visuelles sur le contexte. D’abord on ne voit pas l’expr faciale de la pers. On va juger uniquement en fonction du contexte. On constate que les infos visuelles qu’on a viennent influencer notre décodage.
 
-**3)**     **Paradigme de Goldberg (1951)**
-
-🡺    A voulu tester l’influence du contexte sur une expr faciale émotionnelle de peur.
+### Paradigme de Goldberg (1951)
+On peut faire changer l'interprétation d'une expression faciale en contextualisant une image représentant une émotion. Plus le contexte est intense, plus l'expression sera perçue comme intense.
 
 2 grp avec 2 films un peu diff.
 
@@ -526,57 +532,46 @@ Le contexte de l’émetteur
 
 🡺    Le contexte a influencé le décodage des expr faciales émotionnelles.
 
-L’état émotionnel/affectif du décodeur
-
-L’état émotionnel du sujet décodeur « colore » sa perception des expr faciales émotionnelles des autres d’une manière congruente avec son propre état émotionnel.
+### L’état émotionnel/affectif du décodeur
+L’état émotionnel du sujet décodeur influence sa perception des expr faciales émotionnelles des autres d’une manière congruente avec son propre état émotionnel.
 
 **Leppänen & Hietanen (2003)** : odeurs agréables, désagréables ou neutres.
 
-Expressions de joie et de dégoût :
+**Procédure**
+	Ils ont induit des émotions avec des odeurs agréables et désagréables.
+	Ils ont ensuite exposé leurs participants à une tâche de décodage d’expression faciale émotionnelle. Expressions de joie et de dégoût
 
-⇨      Ils ont induit des émotions avec des odeurs agréables et désagréables.
-
-⇨      Ils ont ensuite exposé leurs participants à une tâche de décodage d’expression faciale émotionnelle.
-
-⇨      Les personnes ayant été induites grâce à une odeur agréable émotions positives.
-
-⇨      Les personnes ayant été induites grâce à des odeurs désagréables émotions nég.
+**Résultats**
+	Les personnes ayant été induites grâce à une odeur agréable émotions positives.
+	Les personnes ayant été induites grâce à des odeurs désagréables émotions nég.
 
 ---
 
-**Expérience de Pollack (2000) :**
+#### **Expérience de Pollack (2000) :**
 
-Les sujets de cette expérience :
+**Procédure**
+	Les sujets de cette expérience :
+	*Enfants négligés* : auraient moins d’opportunités d’interagir avec des adultes et reçoivent moins de soutien dans l’apprentissage du décodage des signaux émotionnels.
+	_Enfants maltraités_ : sont exposés à une hostilité importante et à la menace.
+	_Enfants sans problème_ : groupe contrôle
+	Après avoir entendu diff histoires dans lesquelles le protagoniste ressentait de la joie, de la tristesse, du dégoût, de la peur ou de la colère. Les enfants devaient choisir parmi 3 photos celle qui correspondait à l’émotion évoquée.
 
--        _Enfants négligés_ : auraient moins d’opportunités d’interagir avec des adultes et reçoivent moins de soutien dans l’apprentissage du décodage des signaux émotionnels.
-
--        _Enfants maltraités_ : sont exposés à une hostilité importante et à la menace.
-
--        _Enfants sans problème_ : groupe contrôle
-
-Méthode :
-
-Après avoir entendu diff histoires dans lesquelles le protagoniste ressentait de la joie, de la tristesse, du dégoût, de la peur ou de la colère. Les enfants devaient choisir parmi 3 photos celle qui correspondait à l’émotion évoquée.
-
-Résultats :
-
-🡺    _enfants négligés_ : plus souvent recours aux visages tristes.
-
-🡺    _enfants maltraités_ : plus souvent recours aux visages de colère.
+**Résultats**
+	_enfants négligés_ : plus souvent recours aux visages tristes.
+	_enfants maltraités_ : plus souvent recours aux visages de colère.
 
 ---
 
-L’importance de l’expressivité familiale
+### L’importance de l’expressivité familiale
 
-⇨      Une **expressivité familiale négative forte rend difficile l’acquisition de la compréh des expr** faciales émotionnelles + déficits dans les aptitudes sociales.
+⇨      Une **expressivité familiale négative forte rend difficile l’acquisition de la compréhension des expr** faciales émotionnelles + déficits dans les aptitudes sociales.
 
 ⇨      Une expressivité familiale positive est **associée à de meilleures compétences sociales** et à des cptm pro-sociaux chez l’enfant.
 
-Les capacités cognitives du décodeur
-
+### Les capacités cognitives du décodeur
 Les troubles psy sévères sont associés à des déficits des capacités cognitives (dont la reconnaissance des expressions faciales émotionnelles).
 
-**L’âge du décodeur :**
+### L’âge du décodeur
 
 ⇨      _Le vieillissement cognitif_ : Les personnes âgées saines ne décodent pas les émotions avec autant de justesse que les personnes jeunes globalement plus de difficultés à reconnaître les émotions négatives.
 
@@ -585,12 +580,9 @@ Les troubles psy sévères sont associés à des déficits des capacités cognit
 **Les études sur les enfants d’un an ou moins :**
 
 **La technique de l’habituation**
-
-🡺    Présenter une expr à plusieurs reprises jusqu’à ce que la durée de fixation visuelle diminue de façon significative (50% de réduction). Lorsque l’enfant tourne la tête, ça veut dire que ce n’est plus qqch de nouveau pour lui.
-
-🡺    Lorsque le critère d’habituation est atteint, une expression différente est présentée.
-
-🡺    On considère que le nourrisson discrimine les deux si on observe une augmentation soudaine du temps de fixation visuelle (Gosselin, 2005).
+Présenter une expr à plusieurs reprises jusqu’à ce que la durée de fixation visuelle diminue de façon significative (50% de réduction). Lorsque l’enfant tourne la tête, ça veut dire que ce n’est plus qqch de nouveau pour lui.
+Lorsque le critère d’habituation est atteint, une expression différente est présentée.
+On considère que le nourrisson discrimine les deux si on observe une augmentation soudaine du temps de fixation visuelle (Gosselin, 2005).
 
 Résultats :
 
@@ -616,23 +608,20 @@ Résultats :
 
 ⇨      7 - 8 ans : compétences semblables à celle de l’adulte.
 
----
-
-La nature de l’émotion exprimée
-
+### La nature de l’émotion exprimée
 Ex : La joie est une EFE plus facilement reconnue
 
 **Étude de Kirouac et Doré (1982) :**
+**Est-ce que le fait de voir le visage neutre et le visage avec EFE faciliterait le décodage ?**
 
-🡺    Taux de reconnaissance de 6 expr faciales émotionnelles.
 
-Quelle est l’importance de l’observation des changements d’apparence du visage provoqués par la contraction de certains muscles faciaux ?
+Taux de reconnaissance de 6 expr faciales émotionnelles.
 
-Est-ce que le fait de voir le visage neutre et le visage avec EFE faciliterait le décodage ?
 
-●        **Hypothèse 1** : l’expression neutre est un élément de comparaison qui peut améliorer la performance de reconnaissance des sujets.
+**Hypothèse 1** : l’expression neutre est un élément de comparaison qui peut améliorer la performance de reconnaissance des sujets.
+**Hypothèse 2** : différence de sexe.
 
-●        **Hypothèse 2** : différence de sexe.
+Lorsqu'on a un masque, on perçoit l'émotion comme moins intense. Les émotions secondaires par contre sont perçues comme plus intenses.
 
 🡪 On remarque des forts pourcentages de bonnes réponses pour toutes les expr on en conclu qu’il est possible d’extraire de l’information liée à l’émotion sur la base d’un seul visage.
 
@@ -644,20 +633,16 @@ Le cas particulier de l’expr de joie : la joie est plus facilement identifiée
 
 Il existe des patrons de confusion : entre la peur et la surprise et entre le dégoût et la colère. Les mécanismes sous-tendant la confusion restent à cerner, ce sont probablement une communauté d’éléments.
 
+# Conclusion
 _Évaluation des expressions émotionnelles en contexte d’entretien clinique_
 
-Observations
+**Observation des signaux non-verbaux** (expressions faciales, postures, expr vocales).
 
-●        **Observation des signaux non-verbaux** (expressions faciales, postures, expr vocales).
+**Observation de la concordance ou non avec le contenu du discours.**
 
-●        **Observation de la concordance ou non avec le contenu du discours.**
-
-●        **Repérer les expressions instrumentales** : ce sont des émotions qui ne sont pas réellement ressenties par l’individu (exagération, simulation, suppression)
-
+**Repérer les expressions instrumentales** : ce sont des émotions qui ne sont pas réellement ressenties par l’individu (exagération, simulation, suppression)
 🡪 façon détournée d’exprimer ses besoins
-
-🡪 source d’inconfort
-
+🡪 source d’inconfort (on perçoit la manipulation de l'émotion)
 🡪 l’expression émotionnelle instrumentale n’est pas toujours consciente.
 
 Implications

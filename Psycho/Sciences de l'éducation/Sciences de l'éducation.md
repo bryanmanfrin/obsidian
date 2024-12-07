@@ -15,4 +15,6 @@ Pas automatiquement de podcasts.
 5. /
 6. [[Evaluation des élèves]]
 7. [[Réformes en FWB]]
+8. [[Dispositifs qui améliorent le bien-être des élèves]]
+9. [[Sciences de l'éducation - Résumé des cours]]
 

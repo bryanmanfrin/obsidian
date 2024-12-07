@@ -13,5 +13,8 @@ Le développement social
 
 ![[L'attachement]]
 
+# Les stades psychosexuels de Freud
+![[Les stades psychosexuels de Freud]]
+
 
 

@@ -75,4 +75,102 @@ Analyse de structure: Qui compose la population?
 Analyse de phénomène: Qu'est ce qu'il se passe dans la population?
 
 
+# Mobilité sociale
+On s'intéresse à la mobilité sociale intergénérationnelle.
+Mobilité ascendante/descendante.
+
+Pendant les 30 glorieuses (1945-1975), forte mobilité sociale car l'économie changeait - **mobilité structurelle**.
+La **mobilité nette** ne tient pas compte de la mobilité structurelle.
+Généralement la mobilité est de faible amplitude.
+
+Depuis les années 1990, la possibilité baisse/grandit très lentement.
+Le nombre de personnes reléguées au bas de l'échelle sociale augmente.
+
+La classe moyenne perd en richesse mais participe toujours autant avec les impôts.
+La responsabilité de réussite personnelle contredit ce que la société produit: des personnes plus pauvres avec moins de perspectives.
+Vote à droite: manière de rediriger leur douleur et frustration vers les pauvres/racisés.
+
+## Bourdieu
+Il analyse les mécanismes de reproduction sociale des inégalités (origine? famille? école?)
+Habitus: façon de penser, de se comporter dans notre environnement social. Pour Bourdieu, on n'a pas tous le même habitus. Il se créé en fonction du milieu social d'origine.
+Les capitaux: ressources auxquelles on a accès en fonction de sa position sociale.
+
+**Capital économique** 
+	Revenu et patrimoine des individus. Parts dans les entreprises, immobilier
+**Capital culturel**
+	Manière de se tenir, de parler, de parler d'une oeuvre d'art
+	Capital culturel acquis ou hérité (capital culturel objectivé)
+	Capital institutionnalisé (diplômes)
+**Capital social**
+	Le réseau de relation dont on dispose
+**Capital symbolique**
+	Reconnaissance sociale ou prestige de la personne
+
+Il ne faut pas tomber dans le piège d'unifier les groupes. On peut avoir plus ou moins de capital culturel/riche.
+**Les capitaux hérités conditionnent notre position sociale et inversement.** #tuyau
+
+Top-Down
+Bottom-up?
+Bottom: Les individus
+Up: La société
+
+**Est-ce que la structure sociale conditionne l'individu ou est-on libre?**
+Bourdieu: "Les deux"
+	Les structures sociales sont incorporées par l'individu.
+	L'habitus permet à l'individu d'agir intuitivement dans le monde. On a une liberté d'agir.
+	Les individus reproduisent leurs structures sociales mais ont une capacité d'agir et d'innover même si limité. #tuyau
+
+### L'école
+L'école reproduit les inégalités économiques, mais **surtout** culturelles.
+L'école favorise les élèves provenant de milieux aisés car ces enfants auront plus de capital culturel de par leur habitus. Un "bon élève" est pour l'école ce qui est créé dans les familles aisées (comportements appropriés, livres lus, théatre).
+
+### La violence symbolique
+Capacité des bourgeois à imposer leur manière de se comporter, y compris à travers l'école, comme si tout le monde devait adopter ces comportements.
+Un enfant venant d'une famille pauvre aura plus de mal à apprendre une langue et leur faire croire qu'ils sont bêtes, ne travaillent pas assez. Les enfants aisés ont par leur socialisation, une manière de parler et plus de contact avec des langues différentes.
+On fait croire que la maitrise de la langue est un signe d'intelligence? Tu n'es pas intelligent.
+Pourquoi ça fonctionne? Parce que c'est accepté par la classe populaire, c'est intégré comme une vérité.
+
+# La sociabilité
+Sociabilité recouvre les relations sociales que l'on a en dehors de la famille de l'église et d'autres institutions.
+
+Pour Bourdieu, la sociabilité est déterminé par notre classe sociale. Plus d'affinité avec des gens ayant un habitus proche.
+
+La présence d'un enfant #tuyau au sein d'un couple va modifier les possibilités de sociabilité d'un couple, surtout si l'enfant est jeune. On sort en différé, on a des dépenses supplémentaires. Lorsque l'enfant part, les parents "perdent" son cercle social (parents d'amis).
+
+Composantes affinitaires: liens avec des personnes choisies (vs imposées)
+Composantes spatiales: lieux dans lesquels vont se déployer nos sociabilité. Exemple: notre voisinage 
+**Le bon voisin**: discret, sur lequel on peut compter, on le salue mais on ne s'arrête pas à chaque fois. #tuyau
+
+**Sociabilité vs socialisation**
+	Sociabilité: relations sociales
+	Socialisation: règles façonnant les comportements sociaux de l'individu.
+
+**Homogamie**
+	On se met en couple avec des personnes du même milieu social que nous. Statistiquement la règle.
+
+**Rallies**
+	Grandes fêtes bourgeoises dans lesquelles on cherche des partenaires du même milieu à ses enfants.
+
+
+# Génération
+Démographie vs sociologie
+
+## Démographie
+Une génération est un type particulier de cohorte: on l'appelle aussi une "cohorte de naissance". 
+=> Ont vécu un même phénomène au même moment
+
+**Étude longitudinale**
+	On étudie les personnes d'une même année  sur plusieurs années pour observer un comportement (âge moyen du marriage des personnes issues de 1990).
+
+**Étude transversale**
+	se fait à l'aide d'une cohorte **fictive**. Ils analysent la fécondité de femmes de plusieurs âges et faire comme si elles appartenaient à la même cohorte.
+
+## Sociologie
+Génération: Ensemble d'individus qui partagent des expériences similaires aux mêmes moments.
+Être né en même temps ne suffit pas à faire une génération. Une génération est constitué de sous-groupes qui se positionnent différemment par rapport à un évènement.
+
+## Critique 
+Le concept de génération n'a pas de sens car le fait d'être né au même moment ne créé pas nécessairement de ressemblances fortes. Le lieu, milieu social
+
+La "jeunesse" n'existe pas. Jeunesse et vieillesse s'opposent, ce qui créé des luttes pour tenter d'imposer leurs idées.
 

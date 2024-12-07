@@ -10,10 +10,16 @@ L'enfant va s'attacher pour que le parent prenne soin de lui.
 L'attachement a une influence tout au long de la vie mais commence dès les premiers mois. 
 L'affection, la chaleur a vraiment une importance au développement (Harlow - les bébés préfèrent les mamans à fourrure que les mamans qui nourrissent). ^00e53d
 
+Dans certains cas avec des adultes, on peut remarquer que des façons de fonctionner est conditionné par le type d'attachement créé lors de l'enfance en fonction de la relation qu'ils avaient avec leurs parents.
+
 # Les styles d'attachement
 ## Par Marie Ainsworth (la situation étrange)
 Un inconnu, un enfant et une maman sont dans une pièce. La maman quitte la pièce et on observe le comportement de l'enfant pour distinguer des profils d'attachement.
 On peut vivre une violence qui peut nous faire changer de style d'attachement.
+
+
+### Attachement insécure
+Tendance à l'agressivité et à la dépendance
 ### Attachement assuré et sécure (62%)
 **Parents** affectueux et disponibles. 
 Les **enfants** ont une bonne estime d'eux-mêmes. Je suis digne d'attention. J'ai confiance car si il m'arrive quelque chose, j'aurai du soutien. 
@@ -31,9 +37,10 @@ Parents insensibles
 - Pas de crainte envers l'inconnu
 
 ### L'attachement anxieux/ambivalent (9%)
-Marques d'affection irrégulières
+Parents: marques d'affection irrégulières.
 - Alternance entre contact et évitement
 - Très bouleversé lors de la séparation
+- On n'est jamais sûr de la façon dont les parents vont réagir.
 
 ### L'attachement désorganisé (15%)
 Parents effrayés ou effrayants
@@ -70,7 +77,39 @@ Les parents sont devenus la base de sécurité. Il n'aime pas trop quand ce sont
 ### Phase de dépression (cas rare)
 Un attachement n'a pas pu se créer. L'enfant proteste puis comprend que ça ne sert à rien. Il deviendra alors **indifférent**.
 
+# La qualité de l'attachement
+- La disponibilité de la personne maternante
+- La sensibilité globale aux besoins du bébé
+- La réceptivité aux signaux des bébés
+- La capacité à consoler
+- La manifestation du plaisir de la personne maternante
 
 # Le cercle de sécurité
 ![[8_Dev socio-affectif_dev_social_2024_2025(1).pdf#page=11]]
+
+
+# Troubles vs styles d'attachement
+Les styles d'attachement n'ont rien de pathologique en soi. Un type d'attachement plus compliqué qu'un autre ne va pas nécessairement causer de problème au delà de conditionner la façon dont on approche les relations.
+Un trouble de l'attachement, trouble de l'engagement social désinhibé. 
+
+# Évolution de l'attachement
+2-3 ans, la permanence de l'objet se créé et l'angoisse de la séparation s'estompe. La relation continue d'exister même si les partenaires sont séparés.
+
+L'enfant acquiert des habilités sociales par le jeu.
+- Entrer dans le groupe. Il va observer les autres jouer pour comprendre la dynamique. Relations peu investies limitées au jeu.
+
+A l'âge scolaire, les parents restent le pilier vers lequel se tournent les enfants. Ils vont se comparer beaucoup plus aux autre et vont exiger une large palette de codes sociaux. Une rupture de ces codes ou des amitiés ont des conséquences très importantes pour eux car ils ressentent fortement cette rupture. Expérience fréquente des **rejets**.
+**Rejetés-renfermés:**
+**Rejetés-agressifs:** se disent indifférents face à l'exclusion.
+Intimidation: 
+
+Adolescence:
+Les ados se désolidarisent un peu des parents mais **la famille garde une importance en terme de stabilité et soutien émotionnel**. La qualité de la relation avec les parents prédit comment l'adolescence va se faire.
+Le mieux pour un parent avec un ado difficile est de **garder le cadre de sécurité** et de s'accrocher.
+
+L'adolescent se construit grâce aux pairs. 
+Entraide, on observe leurs comportements pour les répliquer et on apprend à se connaitre.
+Influence sociale importante avec les paires (soutien et dérives).
+
+
 
