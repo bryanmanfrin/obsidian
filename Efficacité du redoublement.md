@@ -29,9 +29,6 @@ Calculer l'effet:
 Si l'effet est de -0,41, on dira que "la progression a réduit de 0,41 écarts type par rapport au GC".
 
 
-
-
-
 ## Une étude quasi-expérimentale (Seibel)
 L'éducation nationale voulait quantifier les progrès des élèves entre juin et décembre.
 il avait à sa disposition des résultats de français et de mathématique en juin et en décembre.

@@ -18,3 +18,9 @@ Comprendre la controverse James-Cannon
 Savoir comment les role de l'activation physiologique dans le déclenchement
 # [[Psychologie des émotions - Chapitre 5]]
 L'expression faciale des émotions
+
+# [[Psychologie des émotions - Chapitre 6]]
+Le partage social des émotions
+
+# [[Psychologie des émotions - exemples de questions d'examen]]
+

@@ -3,6 +3,12 @@ Régulation hormonale
 Hormones: communication cellulaire. Médiateur chimique circulant dans le sang
 
 
+Résumé de la prof
+	Adénohypophyse libère des hormones: ACTH, TSH, FSH, LH , MSH, STH, Prolactine.
+	Certaines (ACTH, TSH, FSH, LH) vont activer des organes endocriniens. Les productions d'hormones circulent dans le sang pour remonter à l'adénohypophyse et indiquer qu'on est présent en suffisance (boucle de rétroaction positive). Si peu d'hormones, le signal dit "continuez de me produire".
+	Les autres (MSH, STH, Prolactine) vont vers des cellules non-endocrines. Les RH proviennent de l'hypothalamus pour arriver à l'adénohypophyse. L'hypothalamus va lui-même gérer la production des hormones de l'adénohypophyse - contrairement aux autres hormones qui se gèrent par la concentration dans le sang.
+	
+
 Glandes exocrines: 
 	libèrent des molécules dans le milieu extérieur. 
 	Exemple: les glandes du système digestif (pancréas, glandes salivaires, ...) libèrent des enzymes de digestion.
@@ -46,13 +52,13 @@ Les hormones libérées par l'hypothalamus sont des hormones **libérantes** (**
 4 de ces 7 hormones (puces rouges) ont pour cible une troisième glande endocrine.
 
 
-ACTH: adrénocorticothropes: organe cible 2: glandes surrénales
-TSH: cible une troisième glande endocrine: glande tyroïde
-FSH et LH: cible les gonades (testies et ovaires)
+ACTH: adrénocorticothropes: organe cible 2: glandes surrénales. Quand on se blesse, on guérit plus rapidement - inflammatoire.
+TSH: cible une troisième glande endocrine: glande tyroïde. Réponse au stress, mieux gérer le moment stressant.
+FSH et LH: cible les gonades (testies et ovaires). Production de testostérone et spermatogenèse, ovulation et progestérone/oestrogène.
 
 Verts:
-STH: hormone de croissance - cible toutes les cellules du corps
-MSH: hormone mélanotropes
+STH: hormone de croissance - cible toutes les cellules du corps, stimule les cellules
+MSH: hormone mélanotropes, fait foncer la peau à l'exposition du soleil
 Prolactine: agit au niveau des glandes mammaires (puce verte). Entraine la production de lait dans les glandes mammaires.
 
 Neurones hypothalamiques libèrent des hormones libératrices dans les capillaires sanguins dans le but d'atteindre l'hypophyse par le sang. 
@@ -77,7 +83,8 @@ Une fois qu'on n'a plus froid,
 
 **ACTH** (adrénocorticotrope)
 	Plaie -> hypothalamus -> Produit des releasing hormones (ACTH RH) -> transmises à l'hypophyse qui fabrique l'ACTH -> glandes surrénales -> produit des **corticostéroïdes** (mobilise les réserves de sucre et de graisses et a un rôle antiinflammatoire en réponse à la plaie) -> inhibe ensuite l'hypothalamus et l'hypophyse pour arrêter la production.
-	Dopage: si on se dope, on apprend au système à vivre avec des stéroïdes non-naturels et a du mal à travailler avec de faibles doses naturelles
+	Dopage: si on se dope, on apprend au système à vivre avec des stéroïdes non-naturels et a du mal à travailler avec de faibles doses naturelles.
+	Agit directement sur les organes pour stimuler les réserves d'énergie contrairement aux hormones de croissances qui stimulent le corps de façon plus large.
 
 **FSH (hormone folliculo-stimulantes) et LH**
 	Hormones hypophysaires
@@ -141,7 +148,7 @@ Les premiers spermatozoïdes arrivés sur l'ovule doivent dégager les cellules 
 Tous les organites cellulaires restent donc ceux de la mère (voie matriarcale).
 Après le passage d'un premier spermatozoïde, la membrane devient réfractaire et empêche les autres spermatozoïdes de rentrer.
 
-A partir de la **6-8ème semaine** se mettent en place les gonades
+A partir de la **6-8ème semaine** se mettent en place les gonades. Création du sexe gonadique, le genre est toujours indifférencié. 
 Entre la **8ème et 12ème** semaine se mettent en place les sexes morphologiques (organes génitaux).
 Après la 12ème semaine, on entre dans la phase fœtale (tous les organes sont présents) et on ne fait plus que grandir.
 

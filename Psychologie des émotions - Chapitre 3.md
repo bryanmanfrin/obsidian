@@ -1,4 +1,8 @@
-![[Chap 3 Qu'est ce qu'une émotion 2024-25.pdf]]Qu'est ce qu'une émotion?
+![[Chap 3 Qu'est ce qu'une émotion 2024-25.pdf]]
+Qu'est ce qu'une émotion?
+
+L'émotion comprend un activation physiologique
+Le **sentiment subjectif** mais référence au phénomène mais sans l'activation pshysiologique.
 
 Dans l'émotion on distingue plusieurs étapes:
 

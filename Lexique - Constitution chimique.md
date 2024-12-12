@@ -151,7 +151,7 @@ On copie un brin d'ADN (brin matrice) sur un brin d'ARN messager.
 	Vacuoles contenant autre chose que des aliments.
 
 **Appareil de Golgi**
-	Jeu de membranes lisses (sans ribosomes). Les protéines sont assemblées au niveau des ribosomes mais subissent la maturation. 
+	Jeu de membranes lisses (sans ribosomes). Les protéines sont assemblées au niveau des ribosomes mais subissent la maturation dans l'appareil de Golgi. 
 
 **Exocytose:**
 	Rejette les éléments non digérés par les enzymes présents dans la cellule par le biais de grains d'excrétion.

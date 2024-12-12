@@ -157,3 +157,83 @@ La personnalité du clinicien va influencer l'utilisation d'un type de thérapie
 
 
 
+# 10/12/2024 - Stéphanie Bradfer - 
+[[Le courant cognitivo-comportemental (TCC) et ses 3 vagues]]
+
+Psychothérapeute cognitivo-comportementaliste et psychologue au CHU.
+Pour elle, le DSM 4 est un bon outil pour aider à diagnostiquer et guide les impressions personnelles et intuitions.
+
+Lorsqu'une personne est accueillie à l'hôpital, elle en reçoit certain rapidement.
+Il y a énormément de jeunes en clinique. Auparavant, il y avait un jeune de 17 ans au bout d'une lune, maintenant, ils représentent bien la moitié.
+Son prédécesseur faisait beaucoup de diagnostique psychologique. Elle a pu assister le psychiatre en travaillant sur des domaines spécifiques ("essaye de travailler sa conscience de soi"). Elle voit maintenant la **relation psychologue/psychiatre** comme une relation **complémentaire** et pas comme une guerre.
+
+Ateliers autour de l'affirmation, la relaxation, prendre du recul sur ses pensées.
+
+Consultations **Transgenres**
+Le CHU est devenu un centre de référence par l'INAMI. Lors de demandes de changements de sexe à la commune, il ne faut pas d'approbation.
+Pour les traitements médicaux aux hormones, il faut un accord du psychiatre.
+De nombreuses personnes transgenres vont fortement ressentir la menace du stéréotype.
+
+**Psychothérapeute en TCC**
+Les personnes viennent de leur plein gré.
+Troubles variés
+Séances d'environs 1h
+
+> *On cherche à modifier les pensées inadaptées pour les remplacer par des pensées plus adaptées.*
+
+**Restructuration cognitive:**
+Prendre de la distance, adopter un autre point de vue.
+Flèche descendante / 
+
+**raisonnement socratique**: être son propre juge.
+"Personne ne m'aime": je le vis. Quels sont les contre-arguments? J'ai été invité, j'ai reçu des messages à mon anniversaire, ..
+
+**Psychoéducation**
+	Normaliser les choses qui semblent nous accabler. 
+	"Ce sont des sentiments qu'il est normal d'avoir".
+
+**Exposition in vitro et in vivo**
+In vitro: on aborde la situation, les émotions ressenties durant des phobies, des TOC
+In vivo: on met le patient en situation réelle.
+Exposition par la VR: Mr Etienne, Madame Vagner.
+***Dans la VR #VR,*** on évite de mettre le patient dans un état de relaxation. On laisse plutôt la personne s'habituer pour que l'anxiété diminue d'elle même. 
+On peut l'utiliser pour les phobies sociales (on met la personne dans une réunion professionnelle).
+On peut demander à la personne de capturer son environnement proche pour mettre la personne en situation au plus proche possible (on peut poser la caméra au centre du salon de la personne).
+On peut créer des environnements pour des personnes qui se sont faites agressées. L'agresseur s'installe à côté de la victime. Le but est de pouvoir gérer une situation normale.
+Les paramètres de l'enfant peuvent être mesurés et être représentés dans l'environnement à travers un papillon par exemple, qui se flétrit.
+
+Exposition avec prévention de la réponse
+Si j'ai l'habitude de 
+
+
+**Activation comportementale**
+Assigner une note positive à des choses qu'on n'aime pas faire. "Ah ben il fait bien propre chez moi".
+S'oppose à la tendance qui disait à une personne fatiguée de se reposer -> avait tendance à induire les gens dans une léthargie. 
+
+Travail sur les schémas de Jung
+
+
+**Aspects positifs de la TCC**
+- Approche collaborative et active
+- Avancée au rythme du patient
+- Apprentissage de nouvelles façons de réagir et penser
+- Acquisitions portant sur le long terme grâce à une pratique de maintien où le patient est autonome.
+- Relation basée sur le respect - alliance thérapeutique
+- Outils thérapeutiques riches et diversifiés
+- Enrichissant
+- progrès 
+
+**Freins de la TCC**
+- Les patients limités intellectuellement auront du mal à formuler leurs problèmes.
+	"Je sais pas ce qui ne va pas"
+- Les patients réfractaires. 
+	- Un patient envoyé par quelqu'un ou un autre collègue.
+	- La personne dont ce n'est "jamais la faute".
+- La TCC nécessite un part active jouée par le patient
+
+
+Références
+- *Les thérapies cognitives et comportementales pour les nuls (2006)*
+- Le guide clinique de thérapie compo
+- *Le guide de psychologie de la vie quotidienne. 2008*
+

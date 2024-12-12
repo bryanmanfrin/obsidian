@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "43458bd97890a119",
+        "id": "593bc21279f4a201",
         "type": "tabs",
         "children": [
           {
-            "id": "53221bbd19b7debc",
+            "id": "e9cec6f8658ccba5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Psychostatistiques/Psychostatistiques.md",
+                "file": "Déviance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychostatistiques"
+              "title": "Déviance"
             }
           },
           {
-            "id": "2514395ca158ae37",
+            "id": "09efa7316c15ae17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +36,62 @@
             }
           },
           {
-            "id": "3fae20639f219a94",
+            "id": "78020bc17b365955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Sciences de l'éducation"
+            }
+          },
+          {
+            "id": "85f13f2ba32ea26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efficacité du redoublement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Efficacité du redoublement"
+            }
+          },
+          {
+            "id": "f8a969219fbb13e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Le redoublement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Le redoublement"
+            }
+          },
+          {
+            "id": "8c9d5359fbd3464c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Réformes en FWB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Réformes en FWB"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Déviance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,12 +180,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4212920205268498,
+                  "scale": 0.4495880896345337,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Déviance"
             }
           }
         ]
@@ -195,10 +236,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Déviance.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Déviance"
             }
           },
           {
@@ -225,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Déviance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +276,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Déviance"
             }
           }
         ]
@@ -259,7 +300,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 211.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,42 +317,44 @@
   },
   "active": "291ca3e021573c5f",
   "lastOpenFiles": [
-    "Manipulation de l'œuf et recombinaisons génétiques.md",
-    "Conseils Examen.md",
-    "Dispositifs qui améliorent le bien-être des élèves.md",
-    "13b_Manip2-oeuf-emb_Alice.pdf",
-    "Psycho/Eléments Biologie/Eléments Biologie.md",
-    "Sciences de l'éducation - Résumé des cours.md",
+    "Efficacité du redoublement.md",
     "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-    "Isef 05 12 24 Revue systématique bienêtre.pdf",
+    "Le redoublement.md",
+    "Présentation du PISA.md",
+    "Réformes en FWB.md",
     "Déviance.md",
+    "Développement cognitif.md",
+    "Redoublement et stéréotypes.md",
+    "Conseils Examen.md",
+    "462565446_8914698975249518_8548150580212168060_n.jpg",
+    "Chapitre 11 - Tests statistiques sur les corrélations et régressions.md",
+    "Arbre décisionnel.md",
+    "Développement social psycho-sexuel.md",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Sciences de l'éducation - Résumé des cours.md",
+    "Chapitre 11.pdf",
+    "Chapitre 9 - Le stress.md",
+    "PSYC5866 09-Stress 2023-24.pdf",
+    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+    "Chapitre 7 - Intelligence et pensée.md",
+    "Manipulation de l'œuf et recombinaisons génétiques.md",
+    "Les régulations hormonale.md",
+    "Le développement des organismes.md",
+    "La sexualité - diversification.md",
+    "Psycho/Eléments Biologie/Eléments Biologie.md",
+    "Excalidraw/bio-cross-over.md",
+    "Structure et reproduction des virus.md",
+    "Lexique - Constitution chimique.md",
+    "Maitrise de l'énergie.md",
+    "10_Dev socio-affectif_psysante_2024_2025.pdf",
+    "9_Dev socio-affectif_dev_psychosexuel_2024_2025.pdf",
+    "Pasted image 20241209133600.png",
+    "13b_Manip2-oeuf-emb_Alice.pdf",
+    "Isef 05 12 24 Revue systématique bienêtre.pdf",
     "déviance ex-ante dec 24 - Tagged.pdf",
     "déviance ex-ante dec 24.pptx",
-    "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "Génération.md",
-    "Chapitre 10 - Alternatives non paramétriques aux tests statistiques sur deux moyennes.md",
-    "Chapitre 9 - Test d'hypothèse sur deux moyennes.md",
     "Chapitre 10.pdf",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "Chapitre 7 - Intelligence et pensée.md",
     "PSYC5866 07-Intelligence et pensée 2023-24.pdf",
-    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
-    "Sociologie - Révisions.md",
-    "Franz Boas.md",
-    "Chapitre 7 - Données catégorielles et khi-carré.md",
-    "Les stades psychosexuels de Freud.md",
-    "Chap 5 Emotion et Expression non verbale 2024-25 (1).pdf",
-    "Psychologie clinique - interventions.md",
-    "Evidence Based Practice et ses 4 pilliers.md",
-    "Psychologie des émotions - Chapitre 5.md",
-    "Home.md",
-    "Oedipe.md",
-    "Psycho/Psychologie des émotions/Psychologie des émotions.md",
-    "Psychologie des émotions - Chapitre 4.md",
-    "Développement social psycho-sexuel.md",
-    "13a_Manip1-genet_Alice.pdf",
-    "Isef 24 11 24.pdf",
-    "géneration nov.24 ex-ante. sent - Tagged.pdf",
     "Pasted image 20241127095706.png",
     "Pasted image 20241127085747.png",
     "Pasted image 20241127085531.png",
@@ -320,8 +363,6 @@
     "Pasted image 20241112122955.png",
     "Pasted image 20241112122939.png",
     "Pasted image 20241112121809.png",
-    "Pasted image 20241112111508.png",
-    "Pasted image 20241106214827.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

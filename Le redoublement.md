@@ -41,7 +41,7 @@ La FW-B a un tronc commun allant jusqu'à 14 ans (plus court que la moyenne) et 
 On est entre le **modèle de séparation** et le **modèle d'intégration uniforme**.
 
 
-La progression automatique n'est pas instituée partout en primaire (pas même dans tous les pays scandinaves - seulement la Norvège).
+La promotion automatique n'est pas instituée partout en primaire (pas même dans tous les pays scandinaves - seulement la Norvège).
 Beaucoup de pays permettent les redoublements mais avec restrictions.
 Malgré les restrictions prévues contre le redoublement, il peut y avoir de grands taux de redoublement (France - 22% de retard)
 Certains pays dans lesquels la progression est automatique ont aussi un taux de redoublement ~2%.

@@ -14,9 +14,9 @@ reinforcement (more of it - addition of a stimulus)+ punishement (less of it - r
 
 # La vague comportementale
 
-# Le conditionnement classique 
+## Le conditionnement classique 
 [[Ivan Pavlov]] 
-# Le conditionnement opérant
+## Le conditionnement opérant
 Combine les renforcements positifs et négatifs et les punitions positives, négatives.
 
 Renforcement positif : favorise l'occurrence d'un comportement (obtient qq chose d'agréable
@@ -30,9 +30,9 @@ Punition négative: on enlève qq chose d'agréable (on retire la nourriture)
 # La vague cognitive
 On perçoit notre souffrance à travers notre vision du monde (il doit être en train de me tromper).
 
-apprentissage par imitation, on va imiter (plus ou moins inconsciemment) des comportements 
+apprentissage par imitation, on va imiter (plus ou moins inconsciemment) des comportements.
 
-## La vague émotionnelle
+# La vague émotionnelle
 Thérapie basée sur la pleine conscience. Je suis conscient volontairement de l'expérience que je vis dans ce moment présent. Si j'ai une douleur, je peux décider de me concentrer sur autre chose **sans nier la douleur, sans la juger**. J'accepte le présent tel qu'il est. 
 
 Poème de la maison d'hôte de Rumi. #poème

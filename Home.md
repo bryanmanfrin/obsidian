@@ -7,7 +7,7 @@
 
 ## [[Introduction à la psychologie clinique]] 
 
-## [[Sciences de l'éducation]]
+## [[Sciences de l'éducation]] ![[Pasted image 20241209133600.png | 50]]
 
 ## [[Méthodo - Prise de notes]]
 

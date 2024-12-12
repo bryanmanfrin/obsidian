@@ -23,6 +23,8 @@ Herpès est un virus aussi, *herpesvirus* qui a un capside entouré d'une membra
 
 # UV
 ## Virus latent
+L'ADN du virus s'insère dans le corps de la cellule. L'ADN est inclus dans l'ADN de l'hôte et la cellule ne le détecte pas. La cellule va propager son matériel génétique lorsque la cellule fait sa mitose. L'environnement peut activer le gène et produire les protéines codés sur ce gène.
+
 - Une bactérie porte de l'ADN.
 - Le virus bactériophage injecte son ADN dans la bactérie.
 - Normalement, le virus détruit l'ADN de la bactérie mais pas ici. L'ADN du virus va aller **se cacher** dans l'ADN de la bactérie (**virus latent**).

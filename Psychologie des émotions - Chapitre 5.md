@@ -31,6 +31,8 @@ L’expression faciale est un cptm qui participe au déclenchement de l’émoti
 
 ## 1.1.        L’hypothèse de la rétroaction faciale
 
+La rétroaction faciale existe mais explique peu de l'expérience émotionnelle du sujet.
+
 **Définition générale de la rétroaction faciale (Lanzetta et McHugo)**
 
 Hypothèse: l'expression joue un rôle causal dans l'émergence de l'émotion. Repris par Darwin et James.

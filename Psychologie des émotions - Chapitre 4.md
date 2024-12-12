@@ -68,7 +68,15 @@ Les critiques portent uniquement sur les changements viscéraux alors que la th�
 
 Dans la proposition de James on parle de changement somatique = toute la musculature (car les muscles interviennent dans la genèse des émotions). Les propositions et expériences de Cannon vont donc à l’encontre des propositions de James.
 
-### _1.1.1._     _Comment évaluer le rôle de l’activation physiologique dans le déclenchement de l’émotion_
+### 1.1.1. Comment évaluer le rôle de l’activation physiologique dans le déclenchement de l’émotion_
+
+Dans l'approche biologique, il n'y a pas besoin d'une prise de conscience. C'est l'activation périphérique (physiologique et muscles) qui va signaler au corps qu'on expérimente une situation. Le corps y réagit et créé l'émotion.
+
+On essaye de différencier la colère et la peur en mettant une personne face à une situation stressante. On leur pose des questions pour vérifier leur expérience émotionnelle.
+
+Colère intériorisé, extériorisée, peur, anxiété, ...
+Il y a des patrons physiologiques différents.
+
 
 A.    Étudier les changements physiologiques de chaque émotion 
 
@@ -181,11 +189,13 @@ on observe ce qui se passe chez l’animal
 
 Hohmann : les recherches chez l’homme
 
-Une des 1ère études : grp de participants qu’il a comparé en fonction de la liaison de la moelle épinière
+Une des 1ère études : grp de participants qu’il a comparé en fonction de la liaison de la moelle épinière. Au moins il y a d'expérience physiologique, au moins il y a d'expérience émotionnelle.
 
 🡺    Comparaison entre l’intensité de l’émotion avant et après la liaison
 
-🡺    **Exp émotionnelle après liaison** : moins intense qu’avant (+ la hauteur de la liaison est haute, + les exp émotionnelle sont diminuer)
+🡺    **Exp émotionnelle après liaison** : moins intense qu’avant (+ la hauteur de la liaison est haute, + les exp émotionnelle sont diminuer).
+
+Mesurer le niveau émotionnel d'une personne qui a subit un accident est probablement peu fiable si on compare un avant/après. La personne aura peut-être des symptômes dépressifs ou au moins une baisse de l'humeur. 
 
 ---
 
@@ -243,6 +253,9 @@ Colère : rougissement du visage
 
 Étude interculturelle : 37 pays et 5 continents
 
+On demande aux personnes d'expliquer quelles sensations corporelles ont été ressenties durant certaines expériences. 
+Il existe des patrons de **sensations corporelles similaires**.
+
 Résultats : patrons et changements distincts de réactions corporelles pour chaque émotion de base et qu’on retrouve d’un pays à un autre => dimension interculturelle
 
 Ces études montrent qu’on retrouve des profil prototypique. Il y a un prototype dans la représentation mentale de l’individu.
@@ -252,6 +265,11 @@ Quand on pose la question, quelles sont les sensations corporelles qu’on a pu 
 Contrairement à l’activation physiologique, pour les sensations corporelles, on a des patrons de réaction et de sensation diff.
 
 ### _1.2.1._     _Les sensations corporelles et les changements physiologiques observables_
+
+Qu'arrive-t-il si une personne a des difficultés à réguler ses émotions? 
+- Ses émotions sont intenses
+- Les personnes recevant ces réactions intenses vont potentiellement prendre du recul
+- Induction de l'émotion chez la personne en face.
 
 Existe-t-il une correspondance entre les sensations corporelles et les changements physiologiques objectivables ? (question que Rimé s’est posé)
 
@@ -333,7 +351,11 @@ _Le transfert de l’activation physiologique (découvert par Zillmann) et l’e
 
 ## 1.3.        Le transfert de l’activation physiologique et « l’effet Valins »
 
+1) L'effet Valins:
+	1) La croyance d'être activé physiologiquement va créer le déclenchement et l'intensité de l'émotion. Si je crois que mon coeur bat à tout rempore, je vais avoir une anxiété et un stress.
 **1)**     **Le transfert de l’activation physiologique (Découvert par Zillmann)**
+
+Si je fais un exercice sur un vélo et en rentrant chez moi, des amis m'attendent pour fêter mon anniversaire, je vais ressentir une émotion plus grande car j'attribue mon activation physiologique à l'évènement de la fête. Si j'ai conscience que je peux faire un transfert, je ressentirai moins intensément l'émotion car il n'y a eu transfert.
 
 L’effet est basé sur deux principes :
 

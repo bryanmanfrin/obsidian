@@ -13,6 +13,8 @@ Professeure: C. Stassart
 
 ## [[Développement affectif]]
 
+## [[Développement de la conception de la santé et de la maladie]]
+
 # Définition
 > L'étude scientifique des caractéristiques changeantes et immuables au cours de la vie.
 

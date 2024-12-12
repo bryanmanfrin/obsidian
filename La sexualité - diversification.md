@@ -62,6 +62,9 @@ Mitose: 1 donne 2
 Méiose: 2 donnent 1
 
 Une cellule sexuelle initiale se reproduit par mitose, créant des clones (spermatogonie ou ovogonie - noms des cellules) possédant les mêmes gènes car mitose.
+
+Division réductionnelle: une cellule contenant 6 chromosomes se sépare en 2 et donne 2 cellules contenant 3 chromosomes.
+Division équationnelle: une cellule contenant un nombre réduit de chromosomes (n/2) va découper les chromosomes en 2 pour créer des gamètes.
 ### Phase d'accroissement
 Ces cellules vont grossir pour créer un spermatocyte ou un ovocyte (beaucoup plus grand). 
 
@@ -82,9 +85,10 @@ Au départ d'une cellule 2n = 6 peut former 8 gamètes différentes
 Formule: $2^n$ 
 $2^{23}$  (8.000.000) gamètes différentes peuvent être formées par les 23 chromosomes présents dans les cellules humaines.
 
+**Crossing-over**
 Les chromatides des chromosomes peuvent parfois, quand ils sont sur la plaque équatoriale, faire des échanges de matériel génétique. 
 ![[bio-cross-over]]
-
+Les chromatides liées entre elles vont se partager leur matériel génétique.
 
 Méiose: 
 1- L'adn se duplique et se condense pour former les chromosomes. Si j'ai 6 chromomes, j'ai 12 molécules d'ADN, j'avais donc au départ 6 (12/2) molécules d'ADN dans la cellule car il y a eu duplication.
@@ -116,14 +120,14 @@ C'est une métaphase 2 d'une méiose. Les deux chromosomes sont différents car 
 (autre PDF)
 ![[6b_Sexualité2-AccidentsMeiose_Alice.pdf]]
 Lors de la reproduction sexuée, 2 phénomènes assurent la diversification.
-Le crossing-over.
-L'alignement aléatoire de chromosomes paternels et maternels sur l'axe équatorial.
+- Le crossing-over.
+- L'alignement aléatoire de chromosomes paternels et maternels sur l'axe équatorial.
 
 
 # Vrais jumeaux
 La cellule femelle fécondée normalement va se diviser en 2 lors de la mitose avec le patrimoine génétique de la mère. Ces cellules, au lieu de rester accrochées l'une à l'autre vont se décrocher et les deux auront le même patrimoine génétique
 
-## Faux jumeaux
+# Faux jumeaux
 2 noyaux dans l'ovule seront fécondés par 2 spermatozoïdes.
 Autre cas de faux jumeaux: sur-ovulation (plus d'un ovaire produit) fécondés.
 
@@ -143,6 +147,8 @@ Je pars avec une cellule qui a deux pairs de chromosomes. Mais après méiose, a
 Si une erreur se produit dans le chromosome 21, lors d'une fécondation, si on obtient 3 copies du chromosome 21 (situation anormale) et deux copies de tous les autres chromosomes (situation normale), on obtient une trisomie.
 La cellule oeuf avec 3 copies est dite léthale et va arrêter son développement. Ca peut mener à des fausses couches. Certaines trisomies sont viables et la cellule poursuivra son développement.
 La trisomie 18 ne permet à l'enfant de vivre que quelques années. 
+
+La **monosomie** apparait si un gamète n'a qu'un seul chromosome.
 
 Certaines trisomies ont un impact sur les cellules sexuelles.
 

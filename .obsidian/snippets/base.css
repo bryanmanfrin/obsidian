@@ -1,12 +1,13 @@
 :root body {
   --bold-color: #6c8195;
-  --italic-color: #6c8195;
+  --italic-color: #8eABB7;
   --bold-modifier: 300;
 }
 
 .cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
-  color: blue;
+  color: red;
   background: none;
+  font-weight: bold;
 }
 
 .timeline.body-2 .title:not(:hover) {

@@ -27,7 +27,7 @@ On a tenté d'insérer des gènes d'organismes procaryotes dans des eucaryotes. 
 Si le pancréas est dysfonctionnel, le taux de glucose trop élevé peut être dangereux. Il faut injecter l'insuline manuellement. Auparavant, on tuait des bovins pour récupérer leur insuline (qui était souvent rejeté).
 => On récupère le gènes codant pour l'insuline chez l'humain avec l'endonucléase.
 
-Chez les eucaryotes, l4ADN n'est pas nu, il est enroulé autour de protéines (histones) qui se paquent encore en une fibre nucléosomique contrairement aux procaryotes qui ont leur ADN simplement formé en cercle. Il est donc difficile d'extraire les gènes hors de la fibre nucléosomique. Par contre on peut trouver la correspondance d'un brin sur l'ARN pré-messager.
+Chez les eucaryotes, l'ADN n'est pas nu, il est enroulé autour de protéines (histones) qui se paquent encore en une fibre nucléosomique contrairement aux procaryotes qui ont leur ADN simplement formé en cercle. Il est donc difficile d'extraire les gènes hors de la fibre nucléosomique. Par contre on peut trouver la correspondance d'un brin sur l'ARN pré-messager.
 Si on donne l'ARN pré-messager à la bactérie qui ne sait pas faire d'épissage, elle traduira l'ensemble de la séquence et produira une protéines non-fonctionnelle. Il faut donc transférer l'ARN messager.
 L'ARN messager a une durée de vie très courte. De plus il faut que lors de la reproduction (mitose), ils partagent leur ADN et pas leur ARNm.
 => Nécessité de transcriptase inverse réalisée par  (ARNm => ADN).
