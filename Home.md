@@ -9,6 +9,8 @@
 
 ## [[Sciences de l'éducation]] ![[Pasted image 20241209133600.png | 50]]
 
+## [[Anglais]]
+
 ## [[Méthodo - Prise de notes]]
 
 
