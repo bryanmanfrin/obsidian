@@ -53,7 +53,7 @@ $H_0 = 0$
 $H_0 \gt 0$ (test unilatéral)
 $t_{obs}=\dfrac{r}{S_X} = \dfrac{0,72}{0,26} = 2,77$
 $t_{0,05} = 1,1895$ (unilatéral et 7 dl)
-$2,77 > 1,895$ -> rejet de l'hypothèse nulle "Il y a une corrélation positive"
+$2,77 > 1,895$ -> rejet de l'hypothèse nulle -> Il y a donc  une corrélation positive
 
 ## Tester que $\rho$ est égal à une valeur particulière (coefficient de Pearson = X)
 Dans le test $t$, on a besoin d'une distribution normale. Or si rho n'est pas égal à 0, on sait que la distribution ne sera pas normale.
