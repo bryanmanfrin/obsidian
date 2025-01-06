@@ -11,7 +11,7 @@
 
 ## Exemple:
 
-### D - Décire
+### D - Décrire
 Agression sociale = comportement intentionnel visant à nuire à une autre personne.
 
 Identifier et décrire les formes d'agression sociale:

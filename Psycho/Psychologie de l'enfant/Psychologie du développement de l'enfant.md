@@ -4,6 +4,8 @@ Professeure: C. Stassart
 ![[WhatsApp Image 2024-09-16 at 16.02.29.jpeg]]
 # Plan du cours
 
+[[Synthèse]]
+
 ## [[Développement prénatal et naissance]]
 ## [[Développement physique et moteur]]
 
