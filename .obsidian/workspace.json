@@ -108,6 +108,19 @@
             }
           },
           {
+            "id": "48a97c19c03117bc",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
             "id": "b662848bfb72eaef",
             "type": "leaf",
             "state": {
@@ -304,7 +317,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -370,7 +383,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Psychologie cognitive - Le langage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -398,7 +410,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Psychologie cognitive - Le langage"
+              "title": "Graph view"
             }
           }
         ]
@@ -479,7 +491,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychologie cognitive - Le langage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -489,7 +500,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Psychologie cognitive - Le langage"
+              "title": "Backlinks"
             }
           }
         ]
@@ -528,11 +539,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56aa476bee7f7d04",
+  "active": "48a97c19c03117bc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Psychologie cognitive - Le langage.md",
+    "Synthèse.md",
+    "Sens au travail.md",
+    "Schachter et Singer.md",
+    "Pasted image 20241217215225.png",
+    "Pasted image 20241217215205.png",
+    "Pasted image 20241217215134.png",
+    "Pasted image 20241217212832.png",
+    "Pasted image 20241217113100.png",
+    "Pasted image 20241217112949.png",
+    "Burnout.md",
     "PCLg 02 Lang Hum.pdf",
     "Psychologie cognitive.md",
-    "Psychologie cognitive - Le langage.md",
     "Home.md",
     "Développement professionnel.md",
     "Maslow.md",
@@ -556,26 +578,15 @@
     "Questions de philosophie.md",
     "Sigmund Freud.md",
     "Nietzsche.md",
-    "Psychologie de la personnalité.md",
-    "Origine de L'univers.md",
     "OrigineVie - Tagged.pdf",
     "(21-22)AliceL_AnthropoBio_Synthèse.pdf",
     "Pasted image 20250207110439.png",
     "OrigineUnivers.pdf",
     "PSYC5867 PRESENTIEL 1.1  Types de recherche.pdf",
-    "Anglais.md",
-    "Karl Marx.md",
     "Intro_ Questions de philosophie_2024-2025.pdf",
     "EDS.Engagement et mob. dec 24 ex-post - Tagged.pdf",
-    "PSYC5866 10-Troubles psychologiques et psychothérapie 2024-25.pdf",
     "462565446_8914698975249518_8548150580212168060_n.jpg",
     "Pasted image 20241209133600.png",
-    "Pasted image 20241127095706.png",
-    "Pasted image 20241127085747.png",
-    "Pasted image 20241127085531.png",
-    "Pasted image 20241114164117.png",
-    "Pasted image 20241114161823.png",
-    "Pasted image 20241112122955.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

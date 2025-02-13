@@ -7,8 +7,8 @@
 
 # Plan du cours
 
-1. [[Définition de la psychologie]]
-2. [[Méthodes de recherches]]
+1. [[Définition de la psychologie]] <input type="checkbox" checked>
+2. [[Méthodes de recherches]] <input type="checkbox" checked>
 3. [[Les perspectives de la psychologie]]
 4. [[Naissance de la psychologie]]
 

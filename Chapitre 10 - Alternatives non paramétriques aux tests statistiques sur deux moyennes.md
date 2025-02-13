@@ -17,8 +17,6 @@ Effet de plafond dans un échantillon de filles: 20, 12, 10, 20, 20, 20, 19, 19
 Comparez les résultats des garçons et des filles? => Problème de normalité chez les filles
 => Test de la somme des rangs sur Wilcoxon. Ces deux groupes sont indépendants ET ont u problème de normalité.
 
-Les échantillons sont-ils pairés? Oui ou non
-
 # **Test de Wilcoxon**
 $H_0:$ Les deux échantillons proviennent de la même population
 
@@ -57,6 +55,7 @@ $W_S '$ = $n_1 * (n_1 + n_2 + 1) - W_S$
 
 Dans le test unilatéral, on va choisir $W_S$ ou $W_S'$ en fonction de (voir p30).
 
+Dans un test bilatéral:
 $W_S$ = Somme des rangs du plus petit des deux groupes
 $W_S'$ = Somme des rangs de l'autre groupe
 

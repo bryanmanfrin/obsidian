@@ -2,7 +2,7 @@
 ![[stat-Chapitre 7.pdf]]
 # Test Khi carré d'ajustement
 
-La valeur du khi carré mesure le degré auquel les observations sur l'échantillon ne correspond pas à l'hypothèse nulle attendue.
+La valeur du khi carré mesure le degré auquel les observations sur l'échantillon ne correspondent pas à l'hypothèse nulle attendue.
 Plus la différence les observés et attendus, plus la valeur du khi carré est grande => Plus le Khi carré est grand, plus il y a une différence entre ce qui est observé dans l'échantillon et ce qui est attendu.
 
 Porte sur une seule variable nominale. On teste si une certaine répartition de pourcentage s'applique sur la totalité de la population. A partir de 100 étudiants de l'université, on peut prendre va VI a réussi/n'a pas réussi. A partir de 100 étudiants, y a t-il plus de 50% des étudiants qui réussissent dans la population?
@@ -89,7 +89,7 @@ Valeur critique qui dit que la probabilité est > 0,05:
 
 ## Conditions pour l'appliquer
 **Indépendance des observations:** 
-	Chaque participant doit être indépendant des autres (ie: faire remplir un questionnaire de 100 personnes par 50 puis copier/coller). 
+	Chaque participant doit être indépendant des autres (ie: ne pas faire remplir un questionnaire de 100 personnes par 50 puis copier/coller). 
 
 **Les petites fréquences attendues:** 
 	Une catégorie a très peu de sujets. L'erreur d'échantillonnage est alors plus grand. Si une des fréquences attendues est plus **petites que 5**, je ne peux **pas faire le test Khi carré**.

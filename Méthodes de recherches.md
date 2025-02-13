@@ -1,5 +1,3 @@
-# Titre 1
-## Titre 2
 
 En fonction de ce que l'objectif (décrire, prédire, expliquer ou intervenir), la méthode de recherche sera différente.
 Pour un même type de recherche, on peut avoir plusieurs méthodes à disposition (recherche descriptive -> Observation, étude de cas, enquêtes, en labo, à l'extérieur, ...).
@@ -22,7 +20,7 @@ Pour un même type de recherche, on peut avoir plusieurs méthodes à dispositio
 	On va manipuler un facteur (estime de soi) et voir si ce changement réduit/augmente les symptômes (ou résultats scolaires). Nécessite beaucoup de patients (essai contrôlé randomisé).
 	**Randomisation**: Répartition aléatoire des participants en deux groupes. L'un recevra le médicament à tester, l'autre recevra un placébo.
 	**Double aveugle**: ni le patient ni le chercheur ne sait qui reçoit le placebo.
-	Manipulation d'une variable indépendante (VI): Le groupe expériemental et le groupe placébo pourraient avoir une préiode de traitement différente.
+	Manipulation d'une variable indépendante (VI): Le groupe expérimental et le groupe placébo pourraient avoir une période de traitement différente.
 	Evaluation d'une variable dépendante (VD): utilisation d'une échelle de mesure (du niveau hyperactivité) avant et pdt le traitement.
 **Recherche descriptive**: 
 	On observe le phénomène (ie: TDAH) et lister les caractéristiques.
