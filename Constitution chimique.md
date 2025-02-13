@@ -40,7 +40,7 @@ L'acide chlorhydrique ($HCL$) et la soude caustique ($NaOH$) s'ionisent quand il
 2) $NaOH$: Le groupement $OH$ va voler l'électron au sodium ($Na$) pour donner $Na^+$ et $OH^-$.
 3) $NaCL + H_2O$
 
-##### [[Lexique - Constitution chimique#^62b54d|Oxydoréduction]]
+##### ![[Lexique - Constitution chimique#^62b54d|Oxydoréduction]]
 #### Exercice $H_3PO_4$ (acide phosphorique)
 
 ![[Pasted image 20240929174719.png|300]]

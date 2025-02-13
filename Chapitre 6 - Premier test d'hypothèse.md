@@ -81,5 +81,5 @@ $OC_{0,95} = X \pm Z_{\alpha/2}\sigma$
 
 
 
-- [ ] faux-positifs vs faux-négatifs
+- [x] faux-positifs vs faux-négatifs ✅ 2025-02-13
 

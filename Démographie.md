@@ -32,7 +32,7 @@ La courbe de mortalité chute (éducation sanitaire, médecine) mais la courbe d
 ![[Pasted image 20241024133623.png]]
 Source: https://www.ined.fr
 
-Durkhei et Weber ont élaboré des théories cherchant à prouver que le comportement humain est prévisible si on connait la conjoncture de la société.
+Durkheim et Weber ont élaboré des théories cherchant à prouver que le comportement humain est prévisible si on connait la conjoncture de la société.
 
 https://www.ined.fr/fr/tout-savoir-population/graphiques-cartes/population_graphiques/
 ![[Pasted image 20241024135633.png]]

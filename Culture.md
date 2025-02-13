@@ -43,7 +43,7 @@ Charles Taylor
 	- Est-ce qu'il faut reconnaitre les jours fériés de l'Islam dans notre calendrier?
 
 Le multiculturalisme est une proposition philosophique, pas politique.
-Dire des gens qu'ils ont une culture ne veut pas dire qu'ils ont l'identité complète qui va avec. Ce n'est pas parce que les gens appartiennent à une culture qu'ils adoptent toute la personnalité #tuyau TODO: Lire le texte de "De Sardan" http://classiques.uqac.ca/contemporains/olivier_de_sardan_jean_pierre/anthropologie_et_developpement/anthropo_et_devel.html
+Dire des gens qu'ils ont une culture ne veut pas dire qu'ils ont l'identité complète qui va avec. Ce n'est pas parce que les gens appartiennent à une culture qu'ils en adoptent toute la personnalité #tuyau TODO: Lire le texte de "De Sardan" http://classiques.uqac.ca/contemporains/olivier_de_sardan_jean_pierre/anthropologie_et_developpement/anthropo_et_devel.html
 
 Si on dit que la pauvreté, la marginalité etc est un phénomène économique, on peut le régler avec des questions économiques.
 Si on dit que la pauvreté, la marginalité etc est un phénomène culturel, on ne saura rien y faire. "La responsabilité n'est plus la nôtre."

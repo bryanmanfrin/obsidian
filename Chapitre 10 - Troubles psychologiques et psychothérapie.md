@@ -9,7 +9,7 @@ Le psychothérapeute suit **4 étapes** dans sa démarche thérapeutique:
 - Établir un **pronostic**: déterminer quels seraient les avantages d'une prise en charge
 - Recourir au **traitement thérapeutique**: soulager les symptômes, tenter d'éliminer les causes des symptômes. Mesures avant/après et utilisation de l'EBP.
 
-- [ ] Fondements: Lire p266 à 279 - décrit les différents types de maladies mentales.
+- [x] Fondements: Lire p266 à 279 - décrit les différents types de maladies mentales. ✅ 2025-02-13
 
 
 # La normalité d'un comportement
@@ -80,7 +80,7 @@ Augmentation du TSA?
 Les symptômes doivent nuire à la vie quotidienne **dans plusieurs contextes** #tuyau . Si on observe une différence 
 
 ### Trouble du spectre de la schizophrénie
-- [ ] Fondements théoriques - Lire les différents troubles repris dans les dias
+- [x] Fondements théoriques - Lire les différents troubles repris dans les dias ✅ 2025-02-13
 On confond les schizophrènes avec autre choses ? Avec quoi?
 Plusieurs formes de délires? Lesquelles? 
 

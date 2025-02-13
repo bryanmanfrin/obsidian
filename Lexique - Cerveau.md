@@ -43,4 +43,4 @@ Lobe temporal** #opt
 
 
 Hypophyse
-- [ ] Hypophyse
+- [x] Hypophyse ✅ 2025-02-13

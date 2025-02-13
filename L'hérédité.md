@@ -197,7 +197,7 @@ Blancs ridés: 1
 
 **Gb/bb**
 
-| Bb/bb | G   | b   |
+| Gb/bb | G   | b   |
 | ----- | --- | --- |
 | b     | Gb  | bb  |
 

@@ -74,7 +74,7 @@ Le vaccin: on injecte l'ADN ou l'ARN du virus
 Le peux aussi injecter du plasma d'un autre patient pour injecter les anticorps (fonctionne avec le tétanos).
 
 > [!faq] Pourquoi est-ce que si j'ai des anticorps, je contracte quand même le virus?
-> Le virus peut modifier son ARN. Les protéines crées seront alors différentes. Les protéines de surface vont alors changer et les anticorps ne reconnaitront pas nécessairement le virus. Les mutations des virus sont parfois faibles, parfois plus grandes. Certains virus ne mutent que très peu (tétanos) et donc un rappel suffit.
+> Le virus peut modifier son ARN. Les protéines créés seront alors différentes. Les protéines de surface vont alors changer et les anticorps ne reconnaitront pas nécessairement le virus. Les mutations des virus sont parfois faibles, parfois plus grandes. Certains virus ne mutent que très peu (tétanos) et donc un rappel suffit.
 
 > [!info] les antibiotiques n'attaquent que les bactéries. Cependant avec un système immunitaire faible, une exposition à des bactéries peut être dangereuse. On pourra alors quand même prescrire des antibiotiques en présence de virus.
 # La grippe espagnole (1918-1919)

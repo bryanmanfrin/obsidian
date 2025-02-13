@@ -1,6 +1,6 @@
 ![[Chap 5 Emotion et Expression non verbale 2024-25 (1).pdf]]
 
-- [ ] 19/11 - Psycho-émotions: Questions-réponses Les textes, l'expérience de Shachter et Singer et revoir le chapitre 6 sur le partage social des émotions.
+- [x] 19/11 - Psycho-émotions: Questions-réponses Les textes, l'expérience de Shachter et Singer et revoir le chapitre 6 sur le partage social des émotions. ✅ 2025-02-13
 
 L’émotion est avant tout caractérisée par les changements physiologiques qu’elle suscite. Les émotions mobilisent toutes les facettes de l’individu, y compris la logistique neurophysio. Cependant, l’état physiologique d’une pers en situation émotionnelle est fonction de multiples facteurs, et l’état émotionnel en tant que tel n’en n’est peut-être pas le déterminant principal.
 
@@ -214,7 +214,7 @@ On a induit aux sujets un sentiment de joie, de tristesse, de colère ou de tran
 	***Expérience 2: Lorsqu'on module l'expression, l'effet est-il plus important si l'expression est congruente avec ce qu'on ressent?***
 	Lorsque l'expression est incongruente, l'émotion ressentie est modulée - changée par l'expression. Lorsqu'elle est congruente, on ne voit pas d'augmentation de l'émotion de base.
 	***Expérience 4: Est-ce que l'émotion positive ou négative est plus facile à moduler avec la rétroaction faciale ou est-ce que ces 2 émotions sont modulées de manière tout aussi efficace?***
-- [ ] TODO: compléter avec la synthèse
+- [x] TODO: compléter avec la synthèse ✅ 2025-02-13
 
 ---
 

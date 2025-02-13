@@ -1,4 +1,76 @@
-La Sociologie sin'téresse aux faits sociaux en déconstruisant le sens commun et les médias.
+# Keywords
+
+- **Déterminisme**: les individus sont conditionnées et façonnés par les faits sociaux plus larges.
+- **Actionnalisme**: les actions des individus créent les faits sociaux plus larges
+
+- **Weber**: il existe des relations extérieures à l'État, la famille et l'Église. Relations basées sur l'intérêt réciproque et les compromis.
+- Durkheim: 
+	1) Durkheim dit qu'une population comme la jeunesse est une génération objective mais se vit aussi comme génération subjective en se vivant différemment de la génération des parents.
+	2) Le crime est une construction sociale
+
+- **Volksgeist** - Weber: le langage créé une culture qui peut se transmettre à travers les individus pour créer une identité commune.
+
+- **Merton**
+	1) Matrice des réactions possibles face aux buts:
+		- Conformité
+		- Innovation
+		- Ritualisme
+		- Evasion
+		- Rebellion
+
+- Bourdieu
+	1) La jeunesse n'existe pas en tant que telle; le concept est utilisé uniquement pour opposer cette population à celle des vieux.
+
+- Micro
+	- interaction
+	- les groupes
+- Meso
+	- organisation
+	- institutions
+- Macro
+	- 
+  
+- Weber - **La langue** comme fondement spirituel de la culture
+  
+- Frans Boas:
+	1) naissance de l'**anthropologie culturelle**
+	2) **relativisme culturel** $\neq$ évolutionnisme - chaque culture est différente, pas à être comparée entre elles.
+
+- Capital **économique, social, culturel**
+  
+- **Culturalisme**: Mead - la culture comme facteur déterminant du comportement en société. Les différences entre les peuples proviennent de la culture et pas de la biologie.
+  
+- **Mead**: Nouvelle-Guinée. Etudie les **Arapesh** (pas d'opposition entre les sexes dans les comportements enseignées aux enfants - tendresse, sensibilité), les **Mundugumors** (valorisent davantage les qualités masculines classiques), **Chambuli** (femmes = économie, hommes = rites)
+  => Mead expose les différences culturelles sur le genre.
+  
+- **Les Roms**: vivent habituellement dans de pauvres conditions soi-disant parce que c'est leur culture.
+  => **occultation des discriminations** par la culture
+  
+- **Relativisme moral**: toute société se vaut, on ne peut pas en juger les moeurs.
+
+- **Sardan - Concept de culture relatif:** une culture est composée d'un ensemble de sous-cultures. Les gens appartenant à une société appartiennent eux-mêmes à de nombreuses cultures (surtout si on considère l'immigration).
+
+- **Culturalisme mal utilisé**: outil de guerre culturelle. Justifie des traitements différents pour des membres d'une autre culture. Si on dit que les solutions sont économiques, on peut trouver des solutions économiques. Si on dit qu'elles sont culturelles, on ne sait rien y faire.
+
+
+- **Sociabilité**: ensemble des relations sociales effectives, vécues, qui relient l’individu à d’autres individus par des liens inter-personnels et/ou de groupe
+- **Socialisation**: règles de communications normées et inculquées dès la naissance
+
+ - Solidarité **mécanique**: organisation de la solidarité liée à la proximité physique, se fait naturellement. Qui se ressemble s'assemble - les gens ont le même status.
+ - Solidarité **organique**: organisation de la solidarité plus fluide, poussée par les intérêts et les différences personnels dans les villes.
+
+- **Déviance** (normes sociales) $\neq$ délinquance et criminalité (normes juridiques)
+- **Discipline sociale** = l'ensemble des moyens que l'individu peut (a le droit) d'utiliser pour atteindre ses objectifs
+
+- **Anomie**: absence de règles morales fixes. Pour certains, c'est vu comme une composante de la liberté, pour Durkheim, il le voit comme une perte de valeurs morales. Augmentation de l'anomie = augmentation de suicides.
+
+
+
+
+
+
+
+La Sociologie s'intéresse aux faits sociaux en déconstruisant le sens commun et les médias.
 
 Expliquer 
 **Pourquoi**? On identifie les causes objectives d'un phénomène social: découvrir les mécanismes causaux

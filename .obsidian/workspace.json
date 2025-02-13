@@ -8,7 +8,65 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7584cdf0bcf7250c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociologie - Révisions.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Sociologie - Révisions"
+            }
+          },
+          {
             "id": "3676cc93d4a74dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement professionnel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Développement professionnel"
+            }
+          },
+          {
+            "id": "fa1e23068a438fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement professionnel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Développement professionnel"
+            }
+          },
+          {
+            "id": "3751d4b1f39459dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement professionnel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Développement professionnel"
+            }
+          },
+          {
+            "id": "42933b7ba6936874",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,63 +80,231 @@
             }
           },
           {
-            "id": "1c1f5749d63a921b",
+            "id": "a1fdab86098db265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
+                "file": "Psychologie cognitive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fondements théoriques des sciences psychologiques"
+              "title": "Psychologie cognitive"
             }
           },
           {
-            "id": "0910ea890151c9cd",
+            "id": "56aa476bee7f7d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why men rebel.md",
+                "file": "Psychologie cognitive - Le langage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why men rebel"
+              "title": "Psychologie cognitive - Le langage"
             }
           },
           {
-            "id": "78020bc17b365955",
+            "id": "b662848bfb72eaef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
+                "file": "Anthropologie biologique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sciences de l'éducation"
+              "title": "Anthropologie biologique"
             }
           },
           {
-            "id": "f8a969219fbb13e0",
+            "id": "fd5b0c74abcd6598",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le redoublement.md",
+                "file": "Développement professionnel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le redoublement"
+              "title": "Développement professionnel"
+            }
+          },
+          {
+            "id": "3cd524009ffa38bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie du travail et des organisations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychologie du travail et des organisations"
+            }
+          },
+          {
+            "id": "bca0fb57b217b97b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Historique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Historique"
+            }
+          },
+          {
+            "id": "eea54f6ce3fdb539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fondements méthodologiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fondements méthodologiques"
+            }
+          },
+          {
+            "id": "5911632f486daa96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phases et étapes de la démarche de recherche scientifique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phases et étapes de la démarche de recherche scientifique"
+            }
+          },
+          {
+            "id": "03c2440205a42eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phases et étapes de la démarche de recherche scientifique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phases et étapes de la démarche de recherche scientifique"
+            }
+          },
+          {
+            "id": "068c620bf525b883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sigmund Freud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sigmund Freud"
+            }
+          },
+          {
+            "id": "add38bfec9761ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sigmund Freud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sigmund Freud"
+            }
+          },
+          {
+            "id": "f8f8c2f049ba2f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nietzsche.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nietzsche"
+            }
+          },
+          {
+            "id": "ccd388a5c8d415d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthropologie biologique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthropologie biologique"
+            }
+          },
+          {
+            "id": "efeb7c4d988e0550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Origine de L'univers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Origine de L'univers"
+            }
+          },
+          {
+            "id": "2a40e60c532fb17e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie cognitive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychologie cognitive"
+            }
+          },
+          {
+            "id": "dcc0be970dd09ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fondements méthodologiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fondements méthodologiques"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -98,7 +324,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tus",
+                "query": "intervention",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +370,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Why men rebel.md",
+                "file": "Psychologie cognitive - Le langage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +398,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Why men rebel"
+              "title": "Graph of Psychologie cognitive - Le langage"
             }
           }
         ]
@@ -253,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why men rebel.md",
+                "file": "Psychologie cognitive - Le langage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +489,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Why men rebel"
+              "title": "Backlinks for Psychologie cognitive - Le langage"
             }
           }
         ]
@@ -287,7 +513,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,53 +528,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0910ea890151c9cd",
+  "active": "56aa476bee7f7d04",
   "lastOpenFiles": [
-    "Le redoublement.md",
-    "Why men rebel.md",
-    "EDS.Engagement et mob. dec 24 ex-post - Tagged.pdf",
-    "Psycho/Elements de sociologie/Eléments de sociologie.md",
-    "Conseils Examen.md",
-    "Chapitre 10 - Troubles psychologiques et psychothérapie.md",
-    "PSYC5866 10-Troubles psychologiques et psychothérapie 2024-25.pdf",
-    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
-    "Examen.md",
-    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
-    "Développement de la conception de la santé et de la maladie.md",
-    "11_Dev socio-affectif_cpts_de_sante_2024_2025.pdf",
-    "Anglais.md",
+    "PCLg 02 Lang Hum.pdf",
+    "Psychologie cognitive.md",
+    "Psychologie cognitive - Le langage.md",
     "Home.md",
-    "Déviance.md",
-    "Efficacité du redoublement.md",
-    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-    "Présentation du PISA.md",
-    "Réformes en FWB.md",
-    "Développement cognitif.md",
-    "Redoublement et stéréotypes.md",
-    "462565446_8914698975249518_8548150580212168060_n.jpg",
+    "Développement professionnel.md",
+    "Maslow.md",
+    "Excalidraw/graph-excalidraw.md",
+    "Marie Barbier - psychologie sociale.md",
+    "Obésité.md",
+    "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes/DEPI.md",
+    "Evolution des organismes.md",
+    "Anthropologie biologique.md",
+    "2 - Historique.md",
+    "Pasted image 20250213094536.png",
+    "02_Mvtsorga (partim1)_13022025.pdf",
+    "002_Syll-Ch2_Mouvements organisationnels.pdf",
+    "Psychologie du travail et des organisations.md",
+    "Calendar/Tasks.md",
+    "Phases et étapes de la démarche de recherche scientifique.md",
+    "Fondements méthodologiques.md",
+    "PSYC5867 MOD01 PRESENTIEL 1.2.pdf",
     "Chapitre 11 - Tests statistiques sur les corrélations et régressions.md",
-    "Arbre décisionnel.md",
-    "Développement social psycho-sexuel.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
-    "Sciences de l'éducation - Résumé des cours.md",
-    "Chapitre 11.pdf",
-    "Chapitre 9 - Le stress.md",
-    "PSYC5866 09-Stress 2023-24.pdf",
-    "Chapitre 7 - Intelligence et pensée.md",
-    "10_Dev socio-affectif_psysante_2024_2025.pdf",
-    "9_Dev socio-affectif_dev_psychosexuel_2024_2025.pdf",
+    "Psychologie sociale.md",
+    "Questions de philosophie.md",
+    "Sigmund Freud.md",
+    "Nietzsche.md",
+    "Psychologie de la personnalité.md",
+    "Origine de L'univers.md",
+    "OrigineVie - Tagged.pdf",
+    "(21-22)AliceL_AnthropoBio_Synthèse.pdf",
+    "Pasted image 20250207110439.png",
+    "OrigineUnivers.pdf",
+    "PSYC5867 PRESENTIEL 1.1  Types de recherche.pdf",
+    "Anglais.md",
+    "Karl Marx.md",
+    "Intro_ Questions de philosophie_2024-2025.pdf",
+    "EDS.Engagement et mob. dec 24 ex-post - Tagged.pdf",
+    "PSYC5866 10-Troubles psychologiques et psychothérapie 2024-25.pdf",
+    "462565446_8914698975249518_8548150580212168060_n.jpg",
     "Pasted image 20241209133600.png",
-    "13b_Manip2-oeuf-emb_Alice.pdf",
-    "Isef 05 12 24 Revue systématique bienêtre.pdf",
-    "déviance ex-ante dec 24 - Tagged.pdf",
     "Pasted image 20241127095706.png",
     "Pasted image 20241127085747.png",
     "Pasted image 20241127085531.png",
     "Pasted image 20241114164117.png",
     "Pasted image 20241114161823.png",
     "Pasted image 20241112122955.png",
-    "Pasted image 20241112122939.png",
-    "Pasted image 20241112121809.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

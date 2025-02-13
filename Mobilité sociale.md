@@ -1,7 +1,7 @@
 
- - [ ] Pages 123 - 134 du livre socio à lire 
+ - [x] Pages 123 - 134 du livre socio à lire ✅ 2025-02-13
 
-- [ ] a faire
+- [x] a faire ✅ 2025-02-13
 
 ![[mobilité-sociale.pdf#height=400]]
 
@@ -58,7 +58,7 @@ Le programme définit ce que sont les "bons savoirs importants à apprendre". Ce
 
 L'école faire admettre comme légitime la dominance et la capacité des dominants à imposer leurs productions.
 
-On constate que ceux qui a 35 ans sont tjrs en galère le resteront sans doute malgré un diplôme. Les perspectives de mobilité sociale ascendante sont plus rares qu'auparavant.
+On constate que ceux qui à 35 ans sont tjrs en galère le resteront sans doute malgré un diplôme. Les perspectives de mobilité sociale ascendante sont plus rares qu'auparavant.
 
 ## Mariage
 Dans les relations, les partenaires sont souvent ~ de la même classe sociale.

@@ -106,7 +106,7 @@ Des efforts cognitifs et comportementaux permettent de maitriser réduire, tolé
 
 L'expérience optimale est possible lorsque le défi n'excède pas les ressources de l'individu.
 
-- [ ] Voir la pleine conscience dans le chapitre du stress. 
+- [x] Voir la pleine conscience dans le chapitre du stress. ✅ 2025-02-13
 Quelles sont les 3 attitudes à avoir face au stress? 
 - Attitude ouverte, 
 - consciente (est-ce que c'est adapté?)

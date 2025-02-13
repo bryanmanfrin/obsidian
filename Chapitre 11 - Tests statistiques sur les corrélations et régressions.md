@@ -6,7 +6,7 @@ On mesure 2 variables (continues ou ordinales) et on en mesure la corrélation.
 1: Corrélation totale==
 
 **Prédiction**: de cb d'unités la variable indépendante va-t-elle changer quand on change d'une unité la variable dépendante? 
-- [ ] TODO: annoter l'arbre décisionnel pour ajouter l'exemple de prédiction ?
+- [x] TODO: annoter l'arbre décisionnel pour ajouter l'exemple de prédiction ? ✅ 2025-02-13
 
 **Dans l'échantillon**
 $r$ = coefficient de Pearson
