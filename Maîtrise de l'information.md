@@ -1,6 +1,6 @@
 # Synthèse des protéines
 ![[4a_MaitriseInfo1-SynthProt_Alice.pdf]]
-- [ ] Mettre au propre la synthèse du chapitre Biologie - Va
+- [x] Mettre au propre la synthèse du chapitre Biologie - Va ✅ 2025-02-13
 
 ## Termes utilisés
 [[Lexique - Constitution chimique#^b28186|protéine]], [[Lexique - Constitution chimique#^626a7a|acides aminés]], polypeptides, [[Lexique - Constitution chimique#^c533c4|codons]], anticodons, ADN, ARN, ARN messager, ARN pré-messager, ARN transport, ribosomes, ARN polymérase, gène, procaryote, eucaryote, introns, exons, épissage, nucléotides, histones, nucléosomes, méthionine.
@@ -115,7 +115,7 @@ Durant la métaphase, c'est le seul moment où les chromosomes sont alignés d'u
 Le caryotype est une représentation ordonnée de l'ensemble des chromosomes d'une cellule.
 
  - [x] Expliquer ce qu'est le caryotype ✅ 2024-10-14
- - [ ] Déplacer dans le lexique
+ - [x] Déplacer dans le lexique ✅ 2025-02-13
 
 
 

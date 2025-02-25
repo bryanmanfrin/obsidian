@@ -41,15 +41,28 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Home.md",
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
+            "id": "1d5f32984f22010e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Home)"
+              "title": "Diff View (workspace.json)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,8 +227,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d015a1a62de09ca",
+  "active": "291ca3e021573c5f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Questions de philosophie.md",
+    "Psychologie sociale.md",
+    "Psychologie du travail et des organisations.md",
+    "Psychologie de la personnalité.md",
+    "Psychologie cognitive.md",
+    "Psychologie cognitive - Le langage.md",
+    "Phases et étapes de la démarche de recherche scientifique.md",
+    "Pasted image 20250213094536.png",
+    "Pasted image 20250207110439.png",
+    "PSYC5867 PRESENTIEL 1.1  Types de recherche.pdf",
+    "PSYC5867 MOD01 PRESENTIEL 1.2.pdf",
+    "PCLg 02 Lang Hum.pdf",
+    "OrigineVie - Tagged.pdf",
+    "OrigineUnivers.pdf",
+    "Origine de L'univers.md",
+    "Obésité.md",
+    "Nietzsche.md",
+    "Maslow.md",
+    "Marie Barbier - psychologie sociale.md",
+    "Karl Marx.md",
+    "Intro_ Questions de philosophie_2024-2025.pdf",
+    "Fondements méthodologiques.md",
+    "Evolution des organismes.md",
+    "Développement professionnel.md",
+    "Anthropologie biologique.md",
+    "2 - Historique.md",
+    "02_Mvtsorga (partim1)_13022025.pdf",
+    "002_Syll-Ch2_Mouvements organisationnels.pdf",
+    "(21-22)AliceL_AnthropoBio_Synthèse.pdf",
     "Home.md",
     "HelloQuitteX.md",
     "Pasted image 20250212224806.png",
@@ -226,41 +269,12 @@
     "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
     "Sciences de l'éducation - Résumé des cours.md",
     "Evaluation des élèves.md",
-    "Redoublement et stéréotypes.md",
-    "Efficacité du redoublement.md",
-    "Le redoublement.md",
-    "Chapitre 10 - Troubles psychologiques et psychothérapie.md",
-    "Psycho/Fondements théoriques des sciences psychologiques/Fondements théoriques des sciences psychologiques.md",
-    "Chapitre 9 - Le stress.md",
-    "Chapitre 7 - Intelligence et pensée.md",
-    "Chapitre 6 - La mémoire.md",
-    "Chapitre 5 - L'apprentissage.md",
-    "Chapitre 4 - Etats de conscience.md",
-    "Chapitre 3 - Sensation perception.md",
-    "Chapitre 2 - Système nerveux.md",
-    "Manipulation de l'œuf et recombinaisons génétiques.md",
-    "Bourdieu.md",
-    "Conseils Examen.md",
-    "Synthèse.md",
-    "Arbre décisionnel.md",
-    "Psycho/Psychologie de l'enfant/Psychologie du développement de l'enfant.md",
     "Pasted image 20241217215225.png",
     "Pasted image 20241217215205.png",
     "Pasted image 20241217215134.png",
     "Pasted image 20241217212832.png",
     "Pasted image 20241217113100.png",
-    "Pasted image 20241217112949.png",
     "PSYC5866 10-Troubles psychologiques et psychothérapie 2024-25.pdf",
-    "EDS.Engagement et mob. dec 24 ex-post - Tagged.pdf",
-    "11_Dev socio-affectif_cpts_de_sante_2024_2025.pdf",
-    "patch.patch",
-    "9_Dev socio-affectif_dev_psychosexuel_2024_2025.pdf",
-    "10_Dev socio-affectif_psysante_2024_2025.pdf",
-    "déviance ex-ante dec 24.pptx",
-    "déviance ex-ante dec 24 - Tagged.pdf",
-    "PSYC5866 07-Intelligence et pensée 2023-24.pdf",
-    "Isef 05 12 24 Revue systématique bienêtre.pdf",
-    "Pasted image 20241127095706.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

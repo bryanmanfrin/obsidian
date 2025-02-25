@@ -7,7 +7,7 @@ Résumé de la prof
 	Adénohypophyse libère des hormones: ACTH, TSH, FSH, LH , MSH, STH, Prolactine.
 	Certaines (ACTH, TSH, FSH, LH) vont activer des organes endocriniens. Les productions d'hormones circulent dans le sang pour remonter à l'adénohypophyse et indiquer qu'on est présent en suffisance (boucle de rétroaction positive). Si peu d'hormones, le signal dit "continuez de me produire".
 	Les autres (MSH, STH, Prolactine) vont vers des cellules non-endocrines. Les RH proviennent de l'hypothalamus pour arriver à l'adénohypophyse. L'hypothalamus va lui-même gérer la production des hormones de l'adénohypophyse - contrairement aux autres hormones qui se gèrent par la concentration dans le sang.
-	
+
 
 Glandes exocrines: 
 	libèrent des molécules dans le milieu extérieur. 

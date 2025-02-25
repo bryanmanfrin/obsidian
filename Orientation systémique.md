@@ -1,4 +1,4 @@
-- [ ] Psychologie clinique et psychopathologies (p56-67) 
+- [x] Psychologie clinique et psychopathologies (p56-67) ✅ 2025-02-13
 
 L'orientation systémique considère un individu dans son contexte d'appartenance. 
 Provient de l'école de Palo Alto.

@@ -105,7 +105,7 @@ Cellule initiale, duplication par mitose grosse accroissement, méiose 2 grosses
 Le spermatozoïde:
 L'acrozome est rempli d'enzymes de digestion qui va creuser dans la coque de l'ovule sous laquelle se trouve une membrane plasmique. Les membranes plasmiques du spermatozoïde et de l'ovule fusionnent. Les spermatozoïdes reconnaissent la coque à l'aide des protéines de surface.
 Si un spermatozoide se fraie un chemin au niveau d'une cellule polaire, les membranes vont se merger. Le matériel génétique sera différent (la cellule polaire vient de la mère)
-- [ ] Revoir le podcast sur la reproduction sexuée
+- [x] Revoir le podcast sur la reproduction sexuée ✅ 2025-02-13
 
 
 ![[Pasted image 20241025144525.png]]

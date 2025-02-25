@@ -123,7 +123,7 @@ Ces manifestations peuvent être différentes d'une culture à l'autre mais ont 
 - La peur c'est "je pars"
 
 
-- [ ] Séance question/réponse pour émotions. A préparer en lisant un diaporama.
+- [x] Séance question/réponse pour émotions. A préparer en lisant un diaporama. ✅ 2025-02-13
 
 # Les réponses cognitives
 

@@ -1,4 +1,4 @@
-- [ ] Lire les documents de psychologie des émotions
+- [x] Lire les documents de psychologie des émotions ✅ 2025-02-13
 # Les émotions
 ![[Texte 1. Les émotions.pdf]]
 Antonio Damasio considère que les émotions sont indispensables à la survie de l'Homme.

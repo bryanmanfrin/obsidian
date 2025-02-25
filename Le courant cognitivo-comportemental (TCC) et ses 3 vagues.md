@@ -33,13 +33,13 @@ On perçoit notre souffrance à travers notre vision du monde (il doit être en 
 apprentissage par imitation, on va imiter (plus ou moins inconsciemment) des comportements.
 
 # La vague émotionnelle
-Thérapie basée sur la pleine conscience. Je suis conscient volontairement de l'expérience que je vis dans ce moment présent. Si j'ai une douleur, je peux décider de me concentrer sur autre chose **sans nier la douleur, sans la juger**. J'accepte le présent tel qu'il est. 
+Thérapie basée sur la pleine conscience. Je suis conscient volontairement de l'expérience que je vis dans ce moment présent. Si j'ai une douleur, je peux décider de me concentrer sur autre chose **sans nier la douleur, sans la juger**. J'accepte le présent tel qu'il est.
 
 Poème de la maison d'hôte de Rumi. #poème
 
 > You can't stop the wave but you can learn how to surf it.
 
-**Thérapies comportementale dialectique (DBT - Linehan)** 
+**Thérapies comportementale dialectique (DBT - Linehan)**
 
-**Thérapies d'acceptation et d'engageemnt (ECT - Hayes)**
+**Thérapies d'acceptation et d'engagement (ECT - Hayes)**
 Poser des actes qui ont du sens pour nous, en accord avec nos valeurs.
