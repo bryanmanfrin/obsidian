@@ -53,7 +53,7 @@ Le tutorat
 # CW-Fit
 Pour aider à gérer des classes à comportement difficiles.
 On va:
-- utiliser l'enseignement explicite (haut-parleur sur sa penser, faire pratiquer les élèves).
+- utiliser l'enseignement explicite (haut-parleur sur sa pensée, faire pratiquer les élèves).
 - On forme des groupes (bleus, verts) et on donne des feedbacks réguliers.
 - On joue sur la contingence de groupe, notre groupe nous incite à être attentif.
 - Si un élève est trop difficile et fait perdre un groupe, il pourra être dans sa propre équipe et devra s'auto-évaluer.
