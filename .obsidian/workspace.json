@@ -176,6 +176,19 @@
             }
           },
           {
+            "id": "92b6c9118923f47c",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
             "id": "4dce3947a11487fa",
             "type": "leaf",
             "state": {
@@ -246,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -312,7 +325,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Céline Mathy - Service des affaires étudiantes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -340,7 +352,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Céline Mathy - Service des affaires étudiantes"
+              "title": "Graph view"
             }
           }
         ]
@@ -421,7 +433,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Céline Mathy - Service des affaires étudiantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +442,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Céline Mathy - Service des affaires étudiantes"
+              "title": "Backlinks"
             }
           }
         ]
@@ -469,9 +480,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc35fa4910f465f",
+  "active": "92b6c9118923f47c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Céline Mathy - Service des affaires étudiantes.md",
+    "Pasted image 20250212224806.png",
+    "Pasted image 20250212224258.png",
+    "Pasted image 20250212222148.png",
+    "HelloQuitteX.md",
     "Développement professionnel.md",
     "Florence Helleboudt (ASH et SSE).md",
     "Psychologie de la personnalité.md",
@@ -495,8 +511,6 @@
     "Sociologie - Révisions.md",
     "Recherche corrélationnelle - 1 méthode de recherche et outils de collecte.md",
     "Recherche descriptive - 3 méthodes de recherche associées et outils de collecte.md",
-    "Nathalie Steimes - psychologue clinicienne.md",
-    "Psychologie sociale.md",
     "Evolorganismes - Tagged.pdf",
     "OrigineVie.pptx",
     "Pasted image 20241217215225.png",
@@ -512,11 +526,8 @@
     "PSYC5867 MOD01 PRESENTIEL 1.2.pdf",
     "OrigineVie - Tagged.pdf",
     "(21-22)AliceL_AnthropoBio_Synthèse.pdf",
-    "Pasted image 20250207110439.png",
     "OrigineUnivers.pdf",
     "PSYC5867 PRESENTIEL 1.1  Types de recherche.pdf",
-    "462565446_8914698975249518_8548150580212168060_n.jpg",
-    "Pasted image 20241209133600.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",
