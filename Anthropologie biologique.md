@@ -1,6 +1,7 @@
 [[Origine de L'univers]]
-[[Evolution des organismes]]
+
 [[Origine de l'homme - historique]]
+[[Méthode de datation]]
 [[L'homme parmi les primates]]
 [[Les différents stades de l'évolution humaine]]
 [[]]

@@ -1,6 +1,10 @@
 ![[PSYC5867 PRESENTIEL 1.1  Types de recherche.pdf]]
 
 [[Recherche quantitative - types, méthodes et outils de recherches]]
+[[Recherche descriptive - 3 méthodes de recherche associées et outils de collecte]]
+[[Recherche corrélationnelle - 1 méthode de recherche et outils de collecte]]
+[[Recherche expérimentale - 1 méthode de recherche et outils de collecte]]
+[[Éthique en recherche]]
 [[Phases et étapes de la démarche de recherche scientifique]]
 
 Concepts centraux

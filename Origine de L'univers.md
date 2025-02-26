@@ -48,8 +48,3 @@ Les associations entre acides aminés se fait spontanément si il y a de l'éner
 Les geysers contiennent des êtres vivants plus proches des formes de vie primitives (milieu très acide). Pareil pour les volcans.
 
 Résumé de la création des bases du vivant (AA, lipides, etc).
-![[OrigineVie - Tagged.pdf#page=29]]On voit apparaitre hors de ce bouillon primitif des assemblages de protéines avec quelques briques de vivant prises par hasard. Des protéines vont faire des choses intéressantes ou non. 
-
-Les COACERVAT sont des unités fonctionnelles, des cellules avec un rôle, une fonction limitée, avec une durée de vie plus ou moins longue.
-
-On pense que certains coacervats ont appris à répliquer l'ADN.

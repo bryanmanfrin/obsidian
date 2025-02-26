@@ -8,23 +8,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7584cdf0bcf7250c",
+            "id": "e90c9fc33775f426",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sociologie - Révisions.md",
+                "file": "Fondements méthodologiques.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Sociologie - Révisions"
+              "title": "Fondements méthodologiques"
             }
           },
           {
-            "id": "3676cc93d4a74dbd",
+            "id": "c55ed97e392c3553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthropologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthropologie"
+            }
+          },
+          {
+            "id": "c23bb4210d937dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La diffusion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La diffusion"
+            }
+          },
+          {
+            "id": "86a4ba9c5654a57e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie cognitive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychologie cognitive"
+            }
+          },
+          {
+            "id": "e6ff2560baed4076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthropologie biologique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthropologie biologique"
+            }
+          },
+          {
+            "id": "485cae789807ef68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthropologie biologique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthropologie biologique"
+            }
+          },
+          {
+            "id": "ba1b9d2a9e475dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Franz Boas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Franz Boas"
+            }
+          },
+          {
+            "id": "d76a5fb37473b039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthropologie biologique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthropologie biologique"
+            }
+          },
+          {
+            "id": "3c40aa755ed4d9d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evolution des organismes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evolution des organismes"
+            }
+          },
+          {
+            "id": "50196c7da4bfe51d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthropologie biologique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthropologie biologique"
+            }
+          },
+          {
+            "id": "32982f992a31f3d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,35 +162,35 @@
             }
           },
           {
-            "id": "fa1e23068a438fb5",
+            "id": "efc35fa4910f465f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Développement professionnel.md",
+                "file": "Céline Mathy - Service des affaires étudiantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Développement professionnel"
+              "title": "Céline Mathy - Service des affaires étudiantes"
             }
           },
           {
-            "id": "3751d4b1f39459dc",
+            "id": "4dce3947a11487fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Développement professionnel.md",
+                "file": "Florence Helleboudt (ASH et SSE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Développement professionnel"
+              "title": "Florence Helleboudt (ASH et SSE)"
             }
           },
           {
-            "id": "42933b7ba6936874",
+            "id": "afcc5a3c79c59c50",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,90 +204,21 @@
             }
           },
           {
-            "id": "a1fdab86098db265",
+            "id": "d2cf93e74e8891da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie cognitive.md",
+                "file": "Evolution des organismes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychologie cognitive"
+              "title": "Evolution des organismes"
             }
           },
           {
-            "id": "56aa476bee7f7d04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie cognitive - Le langage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychologie cognitive - Le langage"
-            }
-          },
-          {
-            "id": "48a97c19c03117bc",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "b662848bfb72eaef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie biologique"
-            }
-          },
-          {
-            "id": "fd5b0c74abcd6598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement professionnel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Développement professionnel"
-            }
-          },
-          {
-            "id": "3cd524009ffa38bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie du travail et des organisations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychologie du travail et des organisations"
-            }
-          },
-          {
-            "id": "bca0fb57b217b97b",
+            "id": "11e136edd95823bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,147 +232,21 @@
             }
           },
           {
-            "id": "eea54f6ce3fdb539",
+            "id": "20d3c3f161eeb43f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondements méthodologiques.md",
+                "file": "Recherche expérimentale - 1 méthode de recherche et outils de collecte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fondements méthodologiques"
-            }
-          },
-          {
-            "id": "5911632f486daa96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phases et étapes de la démarche de recherche scientifique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phases et étapes de la démarche de recherche scientifique"
-            }
-          },
-          {
-            "id": "03c2440205a42eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phases et étapes de la démarche de recherche scientifique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phases et étapes de la démarche de recherche scientifique"
-            }
-          },
-          {
-            "id": "068c620bf525b883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sigmund Freud.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sigmund Freud"
-            }
-          },
-          {
-            "id": "add38bfec9761ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sigmund Freud.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sigmund Freud"
-            }
-          },
-          {
-            "id": "f8f8c2f049ba2f40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nietzsche.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nietzsche"
-            }
-          },
-          {
-            "id": "ccd388a5c8d415d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie biologique"
-            }
-          },
-          {
-            "id": "efeb7c4d988e0550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Origine de L'univers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Origine de L'univers"
-            }
-          },
-          {
-            "id": "2a40e60c532fb17e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie cognitive.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychologie cognitive"
-            }
-          },
-          {
-            "id": "dcc0be970dd09ad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fondements méthodologiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fondements méthodologiques"
+              "title": "Recherche expérimentale - 1 méthode de recherche et outils de collecte"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -337,7 +266,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intervention",
+                "query": "barbare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -383,6 +312,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Céline Mathy - Service des affaires étudiantes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -410,7 +340,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Céline Mathy - Service des affaires étudiantes"
             }
           }
         ]
@@ -426,7 +356,7 @@
       {
         "id": "cb10153b7d2ab192",
         "type": "tabs",
-        "dimension": 53.75722543352601,
+        "dimension": 53.70370370370372,
         "children": [
           {
             "id": "4b5904ac5530bea0",
@@ -483,7 +413,7 @@
       {
         "id": "b823bd895026eaab",
         "type": "tabs",
-        "dimension": 23.121387283236995,
+        "dimension": 23.14814814814814,
         "children": [
           {
             "id": "638e408a0fc9a855",
@@ -491,6 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Céline Mathy - Service des affaires étudiantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -500,7 +431,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Céline Mathy - Service des affaires étudiantes"
             }
           }
         ]
@@ -508,7 +439,7 @@
       {
         "id": "dcb560491107237e",
         "type": "tabs",
-        "dimension": 23.121387283236995,
+        "dimension": 23.14814814814814,
         "children": [
           {
             "id": "73a7e30836c00c59",
@@ -524,7 +455,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -535,56 +466,55 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48a97c19c03117bc",
+  "active": "efc35fa4910f465f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Céline Mathy - Service des affaires étudiantes.md",
+    "Développement professionnel.md",
+    "Florence Helleboudt (ASH et SSE).md",
+    "Psychologie de la personnalité.md",
+    "Méthode de datation.md",
+    "Anthropologie biologique.md",
+    "Origine de l'homme - historique.md",
+    "Anthropologie.md",
+    "Chapitre 3- Perception et production de la parole.md",
+    "Psychologie cognitive.md",
     "Psychologie cognitive - Le langage.md",
-    "Synthèse.md",
-    "Sens au travail.md",
-    "Schachter et Singer.md",
+    "Franz Boas.md",
+    "La diffusion.md",
+    "Psychologie du travail et des organisations.md",
+    "Evolution des organismes.md",
+    "Home.md",
+    "2 - Historique.md",
+    "Culture.md",
+    "Éthique en recherche.md",
+    "Fondements méthodologiques.md",
+    "Recherche expérimentale - 1 méthode de recherche et outils de collecte.md",
+    "Sociologie - Révisions.md",
+    "Recherche corrélationnelle - 1 méthode de recherche et outils de collecte.md",
+    "Recherche descriptive - 3 méthodes de recherche associées et outils de collecte.md",
+    "Nathalie Steimes - psychologue clinicienne.md",
+    "Psychologie sociale.md",
+    "Evolorganismes - Tagged.pdf",
+    "OrigineVie.pptx",
     "Pasted image 20241217215225.png",
     "Pasted image 20241217215205.png",
     "Pasted image 20241217215134.png",
     "Pasted image 20241217212832.png",
     "Pasted image 20241217113100.png",
     "Pasted image 20241217112949.png",
-    "Burnout.md",
     "PCLg 02 Lang Hum.pdf",
-    "Psychologie cognitive.md",
-    "Home.md",
-    "Développement professionnel.md",
-    "Maslow.md",
-    "Excalidraw/graph-excalidraw.md",
-    "Marie Barbier - psychologie sociale.md",
-    "Obésité.md",
-    "Psycho/Fondements théoriques des sciences psychologiques/Notes annexes/DEPI.md",
-    "Evolution des organismes.md",
-    "Anthropologie biologique.md",
-    "2 - Historique.md",
     "Pasted image 20250213094536.png",
     "02_Mvtsorga (partim1)_13022025.pdf",
     "002_Syll-Ch2_Mouvements organisationnels.pdf",
-    "Psychologie du travail et des organisations.md",
-    "Calendar/Tasks.md",
-    "Phases et étapes de la démarche de recherche scientifique.md",
-    "Fondements méthodologiques.md",
     "PSYC5867 MOD01 PRESENTIEL 1.2.pdf",
-    "Chapitre 11 - Tests statistiques sur les corrélations et régressions.md",
-    "Psychologie sociale.md",
-    "Questions de philosophie.md",
-    "Sigmund Freud.md",
-    "Nietzsche.md",
     "OrigineVie - Tagged.pdf",
     "(21-22)AliceL_AnthropoBio_Synthèse.pdf",
     "Pasted image 20250207110439.png",
     "OrigineUnivers.pdf",
     "PSYC5867 PRESENTIEL 1.1  Types de recherche.pdf",
-    "Intro_ Questions de philosophie_2024-2025.pdf",
-    "EDS.Engagement et mob. dec 24 ex-post - Tagged.pdf",
     "462565446_8914698975249518_8548150580212168060_n.jpg",
     "Pasted image 20241209133600.png",
     "Untitled 2.canvas",

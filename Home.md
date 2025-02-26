@@ -18,6 +18,8 @@
 ## [[Développement professionnel]]
 ## [[Fondements méthodologiques]]
 ## [[Psychologie cognitive]]
+
+[[Anthropologie]]
 ## [[Anthropologie biologique]]
 ## [[Psychologie de la personnalité]]
 ## [[Psychologie du travail et des organisations]]

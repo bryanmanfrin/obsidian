@@ -45,5 +45,38 @@ Le chien Rico a appris des étiquettes verbales de 200 items (ex: il répond à 
 
 Le perroquet Alex était aussi capable de classer des objets selon leur couleur. Capacités de langage existante mais limitée.
 
-Les dauphins peuvent utiliser le langage à travers les gestes. On a généré des sons 
+Les dauphins peuvent utiliser le langage à travers les gestes mais peu de résultats dans la communication avec les humains.
+
+Washoe
+Apprentissage de la langue des signes américaine (contient des mots et de la syntaxe). a l'âge de 4 ans, Washoe produisait 85 signes et en comprenait davantage. Elle pouvait désigner un canard en utilisant les "mots" "oiseau" et "eau" en langage des lignes. Cette chimpanzé a appris certains signes à son enfant chimpanzé.
+
+Nim Chimpsky
+Apprend aussi le langage des signes. Nim produit rarement des signes spontanément. Ils produisent énormément de répétition.
+
+
+- [ ] 27 53 Document à lire en complément de cette partie (voir sur e-campus, annexe chap 2 – doc 1) :
+
+# Niveaux et analyse de langage
+## Niveau phonologique
+1) les **phonèmes** = plus petites unités d'une langue, obtenue par la combinaison de traits articulatoires. Les langues possèdent entre 15 et 85 phonèmes (37 pour le français).
+2) Les **morphèmes** = combinaison qui a une forme et un sens.
+   **jardin**==ier==*s*: 3 morphèmes qui modifient le sens pour créer les personnes qui jardinent.
+   jardin: 1 morphème
+   types de morphèmes 
+   - lexicaux
+   - grammaticaux
+## Niveau sémantique
+Sens des mots
+## Niveau syntaxique
+Organisation du langage basée sur des règles.
+
+## Niveau pragmatique
+Rapport entre la langue et l'usage qu'on en fait (présuppositions, sous-entendus, conventions des discours, etc). Aspects de la signification qui vont au delà du sens littéral ("pourriez-vous fermer la fenêtre?" ne questionne pas la capacité de l'individu mais suppose une demande).
+
+# Linguistique
+Science qui a pour objet l'étude du langage et des langues.
+Langage = faculté d'exprimer sa pensée
+Langue = 
+Psycholinguistique = processus psychologiques qui sous-tendent la mise en oeuvre de la langue naturelle. En 1951, une conférence à NY est considérée comme le lieu de naissance de la psycholinguistique. Utilisé pour la première fois dans un bouquin en 1954.
+
 
