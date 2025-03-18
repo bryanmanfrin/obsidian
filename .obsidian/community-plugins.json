@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "homepage",
   "heycalmdown-navigate-cursor-history",
   "calendar",
   "obsidian-functionplot",
@@ -10,5 +9,6 @@
   "dataview",
   "no-dupe-leaves",
   "obsidian-wikipedia",
-  "obsidian-timeline"
+  "obsidian-timeline",
+  "homepage"
 ]

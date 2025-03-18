@@ -55,11 +55,24 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Fondements méthodologiques.md",
+                "file": "Podcast 1 - Psychologie expérimentale et méthode scientifique.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Fondements méthodologiques)"
+              "title": "Diff View (Podcast 1 - Psychologie expérimentale et méthode scientifique)"
+            }
+          },
+          {
+            "id": "f64185dea556536d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           },
           {
@@ -89,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,54 +266,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c245fd8d461cd20a",
+  "active": "291ca3e021573c5f",
   "lastOpenFiles": [
-    "Podcast 1 - Psychologie expérimentale et méthode scientifique.md",
-    "Fondements méthodologiques.md",
-    "Home.md",
     "conflict-files-obsidian-git.md",
-    "Questions de philosophie.md",
-    "Psychologie sociale.md",
-    "Psychologie du travail et des organisations.md",
-    "Psychologie de la personnalité.md",
-    "Psychologie cognitive.md",
-    "Psychologie cognitive - Le langage.md",
-    "Phases et étapes de la démarche de recherche scientifique.md",
+    "Éthique en recherche.md",
+    "Recherche expérimentale - 1 méthode de recherche et outils de collecte.md",
+    "Recherche descriptive - 3 méthodes de recherche associées et outils de collecte.md",
+    "Recherche corrélationnelle - 1 méthode de recherche et outils de collecte.md",
+    "Questions de philosophie cours 5 Le cas Alain Vigneron 17 mars 2025.pdf",
+    "Psychologie du vieillissement.md",
+    "Podcast - quantitatif/qualitatif.md",
+    "Podcast - quantitatif",
+    "Podcast - quantitatif & qualitatif.md",
+    "Pasted image 20250314121608.png",
+    "Pasted image 20250313082223.png",
+    "PSYC5867 MOD05-2 PRÉSENTIEL 5.pdf",
+    "PSYC5867 MOD04-2 PRÉSENTIEL 4.pdf",
+    "PSYC5867 MOD03-2 PRÉSENTIEL 3.pdf",
+    "PPR en psychologie de la personnalité.md",
+    "PCLg 06 Lang écrit.pdf",
+    "PCLg 05 Dév lang.pdf",
+    "OrigineVie.pptx",
+    "Origine de l'homme - historique.md",
+    "Nathalie Steimes - psychologue clinicienne.md",
+    "Méthode de datation.md",
+    "Les différents stades de l'évolution humaine.md",
+    "Le prestige.md",
+    "Le cas Jonas.md",
+    "Le cas Alain Vigneron.md",
+    "La diffusion.md",
+    "L'homme parmi les primates.md",
+    "Green office de l'unif.md",
+    "Florence Helleboudt (ASH et SSE).md",
+    "Examen blanc - travail.md",
+    "Evolorganismes - Tagged.pdf",
+    "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
+    "Céline Mathy - Service des affaires étudiantes.md",
+    "Culture et personnalité.md",
+    "Chapitre 6 - Développement du langage écrit.md",
+    "Chapitre 5 - Psychopharmacologie chez l'Homme.md",
+    "ArchPaleNeanthropiens.pdf",
     "Pasted image 20250213094536.png",
     "Pasted image 20250207110439.png",
-    "PSYC5867 PRESENTIEL 1.1  Types de recherche.pdf",
-    "PSYC5867 MOD01 PRESENTIEL 1.2.pdf",
-    "PCLg 02 Lang Hum.pdf",
-    "OrigineVie - Tagged.pdf",
-    "OrigineUnivers.pdf",
-    "Origine de L'univers.md",
-    "Obésité.md",
-    "Nietzsche.md",
-    "Maslow.md",
-    "Marie Barbier - psychologie sociale.md",
-    "Karl Marx.md",
-    "Intro_ Questions de philosophie_2024-2025.pdf",
-    "Evolution des organismes.md",
-    "Développement professionnel.md",
-    "Anthropologie biologique.md",
-    "2 - Historique.md",
-    "02_Mvtsorga (partim1)_13022025.pdf",
-    "002_Syll-Ch2_Mouvements organisationnels.pdf",
-    "(21-22)AliceL_AnthropoBio_Synthèse.pdf",
-    "HelloQuitteX.md",
     "Pasted image 20250212224806.png",
     "Pasted image 20250212224258.png",
     "Pasted image 20250212222148.png",
-    "Réformes en FWB.md",
-    "Dispositifs qui améliorent le bien-être des élèves.md",
-    "Psycho/Sciences de l'éducation/Sciences de l'éducation.md",
-    "Sciences de l'éducation - Résumé des cours.md",
     "Pasted image 20241217215225.png",
     "Pasted image 20241217215205.png",
     "Pasted image 20241217215134.png",
-    "Pasted image 20241217212832.png",
-    "Pasted image 20241217113100.png",
-    "PSYC5866 10-Troubles psychologiques et psychothérapie 2024-25.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

@@ -5,6 +5,14 @@
 # Intervenants
 Johanne (super présentation)
 
+[[Nathalie Steimes - psychologue clinicienne]]
+[[Florence Helleboudt (ASH et SSE)]]
+[[Céline Mathy - Service des affaires étudiantes]]
+[[11-03 - intervenante]]
+
+# Devoirs
+[[Devoir 3 - Analyse réflexive sur le métier d'étudiant]]
+
 
 ![[Marie Barbier - psychologie sociale]]
 
@@ -57,3 +65,53 @@ Comprendre les enjeux sociétaux, voir large
 
 ### C5. Diffuser des informations relevant de la recherche
 Produire des études
+
+
+Décrire: 
+- Retards
+- Remplissage non-autorisé
+- Demande de délais supplémentaires
+
+Problématiser
+- Qu'est-ce que je fais? J'accepte ou pas?
+- Faut-il revenir sur les choix pédagogiques?
+- Trop exigente?
+- Injuste?
+
+Analyser
+- Ratio avantages/emmerdes
+- Devoirs car réflexivité = compétence à entrainer
+- Devoirs pendant les cours pour ne pas exploser les ECTS
+- Infos 1er cours + délai supp + remail + reréseaux = sympa
+- Si délais longs => problème
+- Si travail irrégulier = problème
+- Si prévenue avant => j'adapte
+- DD: demande de justification si grave
+
+Théoriser
+- Dans ces cas-là, primer l'intérêt collectif 
+
+Réinvestir
+
+
+Décrire
+- Examen pendant dernier cours
+- Examen PENDANT la session (obligatoire légale)
+
+P
+- Comment faire
+- Examen de 3h
+- Dépeot pendant la session
+
+A
+- Nombreux veulent le dépot
+
+T
+- Il faut rester dans les clous sans organiser un examen
+- supplémentaire en session
+
+R
+Dépot en session
+En présentiel un jour où vous avez tous examen
+- FAITES-LE AVANT
+- Quel examen

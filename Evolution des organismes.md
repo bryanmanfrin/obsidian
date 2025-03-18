@@ -76,3 +76,23 @@ Les bactéries s'adaptent mieux tandis que les organismes plus larges ont plus d
 - courte: évolution dans un contexte présent, adaptations rapides.
 
 La vertu morale et la sympathie sont les fondements de la création de la civilisation.
+
+Homo-sapiens: l'homme s'échappe du royaume animal grâce à son intelligence. 
+
+L'évolutionnisme au 20ème siècle. 
+Justifie le colonialisme et de nos jours, justifie les projets de développement. La préhistoire est présentée (à travers l'évolutionnisme) comme une série de stades où chaque passage est déterminé par des innovations techniques ayant apporté des transformations sociales, économiques et culturelles. 
+"Dans le désert, une tribu vit encore de la chasse et de la cuiellette. [...] ce mode de vie peut nous aider à comprendre comment les hommes vivaient dans la préhistoire." -> "ils sont encore des hommes préhistoriques"
+Les techniques d'allumage sont simples et identiques à celles utilisées à la préhistoire.
+
+Les recherches ont remis en question les thèses évolutionnistes. Ces recherches rappellent que la société primitive au singulier n'a jamais existé car les sociétés ont été dispersées, dans des environnements très différents. De plus, les formes d'organisations changeaient en fonction des saisons. Les sociétés n'aient donc pas nécessairement nomades comme le sont les chasseurs nomades contemporains. Les mongols par exemple étaient un peuple très fort, prospère mais nomade. D'autres peuples comme certains indiens d'Amérique ont délaissé l'agriculture pour reprendre la chasse au bison, plus intéressant. **L'évolution culturelle ne passe donc pas nécessairement par l'agriculture.**
+
+L'agriculture a constitué une étape décisive. sédentarisation, propriété privée, organisation familiale, organisation politique et État.
+
+Les sociétés humaines ne sont jamais isolées les unes des autres; on ne peut donc pas considérer les peuples comme des entités séparées évoluant à leur rythme (débattable si on considère des peuples qui n'ont "jamais" eu de contacts avec d'autres ou qui les refusent).
+Les évolutionnistes forcent les faits pour les faire entrer dans leur théorie. 
+
+L'évolutionnisme a contribué à l'anthropologie en observant, décrivant différents phénomènes sociaux, en créant des catégories. Même si des critiques méthodologiques ont été formulées, il y a eu une contribution. 
+L'anthropologie moderne veut donc dépasser l'évolutionnisme avec:
+- terrain ethnographique
+- relativisme culturel
+Dans le début du 20ème siècle, on a l'idée qu'on veut sauvegarder les cultures traditionnelles qui pourraient disparaitre sous l'effet de la mondialisation et du développement.

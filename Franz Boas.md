@@ -3,3 +3,12 @@
 >
 > [Wikipedia](https://fr.wikipedia.org/wiki/Franz%20Boas)
 
+## Anthropologie
+Boas a rassemble plus de 10.000 pages de documents ethnographiques dont la moitié provenaient des Kwakiutl (Vancouver). Il utilise peu ces documents dans les travaux théoriques mais critique les thèses évolutionnistes sans utiliser ces éléments empiriques (documents récoltés). 
+Boas a promu une approche de terrain.
+Il enquêtait dans le cadre d'une expédition pluridisciplinaire avec des enquêteurs locaux qui l'aident à la collecte d'éléments.
+Malinowski recommandait plutôt d'aller soi-même sur place. Malinowski s'intéresse aussi plus à la vie quotidienne. Boas ne produit pas de **monographie** - récit qui fait le lien entre des matériaux empiriques et récits théoriques.
+Boas reproche aux théories évolutionnistes de ne pas être fondé sur des faits empiriques (critique empiriciste). 
+Boas défend que si on retrouve des similitudes entre sociétés, ce n'est pas nécessairement provoqué par les mêmes évènements historiques; chaque société a son histoire. Les masques par exemple ont des sens différents (tromper un esprit, incarner un esprit positif, représentent les morts).
+Il va donc envisager l'évolutionnisme historique.
+
