@@ -8,6 +8,10 @@ Johanne (super présentation)
 [[Nathalie Steimes - psychologue clinicienne]]
 [[Florence Helleboudt (ASH et SSE)]]
 [[Céline Mathy - Service des affaires étudiantes]]
+[[11-03 - intervenante]]
+
+# Devoirs
+[[Devoir 3 - Analyse réflexive sur le métier d'étudiant]]
 
 
 ![[Marie Barbier - psychologie sociale]]

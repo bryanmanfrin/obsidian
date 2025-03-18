@@ -1,6 +1,8 @@
 
 [[Psychologie cognitive - Le langage]]
 [[Chapitre 3- Perception et production de la parole]]
+[[Chapitre 5 - Développement du langage et acquisition d'une seconde langue]]
+[[Chapitre 6 - Développement du langage écrit]]
 Etude scientifique de l'esprit, comment on prend connaissance du monde, comment on le perçoit.
 Etude des processus mentaux qui permet de comprendre comment les choses prennent place.
 "Cognosere": voir, apprendre, s'apercevoir

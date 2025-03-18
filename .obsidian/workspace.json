@@ -4,67 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "593bc21279f4a201",
+        "id": "7cd70cff895d8c95",
         "type": "tabs",
         "children": [
           {
-            "id": "e90c9fc33775f426",
+            "id": "31132bba65e54da9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondements méthodologiques.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Fondements méthodologiques"
+              "title": "Home"
             }
           },
           {
-            "id": "c55ed97e392c3553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie"
-            }
-          },
-          {
-            "id": "c23bb4210d937dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La diffusion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La diffusion"
-            }
-          },
-          {
-            "id": "86a4ba9c5654a57e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie cognitive.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychologie cognitive"
-            }
-          },
-          {
-            "id": "e6ff2560baed4076",
+            "id": "70640758039ca340",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,77 +38,21 @@
             }
           },
           {
-            "id": "485cae789807ef68",
+            "id": "1d64841e6c8e30ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anthropologie biologique.md",
+                "file": "Questions de philosophie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anthropologie biologique"
+              "title": "Questions de philosophie"
             }
           },
           {
-            "id": "ba1b9d2a9e475dd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Franz Boas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Franz Boas"
-            }
-          },
-          {
-            "id": "d76a5fb37473b039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie biologique"
-            }
-          },
-          {
-            "id": "3c40aa755ed4d9d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evolution des organismes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evolution des organismes"
-            }
-          },
-          {
-            "id": "50196c7da4bfe51d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie biologique"
-            }
-          },
-          {
-            "id": "32982f992a31f3d3",
+            "id": "21daac4f0fc70ebb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,104 +66,49 @@
             }
           },
           {
-            "id": "efc35fa4910f465f",
+            "id": "6b85b06c2af33142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Céline Mathy - Service des affaires étudiantes.md",
+                "file": "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Céline Mathy - Service des affaires étudiantes"
+              "title": "Devoir 3 - Analyse réflexive sur le métier d'étudiant"
             }
           },
           {
-            "id": "92b6c9118923f47c",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "4dce3947a11487fa",
+            "id": "47035dccf9f89d97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Florence Helleboudt (ASH et SSE).md",
+                "file": "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Florence Helleboudt (ASH et SSE)"
+              "title": "Devoir 3 - Analyse réflexive sur le métier d'étudiant"
             }
           },
           {
-            "id": "afcc5a3c79c59c50",
+            "id": "8643eb609d151631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "L'homme parmi les primates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "d2cf93e74e8891da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evolution des organismes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evolution des organismes"
-            }
-          },
-          {
-            "id": "11e136edd95823bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Historique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Historique"
-            }
-          },
-          {
-            "id": "20d3c3f161eeb43f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recherche expérimentale - 1 méthode de recherche et outils de collecte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recherche expérimentale - 1 méthode de recherche et outils de collecte"
+              "title": "L'homme parmi les primates"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -279,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "barbare",
+                "query": "hann",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -325,6 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -352,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Devoir 3 - Analyse réflexive sur le métier d'étudiant"
             }
           }
         ]
@@ -368,7 +218,7 @@
       {
         "id": "cb10153b7d2ab192",
         "type": "tabs",
-        "dimension": 53.70370370370372,
+        "dimension": 30.555555555555557,
         "children": [
           {
             "id": "4b5904ac5530bea0",
@@ -425,7 +275,7 @@
       {
         "id": "b823bd895026eaab",
         "type": "tabs",
-        "dimension": 23.14814814814814,
+        "dimension": 46.2962962962963,
         "children": [
           {
             "id": "638e408a0fc9a855",
@@ -433,6 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -442,7 +293,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Devoir 3 - Analyse réflexive sur le métier d'étudiant"
             }
           }
         ]
@@ -450,7 +301,7 @@
       {
         "id": "dcb560491107237e",
         "type": "tabs",
-        "dimension": 23.14814814814814,
+        "dimension": 23.14814814814815,
         "children": [
           {
             "id": "73a7e30836c00c59",
@@ -466,7 +317,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -477,57 +328,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "92b6c9118923f47c",
+  "active": "6b85b06c2af33142",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Céline Mathy - Service des affaires étudiantes.md",
+    "Développement professionnel.md",
+    "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
+    "Le cas Alain Vigneron.md",
+    "Questions de philosophie cours 5 Le cas Alain Vigneron 17 mars 2025.pdf",
+    "Questions de philosophie.md",
+    "Psychologie de la personnalité.md",
+    "Les différents stades de l'évolution humaine.md",
+    "Pasted image 20250314121608.png",
+    "ArchPaleNeanthropiens.pdf",
+    "Anthropologie biologique.md",
+    "L'homme parmi les primates.md",
+    "Home.md",
+    "Green office de l'unif.md",
+    "Chapitre 6 - Développement du langage écrit.md",
+    "PCLg 06 Lang écrit.pdf",
+    "Psychologie cognitive.md",
+    "Chapitre 5 - Développement du langage et acquisition d'une seconde langue.md",
+    "PCLg 05 Dév lang.pdf",
+    "Le prestige.md",
+    "5. Prestige.pdf",
+    "Anthropologie.md",
+    "Chapitre 4 - L'évolution du monde du travail et le stress professionnel.md",
+    "Pasted image 20250313082223.png",
+    "07_Contexte actuel du travail_13032025.pdf",
+    "Psychologie du travail et des organisations.md",
+    "Chapitre 5 - Psychopharmacologie chez l'Homme.md",
+    "Fondements méthodologiques.md",
+    "PSYC5867 MOD05-2 PRÉSENTIEL 5.pdf",
+    "Recherche expérimentale - 1 méthode de recherche et outils de collecte.md",
+    "11-03 - intervenante.md",
+    "11/03 - intervenante.md",
+    "11",
+    "Psychologie sociale.md",
+    "Le cas Jonas.md",
+    "7_PhylogeniePrimatesEtDebutArchanthropiens(1).pdf",
+    "Culture et personnalité.md",
+    "Examen blanc - travail.md",
+    "PSYC5867 MOD04-2 PRÉSENTIEL 4.pdf",
     "Pasted image 20250212224806.png",
     "Pasted image 20250212224258.png",
     "Pasted image 20250212222148.png",
-    "HelloQuitteX.md",
-    "Développement professionnel.md",
-    "Florence Helleboudt (ASH et SSE).md",
-    "Psychologie de la personnalité.md",
-    "Méthode de datation.md",
-    "Anthropologie biologique.md",
-    "Origine de l'homme - historique.md",
-    "Anthropologie.md",
-    "Chapitre 3- Perception et production de la parole.md",
-    "Psychologie cognitive.md",
-    "Psychologie cognitive - Le langage.md",
-    "Franz Boas.md",
-    "La diffusion.md",
-    "Psychologie du travail et des organisations.md",
-    "Evolution des organismes.md",
-    "Home.md",
-    "2 - Historique.md",
-    "Culture.md",
-    "Éthique en recherche.md",
-    "Fondements méthodologiques.md",
-    "Recherche expérimentale - 1 méthode de recherche et outils de collecte.md",
-    "Sociologie - Révisions.md",
-    "Recherche corrélationnelle - 1 méthode de recherche et outils de collecte.md",
-    "Recherche descriptive - 3 méthodes de recherche associées et outils de collecte.md",
-    "Evolorganismes - Tagged.pdf",
-    "OrigineVie.pptx",
     "Pasted image 20241217215225.png",
     "Pasted image 20241217215205.png",
     "Pasted image 20241217215134.png",
     "Pasted image 20241217212832.png",
     "Pasted image 20241217113100.png",
-    "Pasted image 20241217112949.png",
-    "PCLg 02 Lang Hum.pdf",
-    "Pasted image 20250213094536.png",
-    "02_Mvtsorga (partim1)_13022025.pdf",
-    "002_Syll-Ch2_Mouvements organisationnels.pdf",
-    "PSYC5867 MOD01 PRESENTIEL 1.2.pdf",
-    "OrigineVie - Tagged.pdf",
-    "(21-22)AliceL_AnthropoBio_Synthèse.pdf",
-    "OrigineUnivers.pdf",
-    "PSYC5867 PRESENTIEL 1.1  Types de recherche.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

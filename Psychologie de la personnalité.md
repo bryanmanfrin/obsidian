@@ -114,4 +114,151 @@ Le fait de travailler, faire des études change la personnalité, rend typiqueme
 State-Level (marqueur d'état), une maladie change notre état. Un trait est stable, durable doit passer par de nombreuses étapes pour être modifié.
 Pressions externes, rôle de parents par exemple, peut exercer une pression seulement si on adhère au rôle.
 
+Deux types d'évènements semblent expliquer des changements de personnalité:
+- commencer une relation affective
+- Commencer des études universitaires ou un travail
+Suivre des études universitaires implique des changements (ouverture d'esprit, curiosité, conscienciosité, agréabilité, extraversion, la gestion émotionnelle)
+Les évènements traumatiques de la vie ne remodèlent pas considérablement la personnalité.
+
+Les évènements important n'impactent pas le neuroticisme ~6 mois après en moyenne. Par contre les différences individuelles peuvent être importantes quand même; encore un exemple que la moyenne peut cacher des différences individuelles.
+
+Le $d$ est l'équivalent de l'écart-type
+
+L'ouverture diminue avec le mariage (d=-0.17)
+Le neuroticisme et le diplôme (d=-0,16): + confiance en soi
+Conscienciosité et premier job (d=0,27): on s'applique dans son travail, meilleure organisation
+
+**Test de personnalité par rapport à l'impact du COVID**
+La personnalité ne changeait pas beaucoup pour les catastrophes naturelles. Pour le COVID, on observe une diminution du neuroticisme (américains et allemands). L'effet est beaucoup plus marqué chez les jeunes adultes, diminué la conscienciosité, diminué l'agréabilité - ça a entravé la maturation de l'adulte car ces traits sont supposés évoluer dans l'autre sens avec l'âge. Le neuroticisme aurait du diminuer davantage en cycle naturel normal. 
+
+**Changements volontaires de la personnalité**
+Changer la manière de se comporter influence suffisamment que pour changer l'état de la personne. L'état est module (image de la taille qui change si on met des talons; changement transitoire alors que le trait - la taille - est stable). 
+
+**Les objectifs de changement dans la personnalité**
+Beaucoup de gens veulent changer leur personnalité vers un profil optimal. Plus de personnes ont des scores faibles sur les dimensions plus elles veulent changer. La volonté de changer est associée *négativement* à la satisfaction de vie (*moins* on est extraverti, *plus* on veut augmenter son extraversion). Ces envies de changement sont favorisés car on recherche à améliorer les traits associés à une bonne qualité de vie. Il y a une faible corrélation entre les traits (être extraverti a tendance à apporter de l'agréabilité mais ce n'est pas le cas entre tous les traits, parfois même le contraire). 
+Des études sur plusieurs années ont démontré qu'il était possible de moduler sa personnalité avec des challenges. 
+Est-ce que la volonté seule suffit à changer? Un graphique montre que pour l'extraversion, certains voulaient diminuer/augmenter/ne pas changer. Ceux qui désiraient augmenter ont augmenté légèrement (d=0.1). Vouloir changer semble suffire mais une intervention augmente l'effet. 
+
+Il est plus facile d'améliorer la conscienciosité que la stabilité émotionnelle lorsque le sujet n'est pas motivé intrinsèquement. 
+
+Buts de la psychologie de la personnalité
+Construire des modèles et théories qui permettent d'expliquer ce qu'est la personnalité et d'apporter des approches opérationnalisables, empiriques. 
+
+Décrire
+- description par des méthodes objectives
+- approche lexicale
+- approche hypothético-déductive
+Expliquer
+- Comment expliquer qu'une personne soit plutôt introvertie et qu'une autre soit extravertie?
+- Dépend de la position théorique
+Prédire
+- Capital pour certains, moins pour d'autres. On peut supposer qu'un ensemble de traits fait d'une personne un meilleur candidat pour certaines activités/tâches, sont plus compatibles avec nos valeurs etc.
+Modifier
+- Agir par des interventions sur des traits jugés favorables
+
+
+**La prédiction de la personnalité, des associations entre des traits**
+Usage de drogue -> conscienciosité: -.29
+Satisfaction du travail -> neuroticisme: 
+
+Faible conscienciosité + fort neuroticisme = grands risques de troubles psycho-pathologiques. L'ordre, la conscienciosité permet de mettre en place des méthodes pour réduire son neuroticisme. A titre préventif, on peut proposer des traitements pour changer la personnalité.
+
+On peut prédire une meilleure satisfaction de la carrière ou de l'emploi en fonction de la personnalité. 
+
+**La crise de la reproductibilité**
+Les gros journaux ne semblent plus très fiables.
+JPSP social
+JEP, LMC cognitive
+PSCI social
+PSCI cognitive
+
+En 2015, on a voulu répliquer > 100 articles pour tenter de retrouver les mêmes effets. 
+**36% de réplication seulement.** 
+
+Ce qui a fonctionné est publié, ce qui n'a pas fonctionné n'a pas publié. Si une fois sur 20 on réussi mais que les 19 autres fois on a échoué, on va se souvenir que ça marche car le succès est le seul qui est publié - ***biais de publication***
+
+**Études WOW mais qui ne savent pas être répliquées**
+Les personnes avec peu de contacts sociaux tendent à prendre des douches plus chaudes.
+Les chambres vertes dans les hôpitaux font que les patients restent moins longtemps et se sentent mieux.
+Les personnes s'identifiant comme vieux ont tendance à marcher moins vite.
+Prendre des bains de forêt guérit.
+
+**Modifier la personnalité**
+La personnalité change après une intervention psychothérapeutique réussie. Ce qui va de soi si on a des problèmes initialement, on obtient des améliorations dans le neuroticisme et l'extraversion. Moins anxieux, moins de stress => moins de neuroticisme. L'extraversion augmente en conséquence du traitement. On ne vise pas à modifier la personnalité mais, suite à la résolution d'un trouble, la personnalité changera à travers l'adoption de nouveaux mécanismes de gestion des émotions, évènements etc.
+
+Réguler l'émotion, percevoir l'émotion chez soi et chez l'autre. On a pu voir qu'améliorer les compétences émotionnelles a pu créer une amélioration permanente (test plus tard, après l'intervention) de l'extraversion et une réduction significative (d=0.80) du neuroticisme. 
+
+# Qu'est ce qu'une théorie
+Une théorie doit être *vérifiable* (signification des rêves, lapsus, la  etc ne sont pas prouvés).
+Une théorie doit avoir une source pas trop étroite.
+Une théorie doit être parcimonieuse - rendre compte des faits avec un minimum de notions.
+
+# 6. Méthodes en psychologie de la personnalité
+**Idiographique**: On veut beaucoup d'informations sur peu d'individus pour aller dans les détails.
+**Nomothétique**: On veut peu d'informations sur beaucoup d'individus pour tirer des généralisations.
+
+Effet Rosenthal: Si on est persuadé que la manière dont on approche quelque chose va influencer le résultat, on va agir de sorte à provoquer le résultat. 
+
+Corrélations: 
+r > 0.8: Corrélation très forte
+r (0.6 - 0.8): corrélation forte
+r(0.3 - 0.5): corrélation modérée
+r < 0.3: corrélation faible
+
+$r^2$: pourcentage de 9% de variance commune pour une corrélation de 0.3 
+$r^2$: pourcentage de 64% de variance commune pour une corrélation de 0.8
+
+
+L'évitement du danger est modérément corrélé positivement (0.47) à l'état dépressif de la personne. 
+L'autodétermination (moyes disponible, structuration identitaire, buts ) est négativement corrélée à la sévérité de la dépression (+ on a de l'autodétermination, moins sévère sera la dépression). A l'inverse, moins on a d'autodétermination, plus on a de risque de dépression. 
+
+## 6. La méthode expérimentale dans l'étude de la personnalité
+La recherche de sensation est-elle basée sur les expériences passées?
+3 groupes de personnes veulent sauter en parachute.
+
+**Modification de la VI**
+Dans un groupe on leur explique la procédure classique.
+Dans le deuxième on explique de façon positive, expérience incroyable etc.
+Dans le troisième on donne des explications négatives (risques, vous êtes sûr?)
+
+On veut alors observer si la décision de sauter est influencée (oui/non).
+
+**Précautions à garder en tête**
+- Echantillon grand et représentatif
+- Répartition aléatoire
+- Groupe expérimental et groupe contrôle
+- Effet placebo
+- Effet Hawthorne (les sujets sont influencés car ils se savent testés)
+
+*WEIRD*: West - Educated - Industrialized - Rich - Democrat: 96% des recherches se font sur 12% de la population.
+WEIRD dénonce l'homogénéité des échantillons qui tendent à trop correspondre au personnes WEIRD.
+
+**Méthodes:**
+*Etude de cas*: intéressantes mais beaucoup de défauts; manque de généralisation et implication personnelle de l'expérimentateur n'offrent pas la possibilité de construire une théorie rationnelle de la personnalité. 
+
+
+
+
+# 7. Evaluation de la personnalité
+En fonction des outils utilisés, on aura des résultats différents.
+L'échelle de dépression de Beck n'est pas un outil diagnostique et reste à nuancer en fonction de l'état actuel de la personne, de la vision que la personne a de sa vie (vision étroite de ce qu'elle a accompli).
+Exemple de test de Beck de la dépression:
+1) J'ai toujours *autant* de plaisir *qu*'avant
+2) J'ai *moins* de plaisir *qu*'avant
+3) J'ai *peu* de plaisir
+4) Je n'éprouve plus *aucun* plaisir
+
+Tests
+Les tests projectifs: matériel ambigu dont l'objectif est de laisser paraitre la subjectivité de l'observateur.
+
+Rorschach:
+Il observe 3 aspects dans les descriptions:
+- forme
+- couleur
+- mouvement (i.e. des personnes qui font à manger)
+
+Dans les tests de Rorschach, il y a des réponses banales comme une chauve-souris, une mite. Un schizophrène pourrait ajouter des précisions. Dans les "ailes" il y a des trous. Les trous pourraient être de la décomposition.
+Le test de Rorschach sont dits biens pour éviter la "désirabilité sociale". Mais une personne pourrait bien se censurer si ils y voient un truc gore. 
+
+Fidélité: un résultat reste le même (ou au moins cohérent) à travers le temps.
 
