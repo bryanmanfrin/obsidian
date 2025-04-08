@@ -187,3 +187,12 @@ Si les femmes se rebellent, la première chose qui vient à l'esprit c'est "t'es
 
 Ils ont observé dans des firmes d'avocats que les évaluations de femmes étaient plus positives dans l'utilisation des mots mais la note en nombre d'étoiles reste moins grande. Les hommes auront plutôt de  meilleures notes malgré des messages moins élogieux. Les hommes auront donc les promotions car elles sont basées sur les notes.
 
+
+
+# Tashfeld
+Une expérience qui créé deux groupes parmi des élèves en fonction d'une préférence pour un tableau (préférence risible). Lorsqu'on indique à une personne qu'elle fait partie du groupe préférant le tableau A (Klee) puis qu'on lui demande de rémunérer les deux groupes, on voit apparaitre une préférence envers son groupe.
+Une personne appartenant à un groupe préférera moins se rémunérer tant qu'une perte vient avec la garantie de rester mieux payé que l'autre groupe. **==Augmenter sa propre paie n'est tolérable que si la paie de l'autre ne dépasse pas la nôtre.==**
+
+On a une représentation beaucoup plus complexe de notre groupe que personnes d'un autre groupe. "Les autres se ressemblent beaucoup plus que ceux de notre groupe."
+
+La théorie intégrée de la menace

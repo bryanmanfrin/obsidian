@@ -24,7 +24,21 @@
             }
           },
           {
-            "id": "70640758039ca340",
+            "id": "7a12d0d5db761a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie cognitive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychologie cognitive"
+            }
+          },
+          {
+            "id": "9e5c467ff8f79266",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +52,7 @@
             }
           },
           {
-            "id": "1d64841e6c8e30ef",
+            "id": "6ec989b0ccbb6cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,7 +66,7 @@
             }
           },
           {
-            "id": "21daac4f0fc70ebb",
+            "id": "c784883c693da420",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,49 +80,121 @@
             }
           },
           {
-            "id": "6b85b06c2af33142",
+            "id": "82350c39e1f616fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
+                "file": "08-03 - Marie Périn Psychologue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Devoir 3 - Analyse réflexive sur le métier d'étudiant"
+              "title": "08-03 - Marie Périn Psychologue"
             }
           },
           {
-            "id": "47035dccf9f89d97",
+            "id": "22027ad6bbe9a33f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
+                "file": "Events App.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Devoir 3 - Analyse réflexive sur le métier d'étudiant"
+              "title": "Events App"
             }
           },
           {
-            "id": "8643eb609d151631",
+            "id": "e549d69789c826a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'homme parmi les primates.md",
+                "file": "Questions de philosophie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'homme parmi les primates"
+              "title": "Questions de philosophie"
+            }
+          },
+          {
+            "id": "d49baa272b268c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement professionnel.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Développement professionnel"
+            }
+          },
+          {
+            "id": "42ade1c61f845863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthropologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthropologie"
+            }
+          },
+          {
+            "id": "a5b2792b1b00fd02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Le Rhodes Livingstone Institute.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Le Rhodes Livingstone Institute"
+            }
+          },
+          {
+            "id": "aa2399019776f365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Le conflit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Le conflit"
+            }
+          },
+          {
+            "id": "565128ffa9c46246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-04 - chercheuses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-04 - chercheuses"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,8 +214,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hann",
-                "matchingCase": false,
+                "query": "path:\"Le conflit.md\" K",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -174,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
+                "file": "08-03 - Marie Périn Psychologue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +288,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Devoir 3 - Analyse réflexive sur le métier d'étudiant"
+              "title": "Graph of 08-03 - Marie Périn Psychologue"
             }
           }
         ]
@@ -253,10 +339,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why men rebel.md"
+                "file": "08-03 - Marie Périn Psychologue.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Why men rebel"
+              "title": "Outline of 08-03 - Marie Périn Psychologue"
             }
           },
           {
@@ -283,7 +372,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
+                "file": "08-03 - Marie Périn Psychologue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +382,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Devoir 3 - Analyse réflexive sur le métier d'étudiant"
+              "title": "Backlinks for 08-03 - Marie Périn Psychologue"
             }
           }
         ]
@@ -332,54 +421,54 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b85b06c2af33142",
+  "active": "291ca3e021573c5f",
   "lastOpenFiles": [
+    "08-03 - Marie Périn Psychologue.md",
     "Développement professionnel.md",
-    "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
-    "Le cas Alain Vigneron.md",
-    "Questions de philosophie cours 5 Le cas Alain Vigneron 17 mars 2025.pdf",
+    "Psychologie sociale.md",
+    "Récap philo.md",
     "Questions de philosophie.md",
     "Psychologie de la personnalité.md",
-    "Les différents stades de l'évolution humaine.md",
-    "Pasted image 20250314121608.png",
-    "ArchPaleNeanthropiens.pdf",
+    "Ecologie.md",
     "Anthropologie biologique.md",
-    "L'homme parmi les primates.md",
-    "Home.md",
-    "Green office de l'unif.md",
-    "Chapitre 6 - Développement du langage écrit.md",
-    "PCLg 06 Lang écrit.pdf",
+    "Chapitre 8 - La perception.md",
+    "Pasted image 20250403172028.png",
+    "Pasted image 20250403163223.png",
+    "Pasted image 20250403162941.png",
+    "Pasted image 20250403162742.png",
+    "Pasted image 20250403162420.png",
+    "Pasted image 20250403162348.png",
+    "Pasted image 20250403161802.png",
+    "Pasted image 20250403161001.png",
+    "Pasted image 20250403160934.png",
+    "Pasted image 20250403160734.png",
+    "Cours 03_Perception2_web - Tagged.pdf",
     "Psychologie cognitive.md",
-    "Chapitre 5 - Développement du langage et acquisition d'une seconde langue.md",
-    "PCLg 05 Dév lang.pdf",
-    "Le prestige.md",
-    "5. Prestige.pdf",
+    "Home.md",
+    "Le Rhodes Livingstone Institute.md",
     "Anthropologie.md",
+    "Le conflit.md",
+    "01-04 - neuropsychologie.md",
+    "01-04 - chercheuses.md",
+    "La méthode Foucault - Le cas Maximilien et les dispositifs.md",
+    "Psycho Perso 24-25-ULiege.pdf",
+    "Cours 02_Perception1_web - Tagged.pdf",
+    "Psychologie cognitive - Le langage.md",
+    "Chapitre 7 - Langage et cerveau.md",
+    "Franz Boas.md",
     "Chapitre 4 - L'évolution du monde du travail et le stress professionnel.md",
-    "Pasted image 20250313082223.png",
-    "07_Contexte actuel du travail_13032025.pdf",
+    "07_Stress au travail - Le burnout_20032025.pdf",
     "Psychologie du travail et des organisations.md",
-    "Chapitre 5 - Psychopharmacologie chez l'Homme.md",
+    "Module 7 - Devis expérimentaux.md",
+    "Phases et étapes de la démarche de recherche scientifique.md",
+    "PSYC5867 Module 7 - Devis expérimentaux (Présentiel).pdf",
     "Fondements méthodologiques.md",
-    "PSYC5867 MOD05-2 PRÉSENTIEL 5.pdf",
-    "Recherche expérimentale - 1 méthode de recherche et outils de collecte.md",
-    "11-03 - intervenante.md",
-    "11/03 - intervenante.md",
-    "11",
-    "Psychologie sociale.md",
-    "Le cas Jonas.md",
-    "7_PhylogeniePrimatesEtDebutArchanthropiens(1).pdf",
-    "Culture et personnalité.md",
-    "Examen blanc - travail.md",
-    "PSYC5867 MOD04-2 PRÉSENTIEL 4.pdf",
-    "Pasted image 20250212224806.png",
-    "Pasted image 20250212224258.png",
-    "Pasted image 20250212222148.png",
-    "Pasted image 20241217215225.png",
-    "Pasted image 20241217215205.png",
-    "Pasted image 20241217215134.png",
-    "Pasted image 20241217212832.png",
-    "Pasted image 20241217113100.png",
+    "25-03 - Arnaud Liégeois.md",
+    "Ecologie 1 - Tagged.pdf",
+    "PCLg 07 Cerv et Lg.pdf",
+    "Questions de philosophie cours 5 Le cas Alain Vigneron 17 mars 2025.pdf",
+    "ArchPaleNeanthropiens.pdf",
+    "PCLg 06 Lang écrit.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

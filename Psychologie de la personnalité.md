@@ -1,3 +1,4 @@
+![[Psycho Perso 24-25-ULiege.pdf]]
 
 La connaissance de la personnalité est utile pour prédire des comportements. Une cohérence nous aide à anticiper et à se rassurer. 
 
@@ -260,5 +261,104 @@ Il observe 3 aspects dans les descriptions:
 Dans les tests de Rorschach, il y a des réponses banales comme une chauve-souris, une mite. Un schizophrène pourrait ajouter des précisions. Dans les "ailes" il y a des trous. Les trous pourraient être de la décomposition.
 Le test de Rorschach sont dits biens pour éviter la "désirabilité sociale". Mais une personne pourrait bien se censurer si ils y voient un truc gore. 
 
-Fidélité: un résultat reste le même (ou au moins cohérent) à travers le temps.
+*Fidélité*: un résultat reste le même (ou au moins cohérent) à travers le temps. 
+*Validité*: Un test fidèle, avec des résultats proches entre eux pourraient cependant ne pas être valides; si j'ai 90kg sur ma balance en permanence alors que je pèse 80kg, la mesure n'est pas valide. La validité critérielle: on veut s'assurer que les critères soient concourants ou prédictifs. La validité du contenu et la validité de ressemblance (les questions semblent être en lien avec l'objectif étudié).
+*Standardisation*: les conditions de test doivent être les mêmes pour tous les groupes, toutes les personnes testées. Les coureurs avec vent de face vs vent de dos, des questions plus difficiles pour un groupe, la cotation est standardisée.
+
+Self-report
+On demande à la personne de rapporter ce que vous faites à travers un envoi de notifications sur le téléphone, une caméra attachée sur la personne etc.
+Si on sait qu'on est observé, on agira potentiellement différemment. Ca semble pourtant influencer davantage la personne en face que celle qui porte la caméra.
+
+## Capture de données numériques
+Sur base de l'empreinte numérique, on peut deviner plein de choses. On sait vite estimer les penchants politiques, l'âge, le genre, l'humeur.
+On peut aussi prendre des mesures comme la distance des pas, le taux de parole, la vitesse de parole etc pour tenter d'inférer sur la personnalité.
+
+### Meilleurs prédicteurs des traits de personnalité
+*Neuroticisme*: Distance parcourue - l'anxiété réduit les comportements, on ira moins loin.
+*Extraversion:* Richesse et régularité des contacts auxquels on texte: Sur 1000 contacts, je ne contacte que 10 personnes.
+*Ouverture*: Temps moyen entre l'envoi et la réception des messages - les personnes plus ouvertes sont des personnes souvent occupées et qui ne se laissent pas distraire. 
+*Conscienciosité*: Régularité des intervals entre deux appels - à cette heure-là, j'envoie un message.
+*Agréabilité:* Richesse et régularité des contacts auxquels on texte 
+
+--- 
+![[Psycho Perso 24-25-ULiege.pdf#page=92]]
+# Les déterminismes de la personnalité
+Hérédité - milieu: inné - acquis.
+
+On pense que si un trouble est génétique, on ne sait rien y changer.
+
+Il faut distinguer une prédisposition génétique d'un déterminisme génétique.
+Pour les prédispositions génétiques par exemple, on peut tenter d'influencer l'environnement pour maintenir la maladie à l'écart.
+
+Hérédité: 
+*Loi de la ségrégation*: les caractères unis dans l'organisme se disjoignent dans les éléments reproducteurs et réapparaissent dans la descendance.
+
+Éditer le génome: 
+On gomme des passages, on sélectionne et on remplace des segments de génomes pour appliquer les changements que l'on désire (CRISPR).
+
+La génétique comportementale étudie les relations entre le génotype et les phénotypes comportementaux.
+Les traits de personnalité sont des phénotypes (expression des gènes) au même titre que les traits physiques.
+
+
+![[Pasted image 20250328141238.png]]
+En génétique, on a l'influence additive A (pourcentage de variance expliqué par une variable sur l'autre). On additionne le poids de chaque variance sur le phénotype. 
+L'influence non-additive (dominant) sont des influences qui ne peuvent pas se cumuler.
+
+Environnement: partagé (C - commun, les personnes sont proches génétiquement, on partage l'environnement commun)
+
+Variance phénotypique 
+
+Les allèles sur un chromosome sont dits additifs lorsqu'on peut simplement additionner les allèles, sans qu'il y ait de prédominance. Un poisson noir et un blanc donnent un gris.
+
+
+![[Pasted image 20250328142417.png]]
+Certains gènes généralistes modulent des scores sur plusieurs traits à la fois mais certains gènes influencent plus un trait que d'autres. Certaines combinaisons de gènes ont des effets spécifiques.
+
+Les jumeaux: peu après la conception, l'oeuf }se divise en deux cellules mais dans certains cas, les deux premieres cellules deviennent indépendantes 
+
+3/1000 jumeaux monozygotes.
+1-2% de jumeaux dizygotes , plus fréquents.
+Il y a 2x plus de ressemblances génétiques chez les monozygotes que chez les dizygotes.
+
+Les jumeaux monozygotes partagent 100% de leurs gènes et généralement un environnement semblable. La différence est qu'ils partagent leur environnement mais pas leurs environnements non-partagés (vie privée, sports individuels, contacts sociaux, etc).
+*==L'environnement non-partagé est ce qui nous influence le plus.==*
+
+
+A: Influence additive
+C: Environnement partagé
+D: Influence non-additive (dominant)
+E: Environnement non-partagé
+
+Le modèle ACE permet d'estimer A, C, et E en postulant que D = 0.
+
+Les jumeaux monozygotes qui se sont séparés se ressemblent fort malgré qu'ils aient été séparé. L'environnement partagé n'a que très peu d'influence.
+
+On serait le même si on avait vécu dans une autre famille avec la condition que tout que qui est non partagé aurait été semblable dans les deux familles. 
+
+
+La génétique influence beaucoup plus la personnalité que l'environnement. L'environnement non partagé formatte fortement la personnalité
+
+Pas d'effet du milieu partagé : 
+1) First Law: All human behavioral traits are heritable
+2) Second Law: The effect of being raised in the same family is smaller dans the effect of genes
+3) Third Law: A substantial portion of the variation in complex human behavioral traits is not accounted for by the effects of genes or families.
+
+Pas d'effet du milieu partagé
+Effet du milieu non partagé
+On ressemble à ses frères et soeurs et à ses parents parce qu'on partage des gènes et non à cause de l'environnement commun.
+Grandir avec un frère ou une soeur ne vous fait pas lui ressembler au delà de ce qui est dû à l'influence génétique.
+
+Mythe 9: Les pratiques parentales sont la principale source des différences de personnalité.
+
+Les environnements non partagés ont la plus grande influence.
+
+Si on veut changer de personnalité, changer notre ouverture, on peut changer d'environnement non-partagé.
+
+40% d'influence génétique
+60% d'influence de l'environnement non-partagé.
+
+Il existe une bonne différence de ressemblance entre les jumeaux identiques (très semblables, même si élevés séparément). Ceci permet de confirmer l'absence d'influence de l'environnement partagés n'ont pas beaucoup d'influence. Cette ressemblance existe mais est moins forte chez des dizygotes. 
+
+Pour le Big Five, on voit que les traits ont une influence de ~40/60% également sur les traits de personnalité. 
+
 

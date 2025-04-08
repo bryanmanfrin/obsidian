@@ -54,4 +54,7 @@ Selon Malinowski,
 - Les membres de ces sociétés n'obéissent pas de manière aveugle à la tradition. 
 - C'est la publicité du crime et non le crime lui-même qui entraine le châtiment.  
 
+Pour Becker (sociologie de la déviance), le crime ne doit *pas* être compris *seulement* à travers *la psychopathologie du criminel*. Becker suggère qu'il faut prendre en compte la manière dont la *société criminalise le comportement*. Dans l'Amérique de 1930, l'homosexualité était criminalisée.
+
+
 

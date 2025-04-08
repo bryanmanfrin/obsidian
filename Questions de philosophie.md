@@ -4,6 +4,11 @@
 [[Sigmund Freud#Philosophie|Vue philosophique de Freud]]
 [[Le cas Jonas]]
 [[Le cas Alain Vigneron]]
+[[Claude Levi-Strauss]]
+[[Françoise Héritier]]
+[[La méthode Foucault - Le cas Maximilien et les dispositifs]]
+
+[[Récap philo]]
 
 ## La réfutabilité selon Karl Poppers
 

@@ -9,6 +9,12 @@ Johanne (super présentation)
 [[Florence Helleboudt (ASH et SSE)]]
 [[Céline Mathy - Service des affaires étudiantes]]
 [[11-03 - intervenante]]
+[[25-03 - Sandrine CONRADT]]
+**[[25-03 - Laura Lentini]]** ~ mon projet
+[[25-03 - Arnaud Liégeois]]
+[[01-04 - chercheuses]]
+[[01-04 - neuropsychologie]]
+[[08-03 - Marie Périn Psychologue]]
 
 # Devoirs
 [[Devoir 3 - Analyse réflexive sur le métier d'étudiant]]

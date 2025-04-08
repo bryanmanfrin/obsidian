@@ -10,6 +10,7 @@
 [[PPR en psychologie de la personnalité]]
 
 [[Chapitre 5 - Psychopharmacologie chez l'Homme]]
+[[Module 7 - Devis expérimentaux]]
 
 
 Concepts centraux

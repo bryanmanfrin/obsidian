@@ -2,3 +2,5 @@
 [[La diffusion]]
 [[Culture et personnalité]]
 [[Le prestige]]
+[[Le conflit]]
+[[Le Rhodes Livingstone Institute]]

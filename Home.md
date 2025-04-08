@@ -1,4 +1,4 @@
-
+# [[Perso]]
 > [!info]+ BAC 1 - Q1
 > ## [[Eléments Biologie]] 🦠
 > ## [[Eléments de sociologie]] ![[Pasted image 20240919142245.png|60]]
