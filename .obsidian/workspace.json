@@ -94,6 +94,19 @@
             }
           },
           {
+            "id": "d60d6cce97a0322a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
             "id": "22027ad6bbe9a33f",
             "type": "leaf",
             "pinned": true,
@@ -194,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -260,7 +273,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "08-03 - Marie Périn Psychologue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,7 +300,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 08-03 - Marie Périn Psychologue"
+              "title": "Graph view"
             }
           }
         ]
@@ -339,13 +351,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08-03 - Marie Périn Psychologue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 08-03 - Marie Périn Psychologue"
+              "title": "Outline"
             }
           },
           {
@@ -372,7 +383,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-03 - Marie Périn Psychologue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -382,7 +392,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 08-03 - Marie Périn Psychologue"
+              "title": "Backlinks"
             }
           }
         ]
@@ -421,9 +431,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "291ca3e021573c5f",
+  "active": "d60d6cce97a0322a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "08-03 - Marie Périn Psychologue.md",
+    "Podcast 1 - Psychologie expérimentale et méthode scientifique.md",
     "Développement professionnel.md",
     "Psychologie sociale.md",
     "Récap philo.md",
@@ -462,8 +474,6 @@
     "Module 7 - Devis expérimentaux.md",
     "Phases et étapes de la démarche de recherche scientifique.md",
     "PSYC5867 Module 7 - Devis expérimentaux (Présentiel).pdf",
-    "Fondements méthodologiques.md",
-    "25-03 - Arnaud Liégeois.md",
     "Ecologie 1 - Tagged.pdf",
     "PCLg 07 Cerv et Lg.pdf",
     "Questions de philosophie cours 5 Le cas Alain Vigneron 17 mars 2025.pdf",
