@@ -50,5 +50,4 @@ On a l'impression qu'un gradient existe entre les différentes bandes alors que 
 
 
 
-
-
+![[Cours 04A_Illusions visuelles_web - Tagged.pdf]]

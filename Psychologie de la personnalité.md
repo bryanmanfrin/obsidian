@@ -324,16 +324,36 @@ Les jumeaux monozygotes partagent 100% de leurs gènes et généralement un envi
 *==L'environnement non-partagé est ce qui nous influence le plus.==*
 
 
-A: Influence additive
-C: Environnement partagé
+A: Influence additive (1 pour les monozygotes, 0,5 pour les autres)
+C: Environnement partagé 
 D: Influence non-additive (dominant)
 E: Environnement non-partagé
+
+a² + b² + c² = 1
+e = 1 - a² - c² (corrélation des monozygotes. Si corrélation des monozygotes)
 
 Le modèle ACE permet d'estimer A, C, et E en postulant que D = 0.
 
 Les jumeaux monozygotes qui se sont séparés se ressemblent fort malgré qu'ils aient été séparé. L'environnement partagé n'a que très peu d'influence.
 
 On serait le même si on avait vécu dans une autre famille avec la condition que tout que qui est non partagé aurait été semblable dans les deux familles. 
+
+Corrélation génome - environnement
+Inné de l'acquis: dès nos premiers jours, en fonction de notre personnalité influencée par les gènes, nos actions sur l'environnement seront différentes (certain vont à gauche, d'autres vont à droite). On a des degrés de liberté plus ou moins grands en fonction des gènes; nous créons nos expériences sur base de notre hérédité. 
+
+De nombreuses mesures environnementales sont influencées par des facteurs génétiques: 25% en moyenne (divorce, soutien social, temps passé devant les écrans, accidents de la route).
+Même si ces évènements ne semblent pas liés à l'hérédité.
+
+Si les jumeaux monozygotes divorcent plus souvent que des dizygotes, il y a une explication génétique.
+
+Les accidents de la route: personnes qui roulent vite, sous substance ou alors audacieuses. Recherche de sensations, prises de risques, impulsivité sont expliqués par la génétique. Les accidents de la route sont donc indirectement expliqués par la génétique (25% d'influence génétique).
+
+Les relations à l'environnement:
+- passive: l'individu est exposé passivement à un environnement corrélé avec leurs dispositions (je suis à proximité d'un terrain de tennis, j'ai l'argent pour le faire, ...)
+- évocatrice: les individus évoquent chez d'autres personnes des réactions d'après leurs dispositions génétiques - on est affectueux et attentif à un enfant sociable.
+- active: l'individu cherche lui-même des environnements qui lui permettront de se réaliser.
+
+
 
 
 La génétique influence beaucoup plus la personnalité que l'environnement. L'environnement non partagé formatte fortement la personnalité
@@ -355,10 +375,33 @@ Les environnements non partagés ont la plus grande influence.
 Si on veut changer de personnalité, changer notre ouverture, on peut changer d'environnement non-partagé.
 
 40% d'influence génétique
-60% d'influence de l'environnement non-partagé.
+60% d'influence de l'environnement (10% non-partagé, 50% de l'environnement partagé).
 
 Il existe une bonne différence de ressemblance entre les jumeaux identiques (très semblables, même si élevés séparément). Ceci permet de confirmer l'absence d'influence de l'environnement partagés n'ont pas beaucoup d'influence. Cette ressemblance existe mais est moins forte chez des dizygotes. 
 
 Pour le Big Five, on voit que les traits ont une influence de ~40/60% également sur les traits de personnalité. 
 
+**hérédité**: on hérite des gènes de ses parents (on a tous 10 doigts)
+**héritabilité**: calcul statistique déterminant la proportion de la variance d'un trait de personnalité. Permet de quantifier la part attribuable à l'environnement et la part attribuable à la génétique. Proportion de la variation phénotypique expliquée par la variation génétique. La diversité phénotypique de doigts n'est pas expliquée par l'héritabilité (héritabilité proche de 0) mais par l'environnement. Tout le monde a 10 doigts sauf les menuisiers. 
 
+Ce qui est vrai avec la personnalité est aussi vrai avec les traites physiques. ~50% des traits physiques sont explicables par les gènes.
+
+Parents/enfants: corrélation très faible dans les traits de personnalité. On partage pourtant l'environnement (env. partagé), on partage les gènes et pourtant on est très différents! Encore une preuve que les différences viennent de ce que l'on ne partage pas (env. non-partagé). #tuyau
+
+Antécédents familiaux de troubles dépressifs ou schizophréniques augmente juste la probabilité que la maladie apparaisse.
+
+Schizophrénie:
+- délires/hallucinations: visions, parlent à des gens qui n'existent pas
+- retrait social, maladresse interactionnelle, langage étrange, perturbation cognitive (1% de prévalence dans le monde, traitements peu efficaces).
+- apparait ~18-20 ans, assez imprévisible dans l'apparition.
+- apparait souvent à cause de l'utilisation de substances
+Causes avancées par des psy il ya  des décennies. Relations précoces mère-enfant désastreuses
+
+9% si des parents au premier degré sont affectés
+4% si des parents au second degré sont affectés
+
+Grandir dans la même maison a très peu d'influence sur la personnalité. 
+
+Conclusions: 
+- L'environnement partagé n'est pas important
+- La génétique change notre manière de voir l'environnement

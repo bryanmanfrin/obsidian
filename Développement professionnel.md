@@ -15,9 +15,11 @@ Johanne (super présentation)
 [[01-04 - chercheuses]]
 [[01-04 - neuropsychologie]]
 [[08-03 - Marie Périn Psychologue]]
+[[08-03 - Psychologie du sport]]
 
 # Devoirs
 [[Devoir 3 - Analyse réflexive sur le métier d'étudiant]]
+[[Devoir 4 - DPATR Initiation à la recherche]]
 
 
 ![[Marie Barbier - psychologie sociale]]

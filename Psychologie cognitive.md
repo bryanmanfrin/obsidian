@@ -5,6 +5,7 @@
 [[Chapitre 6 - Développement du langage écrit]]
 [[Chapitre 7 - Langage et cerveau]]
 [[Chapitre 8 - La perception]]
+[[Chapitre 09 - Patterns, objets et visages]]
 
 Etude scientifique de l'esprit, comment on prend connaissance du monde, comment on le perçoit.
 Etude des processus mentaux qui permet de comprendre comment les choses prennent place.

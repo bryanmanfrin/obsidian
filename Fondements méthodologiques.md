@@ -11,6 +11,7 @@
 
 [[Chapitre 5 - Psychopharmacologie chez l'Homme]]
 [[Module 7 - Devis expérimentaux]]
+[[Module 8 - PPR en psychologie sociale, du travail et des organisations]]
 
 
 [[Podcast 1 - Psychologie expérimentale et méthode scientifique]]

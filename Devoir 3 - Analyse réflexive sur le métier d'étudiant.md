@@ -44,6 +44,10 @@ Pour la planification, je fais une attribution interne sur laquelle j'ai le cont
 # Analyser
 > Si la section précédente décrivait la problématique de façon générale, celle-ci permet de rentrer dans les détails de chaque point soulevé. On peut les observer sous l'angle des attributions causales.
 
+
+REFLEXION
+
+
 *Est-ce que mon auto-évaluation est optimale ?*
 *Quel est mon bilan d’attributions causales ?*  
 *Dans quel profil me situé-je ?*  
@@ -54,6 +58,8 @@ Pour la planification, je fais une attribution interne sur laquelle j'ai le cont
 
 # Théoriser
 >Sur base des éléments analysés, on formalise l'analyse en une théorie applicable qui pourrait servir de guide pour mieux aborder la situation la prochaine fois.
+
+RESUME
 
 *Attention, cette « théorie » doit être communicable à un autre étudiant*
 *Attention, cette « théorie » doit être transférable à un autre contexte, donc à une autre*  
