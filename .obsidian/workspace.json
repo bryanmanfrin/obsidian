@@ -4,262 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "593bc21279f4a201",
+        "id": "9bfedc3e9fafc74d",
         "type": "tabs",
         "children": [
           {
-            "id": "e90c9fc33775f426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fondements méthodologiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fondements méthodologiques"
-            }
-          },
-          {
-            "id": "c55ed97e392c3553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie"
-            }
-          },
-          {
-            "id": "c23bb4210d937dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La diffusion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La diffusion"
-            }
-          },
-          {
-            "id": "86a4ba9c5654a57e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie cognitive.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychologie cognitive"
-            }
-          },
-          {
-            "id": "e6ff2560baed4076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie biologique"
-            }
-          },
-          {
-            "id": "485cae789807ef68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie biologique"
-            }
-          },
-          {
-            "id": "ba1b9d2a9e475dd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Franz Boas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Franz Boas"
-            }
-          },
-          {
-            "id": "d76a5fb37473b039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie biologique"
-            }
-          },
-          {
-            "id": "3c40aa755ed4d9d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evolution des organismes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evolution des organismes"
-            }
-          },
-          {
-            "id": "50196c7da4bfe51d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie biologique"
-            }
-          },
-          {
-            "id": "32982f992a31f3d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement professionnel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Développement professionnel"
-            }
-          },
-          {
-            "id": "efc35fa4910f465f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Céline Mathy - Service des affaires étudiantes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Céline Mathy - Service des affaires étudiantes"
-            }
-          },
-          {
-            "id": "92b6c9118923f47c",
+            "id": "60b249f89f3da711",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
+                "file": "Pasted image 20250303113308.png",
+                "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "4dce3947a11487fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Florence Helleboudt (ASH et SSE).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Florence Helleboudt (ASH et SSE)"
-            }
-          },
-          {
-            "id": "afcc5a3c79c59c50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "d2cf93e74e8891da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evolution des organismes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evolution des organismes"
-            }
-          },
-          {
-            "id": "11e136edd95823bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Historique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Historique"
-            }
-          },
-          {
-            "id": "20d3c3f161eeb43f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recherche expérimentale - 1 méthode de recherche et outils de collecte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recherche expérimentale - 1 méthode de recherche et outils de collecte"
+              "title": "Diff View (Pasted image 20250303113308.png)"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -477,13 +238,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92b6c9118923f47c",
+  "active": "60b249f89f3da711",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Home.md",
+    "Stéréotypes, préjugés & discrimination \"explicites\" et hostiles.md",
+    "Pasted image 20250303115415.png",
+    "Pasted image 20250303115112.png",
+    "Pasted image 20250303113308.png",
+    "Psychologie sociale.md",
     "Céline Mathy - Service des affaires étudiantes.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20250212224806.png",
     "Pasted image 20250212224258.png",
     "Pasted image 20250212222148.png",
@@ -502,25 +270,18 @@
     "La diffusion.md",
     "Psychologie du travail et des organisations.md",
     "Evolution des organismes.md",
-    "Home.md",
     "2 - Historique.md",
     "Culture.md",
     "Éthique en recherche.md",
     "Fondements méthodologiques.md",
     "Recherche expérimentale - 1 méthode de recherche et outils de collecte.md",
-    "Sociologie - Révisions.md",
-    "Recherche corrélationnelle - 1 méthode de recherche et outils de collecte.md",
-    "Recherche descriptive - 3 méthodes de recherche associées et outils de collecte.md",
     "Evolorganismes - Tagged.pdf",
     "OrigineVie.pptx",
     "Pasted image 20241217215225.png",
     "Pasted image 20241217215205.png",
     "Pasted image 20241217215134.png",
     "Pasted image 20241217212832.png",
-    "Pasted image 20241217113100.png",
-    "Pasted image 20241217112949.png",
     "PCLg 02 Lang Hum.pdf",
-    "Pasted image 20250213094536.png",
     "02_Mvtsorga (partim1)_13022025.pdf",
     "002_Syll-Ch2_Mouvements organisationnels.pdf",
     "PSYC5867 MOD01 PRESENTIEL 1.2.pdf",

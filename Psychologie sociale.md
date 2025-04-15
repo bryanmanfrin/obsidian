@@ -1,3 +1,5 @@
+[[Stéréotypes, préjugés & discrimination "explicites" et hostiles]]
+
 **La Gestalt**: Etude de la perception visuelle. Un même objet dans deux contexts différents ne sera pas perçu de la même manière.
 
 # Auteurs
