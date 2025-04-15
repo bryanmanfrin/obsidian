@@ -30,8 +30,8 @@ Il faut penser l'acte avec le milieu dans lequel il a été produit et le penser
 Ces 2 mouvements contradictoires proviennent d'une même scène, d'une même chorégraphie existentielle et sont indissociables. L'expérience de sa liberté est en tension; il veut se retrouver plus que s'affranchir de son milieu. 
 "Est-ce que Jonas expérimente sa liberté en récupérant la possibilité de s'ajuster, se situer dans son milieu (1) ou en faisant des écarts pour s'en affranchir (2)?" Cette question nous piège car il nous faut les deux. Être consistant (1) doit inclure, requiert la possibilité d'un écart (2) envers la société.
 
-
-Le moment du coup de feu ne peut pas être réduit à la rupture avec le moment partagé; son utilité dans la vie psychique de Jonas n'est pas de rompre avec qq chose mais c'est le moyen de retrouvailles avec son territoire. Le choc est une technique radicale pour se réancrer. 
+==Le geste du coup de feu est une tentative de réancrage. Souffre d'une dépersonnalisation mélancolique; il joue tellement son rôle qu'il n'a plus de place pour lui-même. Il brise cet idéal de conformité.== => ==**Rébellion**==
+Le moment du coup de feu ==ne peut pas être réduit à la rupture== avec le moment partagé; son utilité dans la vie psychique de Jonas n'est pas de rompre avec qq chose mais c'est le moyen de retrouvailles avec son territoire, retrouver son corps. Le choc est une technique radicale pour se réancrer.  => **==Tentative de reconnexion avec son corps.==**
 Jonas semble souffrir de dépersonnalisation mélancolique d'après les auteurs de "Mélancholie". L'adaptation trop grande de Jonas aux règles sociales. Parfaitement ajusté aux comportements attendus. Pour être aussi dans les clous, il doit aussi simplifier les choses. Jonas ne supporte pas la contradiction, l'ambigu. Réduit les individus à leur rôle dans le tissus social, impliquant une rigidité dans son rapport à la vie collective. Il a lui-même son rôle très défini et cadré au service de sa mère. 
 ==La mélancolie est un état de profonde désynchronisation.== Le mélancolique souffre d'être prisonnier d'une comédie sociale effondrée, dans laquelle les normes semblent tourner à vide.
 L'état mélancolique est un hiatus qui nous sépare des échanges qui composent la vie collective. 
@@ -47,7 +47,7 @@ Reconnexion par le choc.
 
 Chaque société a les sociétés ou les déviants qu'elle mérite. Même les cas extrêmes seraient modélisés par les attendus sociaux. Les manières de dérailler son en partie prescrites par le jeu social qui nous enserre. 
 
-L'amok
+**L'amok**
 Décrit un comportement meurtrier, suicidaire observé en Malaisie puis repris dans une nouvelle. Comportement empreint de folie, qui consiste à sortir de chez soi et de vouloir poignarder tous ceux qu'ils croisent avant de vouloir se donner la mort.
 L'amok serait l'expression d'une liberté qui cherche à se décoincer par le choc. On y repère une forte dimension d'impuissance. Réponse d'un besoin de s'intégrer par l'inconduite (paradoxe). On sent qu'il y a des points d'adhérence dans ces écarts; on peut se demander si ils ne cherchent pas à s'intégrer en se conduisant mal.
 Comment ces inconduites seraient prescrites par la société? L'amok se manifeste dans la violence de la dépersonnalisation et du narcissisme social qu'elle cherche à conjurer. 

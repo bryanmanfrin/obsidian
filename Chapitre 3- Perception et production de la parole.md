@@ -58,4 +58,9 @@ Bruit de frottement. Le "vvvvv" et le "ffffff". "vvvv" produit plus de vibration
 
 
 # Combinaison de phonèmes
+Les combinaisons respectent des règles spécifiques à une langue = règles phonotactiques.
+Exemple: en début de syllables, on ne peut pas trouver de t+l, d+l, etc
+
+
 # L'alphabet phonétique international pour les sons du français
+Voir dia

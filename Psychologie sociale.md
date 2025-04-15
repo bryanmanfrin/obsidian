@@ -134,8 +134,67 @@ Les enfants naissent avec une prédisposition à tenir compte du contexte. La cu
 Par contre, dans les cultures collectivistes utiliseront des explications dispositionnelles, individuelles pour expliquer des divergences envers des **groupes**.
 
 
+# Les stéréotypes du côté de la cible
+## Le rôle social et la menace du stéréotype
+Le rôle social est celui qu'on se voit attribuer par les autres selon les groupes auxquels on appartient, créant des attentes envers nous.
+
+Certaines caractéristiques extérieures supplémentaires peuvent accentuer le degré auquel on va attribuer les traits liés au stéréotype. 
+**Hypodescendance**: assignation d'un enfant métis au groupe marginalisé d'un parent plutôt qu'au groupe privilégié de son autre parent => mère blanche, père noir, on dira que l'enfant a un statut plutôt noir.
+
+Plus on est associé à une stéréotype, plus on a de chances de subir les influences liés au stéréotype. 
+Un noir bien noir (peau plus foncée, grosses lèvres) cumule les traits associés aux noirs. 57.5% de chance d'obtenir la peine de mort si il a tué un blanc. 24.5% pour les "noirs" plutôt métisses. 
+Si la victime est noire, il y n'y aura plus de différences entre les peines appliquées (~45% de peine de mort).
+
+100 criminels blancs, 100 noirs, ils sont tous plus ou moins blancs, plus ou moins noirs.
+Plus les individus possèdent des caractéristiques "**==noires==**", plus il reçoit une lourde peine, que la personne soit noire ou blanche.
+
+"*Est-ce que c'est pareil si le juge est noir?*" Moi je suis victime de ce racisme/de ce sexisme, donc je ne vais pas utiliser ce racisme/je ne suis pas sexiste. "Si je suis victime de quelque chose, je ne vais pas le reproduire" => FAUX. 
+Etre soi-même membre de la catégorie cible n'empêche pas la cible d'utiliser les stéréotypes dont elle est victime. 
+
+*=="Sommes-nous tous et toutes sexistes?"==*
+98% des femmes disent avoir été victimes de harcèlement dans les rues et transports en commun. 
+Une étude dans la communauté européenne indique que ~50% des femmes ont vécu du harcèlement dans leur vie professionnelle.
+Selon comment on pose la question, on aura des résultats très différents. 
+
+Il y a une loi bien-être
+loi genre
+loi sexisme
+loi cyberharcèlement
+
+Il y a d'autres phénomènes de sexisme comme les inégalités de salaire.  L'effet plafond de verre indique comment les femmes sont bloquées dans leur progression salariale.
+
+**L'effet du sexisme (d=-0.26) est plus important que l'effet du racisme (d=0.17) dans les entreprises.**
+
+"On est haut sur une dimension mais bas sur une autre." Cette conception créé un système de compensation créant une dépendance envers l'autre. 
+**==Spécialisation genrée==**: Il faut protéger les femmes tandis qu'elles possèdent des qualités sociales, esthétiques, nourricières que les hommes n'ont pas.
+
+On s'est demandé comme les H et F se définissaient eux-mêmes sur la sociabilité. 
+Plus le pays est égalitaire, moins le gens se considèrent comme chaleureux. L'écart grandit là ou le pays est le plus objectivement égalitaire. Plus on combat le sexisme, plus il apparait. Sans intervention majeure pour dénoncer le sexisme, il aura disparu dans 131 ans. 
+
+Le sexisme ordinaire, les femmes y adhèrent autant que les hommes. Dans une 20aine de pays, on a mesuré l'adhésion au sexisme. Les femmes adhèrent autant que les hommes au sexisme, parfois même un peu plus.
+Marx a dit que l'idéologie fonctionne quand le groupe dominant arrive à faire croire que ce qui est fait au groupe dominé est fait pour son bien. 
+
+Le prof dans une de ses études a demandé à des femmes qui recherchaient un emploi, des étudiantes en psycho, des étudiantes en médecine, mathématique. On les a divisé en 3 groupes avec des simulations d'entretien.
+On leur demande de réussir un test de déduction assez compliqué. Dans une grille de 4x4, un bateau doit arriver de l'autre côté de la grille, avec du vent, du courant. Hommes et femmes on généralement le même résultat. 
+Un premier groupe n'avait pas d'instructions sexistes.
+Un des groupes de femmes a eu une consigne du genre "les femmes, vous êtes facilement bouleversées, vous exagérez les problèmes, vous n'êtes jamais contentes."
+Dans un 3ème cas, on se montrait sympa mais sexiste ordinaire. "Vous avez plus de gouts et de moralité, n'ayez pas peur ils vont vous aider, vous accorderont du temps, ..."
+
+On leur demande si elles ont perçu un sexisme durant l'entretien. Dans le sexisme ordinaire, il n'a pas du tout été perçu, même moins que dans la condition neutre.
+
+***==Leurs performances va être grandement diminuée dans un contexte de sexisme ordinaire avec la plus grosse diminution.==***
+
+Si les femmes se rebellent, la première chose qui vient à l'esprit c'est "t'es mal baisée, t'as tes règles"?
+
+
+Ils ont observé dans des firmes d'avocats que les évaluations de femmes étaient plus positives dans l'utilisation des mots mais la note en nombre d'étoiles reste moins grande. Les hommes auront plutôt de  meilleures notes malgré des messages moins élogieux. Les hommes auront donc les promotions car elles sont basées sur les notes.
 
 
 
+# Tashfeld
+Une expérience qui créé deux groupes parmi des élèves en fonction d'une préférence pour un tableau (préférence risible). Lorsqu'on indique à une personne qu'elle fait partie du groupe préférant le tableau A (Klee) puis qu'on lui demande de rémunérer les deux groupes, on voit apparaitre une préférence envers son groupe.
+Une personne appartenant à un groupe préférera moins se rémunérer tant qu'une perte vient avec la garantie de rester mieux payé que l'autre groupe. **==Augmenter sa propre paie n'est tolérable que si la paie de l'autre ne dépasse pas la nôtre.==**
 
+On a une représentation beaucoup plus complexe de notre groupe que personnes d'un autre groupe. "Les autres se ressemblent beaucoup plus que ceux de notre groupe."
 
+La théorie intégrée de la menace

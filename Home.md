@@ -1,4 +1,4 @@
-
+# [[Perso]]
 > [!info]+ BAC 1 - Q1
 > ## [[Eléments Biologie]] 🦠
 > ## [[Eléments de sociologie]] ![[Pasted image 20240919142245.png|60]]
@@ -11,6 +11,7 @@
 > ## [[Anglais]]
 > ## [[Méthodo - Prise de notes]]
 
+[[Green office de l'unif]]
 
 ## [[Questions de philosophie]]
 ## [[Psychologie sociale]]
@@ -19,7 +20,7 @@
 ## [[Fondements méthodologiques]]
 ## [[Psychologie cognitive]]
 
-[[Anthropologie]]
+## [[Anthropologie]]
 ## [[Anthropologie biologique]]
 ## [[Psychologie de la personnalité]]
 ## [[Psychologie du travail et des organisations]]
