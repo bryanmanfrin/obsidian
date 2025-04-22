@@ -71,33 +71,34 @@ Ce changement était compris comme une source de désordre psychologique et soci
 
 Les nouvelles aspirations (grèves, cultes religieux) étaient considérés comme le résultat d’une pathologie liée à la perte d’identité.
 
-Gluckman et ses collègues ont arrêté de considérer la ville et le village comme deux cultures distinctes. En migrant du village vers la ville, les travailleurs ne perdent pas leur culture mais ils adaptent leurs comportements et apprennent un nouveau rôle. Ils réinventent leur culture. Ils rejettent l'idée du désordre psychologique et social
+Gluckman et ses collègues ont arrêté de considérer la ville et le village comme deux cultures distinctes. En migrant du village vers la ville, les travailleurs ne perdent pas leur culture mais ils adaptent leurs comportements et apprennent un nouveau rôle. Ils réinventent leur culture. Ils rejettent l'idée du désordre psychologique et social.
+
+*Les villageois ne perdent pas leur culture en rejoignant la ville mais réinvente sa culture dans un nouveau contexte.* 
 
 ## 3.1. La danse Kalela ( ! lire le dossier de lecture ! )
 Cet article s’inspire directement du texte The Bridge de Gluckman et utilise
 une analyse situationnelle. Mitchell essaye de mieux comprendre la
 situation grâce à la structure sociale de la ville. Il recourt à des
-questionnaires et des enquêtes quantitatives. Il y a une double structure en
-termes de classes sociales et d’appartenance tribale. Il y a un paradoxe dans
-son analyse : les danses sont à la fois tribales et urbaines.
+questionnaires et des enquêtes quantitatives. 
+Il y a une double structure en termes de *classes sociales* et d’*appartenance tribale*. Il y a un paradoxe dans son analyse : *les danses sont à la fois tribales et urbaines.*
+*La danse Kalela n'est pas une danse traditionnelle mais résulte* 
+
+
 
 Elles sont tribales car les danseurs appartiennent à une même tribu. Dans leurs chansons, ils font l’éloge de leur tribu. En même temps, cette danse est urbaine car les vêtements ne sont pas traditionnels. Les danseurs attachent une certaine importance à leurs vêtements. Ils ne chantent pas dans leur langue mais dans une langue véhiculaire propre au monde urbain colonial. La troupe n’est pas dirigée par un chef mais on donne des titres coloniaux aux membres de la troupe (médecin, infirmier...). Ils évoquent aussi les problèmes de la vie urbaine.
 
-Mitchell décide de revenir sur les sources de cette danse. Les danses ne sont pas tribales et traditionnelles. Ce sont des danses qui se développent à partir du début du 20e et qui sont apparues au début de la rencontre coloniale. Pour comprendre sa forme, il faut la replacer dans son contexte. Le premier principe de hiérarchie chez ces citadins, c’est celle des emplois. Le style de vie se caractérise par les vêtements, où on sort, comment on décore sa maison... Les danseurs appartiennent systématiquement aux couches les plus défavorisées des villes urbaines coloniales et sont donc les moins enclins à développer un style de vie européen.
+Mitchell décide de revenir sur les sources de cette danse. Les danses ne sont pas tribales et traditionnelles. Ce sont des danses qui se développent à partir du début du 20e et qui sont apparues au début de la rencontre coloniale. Pour comprendre sa forme, il faut la replacer dans son contexte. Le premier principe de hiérarchie chez ces citadins, c’est celle des emplois. Le style de vie européen se caractérise par les vêtements, où on sort, comment on décore sa maison... Les danseurs appartiennent systématiquement aux couches les plus défavorisées des villes urbaines coloniales et sont donc les moins enclins à développer un style de vie européen.
 
 La danse n’a pas le but de se moquer de la colonisation mais exprime un
 désir de participer à la modernité urbaine. Ils ne s’identifient pas aux blancs
 mais aux couches les plus favorisées de la société africaine. Il s’agit d’une
-danse tribale mais l’identité exprimée n’est pas du tout la même que celle
+danse tribale mais l’identité exprimée n’est pas du tout la même que l'identité tribale
 exprimée en milieu rural.
 
-La tribu ne constitue pas une structure sociale. Le pouvoir des chefs n’a pas
-beaucoup d’importance en milieu urbain. L’appartenance tribale relève ici
-d’une catégorie d’interaction qui opère de manière situationnelle. On recourt
-
- 57
+La tribu en ville ne constitue pas une structure sociale traditionnelle, au village. 
+Le pouvoir des chefs n’a pas beaucoup d’importance en milieu urbain. L’appartenance tribale relève ici d’une catégorie d’interaction qui opère de manière situationnelle. On recourt
 à des catégories d’appartenance tribale mais ne sont pas les mêmes que l’on
-utilise ne milieu rural : elles sont plus larges (super-tribalisme urbain)
+utilise ne milieu rural : elles sont plus larges (super-tribalisme urbain). On ne se désigne pas d'une ethnie particulière mais les catégories en ville sont plus larges et englobent différentes identités ethniques qui ne sont pertinentes qu'en milieu rural. 
 
 Les rapports sociaux entre citoyens africains sont sous-tendus par des
 variation de classes (style de vie) dont l’importance va varier en fonction des
@@ -142,15 +143,14 @@ urbain.
 3.3.1.Turner
 Dans le livre de Victor Turner, Schism and continuity in an African Society, on
 est dans la Rhodésie du nord. Il s’agit d’une ethnographie rurale classique.
-Elle est comparable à celles du RLI.
+Elle est comparable à celles du RLI. Il observe le conflit du point de vue structuro-fonctionnaliste.
 
- 59
+
 Il peut y avoir des conflits entre normes (par exemple, filiation matrilinéaire
 et mariage virilocal). Des normes vont pousser le matriclan à faire revenir la
-femme dans son village et donc à se séparer de son mari.
+femme et ses enfants dans son village et donc à se séparer de son mari.
 
-Il y a très souvent des conflits dans les villages et cela crée de nouveaux
-petits villages. La mémoire généalogique est assez faible.
+Il y a très souvent des conflits dans les villages qui se décomposent et se recomposent, créant de nouveaux petits villages. La mémoire généalogique est assez faible.
 
 Les conflits (drames) sociaux présentent plusieurs phases temporelles :
 - Rupture d’une norme (infraction ou conflit avec une autre norme)
@@ -159,32 +159,16 @@ Les conflits (drames) sociaux présentent plusieurs phases temporelles :
 - Réintégration (sous la même forme ou forme nouvelle) ou schisme
 (séparation entre les groupes sociaux).
 
-Dans une approche structuro-fonctionnaliste, Turner s’intéresse au
-redressement. Il met en évidence que ces mécanismes ne sont pas les
-mêmes en fonction de la cause du conflit. Un processus de médiation est
-mis en place. Lors de conflits entre différentes normes, on développe des
-rituels religieux concernant des groupes plus larges.
+Dans une approche structuro-fonctionnaliste, Turner s’intéresse au redressement. Il met en évidence que ces mécanismes ne sont pas les mêmes en fonction de la cause du conflit. Un processus de médiation est mis en place pour tenter de réintégrer les personnes en conflit. 
+Lors de conflits entre différentes normes, on développe des rituels religieux concernant des groupes plus larges.
 
 Ces mécanismes remplissent une fonction dans la structure sociale. On
 peut penser les conflits dans la société humaine sous forme de drames
 sociaux présentant différentes séquences. L’analyse de ces drames sociaux
-a conduit Turner à développer une réflexion originale en terme de
-
- 60
-communitas (liens sociaux unissant les individus au-delà de la structure
-sociale (contre-structure), liens de solidarités non-hiérarchiques
-transcendant les différences).
+a conduit Turner à développer une réflexion originale en terme de communitas (liens sociaux unissant les individus au-delà de la structure sociale (contre-structure), liens de solidarités non-hiérarchiques ranscendant les différences).
 
 3.3.2.La liminarité et Van Gennep
-La liminarité est un rite de passage (rite opérant le passage d’un statut à un
-autre (naissances, initiation, mariage, mort...) ayant un eKet performatif (le
-rite fait passer l’individu d’un statut à l’autre)). Selon Van Gennep, il y a 3
-phases dans les rites d’initiation : séparation, marge, agrégation. La phase
-qui intéresse les deux chercheurs est la phase de marge (liminaire). Les
-enfants sont nés mais ne sont pas encore considérés comme appartenant à
-la société... Cette phase est caractérisée par le danger (pour eux-mêmes ou
-pour les autres). C’est pour cela qu’on isole les individus qui sont dans un
-rite de passage.
+La liminarité représente le moment où l'on se trouve entre 2 status et se retrouve dans les rites de passage (rite opérant le passage d’un statut à un autre (naissances, initiation, mariage, mort...) ayant un effet performatif (le rite fait passer l’individu d’un statut à l’autre)). Selon Van Gennep, il y a 3 phases dans les rites d’initiation : séparation, marge, agrégation. La phase qui intéresse les deux chercheurs est la phase de marge (liminaire). Les enfants sont nés mais ne sont pas encore considérés comme appartenant à la société... Cette phase est caractérisée par le danger (pour eux-mêmes ou pour les autres). C’est pour cela qu’on isole les individus qui sont dans un rite de passage.
 
 Turner s’inspire de Van Gennep et donne une approche plus sociologique.
 Les personnes en période de marge sont dans un état d’indistinction sociale
@@ -196,7 +180,7 @@ en lambeaux (vêtement féminin). Il doit s’isoler dans un « espace de mort �
 Il est trainé devant ses futurs sujets pour faire l’objet d’insultes. Celui qui
 aspire à un certain statut doit faire l’expérience de la condition humaine.
 
- 61
+
 
 Les sociétés humaines sont travaillées par deux modes :
 - Structure (hiérarchie, classification, distinction)
@@ -236,21 +220,22 @@ l’autonomie relative des systèmes symboliques. On observe deux
 approches à la fin 1950 : approche culturelle (Geertz, couches de
 signification) et approche sociologique (Gluckman, structure sociale).
 
-Le RLI a déplacé l’analyse SF d’une focale sur les règles à une focale sur les
-processus. Ils apportent une double contribution méthodologique et
+Geertz: veut dégager des significations des pratiques. anthropologie interculturelle
+Gluckman
+
+Le RLI a déplacé l’analyse structuro-fonctionnaliste d’une focale sur les règles et structures à une focale sur les processus. Ils apportent une double contribution méthodologique et
 théorique en utilisant l’étude de cas étendu (comprendre un processus au
 moyen d’un cas particulier). Les règles sociales sont en train d’être
-travaillées. On s’intéresse plus à des changements qu’à des processus
-sociaux.
+travaillées. On s’intéresse plus à ==des changements qu’à des processus
+sociaux.==
 
-Ces chercheurs nous invitent à prendre une société comme dans un
+Ces chercheurs nous invitent à comprendre une société dans un
 contexte de colonisation ou de globalisation (changements sociaux
-importants). Nous pouvons comprendre l’immigration contemporaine (pas
-de besoin de prendre l’origine du migrant mais prendre la position du migrant
+importants). Nous pouvons comprendre l’immigration contemporaine village/ville (pas
+de besoin de réduire le migrant à son origine ou sa culture mais prendre la position du migrant
 dans le système social belge). Il y a un apprentissage d’un nouveau système
-social.
+social et pas de disparition de la culture d'origine.
 
- 63
 
 1. Interlude sur le repas de famille
 La fonction du repas est de faire famille. Le repas de famille a été imposé aux

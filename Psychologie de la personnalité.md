@@ -405,3 +405,36 @@ Grandir dans la même maison a très peu d'influence sur la personnalité.
 Conclusions: 
 - L'environnement partagé n'est pas important
 - La génétique change notre manière de voir l'environnement
+
+
+Les médicaments censés lutter contre la dépression augmentent la sérotonine dans le corps. 
+
+SS: allèles court/court
+SL: court/long
+LL: long/long
+
+Indépendamment des gènes, les personnes SS sont davantage susceptibles d'avoir des problèmes émotionnels. 
+On remet fortement en question l'utilisation de médicaments contenant de la sérotonine. Il faut 3 semaines pour avoir un effet normalement mais les gens rapportent déjà des effets après 2 jours seulement -> placébo. 
+Peu importe le génome, si il y a peu d'adversité, on n'aura pas d'effet sur la dépression vers 19 ans. 
+
+## Identification des gènes
+Si on était capable d'identifier les gènes attribués à des traits de personnalité, on pourrait prédire les 40% de personnalité prédits par les gènes.
+
+Les gènes produisant des hormones et les neurotransmetteurs peuvent être étudiés pour prédire la personnalité. L'identification puis l'addition de variants favorables et défavorables de polymorphismes peut permettre de savoir si un phénotype a des chances d'être exprimés.
+Il faudrait ~10 à 15 gènes pour expliquer la totalité de l'influence héréditaire. 
+
+![[Psycho Perso 24-25-ULiege.pdf#page=121]]
+
+Neuroticisme et évitement du danger comprennent tous les deux une part importante
+Une personne qui a peu de sérotonine a des comportements agressifs. On retrouve un lien entre le neuroticisme (colère, impulsivité) et donc on observe un effet sur ces traits si on fait varier la sérotonine. 
+
+Le pangénomique, c'est quand l'on va chercher des infimes différences donnant de petits changements au niveau de la personnalité. Il faut donc compenser avec un échantillon conséquent.
+
+Dans certains gènes, on pourrait avoir une paire T-A au lieu d'une paire de CG.
+
+Les gènes candidats ne fonctionnent pas (à part pour la sérotonine et le neuroticisme) alors on espérait pouvoir trouver les réponses avec le décodage plus précis du génome. Pourtant aucune étude ne semble trouver de liens significatifs. Ils se sont donc dit qu'ils pourraient aller sur des dimensions plus précises (recherche de nouveauté - 68% d'héritabilité).
+
+On parvient à identifier des gènes responsables du neuroticisme.
+
+==Résumé==
+![[Pasted image 20250418152526.png]]

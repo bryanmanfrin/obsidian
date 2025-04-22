@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "12a70ae0b0ebeb23",
+            "id": "f6fdc75448a31691",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,219 +38,35 @@
             }
           },
           {
-            "id": "39574af00b96b878",
+            "id": "35797a755a3cc21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie cognitive.md",
+                "file": "Psychologie de la personnalité.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychologie cognitive"
+              "title": "Psychologie de la personnalité"
             }
           },
           {
-            "id": "f28f470a1968c065",
+            "id": "2c03cb8cb5a3da3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 8 - La perception.md",
+                "file": "Chapitre 09 - Patterns, objets et visages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 8 - La perception"
+              "title": "Chapitre 09 - Patterns, objets et visages"
             }
           },
           {
-            "id": "7a12d0d5db761a36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie cognitive.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychologie cognitive"
-            }
-          },
-          {
-            "id": "9e5c467ff8f79266",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie biologique"
-            }
-          },
-          {
-            "id": "6ec989b0ccbb6cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions de philosophie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions de philosophie"
-            }
-          },
-          {
-            "id": "c784883c693da420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement professionnel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Développement professionnel"
-            }
-          },
-          {
-            "id": "b9949b1409cbcd6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fondements méthodologiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fondements méthodologiques"
-            }
-          },
-          {
-            "id": "5e3b51d85937c016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devoir 4 - DPATR Initiation à la recherche.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Devoir 4 - DPATR Initiation à la recherche"
-            }
-          },
-          {
-            "id": "5454075ff8c1ddb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-03 - Psychologie du sport.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08-03 - Psychologie du sport"
-            }
-          },
-          {
-            "id": "9117b81dc1827958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devoir 4 - DPATR Initiation à la recherche.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Devoir 4 - DPATR Initiation à la recherche"
-            }
-          },
-          {
-            "id": "c55dbc7877b81716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-03 - Psychologie du sport.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08-03 - Psychologie du sport"
-            }
-          },
-          {
-            "id": "82350c39e1f616fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-03 - Marie Périn Psychologue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08-03 - Marie Périn Psychologue"
-            }
-          },
-          {
-            "id": "22027ad6bbe9a33f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events App.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Events App"
-            }
-          },
-          {
-            "id": "e549d69789c826a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions de philosophie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions de philosophie"
-            }
-          },
-          {
-            "id": "d49baa272b268c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement professionnel.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Développement professionnel"
-            }
-          },
-          {
-            "id": "42ade1c61f845863",
+            "id": "1b7ba80edb8ce123",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -264,91 +80,35 @@
             }
           },
           {
-            "id": "a5b2792b1b00fd02",
+            "id": "4da997c56410ed7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le Rhodes Livingstone Institute.md",
+                "file": "Fondements méthodologiques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le Rhodes Livingstone Institute"
+              "title": "Fondements méthodologiques"
             }
           },
           {
-            "id": "aa2399019776f365",
+            "id": "88c0a1dab1c7a2a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le conflit.md",
+                "file": "Méthodo - Synthèse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le conflit"
-            }
-          },
-          {
-            "id": "565128ffa9c46246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-04 - chercheuses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-04 - chercheuses"
-            }
-          },
-          {
-            "id": "31ec5263c4fccb68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions de philosophie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions de philosophie"
-            }
-          },
-          {
-            "id": "e9c5d753ce780d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions de philosophie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions de philosophie"
-            }
-          },
-          {
-            "id": "3168f9df70dbc0a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devoir 4 - DPATR Initiation à la recherche.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Devoir 4 - DPATR Initiation à la recherche"
+              "title": "Méthodo - Synthèse"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -414,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Devoir 4 - DPATR Initiation à la recherche.md",
+                "file": "Psychologie de la personnalité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -442,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Devoir 4 - DPATR Initiation à la recherche"
+              "title": "Graph of Psychologie de la personnalité"
             }
           }
         ]
@@ -493,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devoir 4 - DPATR Initiation à la recherche.md",
+                "file": "Psychologie de la personnalité.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Devoir 4 - DPATR Initiation à la recherche"
+              "title": "Outline of Psychologie de la personnalité"
             }
           },
           {
@@ -526,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devoir 4 - DPATR Initiation à la recherche.md",
+                "file": "Psychologie de la personnalité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -536,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Devoir 4 - DPATR Initiation à la recherche"
+              "title": "Backlinks for Psychologie de la personnalité"
             }
           }
         ]
@@ -560,7 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -575,13 +335,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3168f9df70dbc0a8",
+  "active": "35797a755a3cc21a",
   "lastOpenFiles": [
+    "Pasted image 20250418152526.png",
+    "Chapitre 10 - L'attention.md",
+    "L'attention - lang & cog.pdf",
+    "Psychologie cognitive.md",
+    "Chapitre 09 - Patterns, objets et visages.md",
+    "Home.md",
+    "Méthodo - Synthèse.md",
+    "Fondements méthodologiques.md",
+    "Le Rhodes Livingstone Institute.md",
+    "Anthropologie.md",
+    "Events App.md",
+    "La fonction RH.md",
+    "Psychologie du travail et des organisations.md",
+    "Module 9 - Plans à mesures répétés et plans factoriels.md",
+    "PSYC5867 MOD09-03 PRÉSENTIEL 9.pdf",
+    "Module 8 - PPR en psychologie sociale, du travail et des organisations.md",
+    "Arbre décisionnel.md",
+    "Devoir 4 - DPATR Initiation à la recherche.md",
     "La méthode Judith Butler - Le cas Britney Spears.md",
     "Questions de philosophie.md",
     "Développement professionnel.md",
     "Psychologie de la personnalité.md",
-    "Chapitre 09 - Patterns, objets et visages.md",
     "Pasted image 20250410173330.png",
     "Pasted image 20250410172229.png",
     "Pasted image 20250410172034.png",
@@ -592,37 +369,20 @@
     "Pasted image 20250410162803.png",
     "Pasted image 20250410162025.png",
     "04_Perception3_Patterns, objets et visages_web - Tagged.pdf",
-    "Psychologie cognitive.md",
-    "Home.md",
     "Chapitre 8 - La perception.md",
     "Cours 04A_Illusions visuelles_web - Tagged.pdf",
-    "Devoir 4 - DPATR Initiation à la recherche.md",
-    "Module 8 - PPR en psychologie sociale, du travail et des organisations.md",
     "Pasted image 20250409214638.png",
     "PSYC5867 MOD08-3 PRÉSENTIEL 8.pdf",
-    "Fondements méthodologiques.md",
     "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
     "08-03 - Psychologie du sport.md",
     "08-03 - Marie Périn Psychologue.md",
     "conflict-files-obsidian-git.md",
     "Podcast 1 - Psychologie expérimentale et méthode scientifique.md",
-    "Psychologie sociale.md",
-    "Récap philo.md",
-    "Ecologie.md",
-    "Anthropologie biologique.md",
     "Cours 03_Perception2_web - Tagged.pdf",
-    "Le Rhodes Livingstone Institute.md",
-    "Anthropologie.md",
-    "Le conflit.md",
-    "01-04 - neuropsychologie.md",
-    "01-04 - chercheuses.md",
-    "La méthode Foucault - Le cas Maximilien et les dispositifs.md",
     "Psycho Perso 24-25-ULiege.pdf",
     "Cours 02_Perception1_web - Tagged.pdf",
     "07_Stress au travail - Le burnout_20032025.pdf",
     "PSYC5867 Module 7 - Devis expérimentaux (Présentiel).pdf",
-    "Ecologie 1 - Tagged.pdf",
-    "PCLg 07 Cerv et Lg.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",
