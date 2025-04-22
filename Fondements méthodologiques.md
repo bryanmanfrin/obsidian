@@ -12,10 +12,13 @@
 [[Chapitre 5 - Psychopharmacologie chez l'Homme]]
 [[Module 7 - Devis expérimentaux]]
 [[Module 8 - PPR en psychologie sociale, du travail et des organisations]]
+[[Module 9 - Plans à mesures répétés et plans factoriels]]
 
 
 [[Podcast 1 - Psychologie expérimentale et méthode scientifique]]
 
+
+[[Méthodo - Synthèse]]
 Concepts centraux
 
 [[Psychologie du sens commun]], [[Démarche non-scientifique]], [[Psychologie scientifique]], [[Démarche scientifique]], [[Aristote]], [[Whitehead]], [[Popper]], 

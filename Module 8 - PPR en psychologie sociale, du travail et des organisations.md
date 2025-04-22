@@ -41,7 +41,7 @@ Recrutement et échantillonnage
 Problème inhérent à la population visée: les participants font déjà partie de groupes (même fac, juristes, psy, ingé, infirmiers) et on veut s'assurer d'avoir des groupes aussi hétérogènes que possible.
 n = 126, 54% d'hommes
 
-Matrice du plan factoriel 2x2 à groupes indépendants
+Matrice du plan factoriel 2x2 à groupes indépendants. 2 facteurs sont manipulés donc en incluant les groupes contrôle, on a 4 configurations. 
 ![[Pasted image 20250409170818.png|500]]
 
 Opérationnalisation du facteur ARV
@@ -64,3 +64,15 @@ Utiliser uniquement l'ARV augmente très légèrement la performance (non-signif
 Utiliser l'ARV combiné à la FO augmente significativement la performance.
 
 
+Dès qu'il y a deux facteurs dans un plan (2x2), il y a 3 effets à examiner:
+- *Effet principal du facteur 1* par rapport au groupe CTRL où le facteur 1 a été modifié: l'influence est-elle statistiquement significative? Comparer les sujets entrainés aux sujets non-entrainés.
+- *Effet principal du facteur 2* par rapport au groupe CTRL où le facteur 1 a été modifié.
+- L'*interaction entre les deux facteurs*
+
+
+Démarche examen:
+- Identifier les variables et les modalités    
+- Définir comment on a créé les groupes et les groupes contrôle
+- Opérationnalisation
+	- Qu'est-ce qu'on a fait aux participants?
+	- Comment on modifie les variables?

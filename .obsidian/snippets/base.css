@@ -18,7 +18,14 @@
 
 .cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
   text-decoration: underline;
-  background: none;
+  background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F03%2FBackgrounds-rainbow-wallpaper-HD.jpg&f=1&nofb=1&ipt=85fabb6bf51df9cd9d1a2f0c86982f26cd48653040c00bc77776bcfe46b84cdd);
+  -webkit-background-clip: text; /* clip the background to the text inside the tag*/
+  -webkit-text-fill-color: transparent; 
+  background-size: 3rem;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: left;
+  text-justify: initial;
 }
 
 .timeline.body-2 .title:not(:hover) {
