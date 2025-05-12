@@ -8,6 +8,7 @@
 [[Françoise Héritier]]
 [[La méthode Foucault - Le cas Maximilien et les dispositifs]]
 [[La méthode Judith Butler - Le cas Britney Spears]]
+[[Philo - Schizophrénie]]
 
 [[Récap philo]]
 

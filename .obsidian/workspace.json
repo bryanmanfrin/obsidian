@@ -24,6 +24,33 @@
             }
           },
           {
+            "id": "07687c76eebafaa7",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Méthodo - Synthèse.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Méthodo - Synthèse)"
+            }
+          },
+          {
+            "id": "1b9a7b5a1ad95748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Récap philo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Récap philo"
+            }
+          },
+          {
             "id": "f6fdc75448a31691",
             "type": "leaf",
             "state": {
@@ -43,12 +70,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie de la personnalité.md",
+                "file": "Questions de philosophie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychologie de la personnalité"
+              "title": "Questions de philosophie"
+            }
+          },
+          {
+            "id": "f061a48d9e0ad861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fondements méthodologiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fondements méthodologiques"
+            }
+          },
+          {
+            "id": "0db290162d263294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthropologie sociale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthropologie sociale"
+            }
+          },
+          {
+            "id": "391ffbd61bced403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L'anthropologie en France.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L'anthropologie en France"
+            }
+          },
+          {
+            "id": "8712d30116af5a1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philo - Schizophrénie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Philo - Schizophrénie"
             }
           },
           {
@@ -71,12 +154,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anthropologie.md",
+                "file": "Anthropologie sociale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anthropologie"
+              "title": "Anthropologie sociale"
             }
           },
           {
@@ -128,7 +211,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Le conflit.md\" K",
+                "query": "RESU",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Psychologie de la personnalité.md",
+                "file": "Récap philo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +285,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Psychologie de la personnalité"
+              "title": "Graph of Récap philo"
             }
           }
         ]
@@ -253,13 +336,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychologie de la personnalité.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Psychologie de la personnalité"
+              "title": "Outline"
             }
           },
           {
@@ -286,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychologie de la personnalité.md",
+                "file": "Récap philo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +378,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Psychologie de la personnalité"
+              "title": "Backlinks for Récap philo"
             }
           }
         ]
@@ -304,7 +386,7 @@
       {
         "id": "dcb560491107237e",
         "type": "tabs",
-        "dimension": 29.132947976878615,
+        "dimension": 29.13294797687861,
         "children": [
           {
             "id": "73a7e30836c00c59",
@@ -320,7 +402,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,34 +413,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35797a755a3cc21a",
+  "active": "1b9a7b5a1ad95748",
   "lastOpenFiles": [
+    "Psychologie de la personnalité.md",
+    "Pasted image 20250509141810.png",
+    "Home.md",
+    "L'anthropologie en France.md",
+    "Anthropologie sociale.md",
+    "Méthodo - Synthèse.md",
+    "Module 7 - Devis expérimentaux.md",
+    "Fondements méthodologiques.md",
+    "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
+    "Questions de philosophie.md",
+    "Philo - Schizophrénie.md",
+    "Schizophrénie.md",
+    "Développement professionnel.md",
+    "08-03 - Psychologie du sport.md",
+    "Devoir 4 - DPATR Initiation à la recherche.md",
+    "06-05 - Lemauvais - Psychologie du vieillissement.md",
+    "Récap philo.md",
+    "Phases et étapes de la démarche de recherche scientifique.md",
     "Pasted image 20250418152526.png",
     "Chapitre 10 - L'attention.md",
     "L'attention - lang & cog.pdf",
     "Psychologie cognitive.md",
     "Chapitre 09 - Patterns, objets et visages.md",
-    "Home.md",
-    "Méthodo - Synthèse.md",
-    "Fondements méthodologiques.md",
     "Le Rhodes Livingstone Institute.md",
-    "Anthropologie.md",
     "Events App.md",
     "La fonction RH.md",
     "Psychologie du travail et des organisations.md",
     "Module 9 - Plans à mesures répétés et plans factoriels.md",
     "PSYC5867 MOD09-03 PRÉSENTIEL 9.pdf",
-    "Module 8 - PPR en psychologie sociale, du travail et des organisations.md",
-    "Arbre décisionnel.md",
-    "Devoir 4 - DPATR Initiation à la recherche.md",
-    "La méthode Judith Butler - Le cas Britney Spears.md",
-    "Questions de philosophie.md",
-    "Développement professionnel.md",
-    "Psychologie de la personnalité.md",
     "Pasted image 20250410173330.png",
     "Pasted image 20250410172229.png",
     "Pasted image 20250410172034.png",
@@ -367,17 +455,9 @@
     "Pasted image 20250410170102.png",
     "Pasted image 20250410163120.png",
     "Pasted image 20250410162803.png",
-    "Pasted image 20250410162025.png",
     "04_Perception3_Patterns, objets et visages_web - Tagged.pdf",
-    "Chapitre 8 - La perception.md",
     "Cours 04A_Illusions visuelles_web - Tagged.pdf",
-    "Pasted image 20250409214638.png",
     "PSYC5867 MOD08-3 PRÉSENTIEL 8.pdf",
-    "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
-    "08-03 - Psychologie du sport.md",
-    "08-03 - Marie Périn Psychologue.md",
-    "conflict-files-obsidian-git.md",
-    "Podcast 1 - Psychologie expérimentale et méthode scientifique.md",
     "Cours 03_Perception2_web - Tagged.pdf",
     "Psycho Perso 24-25-ULiege.pdf",
     "Cours 02_Perception1_web - Tagged.pdf",

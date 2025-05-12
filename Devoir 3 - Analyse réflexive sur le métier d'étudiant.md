@@ -26,7 +26,7 @@ Le manque de temps m'a poussé à m'*adapter* durant le blocus - ma méthode a �
 J'ai présenté 9 examens et les ai réussis. J'estimais avoir potentiellement raté enfant ou émotions mais ai eu des points complétement inattendus, meilleurs que ceux que j'obtenais durant mon premier bachelier. J'ai bien sûr été fier mais un peu mitigé car je me demande si cette méthode de travail est *durable* pour la suite mais surtout si elle est *pertinente* pour mon propre parcours; j'étudie à fond la veille pour réussir l'examen et puis j'*oublie 90% dans les 2 prochains jours*. De plus, mes propres notes contiennent parfois des éléments que j'ai trouvé intéressants mais sur lesquels je ne reviens plus, privilégiant les synthèses des autres. Je reste donc avec l'impression d'un travail fait à moitié dont la note ne reflète pas la qualité de la réelle intégration de la matière. 
 
 # Problématiser
-> Ici, on décrit toujours, mais ce qu'on décrit est le problème. À quoi attribué-je les réussites et les échecs? On peut déjà décrire ce qu'on mettrait en place pour mieux vivre la situation.
+> Ici, on décrit toujours, mais ce qu'on décrit est le problème. À quoi attribué-je les réussites et les échecs? Quelle est la question que je me pose?
 
 *A quoi est-ce que j’attribue mes réussites et/ou mes échecs ?*
 *Qu’est-ce que je pourrais faire pour (encore) mieux réussir/vivre la session de juin ?*
@@ -42,10 +42,11 @@ l’intention »)
 Les éléments problématiques relevés sont les suivants: la planification très approximative, le besoin d'être à la dernière minute pour commencer à travailler, et l'objectif recherché de rétention de l'information qui ne me semble pas atteint.
 Pour la planification, je fais une attribution interne sur laquelle j'ai le contrôle.
 # Analyser
-> Si la section précédente décrivait la problématique de façon générale, celle-ci permet de rentrer dans les détails de chaque point soulevé. On peut les observer sous l'angle des attributions causales.
+> Si la section précédente décrivait la problématique de façon générale, celle-ci permet de rentrer dans les détails de chaque point soulevé. 
+> Je prends toutes les informations relatives aux questions que je me suis posées auprès de différentes sources (références, collègues) pour répondre à des sous-questions sur les questions que je me suis posées dans la section problématiser. On peut les observer sous l'angle des attributions causales. REFLEXION
 
 
-REFLEXION
+
 
 
 *Est-ce que mon auto-évaluation est optimale ?*
@@ -57,9 +58,9 @@ REFLEXION
 *Réflexion sur la gestion des émotions*
 
 # Théoriser
->Sur base des éléments analysés, on formalise l'analyse en une théorie applicable qui pourrait servir de guide pour mieux aborder la situation la prochaine fois.
+>Sur base des éléments analysés, on formalise l'analyse en une théorie applicable qui pourrait servir de guide pour mieux aborder la situation la prochaine fois. RESUME
 
-RESUME
+
 
 *Attention, cette « théorie » doit être communicable à un autre étudiant*
 *Attention, cette « théorie » doit être transférable à un autre contexte, donc à une autre*  
@@ -67,7 +68,7 @@ RESUME
 
 
 # Réinvestir
-> La théorie établie sert de base pour le plan d'action concret que l'on va créer ici et qui reprend chaque point abordé précédemment.
+> La théorie établie sert de base pour le plan d'action concret que l'on va créer ici et qui reprend chaque point abordé précédemment. "Sur base de ce qui précède, la prochaine fois, je ..."
 
 *Je suis suffisamment précis pour que ce soit concret 2 points*  
 *Ce que je propose doit pouvoir être vérifiable par la suite par moi-même (voir si*  
