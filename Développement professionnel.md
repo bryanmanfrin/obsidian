@@ -16,6 +16,7 @@ Johanne (super présentation)
 [[01-04 - neuropsychologie]]
 [[08-03 - Marie Périn Psychologue]]
 [[08-03 - Psychologie du sport]]
+[[06-05 - Lemauvais - Psychologie du vieillissement]]
 
 # Devoirs
 [[Devoir 3 - Analyse réflexive sur le métier d'étudiant]]

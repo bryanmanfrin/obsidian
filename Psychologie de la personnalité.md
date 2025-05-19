@@ -438,3 +438,102 @@ On parvient à identifier des gènes responsables du neuroticisme.
 
 ==Résumé==
 ![[Pasted image 20250418152526.png]]
+
+# Partie 3 : les théories de la personnalité
+1. La perspective des dispositions : Allport, Cattell, Eynseck & le BigFive
+• La théorie d’(Gordon Willard)
+
+## Allport : les traits
+Sa biographie :
+-> 1897 (États-Unis) – 1970 (États-Unis)
+-> L’atmosphère familiale : chaleur, humilité et travail.
+-> 1915 : Étude en psychologie à Harvard et s’intéresse à la sociologie.
+-> 1919 : Rencontre Freud
+-> 1921 : Première étude sur la personnalité. Enseignant.
+
+C’est le premier à utiliser le terme ‘trait’. Adopte une position idiographique. Il pense que
+les cpts pouvaient être inconsistants, voire en contradiction, avec les traits. Une personne calme peut être anxieuse dans une situation particulière.
+
+« L’organisation dynamique, au sein de l’individu ; des systèmes psychophysiques qui
+déterminent son comportement caractéristique et ses pensées. »
+
+-> 1 = somme d’éléments en interaction.
+-> 2 = il existe des forces internes dans un système intégré.
+-> 3 = pas oublier que la personnalité est une combinaison de facteurs
+psychologiques et physiques.
+-> 4 = personnalité influe sur quelque chose
+-> 5 = l’idée que les actions et les cognitions sont uniques.
+Selon Allport, les traits = meilleure unité d’analyse. Ce sont des prédispositions à répondre
+de la même manière à des stimuli divers. Ils assurent la stabilité des comportements et
+influent sur la perception des événements.
+
+Les traits sont
+-> Clairement définis. -> Interagissent entre eux.
+-> + qu’une habitude. -> Ne font pas l’objet d’un jugement
+-> Nature n’est pas que logique. moral.
+-> Observables, leur existence peut être -> Distribués normalement dans la
+démontré empiriquement. population.
+-> un comportement inconsistant avec un trait ne constitue pas une preuve contre
+l’existence de ce trait.
+
+**Traits communs** = sont nomothétiques, présents chez tout le monde.
+**Traits source** = diffèrent et prennent plusieurs appellations, sont ceux qui déterminent le comportement.
+
+**Cardinal** = caractéristiques les + importantes et saillantes d’un individu (ex: narcissisme).
+**Central** = qualificatifs généraux utilisés lorsqu’on présente quelqu’un.
+**Secondaire** = dispositions - consistantes, - généralisées, apparaissent + souvent
+
+
+Selon Cattell, on peut prédire un comportement d'un individu avec sa personnalité et sa situation. A partir d'une description, on prédit. La description est fondamentale.
+Des facteurs (dimensions) sont sélectionnés et vont déterminer le comportement. Les dimensions sont organisées hiérarchiquement. On peut avoir différents niveaux de traitement
+Analyse factorielle: classer des traits en fonction de similarités, créant des catégories. Exemple: on met les traits actif, énergique, assertif dans la catégorie "extraversion".
+
+Cattel a rassemblé 16 traits de personnalité (traits sources) extraits de l'analyse factorielle.
+Des traits de second ordre: exvia-invia, anxiété
+
+## Eysenck - modèle à 3 facteurs
+Biographie
+	Ce psy est né au 20eS à Berlin et a été élevé par sa grand-mère dans une grande liberté.
+	Il a étudié la psycho à Londres (avait un intérêt pour les sciences mais aussi des lacunes).
+	Durant la guerre, il a subi des injures vis-à-vis de ses origines allemandes.
+	Il est devenu prof de psycho à Londres et a travaillé en annexe au « Maudsley Hospital ».
+Théorie
+Selon lui, le but de la psycho était de prédire les cpts, sur base de l’hérédité (ayant une
+grande influence sur la personnalité) et de l’analyse factorielle (étant selon lui une
+méthode nécessaire mais insuffisante). Il a vérifié son hypothèse de base selon laquelle
+les typologies anciennes (p3) étaient bonnes si considérés comme des extrêmes.
+Il percevait les dimensions de la personnalité comme organisées hiérarchiquement, et
+pouvant être classées au sein de 3 types de super-facteurs (dimensions) :
+⚠ Extraversion (E) - Neuroticisme (N) - Psychoticisme (P)
+= être impulsif, insensible, égocentrique, opposé aux habitudes sociales, prédisposé à la
+psychose ou à la personnalité antisociale.
+→ Les gens faibles en cette catégorie sont forts en consciencieusité (contrôle de soi, des règles, ..)
+Les traits résulteraient de corrélations entre des cpts/réponses habituelles et spécifiques
+Ex : la timidité sociale englobe des traits comme le neuroticisme ou l’anxiété mais aussi des cpts
+comme avoir peur de montrer son désaccord, de faire des compliments, de se présenter, ..
+4 catégories possibles entre les 2 dimensions introversion & extraversion
+![[Pasted image 20250509141810.png]]→ seules les personnes prototypiques (= s’écartant de la norme dans les extrêmes) se
+retrouvent parfaitement dans ces
+catégories, la plupart des
+personnes se situent au centre.
+
+Les personnes extraverties peuvent avoir une origine biologique, un éveil cortical plus faible. Comme si leur SNC vu comme une batterie était plus "chargée", incitant à chercher les contacts. Les introvertis seraient en batterie faible, mettant les personnes dans un environnement de veille.
+
+Il met ces dimensions en relation avec des systèmes psychobiologiques :
+- E : système réticulaire activateur (EEG, potentiels évoqués, RED, test de la goutte de
+citron) les extravertis ont un éveil cortical + faible, les poussant à rechercher l’excitation
+alors que les introvertis ont un éveil sur-activé et sont déjà en constante excitation
+- N : système nerveux autonome et système limbique (les individus émotionnellement
+instables réagissent plus vite aux stimulations douloureuses, nouvelles et troublantes)
+- P : hormones sexuelles (les hommes ayant bcp de testosterone ont + tendance à une
+vie en recherche de sensation voire délinquante,.. les femmes sont - psychotiques)
+Il a créé 3 questionnaires pour mesurer ces dimensions :
+Maudsley Medical Questionnaire MMQ (N)
+Maudsley Personality Questionnaire : MPQ (E, N)
+Eysenck Personality Questionnaire : EPQ (E, N, P)
+Le patient doit répondre à quel point certaines phrases le caractérise sur une échelle de
+1 à 5, ses réponses augmentent +/- son score dans chacune des 3 dimensions.
+
+
+## Le Big Five
+Plusieurs auteurs ont contribué à l'élaboration de ce modèle et ne porte donc pas le nom d'une personne. 

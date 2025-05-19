@@ -1,79 +1,22 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"Psycho/Elements de sociologie\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3650514
-      }
-    },
-    {
-      "query": "path:\"Psycho/Eléments Biologie\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3724904
-      }
-    },
-    {
-      "query": "path:\"Psycho/Psychologie de l'enfant\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16096854
-      }
-    },
-    {
-      "query": "path:\"Psycho/Psychologie des émotions\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16728661
-      }
-    },
-    {
-      "query": "path:\"Psycho/Fondements théoriques des sciences psychologiques\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "path:\"Psycho/Fondements théoriques des sciences psychologiques/Notes annexes\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16185672
-      }
-    },
-    {
-      "query": "path:Psycho/Psychostatistiques  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "path:\"Psycho/Psychologie clinique\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.37987322840254,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 17.2395833333333,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 178,
-  "scale": 0.1482481317338941,
+  "linkDistance": 250,
+  "scale": 0.15082981799498976,
   "close": true
 }

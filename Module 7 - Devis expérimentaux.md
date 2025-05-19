@@ -25,7 +25,11 @@
 	Il y a plusieurs facteurs (VI).
 **Groupe unique**
 	Pas même de groupe contrôle, manque de validité interne.
-
+**Devis après-seulement**
+	plan à groupes indépendants, l'un des groupes servant de groupes contrôles.
+**Devis avant-après**
+**Devis factoriels**
+**Devis croisés ou contrebalancés**
 
 
 
