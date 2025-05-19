@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "5eaff017460b5dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd752cca6ef40b61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09844c8b837d8278",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Archive.zip",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Archive.zip)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d3eecf16e756b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ffcc7c8597200f6",
+        "type": "tabs",
+        "dimension": 77.87610619469027,
+        "children": [
+          {
+            "id": "22fddcb8fdffb5b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "élaboratif",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b3ee2e8d90498bd2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4ad5a6944b7d15d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "3dcfc89bd62fef84",
+        "type": "tabs",
+        "dimension": 22.123893805309734,
+        "children": [
+          {
+            "id": "29eb955fe8603875",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4495880896345337,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "8958fedcaa620e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb10153b7d2ab192",
+        "type": "tabs",
+        "dimension": 53.70370370370372,
+        "children": [
+          {
+            "id": "4b5904ac5530bea0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Développement affectif.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Développement affectif"
+            }
+          },
+          {
+            "id": "8a0efc684181f7df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "42215e367a0f9ca5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Why men rebel.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Why men rebel"
+            }
+          },
+          {
+            "id": "291ca3e021573c5f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b823bd895026eaab",
+        "type": "tabs",
+        "dimension": 23.14814814814814,
+        "children": [
+          {
+            "id": "638e408a0fc9a855",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dcb560491107237e",
+        "type": "tabs",
+        "dimension": 23.14814814814814,
+        "children": [
+          {
+            "id": "73a7e30836c00c59",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "09844c8b837d8278",
+  "lastOpenFiles": [
+    "Schizophrénie.md",
+    "Méthodo - Synthèse.md",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "Conseils Examen.md",
+    "Philo - Schizophrénie.md",
+    "Pasted image 20250509141810.png",
+    "L'anthropologie en France.md",
+    "Anthropologie sociale.md",
+    "06-05 - Lemauvais - Psychologie du vieillissement.md",
+    "Arbre decisionnel.png",
+    "462553764_1231463131474786_7688113640270818824_n.jpg",
+    "Archive.zip",
+    "Archive.zip.sbqq96.part",
+    "Psycho/Psychostatistiques/Lexique - Psychostatistiques.md",
+    "Lexique - Psychostatistiques.md",
+    "Podcast 1 - Psychologie expérimentale et méthode scientifique.md",
+    "Méthodes de recherches.md",
+    "Module 9 - Plans à mesures répétés et plans factoriels.md",
+    "Recherche descriptive - 3 méthodes de recherche associées et outils de collecte.md",
+    "Le Rhodes Livingstone Institute.md",
+    "Fondements méthodologiques.md",
+    "Module 7 - Devis expérimentaux.md",
+    "Recherche expérimentale - 1 méthode de recherche et outils de collecte.md",
+    "Pasted image 20250418152526.png",
+    "PSYC5867 MOD09-03 PRÉSENTIEL 9.pdf",
+    "La fonction RH.md",
+    "L'attention - lang & cog.pdf",
+    "Chapitre 10 - L'attention.md",
+    "Module 8 - PPR en psychologie sociale, du travail et des organisations.md",
+    "Devoir 4 - DPATR Initiation à la recherche.md",
+    "Développement professionnel.md",
+    "Devoir 3 - Analyse réflexive sur le métier d'étudiant.md",
+    "Nathalie Steimes - psychologue clinicienne.md",
+    "Marie Barbier - psychologie sociale.md",
+    "Questions de philosophie cours 5 Le cas Alain Vigneron 17 mars 2025.pdf",
+    "Psycho Perso 24-25-ULiege.pdf",
+    "Podcast - quantitatif",
+    "Pasted image 20250410173330.png",
+    "Pasted image 20250410172229.png",
+    "Pasted image 20250410172034.png",
+    "Pasted image 20250410170158.png",
+    "Pasted image 20250410170135.png",
+    "Pasted image 20250410170102.png",
+    "PSYC5867 Module 7 - Devis expérimentaux (Présentiel).pdf",
+    "PSYC5867 MOD08-3 PRÉSENTIEL 8.pdf",
+    "PSYC5867 MOD05-2 PRÉSENTIEL 5.pdf",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Psycho/Psychostatistiques/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
