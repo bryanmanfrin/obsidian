@@ -35,5 +35,5 @@ Exemple violence dans les médias vs comportements agressifs. On a pu observer q
 
 ## Publication de résultats
 La recherche scientifique est un processus public, on la partage à d'autres experts pour vérification et pour qu'ils puissent se baser dessus pour la reproduire ou l'étendre.
-La crise de la reproducibilité. Beaucoup de 
+La crise de la reproductibilité. 
 

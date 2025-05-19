@@ -4,9 +4,9 @@ La bonne identification du type de variable est nécessaire pour la résolution.
 ![[psychostat_1.pdf]]
 
 ### Résumé:
-Lors d'une étude, l'élément observé est l'[[Lexique - Psychostatistiques#^69228e|unité d'observation]] aussi appelé *sujet*. Les études incluent généralement plusieurs [[Lexique - Psychostatistiques#^69228e|unité d'observation]], sauf dans l'[[Lexique - Psychostatistiques#^bdfd27|étude de cas]].
+Lors d'une étude, l'élément observé est l'[[Psycho/Psychostatistiques/Lexique - Psychostatistiques#^69228e|unité d'observation]] aussi appelé *sujet*. Les études incluent généralement plusieurs [[Psycho/Psychostatistiques/Lexique - Psychostatistiques#^69228e|unité d'observation]], sauf dans l'[[Psycho/Psychostatistiques/Lexique - Psychostatistiques#^bdfd27|étude de cas]].
 Il existe 3 types de variables. Les variables
-La statistique repose sur le concept de [[Lexique - Psychostatistiques#^372bde|variable]] qui fait référence à une propriété d'une unité d'observation.
+La statistique repose sur le concept de [[Psycho/Psychostatistiques/Lexique - Psychostatistiques#^372bde|variable]] qui fait référence à une propriété d'une unité d'observation.
 
  Propriété de l'unité d'observation qui peut prendre plusieurs valeurs.
  Une variable affecte à chaque unité d'observation une et une seule valeur.
@@ -21,7 +21,7 @@ Sujet | Genre
 
 # Les types de variables
 
-## Les [[Lexique - Psychostatistiques#^c86465|variables nominales]]
+## Les [[Psycho/Psychostatistiques/Lexique - Psychostatistiques#^c86465|variables nominales]]
 On attribue à chaque sujet une étiquette.
 > Prénom et nom de famille (exemple du prénom préféré de l'année).
 
@@ -47,7 +47,7 @@ Graphique circulaire (en camembert) - moins intuitif
 Diagramme en barre
 
 
-## Les [[Lexique - Psychostatistiques#^322114|variables ordinales]]
+## Les [[Psycho/Psychostatistiques/Lexique - Psychostatistiques#^322114|variables ordinales]]
 
 On classe les sujets les uns par rapport aux autres. 
 Les valeurs sont ordonnées.
@@ -61,7 +61,7 @@ Notation de points aux tests:
 Classement:
 	1er, 2eme, 3eme à une course mais on ne connait pas le temps entre eux, juste leur ordre.
 
-## Les [[Lexique - Psychostatistiques^]]
+## Les [[Lexique - Psychostatistiques]]
 Permet une estimation précise de la différence entre deux sujets.
 
 ### Exemple
