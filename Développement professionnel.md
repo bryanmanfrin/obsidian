@@ -21,6 +21,7 @@ Johanne (super présentation)
 # Devoirs
 [[Devoir 3 - Analyse réflexive sur le métier d'étudiant]]
 [[Devoir 4 - DPATR Initiation à la recherche]]
+[[DPPP - Examen]]
 
 
 ![[Marie Barbier - psychologie sociale]]
