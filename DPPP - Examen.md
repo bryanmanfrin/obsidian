@@ -1,34 +1,40 @@
-test
-
------
-Point de vue initial 
-
-
-
 ----
-
+![[EVALUATION - Tagged.pdf#page=8]]
 # Décrire
 > Une description de la situation telle qu'elle a été vécue, avec ce qui a bien été et ce qui a moins bien été. On ne cherche pas encore les causes, on observe.
 
-Ma représentation initiale des cours était que tous étaient utiles car tous sont intéressants de manière générale.
-Pour mon projet professionnel, j'envisageais trois voies principales; la voie classique du psychologue clinicien, la voie de la recherche avec l'idée de travailler avec la VR ou la dernière, étudier la psychologie sociale pour pouvoir comprendre les choix des gens face à des sujets plus larges.
-Je démarrais avec l'intention principale de valoriser mon diplôme en informatique de gestion (programmation) en entrant dans la VR ou les statistiques.
-Ma représentation initiale était que le psychologue pouvait avoir de nombreuses casquettes et travailler dans de nombreux secteurs différents tels que les écoles, les prisons, les centres d'accueil, les entreprises visant donc entre autres les employés, les enfants, les prisonniers.
-
+Ma représentation initiale des cours était que tous étaient utiles car tous sont intéressants de manière générale car ils cherchent à expliquer le comportement des personnes depuis des points de vue différents (biologiques, anthropologiques, sociologiques, philosophiques, ...). **Le cours de psychologie sociale** cependant ne m'a pas convaincu plus que ça car il me semblait être un cours de "fun facts" sur les stéréotypes et **manquait de concret**.
+Pour mon projet professionnel, j'envisageais **trois voies principales**; la voie classique du psychologue clinicien, la voie de la recherche avec l'idée de travailler avec la VR pour valoriser mon diplôme en informatique ou la dernière, étudier la psychologie sociale pour pouvoir comprendre les choix des gens face à des sujets plus larges.
+Ma représentation initiale du métier était que le psychologue pouvait avoir de nombreuses casquettes et travailler dans de nombreux secteurs différents tels que les **écoles, les prisons, les centres d'accueil, les entreprises** visant donc entre autres les **employés, les enfants, les prisonniers**. 
+En terme de compétences, j'avais une **représentation fortement dirigée** vers le besoin de comprendre les grandes tendances du monde qui conditionnent la population et créent les besoins grandissants de soutien psychologiques. 
+Je craignais cependant de ne pas trouver d'exemples de l'**utilisation de la psychologie sociale** dans la vie concrète et de ne pas avoir la possibilité d'**exercer dans la VR en m'impliquant dans le développement**.
 
 # Problématiser
 > Ici, on décrit toujours, mais ce qu'on décrit est le problème. À quoi attribué-je les réussites et les échecs? Quelle est la question que je me pose?
 
+Face à ces incertitudes envers les applications concrètes de la psychologie sociale, le cours de DPPP m'a présenté l'intervenante Laura Lentini qui a utilisé ses compétences en psychologie sociale pour exercer un rôle de coordinatrice d'organisations avec la capacité d'**intervenir au niveau politique** pour tenter de faire passer ses revendications. 
+En dehors du cours, j'ai également pu parler à une chercheuse en psychologie sociale qui m'a expliqué concrètement comment ses recherches pouvaient servir à l'introduction de nouvelles pratiques dans la population.
+Ces deux rencontres m'ont permis de voir un peu mieux comment pouvait appliquer la théorie expliquée en psychologie sociale à des **cas concrets**.
+J'ai également appris par l'intervention de Mme Lemauvais qu'il existait la psychologie du vieillissement qui pouvait se pratiquer en **itinérance** en tant qu'indépendant avec des méthodes visant à mettre les **personnes âgées** en position d'enseignant pour lui redonner confiance.
+L'intervention de Noémie Henri m'a montré qu'on pouvait travailler dans le milieu de la formation professionnelle et surtout a démontré son **degré de liberté** par le fait qu'elle pouvait embarquer le matériel de formation dans un camion pour faire ses formations sur place.
+Ces nouveaux éléments me donnent une plus grande confiance en mon plan de me diriger vers la psychologie sociale car mes idées deviennent plus claires. Ils me donnent aussi un aperçu de la façon dont on peut créer soi-même son chemin en créant sa propre organisation et en la gérant comme on le sent.
+Les différents intervenants n'ont cependant pas abordé le sujet de la réalité virtuelle donc cette partie reste floue surtout quant à son utilisation au sein de l'université.
+La voie du psychologue clinicien semble un peu reléguée au second plan pour le moment car j'ai moins d'intérêt pour le travail individuel avec une personne.
 
 # Analyser
 > Si la section précédente décrivait la problématique de façon générale, celle-ci permet de rentrer dans les détails de chaque point soulevé. 
 > Je prends toutes les informations relatives aux questions que je me suis posées auprès de différentes sources (références, collègues) pour répondre à des sous-questions sur les questions que je me suis posées dans la section problématiser. On peut les observer sous l'angle des attributions causales. REFLEXION
 
+Les interventions de Noémie Henri et Laura Lentini m'ont montré qu'on pouvait pratiquer en choisissant ses conditions de travail et en créant le cadre que l'on souhaite. Si une s'affranchit de ses locaux pour mettre son matériel **dans un camion** et que l'autre rejoint **le milieu militant** (qui constitue un public cible inattendu), je pourrais bien créer l'environnement qui me semblerait le plus propice si je me lançais en tant qu'indépendant. 
+Le témoignage des chercheuses Vanootighem et Saint-Mard m'ont permis de voir différemment la **compétence C5** sur la diffusion. Si le but de la recherche est effectivement de mener à la diffusion de la recherche, la façon dont la diffusion se fait pose question car d'après ces chercheuses, le système pousse à la méconduite au profit du sensationnalisme et de l'intérêt perçu du travail. Je vois donc l'intérêt de garder un regard critique sur les productions. Ensuite, le témoignage de Laura Lentini m'a permis de voir en action un aspect intéressant de la **compétence C4** sur la promotion d'une pratique psychologique de qualité par le fait qu'elle pratiquait une compétence que je ne savais pas faire partie du référentiel d'un psychologue: l'analyse des enjeux et effets sociétaux des pratiques et des savoirs des psychologues. Elle expliquait utiliser ses compétences de psychologue pour aider à défendre ses causes et à fédérer les gens. Ces mots ont m'ont rassuré sur la liberté que possèdent les gens pour défendre leurs idées et sur le degré d'impact qu'il est possible d'avoir sur le monde politique. Elle diffusait également ses connaissances (**C5**) lors d'ateliers comme les ateliers anticoloniaux ou dans le milieu politique et précisait qu'elle s'efforçait à garder un message clair, concis et à garder la discussion sur les rails pour un partage d'information de qualité.
+La chercheuse en psychologie sociale que j'ai rencontré m'a également décrit certains projets concrets qu'elle réalise et **je me verrais bien faire** soit ce travail de recherche, soit le travail de terrain que fait Laura Lentini.
 
 # Théoriser
 >Sur base des éléments analysés, on formalise l'analyse en une théorie applicable qui pourrait servir de guide pour mieux aborder la situation la prochaine fois. RESUME
 
+Ma représentation initiale du métier en début d'année était loin d'être exhaustive et ce cours de DPPP m'a permis de me rendre compte qu'il ne sert à rien de souhaiter une liste exhaustive car elle n'existe pas; la psychologie mène vers de très nombreuses débouchées dont certaines que les personnes se créent elles-mêmes.
+Si ma grand-mère me demandait ce qu'est être psychologue, je pourrais lui dire que ça va de l'accompagnement de personnes dans leurs projets professionnels, personnels, à un soutien psychologique plus classique tel qu'on se l'imagine d'habitude ou alors avec des méthodes alternatives mais éprouvées, chez le patient, en extérieur, dans un camion et que le processus inclut une évaluation du besoin, une mise en place d'une intervention, la création d'un lien, un monitoring de la qualité du suivi puis un potentiel partage des informations recueillies. 
+A ce stade, la liberté que l'on peut trouver dans la pratique du métier de psychologue dans la nature du travail, le lieu ou le public me donne déjà envie de me lancer en indépendant. Le travail individuel de psychologue clinicien me tente moins tandis que les projets présentés par Laura Lentini ou le travail de recherche des trois chercheuses - moins libre dans les modalités mais à enjeux sociétaux tout de même - m'intéressent davantage maintenant que ma vision est plus claire.
 # Réinvestir
 > La théorie établie sert de base pour le plan d'action concret que l'on va créer ici et qui reprend chaque point abordé précédemment. "Sur base de ce qui précède, la prochaine fois, je ..."
 
-Ma représentation initiale du métier en début d'année était loin d'être exhaustive et ce cours de DPPP m'a permis de me rendre compte qu'il ne sert à rien de souhaiter une liste exhaustive car elle n'existe pas; la psychologie mène vers de très nombreuses débouchées dont certaines que les personnes se créent elles-même.

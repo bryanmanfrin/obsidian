@@ -537,3 +537,32 @@ Le patient doit répondre à quel point certaines phrases le caractérise sur un
 
 ## Le Big Five
 Plusieurs auteurs ont contribué à l'élaboration de ce modèle et ne porte donc pas le nom d'une personne. 
+
+# La perspective psychobiologique
+
+BIS
+BAS
+
+Marvin Zuckerman
+Il travaillait avec les caissons d'isolation sensorielle. Il s'est demandé quelles étaient les caractéristiques des personnes qui utiliseraient ces outils et a découvert que c'est plutôt les personnes qui sont à la recherche de sensations (paradoxalement).
+
+Dans son 1er modèle il a identifié 3 tempéraments basés sur l'approche et le rejet:
+- Activer: dopamine - Colère
+- Inhiber: sérotonine - Crainte
+- Maintenir: noradrénaline - Amour
+La particularité du modèle est d'associer un neurotransmetteur. 
+
+Si une personne est à la recherche de nouveauté, c'est parce qu'elle a beaucoup de dopamine.
+Une personne irritable a souvent un taux de sérotonine faible. Il n'y a pourtant pas de baisse de sérotonine chez un dépressif. Mais les compléments en sérotonine calment l'irritabilité, baissant indirectement la dépression.
+Une personne qui a peu de dopamine aura un large effet lors d'une recherche de sensations car une personne qui en a beaucoup en général sera plus vite saturé, créant une différence physiologique/sensation moins forte.
+
+Il a ajouté l'autodétermination (maturité individuelle), la coopération (maturité sociale) et la transcendance (maturité spirituelle) dans ses traits.
+
+**La personnalité est différente de culture en culture => mythe.**
+**Les perceptions des caractéristiques nationales reflètent des différences "réelles" entre les groupes** => "les allemands sont comme ça". 
+
+Décrire expliquer modifier, prédire
+Dans la description, le Big 5 s'impose mais l'hexaco (Big 5 amélioré) et d'autres auteurs veulent revisiter les termes -> pas de concensus.
+L'aspect développemental -> on veut prédire les changements de personnalité
+Effets générationnels
+

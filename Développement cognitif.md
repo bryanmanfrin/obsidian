@@ -8,8 +8,12 @@ timeline
 title Les stades de développement
 	section Stade sensorimoteur (0-2 ans)
 		Stade réflexe (0-1 mois): Aucune permancence de l'objet: etnhd
-2002: Test
-2003: Test 2
+		2002: Test
+		2003: Test 2
+	section Stade sensorimoteur (0-2 ans)
+		Stade réflexe (0-1 mois): Aucune permancence de l'objet: etnhd
+		2002: Test
+		2003: Test 2
 ```
 ##  0-2 - stade sensorimoteur
 

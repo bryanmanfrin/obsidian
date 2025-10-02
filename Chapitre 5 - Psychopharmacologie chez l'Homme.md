@@ -20,7 +20,7 @@ Ici, l'introduction est réduite et présente brièvement l'hypothèse.
 
 2.A Constitution des groupes de sujets - Affectation aléatoire
 	On répartit de manière équitable dans les deux conditions de traitement toutes les variables externes qui pourraient influencer la VD; par exemple, des gens de tous âges dans les deux groupes. 
-	Dans le cas de la caféine, on essaye de répartir les gens dans les groupes en incluant tous niveaux de ***==tolérance==***.
+	Dans le cas de la caféine, on essaye de répartir les gens dans les groupes en incluant tous niveaux de ***tolérance***.
 
 3.A Opérationnalisation de la VI
 	Démarche utilisée pour administrer le traitement, injecter la caféine, bref manipuler la VI. Ceux qui boivent du café, quelle dose on leur donne? Est-ce qu'on donne la même chose à tout le monde? 

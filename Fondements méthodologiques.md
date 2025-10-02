@@ -17,7 +17,6 @@
 
 [[Podcast 1 - Psychologie expérimentale et méthode scientifique]]
 
-
 [[Méthodo - Synthèse]]
 Concepts centraux
 

@@ -5,12 +5,24 @@
         "Mod"
       ],
       "key": "ArrowLeft"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
     }
   ],
   "heycalmdown-navigate-cursor-history:cursor-position-forward": [
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Alt"
       ],
       "key": "ArrowRight"
     }

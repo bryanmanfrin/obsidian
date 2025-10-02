@@ -1,6 +1,6 @@
 ==*Si une seule étape n’a pas de lien avec la  précédente = non acquis*==
 # Décrire
-> Une description de la situation telle qu'elle a été vécue, avec ce qui a bien été et ce qui a moins bien été. On ne cherche pas encore les causes, on observe.
+> Une description de la situation telle qu'elle a été vécue, avec ce qui a bien été et ce qui a moins bien été. On ne cherche pas encore les causes, on observe. Décrire les émotions, les ressentis.
 
 *Combien d'examens ai-je présentés ?*  
 *Combien, avant d'avoir les résultats, pensais-je avoir réussis?*  
@@ -43,7 +43,7 @@ Les éléments problématiques relevés sont les suivants: la planification trè
 Pour la planification, je fais une attribution interne sur laquelle j'ai le contrôle.
 # Analyser
 > Si la section précédente décrivait la problématique de façon générale, celle-ci permet de rentrer dans les détails de chaque point soulevé. 
-> Je prends toutes les informations relatives aux questions que je me suis posées auprès de différentes sources (références, collègues) pour répondre à des sous-questions sur les questions que je me suis posées dans la section problématiser. On peut les observer sous l'angle des attributions causales. REFLEXION
+> Je prends toutes les informations relatives aux questions que je me suis posées auprès de différentes sources (références, collègues, cours) pour répondre à des sous-questions sur les questions que je me suis posées dans la section problématiser. On peut les observer sous l'angle des attributions causales. REFLEXION
 
 
 

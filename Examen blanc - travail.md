@@ -64,8 +64,6 @@ Toutes les réponses
 
 10 - Selon Robert (1988), « l’aptitude d'une technique ou d'un instrument à donner une image authentique du problème analysé, compte tenu du type de méthode d’acquisition des connaissances adopté ou des types d’interrogation du chercheur» est dénommée :
 
-En attente du prochain clap
-
 La validité externe: généralisation auprès de la population
 La fidélité: si le test est fidèle, il devrait être *reproductible*
 L'objectivité: (vs subjectivité) i.e. indépendant d'un évaluateur
