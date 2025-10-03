@@ -1,14 +1,97 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "5eaff017460b5dea",
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "cd752cca6ef40b61",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "09844c8b837d8278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement professionnel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Développement professionnel"
+            }
+          },
+          {
+            "id": "8fd69bf6ec6b4451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthropologie biologique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthropologie biologique"
+            }
+          },
+          {
+            "id": "562ed15144a6589e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie sociale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychologie sociale"
+            }
+          },
+          {
+            "id": "0c0c5903b2eb4d95",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "DPPP - Examen.md",
+                "staged": false
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "42c4375ae6821437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement professionnel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Développement professionnel"
+            }
+          },
+          {
+            "id": "7ae4d6dc3f543917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DPPP - Examen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DPPP - Examen"
+            }
+          },
+          {
+            "id": "938e91da510daf7c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,105 +107,49 @@
             }
           },
           {
-            "id": "79dcb362a0834e3b",
+            "id": "6148267b31aa1f44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2 - Psychologie différentielle - Intelligence.md",
+                "file": "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B2 - Psychologie différentielle - Intelligence"
+              "title": "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques"
             }
           },
           {
-            "id": "8c6713e7c7c2daf9",
+            "id": "48e8be6be4995afa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTEL - La mesure des différences individuelles.md",
+                "file": "MRQ - Les types de recherche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTEL - La mesure des différences individuelles"
+              "title": "MRQ - Les types de recherche"
             }
           },
           {
-            "id": "a877f45b4e2fcfbd",
+            "id": "8cf34b8996c5484b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTEL - La mesure des différences individuelles.md",
+                "file": "B2 - Psychologie biologique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTEL - La mesure des différences individuelles"
+              "title": "B2 - Psychologie biologique"
             }
           },
           {
-            "id": "63b1606f639bc68a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - Psychologie différentielle - Intelligence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - Psychologie différentielle - Intelligence"
-            }
-          },
-          {
-            "id": "40977b7ae2fd2709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTEL - Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "INTEL - Introduction"
-            }
-          },
-          {
-            "id": "5721b898387ca7f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - Psychologie de la santé.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - Psychologie de la santé"
-            }
-          },
-          {
-            "id": "bc3d60b626c894f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SANTE - La maladie chronique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SANTE - La maladie chronique"
-            }
-          },
-          {
-            "id": "40f8e25700320769",
+            "id": "71062d6097c8d6dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,35 +163,63 @@
             }
           },
           {
-            "id": "338fba9c544dd067",
+            "id": "d7e61d7d64ddb6d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYSIO - Introduction.md",
+                "file": "PHYSIO - Le système nerveux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHYSIO - Introduction"
+              "title": "PHYSIO - Le système nerveux"
             }
           },
           {
-            "id": "82e09482086055ad",
+            "id": "5253a00716c89eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEON - Empathie & sympathie.md",
+                "file": "Module 7 - Devis expérimentaux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DEON - Empathie & sympathie"
+              "title": "Module 7 - Devis expérimentaux"
+            }
+          },
+          {
+            "id": "a5480cbb5634b6fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYBIO - Le cas JG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PSYBIO - Le cas JG"
+            }
+          },
+          {
+            "id": "af950bb84137d84c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11-03 - intervenante.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11-03 - intervenante"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -184,9 +239,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "métal",
-                "matchingCase": true,
-                "explainSearch": false,
+                "query": "factoriel",
+                "matchingCase": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -231,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "INTEL - La mesure des différences individuelles.md",
+                "file": "MRQ - Les types de recherche.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,14 +314,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of INTEL - La mesure des différences individuelles"
+              "title": "Graph of MRQ - Les types de recherche"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -275,7 +330,7 @@
       {
         "id": "cb10153b7d2ab192",
         "type": "tabs",
-        "dimension": 47.74566473988439,
+        "dimension": 53.70370370370372,
         "children": [
           {
             "id": "4b5904ac5530bea0",
@@ -310,12 +365,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Why men rebel.md"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Why men rebel"
             }
           },
           {
@@ -334,7 +387,7 @@
       {
         "id": "b823bd895026eaab",
         "type": "tabs",
-        "dimension": 23.121387283236995,
+        "dimension": 23.14814814814814,
         "children": [
           {
             "id": "638e408a0fc9a855",
@@ -342,7 +395,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTEL - La mesure des différences individuelles.md",
+                "file": "MRQ - Les types de recherche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +405,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for INTEL - La mesure des différences individuelles"
+              "title": "Backlinks for MRQ - Les types de recherche"
             }
           }
         ]
@@ -360,7 +413,7 @@
       {
         "id": "dcb560491107237e",
         "type": "tabs",
-        "dimension": 29.13294797687861,
+        "dimension": 23.14814814814814,
         "children": [
           {
             "id": "73a7e30836c00c59",
@@ -376,10 +429,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -391,54 +445,54 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8c6713e7c7c2daf9",
+  "active": "48e8be6be4995afa",
   "lastOpenFiles": [
-    "B2 - Psychologie différentielle - Intelligence.md",
-    "INTEL - La mesure des différences individuelles.md",
+    "MRQ - Les types de recherche.md",
+    "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques.md",
     "Home.md",
-    "INTEL - Introduction.md",
-    "SANTE - La maladie chronique.md",
-    "B2 - Psychologie de la santé.md",
-    "PHYSIO - Introduction.md",
+    "PHYSIO - Le système nerveux.md",
     "B2 - Physiologie.md",
-    "DEON - Empathie & sympathie.md",
-    "B2 - Déontologie.md",
-    "B2 - Psychologie systémique.md",
-    "B2 - Psychologie de l'éducation scolaire.md",
-    "Untitled 3.md",
+    "PHYSIO - Introduction.md",
     "PSYBIO - La psychologie biologique.md",
     "B2 - Psychologie biologique.md",
-    "Développement.md",
-    "Perso.md",
-    "Psychologie de la personnalité.md",
-    "Introduction.md",
-    "DEON - Ethique & Morale.md",
-    "Développement cognitif.md",
-    "Psycho/Psychologie clinique/Introduction à la psychologie clinique.md",
-    "Orientation systémique.md",
-    "Psychologie clinique - Les différents courants.md",
-    "Psychologie clinique - Culture.md",
-    "B2- Psychologie du vieillissement.md",
+    "Module 7 - Devis expérimentaux.md",
+    "BDQ.md",
+    "PSYBIO - Le cas JG.md",
+    "B2 - Psychologie de la santé.md",
+    "DPPP - Examen.md",
+    "Florence Helleboudt (ASH et SSE).md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Stéréotypes préjugés discrimination explicites et hostiles.md",
+    "SANTE - La maladie chronique.md",
+    "Quantitatif & qualitatif.md",
+    "Psycho- viellissement - Examen.md",
+    "INTEL - La mesure des différences individuelles.md",
+    "INTEL - Introduction.md",
     "EVALUATION - Tagged.pdf",
-    "Pasted image 20250303115415.png",
-    "Pasted image 20250303115112.png",
-    "Pasted image 20250303113308.png",
+    "DEON - Ethique & Morale.md",
+    "DEON - Empathie & sympathie.md",
+    "B2-MRQ - Lexique.md",
+    "B2-MRQ - Introduction.md",
+    "3_0_Prenatal_naissance_2024_2025.pdf",
     "Pasted image 20250509141810.png",
+    "Arbre decisionnel.png",
+    "462553764_1231463131474786_7688113640270818824_n.jpg",
+    "Archive.zip",
+    "Archive.zip.sbqq96.part",
     "Pasted image 20250418152526.png",
-    "L'attention - lang & cog.pdf",
     "PSYC5867 MOD09-03 PRÉSENTIEL 9.pdf",
+    "L'attention - lang & cog.pdf",
+    "Questions de philosophie cours 5 Le cas Alain Vigneron 17 mars 2025.pdf",
+    "Psycho Perso 24-25-ULiege.pdf",
+    "Podcast - quantitatif",
     "Pasted image 20250410173330.png",
     "Pasted image 20250410172229.png",
     "Pasted image 20250410172034.png",
     "Pasted image 20250410170158.png",
     "Pasted image 20250410170135.png",
-    "04_Perception3_Patterns, objets et visages_web - Tagged.pdf",
-    "Cours 04A_Illusions visuelles_web - Tagged.pdf",
-    "PSYC5867 MOD08-3 PRÉSENTIEL 8.pdf",
-    "Cours 03_Perception2_web - Tagged.pdf",
-    "Psycho Perso 24-25-ULiege.pdf",
-    "Cours 02_Perception1_web - Tagged.pdf",
-    "07_Stress au travail - Le burnout_20032025.pdf",
+    "Pasted image 20250410170102.png",
+    "PSYC5867 Module 7 - Devis expérimentaux (Présentiel).pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

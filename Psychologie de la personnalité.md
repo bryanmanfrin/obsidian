@@ -375,7 +375,7 @@ Les environnements non partagés ont la plus grande influence.
 Si on veut changer de personnalité, changer notre ouverture, on peut changer d'environnement non-partagé.
 
 40% d'influence génétique
-60% d'influence de l'environnement (10% non-partagé, 50% de l'environnement partagé).
+60% d'influence de l'environnement (10% partagé, 50% de l'environnement non-partagé).
 
 Il existe une bonne différence de ressemblance entre les jumeaux identiques (très semblables, même si élevés séparément). Ceci permet de confirmer l'absence d'influence de l'environnement partagés n'ont pas beaucoup d'influence. Cette ressemblance existe mais est moins forte chez des dizygotes. 
 

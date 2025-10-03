@@ -41,5 +41,39 @@ On ôte l'hippocampe d'un rat ("si on enlève cette partie du cerveau, le sujet 
 les oiseaux qui cachent leur nourriture ont un hippocampe plus volumineux que les autres.
 
 
+**Avantages à travailler avec le sujet animal**:
+- approche expérimentale souvent impossible avec l'humain - même si la qualité de la recherche chez l'animal reste à démontrer
+- le cerveau des animaux présente des similitudes avec l'humain et peut aider à comprendre le nôtre
+
+**Cube de Bateson sur l'analyse coût-bénéfice**
+Parfois, certaines expériences qui n'étaient pas jugées importantes ont mené à de grandes découvertes. Inversement, des études supposées importantes n'ont finalement eu que peu d'effet. L'analyse coût-bénéfice est donc difficile à estimer aux premiers abords.
+
+
+# [[PSYBIO - Le cas JG|Le cas JG,  l'homme gelé dans le temps]]
+
+# Les types d'études
+
+**Etude de cas**
+Sujet unique, examen fouillé du cas présent.
+
+**Etudes quasi-expérimentales**
+Dans les études quasi-expérimentales, on l'assignation n'est pas aléatoire (on assigne les alcooliques à un groupe, les sains à un autre). Ensuite, les conclusions seront beaucoup plus difficiles à tirer; de mauvaises performances sont-elles vraiment liées à l'alcool? Peut-être est-ce plutôt une mauvaise alimentation, niveau d'éducation différent, propension à d'autres toxicomanies. *Variables confondantes non-neutralisées*.
+
+Appariement sur base de l'âge, du QI, du régime alimentaire, etc.
+
+On peut étudier l'animal comme le rat (ie. effet de l'alcool sur les lésions cérébrales) et on remarque que l'inhibition de la thiamine chez le rat.
+
+La présentation d'un nouveau partenaire incite à une nouvelle activité sexuelle, chez le mâle comme chez la femelle.
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -1,5 +1,7 @@
+
 ----
 ![[EVALUATION - Tagged.pdf#page=8]]
+
 # Décrire
 > Une description de la situation telle qu'elle a été vécue, avec ce qui a bien été et ce qui a moins bien été. On ne cherche pas encore les causes, on observe.
 
