@@ -1,97 +1,14 @@
 {
   "main": {
-    "id": "5eaff017460b5dea",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "cd752cca6ef40b61",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "09844c8b837d8278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement professionnel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Développement professionnel"
-            }
-          },
-          {
-            "id": "8fd69bf6ec6b4451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthropologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthropologie biologique"
-            }
-          },
-          {
-            "id": "562ed15144a6589e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychologie sociale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psychologie sociale"
-            }
-          },
-          {
-            "id": "0c0c5903b2eb4d95",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "DPPP - Examen.md",
-                "staged": false
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "42c4375ae6821437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement professionnel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Développement professionnel"
-            }
-          },
-          {
-            "id": "7ae4d6dc3f543917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DPPP - Examen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DPPP - Examen"
-            }
-          },
-          {
-            "id": "938e91da510daf7c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -105,121 +22,8 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "6148267b31aa1f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques"
-            }
-          },
-          {
-            "id": "48e8be6be4995afa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MRQ - Les types de recherche.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MRQ - Les types de recherche"
-            }
-          },
-          {
-            "id": "8cf34b8996c5484b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - Psychologie biologique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - Psychologie biologique"
-            }
-          },
-          {
-            "id": "71062d6097c8d6dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - Physiologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - Physiologie"
-            }
-          },
-          {
-            "id": "d7e61d7d64ddb6d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYSIO - Le système nerveux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PHYSIO - Le système nerveux"
-            }
-          },
-          {
-            "id": "5253a00716c89eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 7 - Devis expérimentaux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Module 7 - Devis expérimentaux"
-            }
-          },
-          {
-            "id": "a5480cbb5634b6fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYBIO - Le cas JG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PSYBIO - Le cas JG"
-            }
-          },
-          {
-            "id": "af950bb84137d84c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11-03 - intervenante.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11-03 - intervenante"
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MRQ - Les types de recherche.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -314,7 +118,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MRQ - Les types de recherche"
+              "title": "Graph of Home"
             }
           }
         ]
@@ -395,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MRQ - Les types de recherche.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +209,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MRQ - Les types de recherche"
+              "title": "Backlinks for Home"
             }
           }
         ]
@@ -445,11 +249,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "48e8be6be4995afa",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "B2 - Psychologie systémique.md",
+    "B2- Psychologie du vieillissement.md",
+    "Home.md",
+    "06-05 - Lemauvais - Psychologie du vieillissement.md",
     "MRQ - Les types de recherche.md",
     "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques.md",
-    "Home.md",
     "PHYSIO - Le système nerveux.md",
     "B2 - Physiologie.md",
     "PHYSIO - Introduction.md",
@@ -471,9 +278,6 @@
     "INTEL - Introduction.md",
     "EVALUATION - Tagged.pdf",
     "DEON - Ethique & Morale.md",
-    "DEON - Empathie & sympathie.md",
-    "B2-MRQ - Lexique.md",
-    "B2-MRQ - Introduction.md",
     "3_0_Prenatal_naissance_2024_2025.pdf",
     "Pasted image 20250509141810.png",
     "Arbre decisionnel.png",
