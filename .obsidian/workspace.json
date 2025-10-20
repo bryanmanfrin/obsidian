@@ -43,7 +43,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "factoriel",
+                "query": "dewey",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -249,11 +249,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "291ca3e021573c5f",
   "lastOpenFiles": [
     "B2 - Psychologie systémique.md",
-    "B2- Psychologie du vieillissement.md",
     "Home.md",
+    "B2- Psychologie du vieillissement.md",
+    "Psycho- viellissement - Examen.md",
+    "Untitled 4.md",
+    "B2 - Psychologie de l'éducation scolaire.md",
     "06-05 - Lemauvais - Psychologie du vieillissement.md",
     "MRQ - Les types de recherche.md",
     "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques.md",
@@ -273,11 +276,8 @@
     "Stéréotypes préjugés discrimination explicites et hostiles.md",
     "SANTE - La maladie chronique.md",
     "Quantitatif & qualitatif.md",
-    "Psycho- viellissement - Examen.md",
     "INTEL - La mesure des différences individuelles.md",
-    "INTEL - Introduction.md",
     "EVALUATION - Tagged.pdf",
-    "DEON - Ethique & Morale.md",
     "3_0_Prenatal_naissance_2024_2025.pdf",
     "Pasted image 20250509141810.png",
     "Arbre decisionnel.png",

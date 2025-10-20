@@ -101,6 +101,48 @@ L'analogique a un effet beaucoup plus puissant que les traitements cognitifs du 
 Relation: analogique, gestes, pas de syntaxe compliquée.
 Contenu: digital à décoder, enchaînement de mots avec une syntaxe.
 
+Des larmes peuvent être interprétées de façon différentes selon le contexte, joie, tristesse.
+
+### 4 - La nature d'une relation dépend de la ponctuation 
+Une série de communications peut être considérée comme une séquence interrompue d'échanges. Action/réactions, actions/réactions = séquence d'échanges. 
+Chaque interlocuteur ponctue la séquence des événements de manière à établir des relations de cause à effet qui servent sa propre lecture de la situation.
+
+"J'arrête de te contacter parce que tu n'as plus répondu à mes messages
+Tu n'envoies plus de messages donc j'arrête de te contacter."
+µ
+Chacun perçoit son comportement comme une réaction logique au comportement de l'autre, créant une boucle sans fin. 
+
+Une croyance qui n'est pas en accord avec la réalité va tout de même créer des comportements en accord avec la vision distordue que l'on a. Ces comportements défensifs vont paradoxalement mener la personne à réaliser la croyance initialement fausse.
+Exemple: Je me sens seule donc je vais agir comme une personne qui s'isole. En agissant ainsi, je m'isole effectivement, alors qu'au début, ce n'était qu'une fausse croyance.
+
+*Interaction symétrique*: fondée sur l'égalité - frère et soeur
+On sait difficilement distinguer une personne qui a l'ascendant sur l'autre. 
+*Interaction complémentaire*: fondée sur la différence - père et fils.
+
+Donner raison à l'autre coute moins cher que 
+Complémentarité trop rigide dans une relation de dépendance affective, acceptent une violence affective.
+
+Avec la connaissance de la cybernétique et des 5 axiomes, on peut observer tout échange entre 2 interlocuteurs. 
+Mais dans la réalité des relations, il n'y a pas qu'un seul échange au sein d'une relation. Un échange va être conditionné ET influencer les échanges suivants.
+Une relation n'est pas une séquence d'échanges juxtaposés => **non-sommativité**
+Je me sers de ce que j'ai appris de mes échanges précédents pour adapter les échanges suivants. 
+L'apprentissage créé des patterns qui deviendront plus fréquents => phénomène de ***redondance*** dans la communication. Comme dans un jeu d'échecs, une infinité de coups existe, pourtant il existe quand même des patterns récurrents. 
+
+***Redondance:***
+*Avantages*: mieux préparé à affronter une situation.
+*Risques*: généralisation des patterns à des situations où elles ne sont pas applicables.
+Plus les patterns sont abstraits, plus ils sont difficiles à conscientiser.
+
+
+Expliciter les règles relationnelles -> métacommunication
+
+
+
+
+
+
+
+
 
 
 
