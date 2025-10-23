@@ -1,0 +1,1 @@
+Incapacité à stocker de nouvelles informations en mémoire à long terme; depuis, il vit dans le passé.

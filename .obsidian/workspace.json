@@ -64,9 +64,22 @@
               "icon": "lucide-file",
               "title": "B2 - Psychologie biologique"
             }
+          },
+          {
+            "id": "8d01d739163e600b",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (conflict-files-obsidian-git)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "B2 - Psychologie biologique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of B2 - Psychologie biologique"
+              "title": "Graph view"
             }
           }
         ]
@@ -245,7 +257,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B2 - Psychologie biologique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for B2 - Psychologie biologique"
+              "title": "Backlinks"
             }
           }
         ]
@@ -295,8 +306,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "291ca3e021573c5f",
+  "active": "8d01d739163e600b",
   "lastOpenFiles": [
+    "B2 - Physiologie.md",
+    "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques.md",
+    "B2- Psychologie du vieillissement.md",
+    "conflict-files-obsidian-git.md",
+    "B2 - Psychologie biologique.md",
+    "PSYBIO - Le cas JG.md",
+    "PHYSIO - Le système nerveux.md",
+    "MRQ - Les types de recherche.md",
     "Untitled 4.md",
     "SYS - cybernétique appliquée à la thérapie familiale.md",
     "SYS - cybernétique appliquée à la pratique clinique.md",
@@ -308,21 +327,14 @@
     "INTEL - L'origine des différences individuelles.md",
     "DEON - Le cadre et le consentement.md",
     "DEON - Code de déontologie.md",
-    "B2 - Psychologie biologique.md",
     "Home.md",
     "B2 - Déontologie.md",
     "B2 - Psychologie systémique.md",
     "INTEL - La mesure des différences individuelles.md",
     "B2 - Psychologie de la santé.md",
     "SANTE - La maladie chronique.md",
-    "B2- Psychologie du vieillissement.md",
-    "B2 - Physiologie.md",
     "PHYSIO - Introduction.md",
-    "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques.md",
     "PSYBIO - La psychologie biologique.md",
-    "B2 - Psychologie différentielle - Intelligence.md",
-    "Arbre décisionnel.md",
-    "DEON - Ethique & Morale.md",
     "EVALUATION - Tagged.pdf",
     "Pasted image 20250303115415.png",
     "Pasted image 20250303115112.png",
