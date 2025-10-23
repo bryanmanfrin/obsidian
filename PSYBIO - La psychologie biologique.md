@@ -35,11 +35,54 @@ On ôte l'hippocampe d'un rat ("si on enlève cette partie du cerveau, le sujet 
 
 **psychophysiologie**: relation entre activité physiologique et processus psychologiques. Mesures non invasives (mouvements oculaires, conductance électrique de la peau, dilatation des pupilles, etc).
 
-**neurosciences cognitives**: 
+**neurosciences cognitives**: on utilise un outil d'imagerie cérébrale, décortiquer le réseau neuronal pour expliquer ce qui sous-tend la fonction.
 
 **psychologie comparative**:
 les oiseaux qui cachent leur nourriture ont un hippocampe plus volumineux que les autres.
 
 
 
+
+
+Formulation d'expériences
+
+Effet Coolidge: réduction du temps de copulation si le partenaire est familier. 
+Q1: 
+---
+![[Pasted image 20251009160207.png]]Mixte: on étudie un facteur avec un groupe indépendant et l'autre est testé avec des mesures répétées.
+*Plan factoriel mixte 2 (familier non familier ) x 3 (T1, T2, T3)*
+Q2: 
+---
+Ici, il y a deux VI parce que 
+VI1 : familiarité du mâle (2 modalités: familier ou non)
+VI2 : L'instance de mâle dans l'expérience (3 modalités: mâle 1, mâle 2, mâle 3) 
+
+Q3:
+---
+VD: Durée moyenne des lordoses
+
+Q4:
+--- 
+Deux concepts méthodologiques importants en lien avec la nature de la VD.
+Définir les critères d'observation - définition de l'unité comportementale observée.
+Fidélité interjuge - deux observateurs différents devraient quantifier le comportement de la même manière. 
+
+Q5:
+---
+Quels sont les effets à analyser étant donné le plan expérimental employé ?
+L'effet de la familiarité à travers les deux groupes. On veut savoir si l'effet est influencé par la familiarité
+
+Q6:
+---
+Quel risque encourt-on si, dans l'expérience, on ne considère comme résultat que la durée de la lordose au temps 3 ? (Nom du risque + Raison du risque)
+
+Biais de sélection: on aurait pu avoir 2 groupes de femelles inégales à leur propension à entamer un comportement de copulation. 
+Une durée pourrait être plus ou moins courte juste par différence de motivation. La mesure répétée est là pour montrer que la propension en T1 et T2 sont égales entre les deux groupes. 
+
+Matrice:
+
+|              | T1                | T2  | T3  |
+| ------------ | ----------------- | --- | --- |
+| Familier     | durée T1 familier |     |     |
+| Non Familier |                   |     |     |
 

@@ -22,4 +22,20 @@ Inductive: on va chez des gens pour savoir ce qu'ils pensent de l'insécurité
 La règle 1/10 prétend qu'il faut 10 fois plus de personnes que de question posées. 
 
 
+## L'analyse factorielle 
+--- 
+On résume dans des facteurs un grand nombre de variables et on essaye de retirer deux facteurs: le "facteur verbal" - vocabulaire, syntaxe, et le "facteur de performance" - puzzles, logique.
+Un facteur est une variable latente, càd qui ne veut rien dire seule. Elle est construite à partir d'une série de résultats dans différentes épreuves. Le facteur cause la réussite aux épreuves et pas l'inverse. 
+Exemple: 
+On met dans des boites ce qui se ressemble. Lors d'un déménagement, les pantalons vont dans une même boite, sauf si on considère pantalons et pantalons larges, alors on fait 2 boites. Si on ajoute des critères qui les différencient, on ne saura plus trouver de similitudes entre les pantalons et on pourrait avoir 50 boites pour 50 pantalons. 
+Boite: facteur
 
+La saturation va de -1 à +1. Elle représente l'influence qu'a un facteur sur une variable (proportion de variance expliquée par le facteur). Le nom du facteur, c'est nous qui devons le trouver sur base d'une hypothèse (exemple de facteur: l'extraversion).
+
+Spearman a tenté de trouver un facteur G qui serait un facteur latent qui conditionne notre réussite dans toutes les épreuves. Ce facteur serait un facteur qui serait fortement corrélé à tous les tests et prédirait des performances générales. Chaque personne aurait un score sur base de ce facteur $g$.
+
+
+
+
+
+ 

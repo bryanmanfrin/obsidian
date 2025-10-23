@@ -118,3 +118,33 @@ Difficulté d'être actif (ascenseurs, escalators)
 Faible prix des plats préparés qui dissuadent de faire des courses et cuisiner.
 
 
+
+
+## Les Maladies coronariennes.
+---
+
+Une maladies cardiovasculaires sont un groupe de troubles du coeur et des vaisseaux sanguins. 
+
+Les maladies **coronariennes**: maladie cardiovasculaire alimentant le **coeur**
+Maladies **cérébrovasculaires**: : maladie des vaisseaux sanguins alimentant le **cerveau**
+Maladies artérielles **périphériques**: maladie est vaisseaux sanguins alimentant les **bras et les jambes**.
+thromboses veineuses profondes et embolie pulmonaire: caillots sanguins dans les veines des jambes qui peuvent se déloger et arriver au coeur ou aux poumons. 
+
+L'**angine** est une douleur aigue de la poitrine qui se répand dans le bras gauche. Flux sanguin limité, afflux vers le coeur trop faible.
+
+Les maladies cérébrovasculaires provoquent un accident vasculaire cérébral en raison d'un blocage empêchant le sang de circuler vers le cerveau.
+
+En Belgique, les maladies cardiovasculaires
+
+### Les facteurs de risque
+*La nicotine*: réduit l'apport en oxygène car la nicotine se pose sur les récepteurs d'oxygène.
+*L'alimentation*
+*L'obésité*
+*La pression artérielle élevée*
+*Les personnalités de type A et l'hostilité:* personnes visant la performance, peu de place aux émotions. Faire la tâche à la place de l'autre, presser l'autre, être agressif.
+*Le stress*:
+
+### Les conséquences
+*L'anxiété*: peur de reproduire un infarctus, peur de faire une effort. Je ne suis plus qu'une demi personne. On se perçoit comme un handicapé.
+*L'état de stress post-traumatique*: Moment de rencontre avec la maladie, peut amener une sensation de mourir. 
+Recherche de sens: "pourquoi moi?". Apparait plus tard que pour le VIH ou les cancers car on est d'abord dans la résolution de problème; on sait que c'est quelque chose qu'on peut traiter plus facilement. 
