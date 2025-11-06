@@ -85,3 +85,91 @@ mots-clés: *laisser-faire*, *refus d'autorité*, *perte de temps si forcé*
 
 # Behaviorisme
 On essaie de ne pas spéculer sur ce qui se passe dans la tête mais on se contente de modifier l'environnement. 
+
+
+# Enseignement
+Dérives du conditionnement répondant en matière de communication: un professeur va probablement teinter ses propose avec un peu de mépris pour des idées auxquelles il n'adhère pas, ou d'enthousiasme s'il y adhère. 
+*Solution*: si on ne sait pas changer le prof, il faut forger l'esprit critique des élèves. 
+
+
+**Dr Fox effect:**
+effet de halo: influence de tous paramètres affectifs sur l'évaluation de la performance. On peut être influencé par des paramètres non-liés à la maitrise du sujet. 
+Solution: informer les profs et développer des grilles d'évaluation critériées. 
+
+Expression qui désigne notamment l'influence de l'expressivité de l'enseignant (qualité d'orateur) sur l'appréciation que les étudiants portent sur son cours. (discours de Dr Fox devant des étudiants, charabia semblant faire sens mais bonne expressivité). 
+
+
+## Thorndike et l'enseignement
+---
+L'habileté du sujet à apprendre dépend de sa capacité à modifier son système neuronal. 
+
+En considérant la loi de l'exercice et la loi de l'effet, on pourrait penser qu'il voudrait favoriser les essais erreurs. En réalité son approche est plutôt de faire du drill and practice, répétition de la même chose, approche dirigée, n'inclus pas .
+- Toute compétence se ramène à une série de connexions qui doivent être apprises
+- Toutes les compétences doivent être apprises aux enfants car ceux-ci ne sont pas capables d'inférer à partir de ce qu'ils connaissent déjà (simple plus plus complex, on leur apprend tout).
+- Il est important de décomposer les apprentissages en sous-compétences afin de partir du simple au complexe. 
+
+Attention: le drill répétitif tel que le propose Thorndike ne permet pas la compréhension profonde de nombres et d'opérations. 
+
+Mélange des bonnes pratiques
+Maitriser les procédures élémentaires n'est pas suffisant pour aborder des tâches complexes.
+Il faut aussi apprendre à décomposer la complexité pour pouvoir la traiter comme une suite d'éléments simples. 
+Il faut un mix de compréhension et de drill. 
+
+
+## Skinner
+---
+Apprentissage sans erreur pour éviter d'apprendre des erreurs. 
+L'**enseignement programmé** de Skinner: reçoivent un feedback immédiat sur la validité de leur réponse. 
+- Obligation de fournir une réponse
+- Feedback immédiat (avec des sortes de calculatrices qui valident/invalident la réponse)
+- Focaliser l'attention de l'élève sur un segment de manière très précisément ciblé
+
+
+Il veut motiver les élèves par la réussite, car la réussite est motivant. 
+Il critique les punitions, on renforce les comportements positifs uniquement, pas punir les mauvais. 
+Ne veut pas attribuer de notes.
+Fait miroiter des perspectives d'avenir professionnel. 
+
+**L'enseignement programmé (machine à corriger):**
+\+ progresser au rythme de chaque élève
+\+ gérer son apprentissage de façon autonome
+\+ jouer un rôle majeur dans l'évaluation des progrès
+
+\- volonté d'éviter des erreurs
+\- négliger les interactions sociales
+
+Mélange des bonnes pratiques
+Enseignement individualisé <> enseignement différencié (mieux)
+Mélanger des moments qui sont collectifs et individuels. 
+
+**L'analyse fonctionnelle de Skinner**
+l'élève va chercher des renforcements positifs. S'il n'en trouve pas (parce qu'on ne lui en donne pas, on ne le questionne pas), alors il va chercher des renforcements dans d'autres activités (discuter avec son voisin, gribouiller, etc). 
+Les comportements perturbateurs peuvent être expliqués par un manque de renforcements lors de moments de participation
+
+**Le renforcement de la main levée:** 
+- ceux qui lèvent la main vont être interrogés, prendre l'habitude et lever la main
+- ceux qui ne lèvent pas la main ne vont pas être interrogés, prendre l'habitude et ne pas lever la main. 
+*Solution*: sollicitations personnalisées (target les élèves, les questionner). 
+
+
+## Bloom
+---
+Pour Bloom, l'objectif de l'école **n'est pas** de favoriser l'épanouissement des potentialités propres à chacun. => objectif pas assez ambitieux pour lui. 
+Potentialités? C'est propre à chaque élève. On ne cultive pas les différences, on souhaite prendre tout le monde avec à un même rythme pour les faire atteindre les mêmes compétences. 
+Tout le monde est capable de tout apprendre, l'aptitude de base ne conditionne que la vitesse d'apprentissage mais jamais le niveau maximal. 
+Apprendre s'apprend. 
+
+Formule de Caroll
+
+$\text{Degré d'apprentissage} = \dfrac{\text{temps consacré}}{\text{temps nécessaire}}$
+
+Avec la pédagogie de la maitrise de Bloom, l'importance de pratiquer régulièrement des évaluations formatives a été mise en exergue.
+
+Pédagogie de la maitrise
+Enseignement collectif
+\+ Tests formatifs
+\+ Procédures de remédiation
+
+
+
+

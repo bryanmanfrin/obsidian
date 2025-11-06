@@ -144,7 +144,9 @@ On étudie l'intelligence de l'animal (un chat) pour voir quels moyen il met en 
 
 On remarque l'apprentissage essai-erreur.
 
-**Loi de l'effet**: probabilité que le comportement se reproduise va augmenter progressivement au fil du temps à condition que le comportement soit suivi d'une récompense agréable (si il avait un choc, il resterait dans sa cage).
+**Loi de l'effet**: probabilité que le comportement se reproduise va augmenter progressivement au fil du temps à condition que le comportement soit *suivi d'une récompense agréable* ( ou inversement, si il avait un choc, il resterait dans sa cage).
+
+**Loi de l'exercice:** La probabilité d'émission d'une réponse correct avec le nombre d'essais effectués 
 
 L'animal comprend que la conséquence de l'action est quelque chose d'agréable et va le répéter (conditionnement par renforcement positif).
 

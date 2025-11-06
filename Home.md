@@ -21,7 +21,7 @@
 > # [[B2 - Psychologie de la santé]]
 > # [[B2 - Psychologie différentielle - Intelligence]]
 > # [[B2 - Psychologie biologique]]
-> # [[B2 - Psychologie de l'éducation scolaire]]
+> # [[B2 - Psychologie des apprentissages scolaires]]
 > # [[B2 - Physiologie]]
 
 

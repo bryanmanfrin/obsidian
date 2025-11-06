@@ -52,6 +52,66 @@ On ne peut pas être ignorant totalement d'une situation. L'observation naïve n
 *Cadre conceptuel*: on doit construire un cadre conceptuel, définir les concepts centraux à notre recherche. 
 *Cadre théorique*: Articuler les concepts entre eux puis en tirer une théorie. Exemple, la théorie de l'autodétermination contient la motivation, développement identitaire puis on en fait une théorie pour en donner une nouvelle grille de lecture. 
 
+
+### La focale
+Qui sont les personnes pertinentes à interroger pour mener mon étude? 
+On ne vise pas nécessairement la représentativité mais ciblés, raisonné.
+4 étapes
+:
+
+| Etapes                                  | Définition | Enjeux décisionnels clés                                                          |
+| --------------------------------------- | ---------- | --------------------------------------------------------------------------------- |
+| Définir un univers d'échantillonnage    |            | personnes homogènes ou hétérogènes? Critères d'inclusion, d'exclusion? <br> A par |
+| Définir la taille de l'échantillon      |            | Idiographique vs nomothétique                                                     |
+| Élaborer une stratégie d'échantillonage |            |                                                                                   |
+| Stratégie de recrutement                |            |                                                                                   |
+#### Définir un univers d'échantillonnage
+type d'échantillonnage *homogène*: personnes ayant vécu une situation précise
+type d'échantillonnage *maximum de variation*: je veux m'intéresser à un peu tout type de personnes faisant partie d'un groupe, même les cas extrêmes
+type d'échantillonnage *théorique*: sélection des participants sur la base de thèmes ou de concepts émergents. (je regroupe ceux qui ont réussi mon épreuve).
+type d'échantillonnage *cas extrêmes ou typiques*: je m'intéresse aux extrêmes ou cas typiques. 
+
+types d'homogénéité:
+homogénéité *démographique*: par territoire
+homogénéité *physique*: état de santé, toutes telles maladie
+homogénéité *psychologique*
+homogénéité *parcours de vie*
+
+
+#### Estimer la taille de l'échantillon 
+Objectif d'étudier un phénomène large (+d'individus)? précis (-d'individus)?
+population: +-homogène
+cadre théorique: plus on a de données préalables sur le phénomène - de population
+
+**Saturation**: on inclut les sujets jusqu'à atteindre la saturation théorique des données.
+**Puissance théorique**: La saturation n'est pas toujours possible... on s'arrête donc quand on estime que les données sont suffisantes pour expliquer le phénomène. 
+
+#### Stratégie d'échantillonnage
+1 - stratification: on créé un "tableau" comprenant les critères que je veux avoir représentés dans mon étude. 
+Homme, femmes, avec et sans enfants, entre 30-45 ans et 45-60 ans, etc.
+2 - par cellule: certaines catégories peuvent se chevaucher (1 phobie, 2 phobies, 3 phobies)
+3 - stratégie par quotas: nombre minimal: au moins 10 couples ayant vécu une situation A, 10 pour la situation B etc.
+
+#### Stratégie de recrutement
+publicité: pancartes, annonces
+pertinence: contact dans un centre spécialisé
+boule de neige: bouche à oreille, atteindre des personnes plus difficiles à atteindre. 
+convenance: personnes proches
+
+### La ligne d'horizon
+
+L'injustice épistémique: forme d'injustice liées à la connaissance, lorsque des personnes ou des groupes sont niées en tant que sujets connaissants; on nie leurs capacité à fournir la connaissance.
+
+**injustice testimoniale:**
+Décrédibilisé à cause de préjugés. Les femmes par exemple sont décrédibilisées dans la recherche et sont considérés comme moins à même à fournir des données sur leur corps. On interroge les parents sur ce que ressent un adolescent. 
+**injustices herméneutiques:** 
+on ne donne pas accès aux outils conceptuels pour comprendre ou exprimer son expérience. 
+Environs 50% de la population en Europe ont du mal à lire/écrire. Or les études utilisent des questionnaires, des questions complexes. Elles ne savent peut être pas se déplacer au centre de recherche. Ces personnes sont donc exclues indirectement. 
+
+### Conclusion
+La recherche est un processus de construction, aucune vérité ne sort du réel, neutre. La construction ne doit pas nous faire tomber dans un relativisme radical (les études ne valent rien à cause de tous les biais, la construction propre au chercheur).
+Il s'agit toujours d'une fabrication à partir du réel.
+
 ## 5 types d'analyse
 ---
 ***L'analyse phénoménologique*** - Analyse de l'*expérience* par l'individu
@@ -79,3 +139,54 @@ Discours fondés sur ce qu'ils perçoivent (sens altérés?)
 Une perception objective de la réalité n'existe pas
 Les attitudes et croyances sont variables à travers le temps, ne sont pas stables
 
+
+# L'entretien
+---
+Durant l'entretien, on obtient un *discours* (avec ses représentations) de ce qui a été vécu. 
+Rend compte du point de vue, de son expérience de l'évènement, de son vécu, ses savoirs, ses savoirs-faire, ses croyances, sans porter de jugement ni d'appréciation normative.
+
+Echange verbal entre deux personnes
+Vise à produire du savoir sur un phénomène (contrairement à une discussion dans un bar). 
+
+Dimensions d'accès au réalités vécues par un sujet:
+La dimension épistémique: l'entretien mobilise les connaissances du sujet dans le récit qu'il fait de son expérience.
+La dimension pragmatique:  Lorsqu'on vous a confronté à cette épreuve, quel sens avez vous créé, comment était-ce vécu?
+La dimension éthique: accès aux valeurs de la personne
+
+## Objectif de l'entretien
+Accès au sens, points de vue, analyse des situations
+
+Entretien de recherche <> entretien clinique
+
+|               | clinique / aide                      | recherche                         |
+| ------------- | ------------------------------------ | --------------------------------- |
+|               | Relation d'aide                      | Partage d'expériences, de savoir  |
+|               | Thérapie                             | Recherche                         |
+|               | La personne est demandeuse           | Le chercheur est demandeur        |
+|               | Mieux-être                           | Produire des savoirs              |
+|               | La personne                          | Le phénomène étudié               |
+| Type de suivi | Continu                              | Ponctuel                          |
+|               | Orientés vers la connaissance de soi | Orientés vers l'expression de soi |
+## 3 axes d'entretien
+### Directif - non directif
+**Directif**: questions standardisées, équivalent à un questionnaires
+\+ statistiques
+\+ rapidité
+\+ comparaison
+**Semi-directif**: on a des thèmes préparés mais on se laisse la marge pour laisser le participant dériver vers ce qu'il veut.
+\+ possibilité de clarification
+\+ vraie discussion
+**Non-directif**: on lance dans une direction et on laisse parler la personne. 
+\+ profondeur ++
+\+ développement de nouvelles hypothèses
+
+**Semi-directif et non directif**
+*Flexibilité*: permet de la *flexibilité*, adapter son contenu
+*Elaboration*: les participants peuvent clarifier leurs réponses
+*Compréhension contextualisée*: le participant propose son cadre pour nous permettre de comprendre ses réponses à travers son vécu. 
+
+
+## Préparation de l'entretien
+La formulation de la question importe beaucoup:
+"Parlez-moi de votre quartier": urbanisme, traffic etc
+"parlez moi de la vie ici": vie sociale, ressentis

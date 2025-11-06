@@ -24,62 +24,62 @@
             }
           },
           {
-            "id": "ead2687cb2be72c4",
+            "id": "dba3c4786c08c10b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2 - Psychologie systémique.md",
+                "file": "B2 - Psychologie de la santé.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B2 - Psychologie systémique"
+              "title": "B2 - Psychologie de la santé"
             }
           },
           {
-            "id": "88ffb56af0366556",
+            "id": "bb374c26c897267b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2 - Déontologie.md",
+                "file": "SANTE - La maladie chronique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B2 - Déontologie"
+              "title": "SANTE - La maladie chronique"
             }
           },
           {
-            "id": "8d17c68963d89542",
+            "id": "09368a10313553c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2 - Psychologie biologique.md",
+                "file": "B2 - Psychologie des apprentissages scolaires.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B2 - Psychologie biologique"
+              "title": "B2 - Psychologie des apprentissages scolaires"
             }
           },
           {
-            "id": "8d01d739163e600b",
+            "id": "b9dc2c86b80a917b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "INTEL - L'origine des différences individuelles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (conflict-files-obsidian-git)"
+              "icon": "lucide-file",
+              "title": "INTEL - L'origine des différences individuelles"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thorndi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +133,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3dcfc89bd62fef84",
@@ -147,6 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Home"
             }
           }
         ]
@@ -257,6 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +267,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Home"
             }
           }
         ]
@@ -290,7 +291,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,35 +307,40 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8d01d739163e600b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "B2 - Physiologie.md",
+    "INTEL - L'origine des différences individuelles.md",
+    "B2 - Psychologie différentielle - Intelligence.md",
+    "Home.md",
+    "SANTE - La maladie chronique.md",
+    "B2 - Psychologie de la santé.md",
+    "B2 - Psychologie des apprentissages scolaires.md",
+    "B2 - Psychologie des apprentissages scolaire.md",
+    "Chapitre 11 - Tests statistiques sur les corrélations et régressions.md",
+    "Chapitre 4 - Préalables aux statistiques inférentielles.md",
+    "Chapitre 5 - L'apprentissage.md",
+    "MRQ - Élaboration d'un protocole de recherche.md",
     "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques.md",
+    "Kivits  J. et Balard  F. (2016). Chapitre 2. La proble¿matisation ou l'importance de penser sa question de recherche.pdf",
+    "PHYSIO - Introduction.md",
+    "B2 - Physiologie.md",
+    "PSYBIO - Le système visuel.md",
+    "PHYSIO - Propriétés des membranes.md",
+    "PHYSIO - Le système nerveux.md",
+    "Pasted image 20251023173415.png",
+    "Pasted image 20251023173229.png",
+    "Pasted image 20251023172652.png",
+    "Pasted image 20251023161004.png",
+    "B2 - Psychologie biologique.md",
     "B2- Psychologie du vieillissement.md",
     "conflict-files-obsidian-git.md",
-    "B2 - Psychologie biologique.md",
     "PSYBIO - Le cas JG.md",
-    "PHYSIO - Le système nerveux.md",
     "MRQ - Les types de recherche.md",
     "Untitled 4.md",
     "SYS - cybernétique appliquée à la thérapie familiale.md",
     "SYS - cybernétique appliquée à la pratique clinique.md",
     "Pasted image 20251009160207.png",
-    "PSYBIO - Le système visuel.md",
     "PSYBIO - Approche comparative.md",
-    "PHYSIO - Propriétés des membranes.md",
-    "MRQ - Élaboration d'un protocole de recherche.md",
-    "INTEL - L'origine des différences individuelles.md",
-    "DEON - Le cadre et le consentement.md",
-    "DEON - Code de déontologie.md",
-    "Home.md",
-    "B2 - Déontologie.md",
-    "B2 - Psychologie systémique.md",
-    "INTEL - La mesure des différences individuelles.md",
-    "B2 - Psychologie de la santé.md",
-    "SANTE - La maladie chronique.md",
-    "PHYSIO - Introduction.md",
-    "PSYBIO - La psychologie biologique.md",
     "EVALUATION - Tagged.pdf",
     "Pasted image 20250303115415.png",
     "Pasted image 20250303115112.png",
@@ -343,17 +349,12 @@
     "Pasted image 20250418152526.png",
     "L'attention - lang & cog.pdf",
     "PSYC5867 MOD09-03 PRÉSENTIEL 9.pdf",
-    "Pasted image 20250410173330.png",
-    "Pasted image 20250410172229.png",
-    "Pasted image 20250410172034.png",
-    "Pasted image 20250410170158.png",
     "04_Perception3_Patterns, objets et visages_web - Tagged.pdf",
     "Cours 04A_Illusions visuelles_web - Tagged.pdf",
     "PSYC5867 MOD08-3 PRÉSENTIEL 8.pdf",
     "Cours 03_Perception2_web - Tagged.pdf",
     "Psycho Perso 24-25-ULiege.pdf",
     "Cours 02_Perception1_web - Tagged.pdf",
-    "07_Stress au travail - Le burnout_20032025.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

@@ -74,4 +74,39 @@ Les milieux partagés n'auront plus beaucoup d'effets sur l'intelligence car il 
 0% de milieu partagé
 
 
+La présence ou non de certaines allèles conditionne la présence ou l'absence d'un trouble. Causalité, pas corrélation. On peut donc commencer à étudier le génome d'un enfant pour prédire de nombreux aspects
+
+### ***Les facteurs du milieu***
+*le poids à la naissance*
+*Le plomb et sa toxicité*
+*Les compléments nutritifs*
+*Nombre de livres possédés par la famille*
+*Allaitement maternel*
+*Vie utérine*
+
+*Isolement social* (enfants sauvages)
+*Orphelinats* (lieux peu stimulants), pas assez d'encadrants, routines. Il a été prouvé que les enfants mis pour adoption ont un QI plus élevé lorsqu'ils quittent l'orphelinat, tôt, qu'ils sont adoptés tôt.  Une expérience a joué avec la durée d'internement pour vérifier cela, lésant ces enfants qui n'ont pas pu gagner ces points de QI pour cause d'adoption plus tardive. 
+*Ordre dans la famille* (ainé a un QI légèrement plus élevé 😎).
+*Taille de la famille* (plus la famille est grande, plus le QI est légèrement plus faible - on suppose que les parents ont moins de temps éducatif à consacrer aux enfants). 
+
+
+
+> [!info] Un enfant adopté va généralement vers une famille avec un niveau plus élevé et a donc un taux d'échecs scolaires réduits. 
+
+***L'effet Flynn***
+Augmentation dans le temps du QI. Des années 40 au 90, augmente. Depuis, on voit plutôt une régression en France.
+- effets endocriniens, moins bonne nutrition, 
+- moins de besoin de se dépasser (les conditions étant meilleures, on a moins besoin de pousser ses limites)
+- information hyper accessible, finalement on va moins la chercher ou plus superficiellement (encodage moins profond lors de lectures sur l'ordinateur car on sait qu'on peut y revenir plus tard).
+- Explications de Richard Lynn: 
+	- immigration. Ellis island (à côté de Liberty Island, de Manhattan), on prenait des mesures intellectuelles, de taille, plein de critères de sélection car on avait peur qu'ils se reproduisent.
+	- effets dysgéniques: des dégâts génétiques peuvent persister grâce aux progrès de la médecine, car les individus atteints pourraient vivre plus longtemps et même se reproduire. 
+	- Signataire du livre "The Bell Curve". Les blancs américains sont plus intelligents que les noirs américains. L'université lui a retiré le titre de professeur émérite en 2018.
+Le déclin n'est que de 4 points, sur un échantillon de 79 personnes, avec majoritairement des trentenaires. Teste l'intelligence cristallisée (culture générale, vocabulaire).
+Les questions utilisent des mots plutôt anciens que les trentenaires utilisés pour le nouveau test ne connaissaient pas. 
+Les questions posées dans le nouveau test seraient plutôt la raison de cette prétendue chute d'intelligence. 
+
+
+ 
+
 
