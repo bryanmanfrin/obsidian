@@ -112,3 +112,89 @@ les lumières dans la partie vert-bleu du spectre sont plus brillantes que les l
 ![[Pasted image 20251023172652.png|400]]
 
 **Le blanchiment de la rhodopsine par la lumière ...** lorsqu'on  stimule les batonnet, hyperpolarisation des bâtonnets
+
+#### Théorie trichromatique
+
+![[Pasted image 20251106160011.png|300]]
+La superposition de couleurs créé des couleurs différentes. On a eu l'intuition que dans la vision, il devait y avoir 3 types de récepteurs, réagissant à des longueurs d'onde différentes (**théorie trichromatique**).  On a été capable de distinguer 3 types de cones  (3 types de molécules - opsines) qui réagissent différemment selon la longueur d'onde. 
+![[Pasted image 20251106160401.png|300]]
+
+Les récepteurs bleus sont plus activés pour les ondes de longueur plus courtes.
+
+#### **Théorie des systèmes antagonistes**
+Commence dans la rétine puis se poursuit dans les cellules spécialisées (système rétino-géniculo-strié puis cortex visuel primaire).
+Rouge-vert, vert-rouge. Dans ces cellules rouge-vert, le centre et la périphérie peuvent être on/off. Un stimulus dans le centre ou dans la périphérie excite (libération de neurotransmetteurs) la cellules différemment. 
+
+**Cellule rouge-vert**
+Le vert au centre ou le rouge en périphérie inhibe la libération. 
+Le rouge au centre ou le vert en périphérie excite fortement. Avoir les deux en même temps au bon endroit excite la cellule au maximum. 
+*Systèmes antagonistes*: deux actions opposées selon la position des faisceaux et de leur longueur d'onde (inhibition ou excitation).
+
+La lumière réfléchie par un objet est influencée par celle émise par l'environnement de l'objet.
+![[Pasted image 20251106161836.png|300]]
+
+La théorie du rétinex: la couleur perçe par un objet est déterminé par sa réflectance. Le cerveau ne calcule pas uniquement par les longueurs d'onde réfléchies sur un seul objet mais aussi intérprète le contexte entier. C'est en comparant l'ensemble qu'on peut déterminer la couleur d'une zone.
+Du bleu dans un tableau devient blanc si on projette les 3 couleurs de base sur cette zone et que le reste du cadre est noir. 
+Si on des couleurs autour du bleu cependant, notre cerveau est capable de maintenir le bleu alors même qu'il était perçu comme blanc auparavant => importance du contexte, des couleurs environnantes dans l'intérprétation. 
+=> Supposition d'une zone dédiée à la comparaison, supposition correcte!
+=> Découverte de cellules à double opposition de couleur: un type de neurone cortical du cortex visuel, qui compare les couleurs entre elles. Les contrastes stimulent les cellules, de la même façon que d'autres cellules étaient excitées par les orientations verticales, horizontales.
+
+# Localisation des systèmes 
+Tout le cortex occipital (cortex strié)
+Grande portion du cortex temporal
+Grande portion du cortex pariétal
+Cortex visuel secondaire (après arrivée des signaux). Dans le cortex occipital et la zone inférieure du cortex temporal
+Aires associatives (AA): surtout dans la zone postérieure du cortex pariétal. 
+![[Pasted image 20251106163849.png]]
+Plus on va vers les aires supérieures, plus les champs récepteurs sont grands car ils reçoivent des signaux de récepteurs nombreux. 
+
+# Lésions
+Scotome: lésion du CVP (cortex visuel primaire) => zone de cécité dans le champ visuel.
+Test de périmétrie - parcours de la rétine avec un laser pour voir où le sujet indique percevoir le laser. Le sujet peut ne pas avoir conscience qu'une zone n'est pas perçue, car le cerveau va compléter le tableau. 
+Scotome et vision aveugle. Certains patient avec des lésions dans le CVP répondent à des stimulus présentés dans leurs scotomes. Ils ne le perçoivent pas (conscience) mais y répondent quand même avec une autre partie du système nerveux.
+La personne dit ne rien voir mais pourtant oriente sa main de façon appropriée pour aller chercher l'objet "invisible". 
+- Peut-être encore quelques neurones fonctionnels?
+- Des liens directs entre zones sous-corticales et CVS? La lésion serait bypassée et l'info gérée ailleurs (autres zones sous-corticales) mais différemment.
+
+# Aires fonctionnelles du cortex visuel secondaire et associatif
+Chez le macaque: 24 aires visuelles dans le CVP, 24 dans le CVS, 7 dans AA (aires associatives).
+Semblable chez l'homme. Mêmes fonctions localisées +/- dans les mêmes zones. 
+
+Beaucoup de similarités aussi sur le plan fonctionnel. 
+Chaque aire fonctionnelle est spécialisée à la reconnaissance d'une caractéristique perceptive particulière (reconnaissance de visage, verticalité, bordures, couleurs).
+
+# Voie dorsale et ventrale
+CGL (corps géniculés latéraux) -> CVP
+
+Voie dorsale: CVP -> cortex occipital -> 
+![[Pasted image 20251106172422.png|300]]
+
+*Théorie où, quoi* 
+si la voie dorsale est touchée: positionnement des objets
+Si la voie ventrale est touchée: reconnaissance de patterns
+
+On pourrait aussi ne pas penser au "quoi" ou "où" mais en terme d'utilisation de l'information.
+**Voie dorsale**: faire quelque chose de précis avec l'information et interagir avec. Précision du geste grâce à l'analyse.
+**Voie ventrale**: perception consciente des objets. Réponses plus verbales que motrices; le sujet prend conscience des objets de son environnement. 
+
+
+*Atteinte de la voie ventrale*: pas d'expérience consciente de ce qu'ils voient MAIS les interactions avec les objets restent possibles (vision aveugle). La personne ne peut pas décrire ce qui se trouve dans son champ visuel aveugle mais la préhension se fait correctement. (une main peut insérer la carte de banque dans un distributeur - très précis - alors qu'on doit lui dire que ce qui trouve en face d'elle est un distributeur)
+*Atteinte de la voie dorsale*: Ils ont conscience de ce qu'ils voient alors qu'ils sont incapables d'interagir avec ces objets. Par contre, l'interaction motrice sera partiellement correcte grâce aux propriétés sémantiques de ce que l'on sait être devant soi.
+
+# Agnosies
+Troubles neuropsychologiques de la reconnaissance, identification visuelle.
+*akinétopsie*: incapacité d'indiquer si un mouvement va vers la gauche ou la droite.
+*achromatognosie*: incapacité à reconnaitre des couleurs
+*prosopagnosie*: incapacité à reconnaitre les visages (lésion dans le CVS, *gyrus fusiforme*).
+
+Le cas R.P #tuyau - à lire soi-même
+Incapacité à distinguer les visages. Mais aussi, il ne sait plus identifier les objets avec des formes un peu complexes.
+
+Des colonnes fonctionnelles ont pour fonction de reconnaitre différentes catégories d'objets. Plusieurs aires de la voie ventrale peuvent s'activer pour une catégorie d'objets. 
+
+Une agnosie diagnostiquée peut aussi avoir d'autres effets pour la reconnaissance d'autres éléments car plusieurs aires interviennent dans la reconnaissance de plusieurs catégories d'"objets".
+
+Certains neurones agissent aussi davantage pour la reconnaissance de visages mais vus de profil - plus le visage est de profil, plus ces neurones sont activés. 
+
+
+

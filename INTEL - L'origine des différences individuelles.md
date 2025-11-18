@@ -93,7 +93,8 @@ La présence ou non de certaines allèles conditionne la présence ou l'absence 
 
 > [!info] Un enfant adopté va généralement vers une famille avec un niveau plus élevé et a donc un taux d'échecs scolaires réduits. 
 
-***L'effet Flynn***
+## ***L'effet Flynn***
+---
 Augmentation dans le temps du QI. Des années 40 au 90, augmente. Depuis, on voit plutôt une régression en France.
 - effets endocriniens, moins bonne nutrition, 
 - moins de besoin de se dépasser (les conditions étant meilleures, on a moins besoin de pousser ses limites)
@@ -105,6 +106,88 @@ Augmentation dans le temps du QI. Des années 40 au 90, augmente. Depuis, on voi
 Le déclin n'est que de 4 points, sur un échantillon de 79 personnes, avec majoritairement des trentenaires. Teste l'intelligence cristallisée (culture générale, vocabulaire).
 Les questions utilisent des mots plutôt anciens que les trentenaires utilisés pour le nouveau test ne connaissaient pas. 
 Les questions posées dans le nouveau test seraient plutôt la raison de cette prétendue chute d'intelligence. 
+
+
+**Étude de Bradley et Caldwell (1976)**
+L'amélioration du milieu éducatif a un effet considérable sur l'intelligence à bas âge.
+(évitement des punitions, organization de l'espace, fourniture de jouets, sensibilité affective de la mère, implication de la mère dans l'éducation et stimulations variées). 
+
+**Étude de Lautrey: 3 niveaux de structuration d'un milieu**
+- ==Milieu faible:== parfois il peut, parfois pas, mais pas de règles (l'enfant ne comprend pas ce qu'il peut faire ou non).
+- ==Milieu rigide==: règles sans exceptions
+- ==Milieu souple==: règles présentes mais négociables (le cas le plus intéressant - négociation)
+
+**Quatre styles parentaux**
+- ==autoritaire==: règles claires, pas de discussion, on ne demande pas de souplesse
+- ==faisant autorité==: structure mais avec beaucoup de discussion: sécurité et confiance. L'enfant apprend beaucoup d'habiletés sociales et personnelles
+- ==permissif==: éducation sans structure, pas de frontières
+- ==pas impliqué==: négligence qui affecte le bien-être, la structure
+## Scolarisation
+---
+Corrélation entre 0.60 et 0.80 entre le QI et le nombre d'années d'études (effet très prononcé car 0.30 de corrélation pour un effet moyen). 
+L'école favorise les aptitudes qui facilitent la réussite des tests : attention, motivation.
+
+À Harvard, les personnes qui peuvent y accéder, ce n'est pas n'importe qui. Les personnes ont été sélectionnées (déjà brillants) donc oui, ils en sortent brillants. Ce n'est pas l'établissement qui va nécessairement rendre la personnes brillante; il y a un biais de sélection dans **toutes les écoles** car elles sont toutes situées dans une ville +/- pauvre, +/- bien fréquentée. 
+
+Aux USA, Head Start (préscolarité): chez eux, ils n'ont pas de maternelle. Les américains ont constaté une grosses disparité entre les enfants lorsqu'ils entrent à l'école à 6 ans.
+Head Start fournir une éducation complète: implication des parents, santé, nutrition, éducation. 
+
+**Résultats du programme**
+Ils ont évalué les effets pour chaque âge (3, 4, 5 ans) et selon des variables.
+Les enfants participants à ce programme compensatoire ont-ils des bons résultats? 
+Résultat meilleur en math et lecture
+Résultats meilleurs quand l'enfant rentre à 3 ans (plutôt qu'à 4)
+
+![[Pasted image 20251112172647.png|300]]
+Quand il y a de nombreux facteurs de risque, les progrès sont "fulgurants" lorsqu'ils rentrent à 3 ans et restent 2 ans. Les laisser qu'un an n'aura presque aucun effet; la prolongation jusqu'à 4 ans apporte le double du bénéfice en résultats lecture/math.
+Quand il y a peu de facteurs de risque, ça reste inutile de les laisser qu'1 an à partir de 3 ans.
+Par contre, pour eux, rester un 1 à partir de 4 ans aura le même effet que de rester 2 ans à partir de 3 ans. 
+
+Facteurs de risque: 
+- milieu éducatif faible des parents
+- familles monoparentales
+
+Chez des travailleurs en reconversion. Apprendre des notions thématiques (propres au domaine de la formation) est moins utile que d'apprendre des compétences transversales. 
+
+## L'effet Mozart 🎶
+---
+L'intelligence visuo-spatiale est - soi-disant - plus élevée après avoir écouté la sonate pour deux pianos en ré-majeur K.448 pendant 10 minutes en comparaison à une attente pendant 10 minutes ou à des instructions de relaxation.  => Publié dans la revue Nature
+
+**Explication des auteurs**: la sonate "préchauffe" les zones cérébrales utilisées pour réaliser la tâche d'intelligence. 
+**Raccourcis**: "écouter une musique de Mozart rend intelligent"
+
+Groupes contrôles inadéquats
+Effet de 10-15 minutes
+Peu de données démographiques
+Une seule variable indépendante mesurée (A seul test visuo-spatial)
+
+🧑‍🔬*Répliqué mais effet jamais reproduit*
+20% de chercheurs ont déjà avoué avoir triché dans leurs données. Seulement 20-30% des mémoires valident leurs hypothèses. 
+
+Gouverneur de la Géorgie a proposé d'offrir des CD de musique classique pour augmenter l'intelligence des bébés. Vaste campagne marketing. 
+
+## La neuroamélioration
+Contrairement au dopage chimique, stimulation par courant transcrânien continu. Aide à passer les barrières de potentiels électriques requis pour les passages d'influx électriques à travers les neurons. Stimuler le cerveau de manière répétée semble avoir un effet plus long terme et favorise la circulation d'informations dans certains circuits.
+Avec l'effet Flynn, on dit qu'on a atteint un plafond; on ne peut pas l'augmenter de manière infinie. Les personnes plus faibles ont toujours une marge de manœuvre plus grande.
+On ne sait pas encore si c'est safe, pose débat.
+
+Qui: Les personnes qui l'utilisent sont les jeunes trentenaires. 
+Pour quoi: domaines cognitifs, effet thérapeutique sur la dépression (a fait ses preuves), douleurs, troubles attentionnels. Rendre plus active la partie gauche de ?? améliore la reconnaissance d'émotions positives (bon pour la dépression). 
+
+==Autonomie==: quand on demande d'améliorer l'intelligence, est-ce que la personne est indépendante lorsqu'elle fait ce choix ou est-ce par pression sociale?
+==Justice==: répartition équitable des personnes qui bénéficient de ces outils-là.
+==Authenticité==: tromperie sur la valeur, la permanence de l'amélioration? Que vaut la performance si elle est temporaire?
+
+
+
+
+
+
+
+
+
+
+
 
 
  

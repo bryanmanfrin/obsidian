@@ -1,5 +1,6 @@
 [[SYS - cybernétique appliquée à la pratique clinique]]
 [[SYS - cybernétique appliquée à la thérapie familiale]]
+[[SYS - étude de cas]]
 $\psi$: Etude scientifique des comportements, des processus mentaux et des émotions. 
 
 Approche qui tient compte de l'impact d'un système et de toutes ses composantes prises ensemble.

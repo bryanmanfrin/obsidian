@@ -2,7 +2,7 @@ Axel Honneth développe la ***théorie de la reconnaissance***.
 
 - *Reconnaissance affective*
 - *Reconnaissance sociale*
-- *Reconnaissance politique*: possibilité de prendre position dans la société, de pouvoir défendre des valeurs. Dimension de valeurs et de transformation - décalage entre l'existent et ce qu'il s'agirait d'apporter de nouveau.
+- *Reconnaissance politique*: possibilité de prendre position dans la société, de pouvoir défendre des valeurs. Dimension de valeurs et de transformation - décalage entre l'existant et ce qu'il s'agirait d'apporter de nouveau.
 
 Alain Vigneron a progressivement perdu chacun de ces types de reconnaissance.
 

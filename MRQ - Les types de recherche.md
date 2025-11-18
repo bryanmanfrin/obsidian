@@ -52,4 +52,17 @@ Bruner affirme que la cognition narrative est le principe organisateur de l'êtr
 Narrativisation interrompue: incapacité à enregistrer de nouveaux souvenirs épisodiques (suite à la lésion de l'amygdale et de l'hippocampe)
 Dénarrativisation: incapacité à organiser ses expériences dans le temps (à la suite d'une lésion du néocortex).
 
+En recherche qualitative, on recueille des données 
+- élaboratif, 
+- flexibilité, 
+- situé, contextualisé
+
+
+Caractéristiques attitudinales
+- On veut prendre l'expérience de la personne telle qu'elle est, sans tenter d'aller dans une direction; on n'a pas encore d'hypothèse donc on se laisse guider. 
+
+[[Exemple d'entretien de recherche qualitative]] 
+[[Exemple de guide d'entretien]]
+
+[[MRQ - Le focus groupe]]
 

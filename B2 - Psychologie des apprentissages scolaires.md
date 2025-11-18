@@ -172,4 +172,145 @@ Enseignement collectif
 
 
 
+# La mémoire
+
+***Questionnaire***
+*Avons-nous une ou plusieurs mémoires ?* 
+Plusieurs, mémoire procédurale et mémoire biographique, mémoire kinesthésique, mémoire sensorielle
+*Pourquoi récupère-t-on plus facilement certaines informations que d'autres ?*
+*Faut-il faire appel aux connaissances antérieures des élèves et pourquoi ?* 
+*Pourquoi faut-il encadrer les séances d'exercices et ceci, surtout en début d'apprentissage ?* 
+
+
+## Modèles simplifiés de la mémoire et son fonctionnement
+Mémoire de travail: 
+- capacité limitée
+- centre du traitement
+
+Mémoire à long terme:
+-
+- mémoire déclarative:
+	-  sémantique: connaissances plus générales
+	- épisodique: grand-mère faisait des gaufres, je les revois dans la cuisine ensoleillée, etc
+- mémoire non-déclarative:
+	- conditionnements classiques
+	- apprentissages non-associatifs
+	- amorçage
+
+## Mémoire de travail et surcharge cognitive
+Limite temporelle
+Limite quantitative (magical number 7)
+
+Eviter la surcharge -> ==développer des automatismes== 
+Les élèves peuvent maitriser les éléments de résolution mais lors d'une surcharge, ils commettent des erreurs qu'ils ne feraient pas en temps normal. 
+
+Lors d'utilisation d'automatismes, on utilise peu la mémoire de travail.
+=> Répétition, entrainement, surentrainement. 
+
+## Les processus d'encodage, de stockage et récupération de l'information
+Optimiser le processus d'encodage.
+
+==**Proposer des indices préalables de structuration pour orienter le repérage perceptif.** ==
+- Préciser les objectifs visés
+- Fournir un plan du cours, de séquence
+- Proposer une première vue d'ensemble des différentes théories
+- Donner un premier aperçu des concepts
+
+
+ecole pomme plumier banane prune ananas volley basket football bic 10/10 😎
+Catégoriser les mots ou les mémoriser donne à peu près les mêmes résultats; ce qui importe, c'est l'attention qu'on porte, pas l'intention.
+*Attention > intention*
+
+==**Susciter et maintenir l'attention des élèves**==
+Phrase d'accroche
+Evènements marquants
+Variations mouvements, attitudes, inflexions de la voix, ...
+Variation approches méthodologiques, les supports, ...
+Explication des objectifs d'apprentissage visés
+Faire percevoir l'utilité de la matière
+Insister sur les éléments importants
+
+**==Importance des connaissances antérieures==**
+Phrase d'accroche (questionner les élèves sur l'actualité)
+Pédagogie de la maitrise -> s'assurer que les prérequis soient acquis
+Se questionner sur les difficultés possibles
+
+**==Stockage==**
+Espacer les séances
+Feedback immédiat
+Structures d'ancrage
+Stratégies d'apprentissage
+ - Répétition
+ - Catégorisation
+ - Élaboration (importance de la compréhension)
+ Enrichissement (mettre en relation avec des informations antérieures, leur donner du sens)
+
+
+==**Favoriser la compréhension**==
+Questions-guides pour accompagner le lecteur
+analogies
+
+**==Récupération de l'information==**
+Si les connaissances n'ont pas été assez consolidées: *savoirs morts*.
+Faiblesse ou manque d'indices vers nos connaissances antérieures (reconstitution de scènes de crime faites sur place). 
+En fonction de la *formulation de la question*, on aura plus ou moins d'indices vers la réponse (dans le cadre des travaux de Skinner, que peut-on dire sur la participation en classe?)
+Donner des *exemples marquants*
+Utiliser des *métaphores*, *analogies*, *moyens mnémotechniques*
+
+Interférences:
+- la façon dont on pose la question peut aussi influencer négativement la récupération. Si on montre des vidéos de voiture à des personnes, si on dit:
+	- "quelle vitesse lors de la collision?" : collision = rapide -> Au moins 60km!
+	- "quelle vitesse lors du heurt?" : heurt = moins rapide -> Au moins 50km! 
+
+- L'effet Stroop:
+	ROUGE - VERT - ORANGE - JAUNE avec des couleurs différentes
+
+
+
+## Les différents types de mémoires
+La fatigue cognitive
+
+
+# Chapitre 4 - Le cognitivisme
+---
+## Les types de connaissances
+
+==**Connaissances déclaratives**== - quoi: faits scientifiques, connaissances générales théoriques 
+Élaborer les concepts, une organisation. *Catégorisation, élaboration*
+==**Connaissances procédurales**== - comment: gestes automatisés, application des connaissances
+Exercices avec feedback - apprentissage subsymbolique (un autre pro nous montre des gestes). *Pratique accompagnée*.
+==**Connaissances conditionnelles**== - quand: Connaissances permettant de décider quand une des deux connaissances précédentes doivent être récupérées. 
+*Contextualisation - décontextualisation - recontextualisation*
+Contextualisation: on met une connaissance dans un contexte applicable
+Décontextualisation: on réalise qu'un savoir est un plutôt un savoir général
+Recontextualisation: on applique la connaissance à un nouveau contexte
+
+Déclarative -> procédurale = exercices
+Procédurales -> déclaratives = apprentissage subsymbolique ?? (l'expert)
+
+
+Ce n'est pas parce que les élèves peuvent expliquer les règles de l'algèbre (connaissance déclarative), qu'ils savent comment l'appliquer (connaissance procédurale).
+Ce n'est pas parce qu'un sportif arrive à réaliser un mouvement (connaissance procédurale) qu'il sait l'expliquer (connaissance déclarative). 
+Même si il dispose de la connaissance déclarative nécessaire pour conjuguer au présent simple et au présent continu (connaissance déclarative) et qu'il est capable de réaliser cette conjugaison (connaissance procédurale), en pratique, il ne sait pas lequel des deux utiliser l'un ou l'autre (connaissance conditionnelle)
+
+**savoir**: fait ou ensemble de faits, définition, théorie, concept, modèle ou outil linguistique
+Ex: Reconnaitre une configuration de Thalès, justifier le parallélisme entre deux droites, ...
+**savoir-faire**: procédure, geste, technique, nécessite de l'*entrainement* pour la mise en oeuvre. 
+Ex: Calculer la longueur d'un segment à partir d'une configuration de Thalès ou de triangles semblables
+**compétence**: aptitude à mettre en oeuvre un ensemble organisé de savoirs, de savoir-faire et de savoir-être permettant d'accomplir un certain nombre de tâches. 
+Ex: résoudre un problème en utilisant le théorème de Thalès
+
+**QRAC-the-code** (méthode de présentation des infos)
+Transformer les sous-titres en questions (Question) - (Read) lire la section - (Answer) répondre à la question en s'appuyant sur les informations lues - (Check) vérifier si on a pu répondre à la question correctement
+
+## Métacognition
+1) Planning: réfléchir à comment j'ai fait ça avant, préparer le problème
+2) Monitoring: vérifier si sa méthode est appropriée et aide à la résolution. Se laisser l'opportunité de changer de stratégie si besoin.
+3) Evaluation: évaluer le résultat de sa méthode, vérifier si le résultat est crédible, autoévaluer leur démarche.
+
+Il faut expliquer aux enseignants quelles techniques pour appliquer la métacognition. Avoir ces outils ou ne pas les avoir creuse la différence entre les élèves. Amener les élèves à se poser des questions sur leur méthode de réflexion a déjà un effet positif.
+
+
+Piaget le constructiviste (page blanche, tout se construit via l'enseignement)
+La connaissance part de l'action exercée sur les objets. La connaissance n'est pas autoformée ni dans l'objet ni dans le sujet mais dans l'interaction des deux. Elle n'est pas l'objet étudié lui-même  mais une interprétation par le sujet (étude du dessin chez l'enfant - copie d'un modèle; l'enfant ne dessine pas ce qu'il voit mais l'idée qu'il s'en fait). 
 
