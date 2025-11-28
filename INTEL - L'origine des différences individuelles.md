@@ -181,15 +181,52 @@ Pour quoi: domaines cognitifs, effet thérapeutique sur la dépression (a fait s
 
 
 
+## Interactions génome environnement
+---
+Interaction avec le niveau socio-économique
+Dans les milieux socio-économiques faibles, il ya  beaucoup plus d'influence du milieu qui explique la variation de l'intelligence.
+Dans les milieux socio-économiques favorisés, il y a peu d'influence du milieu sur l'intelligence car le milieu généralement de qualité aura moins d'influence car généralement moins variable. 
+
+
+**==Passive==**: les individus héritent passivement de prédispositions. Des parents choisissent des établissements scolaires pour leur enfant, les favorisant passivement.
+==**Evocatrice**==: les individus évoquent chez les autres des réactions d'après leurs dispositions génétiques (on répond aux enfants en fonction de leur génotype). 
+Des universités recrutent des élèves sur base de critères.
+**==Active==**: l'individu cherche lui même les environnements qui lui permettront de se réaliser. Les parents et les enfants choisissent un établissement scolaire en fonction des prédispositions de l'enfant. 
+
+
+## Eugénisme
+---
+Aux USA, >80% des juifs, hongrois, italiens et russes étaient "faibles d'esprit" d'après les tests de QI. 
+
+Goddard (1917)  commence à accepter l'idée qu'ils puissent avoir des tâches simples et répétitives mais bon, ils auraient quand même des enfants et vont continuer à "abaisser le niveau intellectuel de la population".
+
+**Terman**: Femme débile = prostituée, homme débile = criminel
+**Stérilisation en Virginie** jusqu'aux années 70. On donnait des primes financières pour qu'elles acceptent la stérilisation.  
+
+Au Royaume uni, 
+système tripatite:
+
+Examen "Eleven+":
+Grammar School: collèges prestigieux (25% des élèves).
+Collèges professionnels pour le reste des élèves.
+
+Grammar School lancée par un psychologue anglais (Cyril Burt) qui avait fortement mis en évidence l'influence génétique de l'intelligence. A tel point que le système éducatif a commencé à sélectionner. 
+On aura appris plus tard qu'il a maquillé ses résultats pour refléter ses idées. 
+
+Méritocratie: déculpabilise tout les législateurs car toute l'explication de la réussite revient à l'individu, sans tenir compte de ses prédispositions et son environnement.
+
+
+Des études plus récentes ont tout de même trouvé une correlation de 0.33  entre la taille du cerveau et l'intelligence. 
+Un lien qu'on peut expliquer en partie avec des facteurs génétiques (conditionne la taille du cerveau). Ces mêmes gènes sont impliqués dans l'intelligence. Cette corrélation n'est pas forte et laisse de la place à d'autres patterns (des cerveaux petits mais intelligents et inversement.).
+On ne peut pas donc observer la taille d'un cerveau et supposer l'intelligence. 
+
+==**The Bell Curve (1994)**==
+Hermstein et Murray.
+Affiche la distribution de QI des blancs par rapport aux noirs
+![[Pasted image 20251119173039.png]]
+15 points d'écart entre les QI. Les données sont exactes. Mais comment les interpréter? Les afro-américains sont généralement lésés socialement, dans leur milieu. Or, l'explication se réduit à l'origine. 
 
 
 
-
-
-
-
-
-
- 
 
 

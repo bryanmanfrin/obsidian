@@ -66,3 +66,100 @@ Aires primaires: information telle qu'elle, forme, couleur
 Aire secondaire: comparaison avec des éléments déjà connus, analyse 
 #### Aires intégratives
 Intégration d'éléments pour les commandes motrices. Vue d'un couteau -> fuite
+
+
+Bulbe rachidien
+Centres vitaux: 
+Centre cardiovasculaire: règle la fréquence cardiaque
+Centre vasomoteur: dilatation des vaisseaux
+Centre respiratoire: phénomène réflexe de la respiration
+Centres divers: vomissement, hocket, salivation, etc.
+
+
+![[Pasted image 20251125105504.png]]![[Pasted image 20251125105601.png|400]]
+Mésencéphale
+Pont
+Bulbe 
+
+## Cervelet
+![[Pasted image 20251125105655.png]]
+Partie antérieure, postérieure
+on y trouve de la cellule grise (non myélinisés) et matière blanche (myélinisée).
+
+Le cervelet 
+Tour de contrôle des mouvements
+Traite les informations du tronc cérébral, de l'aire motrice pour coordonner les mouvements, et des récepteurs sensoriels.
+=> Permet des mouvements coordonnés.
+
+Des lésions du cervelet:
+-> interne, près du vermis, perte d'équilibre
+-> périphérique: perte de coordination des mouvements
+
+Parkinson: 
+lésion cérébelleuse
+déficience en dopamine. Tremblements au repos, rigidité.
+
+
+## Système limbique
+Gestion des émotions. 
+![[Pasted image 20251125110818.png]]
+**Rhinencéphale:** 
+Traces émotionnelles des odeurs
+**Hypothalamus:** 
+Tour de contrôle de l'homéostasie: satiété, soif, température, sécrétions hormonales. Module la pression artérielle, fréquence cardiaque, ... Dysfonctionnement = ulcères de stress ou autres
+
+Aires corticales supérieures (cortex préfrontal)
+Troubles de la personnalité, du comportement. Une des aires les plus développées chez l'homme. Il se développe avant 1 an déjà. Considérablement influencé par l'environnement. 
+
+Système limbique: émotion <> raison: Cortex cérébral
+
+## Formation réticulaire
+![[Pasted image 20251125111829.png]]
+Filtre les informations ascendantes. Joue un rôle à la capacité de se concentrer sur certains types de stimuli. Il est plus simple de lire s'il fait calme. Capacité d'abstraction des nuisances.
+Les perceptions sensitives et sensorielles passent d'abord par le thalamus avant d'aller dans le cortex, sauf pour l'olfaction du va directement dans le ... #tuyau
+
+Système de protection
+- Méninges
+- Liquide céphalo-rachidien (LCR)
+- Barrière hémato-encéphalique
+
+![[Pasted image 20251125112327.png]]
+LCR par rapport au plasma:
+Le LCR circule dans les espaces arachnoidiens et peut passer dans le sang veineux par les villosités arachnoïdiennes. 
+Il y a moins de protéines, de K+, de Ca, ~2/3 du glucose et PLUS de Na+
+Contient du glucose, acides aminés, etc => rôle nutritif. La matière grise, proche du LCR est nourrie par celui-ci. 
+
+![[Pasted image 20251125113129.png]]
+Les deux ventricules latéraux communiquent avec le troisième ventricule (situé dans le diencéphale), communiquant avec par les trous de Monro. #tuyau
+Le quatrième ventricule est dans le tronc cérébral, dans le pont et dans le bulbe et communique avec le 3ème ventricule avec l'aqueduc de Sylvius. 
+
+Volume de 150ml de LCR. On produit la totalité de notre LCR 6x par jour. Il est produit et résorbé en permanence, circule en continu.
+
+La barrière hématoencéphalique permet une perméabilité sélective (entrée de CO2 dans le sang, produits du métabolisme).
+Elle n'est perméable qu'à partir de 6 ans; c'est pour ça que certains médicaments sont déconseillés pour les enfants plus jeunes.
+
+Renflement lombaire ()
+
+![[Pasted image 20251125120403.png]]
+**Cornes**: substances grises
+**Cordons**: substance blanche
+
+Sensoriels: dorsale
+Moteur: ventral
+
+## Substance grise (en gris sur le schéma)
+La poliomyélite (polio): infection virale (latente).
+Vaccination contre la polio dans les années 50. Il attaque les corps antérieurs de la moelle (dédiés à la motricité). Entraine donc la paralysie. Peut être mortel car le diaphragme est commandé par ces coprs.
+ventral <> dorsal ? le sillon médian est ventral
+
+## La substance blanche (en blanc sur le schéma)
+100x plus rapides. Dans le SNC, on parle de neurones. Dans le SNP, on parle de nerfs.
+Un faiseaux spinothalamique = part de la moelle vers le thalamus (information ascendante sensorielle)
+Faisceaux ascendants: face dorsale (sensorielle)
+Faisceaux descendants: face ventrale (moteurs )
+
+La substance blanche est parcourue de fasiceaux. Si je suis dans la moelle cervicale, j'aurai des informations motrices qui iront vers les membres supérieurs. 
+
+Maladie de Charcot: dégénérescence motrice et mort dans les 2-3 ans. Malade neurodégénérative. 
+
+

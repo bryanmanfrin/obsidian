@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a43e6a1029784b33",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "08be33e50d7878d3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,6 +21,156 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Home"
+            }
+          },
+          {
+            "id": "5b3ae74a3eb870ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2- Psychologie du vieillissement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2- Psychologie du vieillissement"
+            }
+          },
+          {
+            "id": "ca22a764179369e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 - Psychologie systémique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - Psychologie systémique"
+            }
+          },
+          {
+            "id": "f2837d17072df0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYS - Les thérapies familiales - la théorie bowenienne des systèmes familiaux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SYS - Les thérapies familiales - la théorie bowenienne des systèmes familiaux"
+            }
+          },
+          {
+            "id": "12e7b9bf3784e8f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "76b852b5c30824d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 - Déontologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - Déontologie"
+            }
+          },
+          {
+            "id": "46200539acc58d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEON - Lorsque la relation professionnelle est imposée par un tiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DEON - Lorsque la relation professionnelle est imposée par un tiers"
+            }
+          },
+          {
+            "id": "3e8613e99856f7d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEON - Le secret professionnel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DEON - Le secret professionnel"
+            }
+          },
+          {
+            "id": "ee791c8ae7616482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 - Physiologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - Physiologie"
+            }
+          },
+          {
+            "id": "dce4b1fd81d52b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYSIO - TEMP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PHYSIO - TEMP"
+            }
+          },
+          {
+            "id": "be7aeae73cb495a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYBIO - Méthodes de recherche en psychobiologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PSYBIO - Méthodes de recherche en psychobiologie"
+            }
+          },
+          {
+            "id": "febd71180ff43599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SANTE - L'adhérence au traitement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SANTE - L'adhérence au traitement"
             }
           }
         ]
@@ -251,46 +401,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "08be33e50d7878d3",
   "lastOpenFiles": [
-    "B2 - Psychologie biologique.md",
-    "SYS - cybernétique appliquée à la thérapie familiale.md",
-    "SYS - étude de cas.md",
-    "B2 - Psychologie systémique.md",
-    "Orientation systémique.md",
-    "Home.md",
-    "B2 - Psychologie des apprentissages scolaires.md",
-    "MRQ - Le focus groupe.md",
-    "Exemple d'entretien de recherche qualitative.md",
-    "MRQ - Les types de recherche.md",
-    "B2 - MRQ Méthode de la recherche qualitative - fondements théoriques.md",
     "PSYBIO - Méthodes de recherche en psychobiologie.md",
-    "Pasted image 20251113182926.png",
-    "Pasted image 20251113182819.png",
-    "Pasted image 20251113174747.png",
-    "Pasted image 20251113174235.png",
-    "Pasted image 20251113173731.png",
-    "PSYBIO - Principes d'organisation des systèmes sensoriels.md",
-    "PSYC5891 IIIC Principes d'organisation des systèmes sensoriels.pdf",
-    "INTEL - L'origine des différences individuelles.md",
-    "B2 - Psychologie différentielle - Intelligence.md",
-    "PSYBIO - Le système auditif.md",
-    "PSYC5891 IIIB Le système auditif(1).pdf",
-    "Pasted image 20251113155527.png",
-    "Pasted image 20251112172647.png",
-    "Pasted image 20251110121553.png",
-    "Pasted image 20251110121126.png",
-    "Pasted image 20251110121116.png",
-    "Exemple de guide d'entretien.md",
-    "Le cas Alain Vigneron.md",
-    "BDQ.md",
-    "PSYBIO - Le système visuel.md",
+    "B2 - Psychologie biologique.md",
+    "Home.md",
     "B2 - Psychologie de la santé.md",
+    "SANTE - L'adhérence au traitement.md",
+    "SANTE - Le modèle transactionnel du stress.md",
     "PHYSIO - TEMP.md",
+    "Pasted image 20251125120403.png",
+    "Pasted image 20251125113129.png",
+    "Pasted image 20251125112327.png",
+    "Pasted image 20251125111829.png",
+    "Pasted image 20251125110818.png",
+    "Pasted image 20251125105655.png",
+    "Pasted image 20251125105601.png",
+    "Pasted image 20251125105504.png",
     "B2 - Physiologie.md",
-    "SANTE - La maladie chronique.md",
-    "B2 - Psychologie des apprentissages scolaire.md",
-    "Chapitre 11 - Tests statistiques sur les corrélations et régressions.md",
+    "DEON - Lorsque la relation professionnelle est imposée par un tiers.md",
+    "B2 - Déontologie.md",
+    "DEON - Le secret professionnel.md",
+    "SYS - Les thérapies familiales - la théorie bowenienne des systèmes familiaux.md",
+    "Pasted image 20251124121737.png",
+    "Pasted image 20251124121718.png",
+    "B2 - Psychologie systémique.md",
+    "B2- Psychologie du vieillissement.md",
+    "B2 - Psychologie des apprentissages scolaires.md",
+    "INTEL - Aspects théoriques et appliqués.md",
+    "INTEL - L'origine des différences individuelles.md",
+    "Psychologie de la personnalité.md",
+    "B2 - Psychologie différentielle - Intelligence.md",
+    "SYS - étude de cas.md",
+    "INTEL - Introduction.md",
+    "INTEL - La mesure des différences individuelles.md",
+    "SANTE - Différences hommes femmes.md",
+    "DEON - Le cadre et le consentement.md",
+    "SYS - cybernétique appliquée à la thérapie familiale.md",
+    "Orientation systémique.md",
+    "PSYC5891 IIIC Principes d'organisation des systèmes sensoriels.pdf",
+    "PSYC5891 IIIB Le système auditif(1).pdf",
     "Kivits  J. et Balard  F. (2016). Chapitre 2. La proble¿matisation ou l'importance de penser sa question de recherche.pdf",
     "EVALUATION - Tagged.pdf",
     "L'attention - lang & cog.pdf",

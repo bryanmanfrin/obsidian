@@ -110,3 +110,40 @@ La pandémie a fait perdre de l'estime à beaucoup de vieux qui se sentaient enc
 L'âgisme est-il créé par la formation? Entre la première et la 3ème année, il y a une augmentation significative de l'usage de mots négatifs pour les personnes âgées lors de la formation.
 => La formation développe une vision négative du vieillissement. Ils n'ont pas de cours sur les vieux en 1ère, en 2ème ils vont en stage et sont bizutés, pas de débrief du stage, en 3ème il y a un cours sur tous les problèmes de santé liés aux vieux. 
 Le vieillissement devrait être enseigné correctement à travers toutes les années. 
+
+
+---
+24-11
+# **Stéréotypes** 
+ROI: Seulement 10% des entreprises proposent des formations pour les travailleurs plus âgés car ils apprennent moins bien et le retour sur investissement sera moindre car ils sont plus proches de la pension. 
+Les seniors subissent également des petites blagues sur leurs compétences, les rendant possiblement moins efficaces (prophétie auto réalisatrice). 
+
+Pas mal d'études montrent que les performances professionnelles s'améliorent avec l'âge, surtout dans les métiers à col blanc. Dans les professions manuelles, on peut voir une baisse des performances liée à l'âge. Si même il y avait une diminution, celle-ci reste légère. 
+Il y a plus de différences de performances professionnelles parmi un groupe d'âge (20-25 ans, 50-55 ans), que de variabilité entre les performances de ces groupes entre eux. Considérer l'âge comme facteur de performances n'est donc pas pertinent. 
+
+**Mémoire**
+Les capacités de mémoire des personnes âgées sont moins bonnes que les jeunes dans des tests de laboratoire. Sur le terrain, dans le contexte professionnel, ce résultat est beaucoup moins observé. 
+
+Plus j'en sais dans un domaine, plus je serai capable d'apprendre de nouvelles choses dans ce domaine; ceci soutient que les personnes âgées ont aussi des avantages en terme de mémoire. 
+
+**ROI**
+Très grande probabilité qu'un employé de 25 ans change d'entreprise dans les 10 ans. Former un vieux par contre apportera un meilleur retour sur investissement.
+
+> *"Certes les jeunes courent plus vite, mais les vieux arrivent plus rapidement car ils connaissent les raccourcis"*
+
+Ils ont comparé des entreprises dans lesquelles il n'y avait pas de mixité sexe H/F avec d'autres entreprises dans lesquelles il y a une mixité H/F. 
+"C'est grâce aux femmes" -> non, c'est grâce à la mixité car si il n'y a pas de mixité dans une entreprise à dominante féminine, les performances sont maigres aussi.
+
+On suppose donc que la mixité d'âge aurait un même effet.
+
+Alors que le message propagé dans une entreprise serait qu'il est plus efficace d'apporter une mixité, plus ça génère un âgisme --> effet opposé.
+"***Ok tu as raison, mais tu te justifies donc c'est que tu me caches quelque chose.***"
+
+**Donner aux gens l'envie de rester en emploi**
+Un vrai stéréotype qui reste d'actualité: quel pourcentage du personnel serait resté en activité à la condition de pouvoir faire des journées plus courtes? 1/4 serait resté en emploi si on avait adapté les conditions d'emploi.
+Une enquête auprès de jeunes retraités (<5ans), 1/4 de ces retraités seraient restés en emploi au moins 3 ans ou plus si il y avait eu une adaptation de l'emploi (i.e. temps partiel). 
+
+
+
+
+
